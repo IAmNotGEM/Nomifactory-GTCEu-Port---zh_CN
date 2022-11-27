@@ -2,12 +2,12 @@ name: Deploy to GitHub Releases
 
 on:
   push:
-    tags:
-      - v*
-
+    branches: [main]
+    pull_request:
+      
 jobs:
-  release:
-    name: Publish Resource
+  build:
+    name: build
     runs-on: ubuntu-latest
     steps:
 
@@ -22,12 +22,4 @@ jobs:
         id: properties
         shell: bash
         run: |
-          CHANGELOG="$(cat << 'EOM' | sed -e 's/^[[:space:]]*$//g' -e '/./,$!d'
-          ${{ github.event.release.body }}
-          EOM
-          )"
-          
-          CHANGELOG="${CHANGELOG//'%'/'%25'}"
-          CHANGELOG="${CHANGELOG//$'\n'/'%0A'}"
-          CHANGELOG="${CHANGELOG//$'\r'/'%0D'}"
-          echo "::set-output name=changelog::$CHANGELOG"
+          ls
