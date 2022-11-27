@@ -1,3 +1,11 @@
-## 1.4.2-1.0.0
+<!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-- 添加翻译
+# Nomifactory-GTCEu-Port---zh_CN Changelog
+
+## [Unreleased]
+
+## [1.2.2-1.0.0] - 2022-11-27
+
+### 增加
+
+1. 初始化翻译内容
