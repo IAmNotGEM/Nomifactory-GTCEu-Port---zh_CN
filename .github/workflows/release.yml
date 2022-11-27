@@ -1,0 +1,25 @@
+name: Deploy to GitHub Releases
+
+on:
+  push:
+    branches: [main]
+    pull_request:
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+
+      # Check out current repository
+      - name: Fetch Sources
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.release.tag_name }}
+
+      # Set environment variables
+      - name: Export Properties
+        id: properties
+        shell: bash
+        run: |
+          ls
