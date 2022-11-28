@@ -22,4 +22,10 @@ jobs:
         id: properties
         shell: bash
         run: |
-          ls
+          el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
+          CHANGELOG=$(awk "NR > 2 && NR < $el" CHANGELOG.md)
+          CHANGELOG="${CHANGELOG//'%'/'%25'}"
+          CHANGELOG="${CHANGELOG//$'\n'/'%0A'}"
+          CHANGELOG="${CHANGELOG//$'\r'/'%0D'}"
+          
+          echo "::set-output name=changelog::$CHANGELOG"
