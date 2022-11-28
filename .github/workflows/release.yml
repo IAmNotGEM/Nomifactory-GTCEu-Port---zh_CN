@@ -47,7 +47,7 @@ jobs:
       - name: Build Artifact
         shell: bash
         run: |
-          zip -r "$FILENAME" assets pack.mcmeta
+          zip -r "${{ env.filename }}.zip" assets pack.mcmeta
 
       # Upload artifact
       - name: Upload Artifact
