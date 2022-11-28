@@ -23,6 +23,7 @@ jobs:
         shell: bash
         run: |
           VERSION=$( grep -n '## \[' CHANGELOG.md | awk -F '[\\[\\]]' 'NR == 1  { print $2 }')
+          FILENAME="Nomifactory-GTCEu-Port---zh_CN-$VERSION.zip"
           
           el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
           CHANGELOG=$(awk "NR > 2 && NR < $el" CHANGELOG.md)
@@ -32,26 +33,29 @@ jobs:
           
           echo "version=$VERSION" >> $GITHUB_ENV
           echo "changelog=$CHANGELOG" >> $GITHUB_ENV
+          echo "filename=$FILENAME" >> $GITHUB_ENV
 
       # Use environment variables
       - name: Use Environment Variables
         shell: bash
         run: |
-          echo "version: ${{ env.version }}"
+          echo "version  : ${{ env.version }}"
           echo "changelog: ${{ env.changelog }}"
+          echo "filename : ${{ env.filename }}"
 
       # Build artifact
       - name: Build Artifact
         id: artifact
         shell: bash
         run: |
-          FILENAME="Nomifactory-GTCEu-Port---zh_CN-${{ env.version }}.zip"
           zip -r "$FILENAME" assets pack.mcmeta
-          
-          echo "filename=$FILENAME" >> $GITHUB_ENV
+
+      # Upload artifact
+      - name: Upload Artifact
+        id: artifact
         uses: actions/upload-artifact@v3
         with:
-          name: ${{ steps.artifact.outputs.filename }}
+          name: ${{ env.filename }}
           path: ./build/distributions/content/
 
   releaseDraft:
@@ -63,7 +67,7 @@ jobs:
 
       # Check out current repository
       - name: Fetch Sources
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v3
 
       # Remove old release drafts by using the curl request for the available releases with draft flag
       - name: Remove Old Release Drafts
