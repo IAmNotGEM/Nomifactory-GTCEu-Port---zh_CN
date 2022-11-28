@@ -42,18 +42,14 @@ jobs:
           done
           echo "EOF" >> $GITHUB_OUTPUT
 
-      # Build artifact
-      - name: Build Artifact
-        shell: bash
-        run: |
-          zip -r "${{ steps.properties.outputs.filename }}.zip" assets pack.mcmeta
-
       # Upload artifact
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: ${{ steps.properties.outputs.filename }}
-          path: ${{ steps.properties.outputs.filename }}.zip
+          name: ${{ steps.properties.outputs.filename }}.zip
+          path: |
+            assets/*/*
+            pack.mcmeta
 
   releaseDraft:
     name: Release Draft
