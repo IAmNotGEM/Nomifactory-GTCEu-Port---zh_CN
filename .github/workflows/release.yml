@@ -9,6 +9,9 @@ jobs:
   build:
     name: build
     runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.properties.outputs.version }}
+      changelog: ${{ steps.properties.outputs.changelog }}
     steps:
 
       # Check out current repository
