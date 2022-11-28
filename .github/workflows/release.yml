@@ -45,14 +45,12 @@ jobs:
 
       # Build artifact
       - name: Build Artifact
-        id: artifact
         shell: bash
         run: |
           zip -r "$FILENAME" assets pack.mcmeta
 
       # Upload artifact
       - name: Upload Artifact
-        id: artifact
         uses: actions/upload-artifact@v3
         with:
           name: ${{ env.filename }}
@@ -61,7 +59,7 @@ jobs:
   releaseDraft:
     name: Release Draft
     if: github.event_name != 'pull_request'
-    need: build
+    needs: build
     runs-on: ubuntu-latest
     steps:
 
