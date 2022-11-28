@@ -2,7 +2,7 @@ name: Deploy to GitHub Releases
 
 on:
   push:
-    branches: [master]
+    branches: [ master ]
     pull_request:
 
 jobs:
@@ -26,18 +26,19 @@ jobs:
         shell: bash
         run: |
           VERSION=$( grep -n '## \[' CHANGELOG.md | awk -F '[\\[\\]]' 'NR == 1  { print $2 }')
+          
           FILENAME="${{ github.repository }}"
           FILENAME=${FILENAME/${{ github.repository_owner }}\/}
           
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "filename=$FILENAME" >> $GITHUB_OUTPUT
+          
           el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
           CHANGELOG="$(awk "NR > 2 && NR < $el" CHANGELOG.md)"
-          #CHANGELOG="${CHANGELOG//'%'/'%25'}"
-          #CHANGELOG="${CHANGELOG//$'\n'/'%0A'}"
-          #CHANGELOG="${CHANGELOG//$'\r'/'%0D'}"
           
-          echo "version=$VERSION" >> $GITHUB_OUTPUT
-          echo "changelog=$CHANGELOG" >> $GITHUB_OUTPUT
-          echo "filename=$FILENAME" >> $GITHUB_OUTPUT
+          echo "changelog=<<EOF" >> $GITHUB_OUTPUT
+          echo "${CHANGELOG}" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       # Build artifact
       - name: Build Artifact
