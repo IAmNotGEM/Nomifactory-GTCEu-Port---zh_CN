@@ -29,6 +29,7 @@ jobs:
           
           FILENAME="${{ github.repository }}"
           FILENAME=${FILENAME/${{ github.repository_owner }}\/}
+          FILENAME="$FILENAME-$VERSION"
           
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "filename=$FILENAME" >> $GITHUB_OUTPUT
