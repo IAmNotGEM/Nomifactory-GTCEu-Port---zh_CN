@@ -34,9 +34,10 @@ jobs:
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "filename=$FILENAME" >> $GITHUB_OUTPUT
           
+          sl=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 1  { print $1-1 }')
           el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
           echo "changelog<<EOF" >> $GITHUB_OUTPUT
-          awk "NR > 2 && NR < $el" CHANGELOG.md | while IFS=$'\r\n' read -r line; do
+          awk "NR > $sl && NR < $el" CHANGELOG.md | while IFS=$'\r\n' read -r line; do
             echo "$line" >> $GITHUB_OUTPUT
           done
           echo "EOF" >> $GITHUB_OUTPUT
