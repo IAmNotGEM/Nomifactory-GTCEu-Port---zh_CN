@@ -18,14 +18,24 @@ jobs:
           ref: ${{ github.event.release.tag_name }}
 
       # Set environment variables
-      - name: Export Properties
+      - name: Set environment variables
         id: properties
         shell: bash
         run: |
+          VERSION=$( grep -n '## \[' CHANGELOG.md | awk -F '[\\[\\]]' 'NR == 1  { print $2 }')
+          
           el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
           CHANGELOG=$(awk "NR > 2 && NR < $el" CHANGELOG.md)
           CHANGELOG="${CHANGELOG//'%'/'%25'}"
           CHANGELOG="${CHANGELOG//$'\n'/'%0A'}"
           CHANGELOG="${CHANGELOG//$'\r'/'%0D'}"
           
+          echo "version=$VERSION" >> $GITHUB_ENV
           echo "changelog=$CHANGELOG" >> $GITHUB_ENV
+
+      # Use environment variables
+      - name: Use environment variables
+        shell: bash
+        run: |
+          echo "version: ${{ env.version }}"
+          echo "changelog: ${{ env.changelog }}"
