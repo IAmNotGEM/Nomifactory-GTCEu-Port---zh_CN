@@ -39,3 +39,11 @@ jobs:
         run: |
           echo "version: ${{ env.version }}"
           echo "changelog: ${{ env.changelog }}"
+
+      # build resource packs
+      - name: Build resource packs
+        shell: bash
+        run: |
+          FILENAME="Nomifactory-GTCEu-Port---zh_CN-${{ env.version }}.zip"
+          zip -r "${FILENAME}" assets pack.mcmeta
+          ls
