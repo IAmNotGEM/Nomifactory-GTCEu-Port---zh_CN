@@ -31,30 +31,30 @@ jobs:
           CHANGELOG="${CHANGELOG//$'\n'/'%0A'}"
           CHANGELOG="${CHANGELOG//$'\r'/'%0D'}"
           
-          echo "version=$VERSION" >> $GITHUB_ENV
-          echo "changelog=$CHANGELOG" >> $GITHUB_ENV
-          echo "filename=$FILENAME" >> $GITHUB_ENV
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "changelog=$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "filename=$FILENAME" >> $GITHUB_OUTPUT
 
       # Use environment variables
       - name: Use Environment Variables
         shell: bash
         run: |
-          echo "version  : ${{ env.version }}"
-          echo "changelog: ${{ env.changelog }}"
-          echo "filename : ${{ env.filename }}"
+          echo "version  : ${{ steps.properties.outputs.version }}"
+          echo "changelog: ${{ steps.properties.outputs.changelog }}"
+          echo "filename : ${{ steps.properties.outputs.filename }}"
 
       # Build artifact
       - name: Build Artifact
         shell: bash
         run: |
-          zip -r "${{ env.filename }}.zip" assets pack.mcmeta
+          zip -r "${{ steps.properties.outputs.filename }}.zip" assets pack.mcmeta
 
       # Upload artifact
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: ${{ env.filename }}
-          path: ${{ env.filename }}.zip
+          name: ${{ steps.properties.outputs.filename }}
+          path: ${{ steps.properties.outputs.filename }}.zip
 
   releaseDraft:
     name: Release Draft
