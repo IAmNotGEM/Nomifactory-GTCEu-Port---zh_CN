@@ -23,7 +23,7 @@ jobs:
         shell: bash
         run: |
           VERSION=$( grep -n '## \[' CHANGELOG.md | awk -F '[\\[\\]]' 'NR == 1  { print $2 }')
-          FILENAME="Nomifactory-GTCEu-Port---zh_CN-$VERSION.zip"
+          FILENAME="Nomifactory-GTCEu-Port---zh_CN-$VERSION"
           
           el=$(grep -n '## \[' CHANGELOG.md | awk -F ':' 'NR == 2  { print $1 }')
           CHANGELOG=$(awk "NR > 2 && NR < $el" CHANGELOG.md)
@@ -54,7 +54,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: ${{ env.filename }}
-          path: ./${{ env.filename }}
+          path: ${{ env.filename }}.zip
 
   releaseDraft:
     name: Release Draft
