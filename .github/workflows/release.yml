@@ -46,7 +46,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: ${{ steps.properties.outputs.filename }}.zip
+          name: ${{ steps.properties.outputs.filename }}
           path: |
             assets/*/*
             pack.mcmeta
