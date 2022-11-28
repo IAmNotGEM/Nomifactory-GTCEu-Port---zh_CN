@@ -18,7 +18,7 @@ jobs:
           ref: ${{ github.event.release.tag_name }}
 
       # Set environment variables
-      - name: Set environment variables
+      - name: Set Environment Variables
         id: properties
         shell: bash
         run: |
@@ -34,16 +34,55 @@ jobs:
           echo "changelog=$CHANGELOG" >> $GITHUB_ENV
 
       # Use environment variables
-      - name: Use environment variables
+      - name: Use Environment Variables
         shell: bash
         run: |
           echo "version: ${{ env.version }}"
           echo "changelog: ${{ env.changelog }}"
 
-      # build resource packs
-      - name: Build resource packs
+      # Build artifact
+      - name: Build Artifact
+        id: artifact
         shell: bash
         run: |
           FILENAME="Nomifactory-GTCEu-Port---zh_CN-${{ env.version }}.zip"
-          zip -r "${FILENAME}" assets pack.mcmeta
-          ls
+          zip -r "$FILENAME" assets pack.mcmeta
+          
+          echo "filename=$FILENAME" >> $GITHUB_ENV
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ steps.artifact.outputs.filename }}
+          path: ./build/distributions/content/
+
+  releaseDraft:
+    name: Release Draft
+    if: github.event_name != 'pull_request'
+    need: build
+    runs-on: ubuntu-latest
+    steps:
+
+      # Check out current repository
+      - name: Fetch Sources
+        uses: actions/checkout@v2.4.0
+
+      # Remove old release drafts by using the curl request for the available releases with draft flag
+      - name: Remove Old Release Drafts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/{owner}/{repo}/releases \
+            --jq '.[] | select(.draft == true) | .id' \
+            | xargs -I '{}' gh api -X DELETE repos/{owner}/{repo}/releases/{}
+
+      # Create new release draft - which is not publicly visible and requires manual acceptance
+      - name: Create Release Draft
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create v${{ needs.build.outputs.version }} \
+            --draft \
+            --title "v${{ needs.build.outputs.version }}" \
+            --notes "$(cat << 'EOM'
+          ${{ needs.build.outputs.changelog }}
+          EOM
+          )"
