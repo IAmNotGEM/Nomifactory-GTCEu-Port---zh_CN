@@ -38,14 +38,6 @@ jobs:
           echo "changelog=$CHANGELOG" >> $GITHUB_OUTPUT
           echo "filename=$FILENAME" >> $GITHUB_OUTPUT
 
-      # Use environment variables
-      - name: Use Environment Variables
-        shell: bash
-        run: |
-          echo "version  : ${{ steps.properties.outputs.version }}"
-          echo "changelog: ${{ steps.properties.outputs.changelog }}"
-          echo "filename : ${{ steps.properties.outputs.filename }}"
-
       # Build artifact
       - name: Build Artifact
         shell: bash
