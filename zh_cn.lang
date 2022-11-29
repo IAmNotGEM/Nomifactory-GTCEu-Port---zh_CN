@@ -2,37 +2,37 @@
 #nomifactory.quest.line.0.title=The Beginning
 nomifactory.quest.line.0.title=初期
 #nomifactory.quest.line.0.desc=GregTech §7Low Voltage§r Tier: start building a factory!%n%nUnlock access to §bDeep Mob Learning§r, early §bEnderIO§r tech, and §bApplied Energistics 2§r Digital Storage.%n%nBuild an §3Electric Blast Furnace§r for smelting advanced materials and alloys.
-nomifactory.quest.line.0.desc=格雷科技§7低压§r等级: start building a factory!%n%nUnlock access to §bDeep Mob Learning§r, early §bEnderIO§r tech, and §bApplied Energistics 2§r Digital Storage.%n%nBuild an §3Electric Blast Furnace§r for smelting advanced materials and alloys.
+nomifactory.quest.line.0.desc=格雷科技§7低压§r等级: 开始建造属于你的工厂！%n%n解锁访问§b深度怪物学习§r，早期§b末影接口§r科技，以及§b应用能源2§r数字化存储。%n%n建造§3电力高炉§r来熔炼更高级的材料与合金。
 
 # line 1
 #nomifactory.quest.line.1.title=Early Game
 nomifactory.quest.line.1.title=前期
 #nomifactory.quest.line.1.desc=GregTech §bMedium Voltage§r Tier: new machines and rudimentary ore processing.%n%nOrganic Chemistry for §6Plastics§r, and build a §3Distillation Tower§r.%n%n§bApplied Energistics 2§r automation. Explore §bActually Additions§r.
-nomifactory.quest.line.1.desc=格雷科技§b中压§r等级: new machines and rudimentary ore processing.%n%nOrganic Chemistry for §6Plastics§r, and build a §3Distillation Tower§r.%n%n§bApplied Energistics 2§r automation. Explore §bActually Additions§r.
+nomifactory.quest.line.1.desc=格雷科技§b中压§r等级: 新机器和基础的矿物处理。%n%n生产§6塑料§r的有机化学，并搭建一个§3蒸馏塔§r。%n%n§b应用能源2§r自动化。探索§b实用拓展§r。
 
 # line 2
 #nomifactory.quest.line.2.title=Mid Game
 nomifactory.quest.line.2.title=中期
 #nomifactory.quest.line.2.desc=GregTech §6High Voltage§r, §5Extreme Voltage§r, and §1Insane Voltage§r tiers:%n%n§6§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §9Nitro Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
-nomifactory.quest.line.2.desc=格雷科技§6高压§r、§5Extreme Voltage§r和§1Insane Voltage§r等级:%n%n§6§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §9Nitro Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
+nomifactory.quest.line.2.desc=格雷科技§6高压§r、§5超高压§r和§1强导压§r等级:%n%n§3低温蒸馏§r，以及§6环氧树脂§r和§9硝基柴油§r的石油化工。%n%n制作§6下界之星§r并解锁§b热力膨胀§r机器。%n%n搭建一个§b核电工艺§r裂变反应堆以获得新材料。%n%n搭建一个空间站和跃迁核心。
 
 # line 3
 #nomifactory.quest.line.3.title=Progression
 nomifactory.quest.line.3.title=当前进展
 #nomifactory.quest.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Nomifactory§r.%n%nCircuits are the primary measure of your progress.
-nomifactory.quest.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Nomifactory§r.%n%nCircuits are the primary measure of your progress.
+nomifactory.quest.line.3.desc=每向前探索一步都会有所收益。%n%n这个页面概述了§5全能工厂§r中各种事情的进展情况。%n%n电路是衡量你进展的主要标准。
 
 # line 4
 #nomifactory.quest.line.4.title=Late Game
 nomifactory.quest.line.4.title=后期
 #nomifactory.quest.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
-nomifactory.quest.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
+nomifactory.quest.line.4.desc=格雷科技§d剧差压§r、零点压、§3极限压§r和§4极高压§r等级:%n%n搭建§3装配线§r，§3核聚变反应堆§r，以及更多的内容！%n%n通过§b封包合成§r来实现自动化合成，制造更高等级的§6微型采矿机§r。%n%n用于聚合合成和能量存储的§b龙之研究§r。
 
 # line 5
 #nomifactory.quest.line.5.title=End Game
 nomifactory.quest.line.5.title=终局
 #nomifactory.quest.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Vending Upgrade§r.
-nomifactory.quest.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Vending Upgrade§r.
+nomifactory.quest.line.5.desc=你现在已经进入终局了...%n%n收获整个微型宇宙，并解锁§d创造量子缸§r。%n%n当你向最终目标迈进时，让你的自动化接受终极测试: 那就是§d创造量子箱§r。
 
 # line 6
 #nomifactory.quest.line.6.title=Genesis
@@ -44,49 +44,49 @@ nomifactory.quest.line.6.desc=欢迎来到§5全能工厂§r，我是你的向�
 #nomifactory.quest.line.7.title=Into The Microverse
 nomifactory.quest.line.7.title=探索微型宇宙
 #nomifactory.quest.line.7.desc=Get your feet wet with §bExtra Utilities§r and §bExtended Crafting§r.%n%nConquer The End or invest in §bEnderIO §rfor teleportation technologies.%n%nBuild a rocket and go to the Moon (or don't, but it's fun).%n%nEither way, it's time to start mining §emicroverses§r.
-nomifactory.quest.line.7.desc=Get your feet wet with §bExtra Utilities§r and §bExtended Crafting§r.%n%nConquer The End or invest in §bEnderIO §rfor teleportation technologies.%n%nBuild a rocket and go to the Moon (or don't, but it's fun).%n%nEither way, it's time to start mining §emicroverses§r.
+nomifactory.quest.line.7.desc=让你的脚步踏入§b更多实用设备2§r和§b合成拓展§r。%n%n征服末地或投入于§b末影接口§r的传送科技。%n%n造一个火箭，然后去月球(或者不造，但也很有趣)。%n%n无论如何，现在是开始开采§e微型宇宙§r的时候了。
 
 # line 8
 #nomifactory.quest.line.8.title=Fun With Fusion
 nomifactory.quest.line.8.title=聚变之乐趣
 #nomifactory.quest.line.8.desc=Create new elements and power your base with doughnuts!
-nomifactory.quest.line.8.desc=Create new elements and power your base with doughnuts!
+nomifactory.quest.line.8.desc=用甜甜圈创造新的元素并为你的基地提供能量！
 
 # line 9
 #nomifactory.quest.line.9.title=Simulating Resources
-nomifactory.quest.line.9.title=资源模拟
-#nomifactory.quest.line.9.desc=Generate resources with §bDeep Mob Learning§r!%n%nClose the production loop in MV for 100%% renewable resources!#nomifactory.quest.line.9.title=Simulating Resources
-nomifactory.quest.line.9.desc=Generate resources with §bDeep Mob Learning§r!%n%nClose the production loop in MV for 100%% renewable resources!
+nomifactory.quest.line.9.title=模拟资源
+#nomifactory.quest.line.9.desc=Generate resources with §bDeep Mob Learning§r!%n%nClose the production loop in MV for 100%% renewable resources!
+nomifactory.quest.line.9.desc=用§b深度怪物学习§r生成资源！%n%n在MV中关闭生产循环，以获得100%%的可再生资源！
 
 # line 10
 #nomifactory.quest.line.10.title=Matter-Energy
 nomifactory.quest.line.10.title=物质-能量
 #nomifactory.quest.line.10.desc=Convert between matter and energy with §bApplied Energistics§r§r.%n%nAutomate ALL the things! o/
-nomifactory.quest.line.10.desc=Convert between matter and energy with §bApplied Energistics§r§r.%n%nAutomate ALL the things! o/
+nomifactory.quest.line.10.desc=用§b应用能量2§r在物质和能量之间进行转换，使所有的东西都能自动化！o/
 
 # db 0
 #nomifactory.quest.db.0.title=Charging Quartz
 nomifactory.quest.db.0.title=充能石英
 #nomifactory.quest.db.0.desc=The main purpose for this device is to turn §6Certus Quartz§r into §6Charged Certus Quartz Crystal§r.%n%nThis device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.%n%nIt accepts power from two sides. Which two sides? It's pretty easy to guess.%n%n%n%n%n%n%n%n%nOk, ok. It's the top and bottom.%n%n
-nomifactory.quest.db.0.desc=The main purpose for this device is to turn §6Certus Quartz§r into §6Charged Certus Quartz Crystal§r.%n%nThis device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.%n%nIt accepts power from two sides. Which two sides? It's pretty easy to guess.%n%n%n%n%n%n%n%n%nOk, ok. It's the top and bottom.%n%n
+nomifactory.quest.db.0.desc=这个装置的主要目的是将§6赛特斯石英§r变成§6充能赛特斯石英水晶§r。%n%n该设备可以通过能量导管用RF供电，或通过ME线缆或导线使用网络中的AE能量。%n%n它接受来自两边的能量。哪两边？这很容易猜到。%n%n%n%n%n%n%n%n%n好吧，好吧。是上边和下边。
 
 # db 1
 #nomifactory.quest.db.1.title=Crystal Growth Chamber
 nomifactory.quest.db.1.title=晶体催生仓
 #nomifactory.quest.db.1.desc=The §3Crystal Growth Chamber§r allows you to perform §bApplied Energistics§r's world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!%n%nIt is used for growing §6Crystal Seeds§r into §6Pure Crystals§r, and also for creating §6Fluix Crystals§r.%n%nJEI doesn't show the Chamber's recipes directly, so we'll explain it here:%n%nSeeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can't grind down Pure Crystals to further multiply your resources. Sorry.%n%nFluix Crystals you've already had to make in a pool of water by now, and it's the same ingredients here: insert one each of a §6Redstone Dust§r, §6Charged Certus Quartz Crystal§r, and a §6Nether Quartz§r to produce two Fluix Crystals.
-nomifactory.quest.db.1.desc=The §3Crystal Growth Chamber§r allows you to perform §bApplied Energistics§r's world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!%n%nIt is used for growing §6Crystal Seeds§r into §6Pure Crystals§r, and also for creating §6Fluix Crystals§r.%n%nJEI doesn't show the Chamber's recipes directly, so we'll explain it here:%n%nSeeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can't grind down Pure Crystals to further multiply your resources. Sorry.%n%nFluix Crystals you've already had to make in a pool of water by now, and it's the same ingredients here: insert one each of a §6Redstone Dust§r, §6Charged Certus Quartz Crystal§r, and a §6Nether Quartz§r to produce two Fluix Crystals.
+nomifactory.quest.db.1.desc=§3晶体催生仓§r允许你在机器内执行§b应用能源2§r的世界合成配方。太棒了，你再也不用把更多的东西丢到水里去了！%n%n它用于将§6水晶种子§r成长为§6高纯水晶§r，也用于创造§6福鲁伊克斯水晶§r。%n%nJEI没有直接显示晶体催生仓的配方，所以我们在这里解释一下:%n%n种子是通过粉碎三种水晶中的任何一种，并将粉尘与沙子混合制成的。一颗种子会成长为相应的高纯水晶，在大多数配方中可以替代原始水晶。使用高纯水晶可以让你有效地将你的材料效率提高一倍，这很好。而且，你不能磨掉高纯水晶来进一步增加你的资源。对不起。%n%n福鲁伊克斯水晶也可以在这个机器里制造，使用和原来一样的配方: 只需要放入一份§6红石§r，一份§6充能赛特斯石英水晶§r，以及一份§6下界石英§r来生产。
 
 # db 2
 #nomifactory.quest.db.2.title=Canning Machine and Assorted Stuff
 nomifactory.quest.db.2.title=“装罐机”和“各种东西”
 #nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Machines.%n%n§aLV Batteries§r were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now.%n%nPut your §3Centrifuge§r to work for the §6Antimony§r you'll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.%n%n
-nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Machines.%n%n§aLV Batteries§r were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now.%n%nPut your §3Centrifuge§r to work for the §6Antimony§r you'll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.%n%n
+nomifactory.quest.db.2.desc=注意: 这个任务同时接受LV和MV装罐机。%n%n§aLV电池§r的制造非常简单，但更有效的电力储存形式的制造将更加复杂，所以我们现在需要打好基础。%n%n打开§3离心机§r做出你所需要的§6锑§r,它可以在处理§6黝铜矿矿石§r或§6辉锑矿矿石§r时以小堆的形式出现。
 
 # db 3
 #nomifactory.quest.db.3.title=§2Genesis
 nomifactory.quest.db.3.title=§2开局
 #nomifactory.quest.db.3.desc=Welcome to §5Nomifactory§f §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§f.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§f.%n%n§fIf you wish to build your base in a skyblock world, place the §6Void World Cake§f down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§f.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
-nomifactory.quest.db.3.desc=Welcome to §5Nomifactory§f §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§f.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§f.%n%n§fIf you wish to build your base in a skyblock world, place the §6Void World Cake§f down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§f.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
+nomifactory.quest.db.3.desc=欢迎来到§5全能工厂§f格雷科技社区版§2非官方版§r！%n%n该整合包应该在§b失落的城市§f或§b主世界§f中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§f。%n%n§f如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§f放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§f中自由建造。%n%n对于§2社区版非官方版§r的新功能和有新内容的任务将以§2暗绿色(颜色2)§r突出显示。
 
 # db 4
 #nomifactory.quest.db.4.title=Iron Supply
@@ -138,7 +138,7 @@ nomifactory.quest.db.11.desc=A "§esubstrate§f" is the "board" part of a circui
 
 # db 12
 #nomifactory.quest.db.12.title=Some Starter Tools
-nomifactory.quest.db.12.title=一些初始工具
+nomifactory.quest.db.12.title=一些基础工具
 #nomifactory.quest.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§f will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§f. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§f... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Neutronium tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§f (not a §aMining Hammer§f, mind you... six ingots, not five). Hammers can be used to turn §etwo ingots into one plate§f. §6Plates§f can make a §aFile§f, Files can make §6Rods§f, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§f is probably your best bet for a tool material right now, but better materials will become available as you progress.
 nomifactory.quest.db.12.desc=One of the eccentricities of the pack you'll need to get used to is the way the tools are displayed. Most tools can be made out of nearly any metal, and §bJEI§f will display a huge number of options... every combination of every tool with every material. However, the pattern to make the tool is always identical, so §ejust arrange the plates and ingots in the same manner as the examples, ignoring whatever material it says§f. Rods where rods go, plates where plates, etc. The only restriction is that tools §emust be made from all of the same material§f... you cannot mix and match different metals in a single item.%n%nRecipes will default to showing a §6Neutronium tool §rof the appropriate type if a tool is required, but the correct type of tool made out of any metal will work. Just ignore the tool's material in the recipes: it can be whatever you'd like.%n%nFor now, make a §aHammer§f (not a §aMining Hammer§f, mind you... six ingots, not five). Hammers can be used to turn §etwo ingots into one plate§f. §6Plates§f can make a §aFile§f, Files can make §6Rods§f, etc. Use JEI to work your way down the list of tools.%n%n§6Wrought Iron§f is probably your best bet for a tool material right now, but better materials will become available as you progress.
 
@@ -180,7 +180,7 @@ nomifactory.quest.db.18.desc=While §3Obsidian Furnaces§f are the same speed as
 
 # db 19
 #nomifactory.quest.db.19.title=LV Alloy Smelter
-nomifactory.quest.db.19.title=LV Alloy Smelter
+nomifactory.quest.db.19.title=LV合金炉
 #nomifactory.quest.db.19.desc=Alloy Smelters are used to create alloys by melting and reforming items together.%n%nNow you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible.
 nomifactory.quest.db.19.desc=Alloy Smelters are used to create alloys by melting and reforming items together.%n%nNow you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible.
 
@@ -384,7 +384,7 @@ nomifactory.quest.db.55.desc=§3Centrifuges§r provide you with §21 tiny pile§
 
 # db 56
 #nomifactory.quest.db.56.title=Putting It All Together
-nomifactory.quest.db.56.title=组装行动
+nomifactory.quest.db.56.title=组装起来吧
 #nomifactory.quest.db.56.desc=Now that you have everything you need to power your machines, it's time to put it all together.%n%nYour Steam Dynamo needs burnable fuel (like §6Coal§r) and §9water§r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a §aCrescent Hammer§r, if needed.%n%n§6Energy Conduits§r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter.%n%nThe Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a §aWrench§r. Attach your §6Conductive Iron Cables§r to the output side of the Energy Converter.%n%nNow all you need are some §bGregTech§r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:%n%nThe §6Wiremill§r will make crafting wires much, much easier.%n%nThe §2Metal Bender§r will make Plates from one ingot instead of two.
 nomifactory.quest.db.56.desc=Now that you have everything you need to power your machines, it's time to put it all together.%n%nYour Steam Dynamo needs burnable fuel (like §6Coal§r) and §9water§r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a §aCrescent Hammer§r, if needed.%n%n§6Energy Conduits§r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter.%n%nThe Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a §aWrench§r. Attach your §6Conductive Iron Cables§r to the output side of the Energy Converter.%n%nNow all you need are some §bGregTech§r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:%n%nThe §6Wiremill§r will make crafting wires much, much easier.%n%nThe §2Metal Bender§r will make Plates from one ingot instead of two.
 
@@ -1644,7 +1644,7 @@ nomifactory.quest.db.276.desc=§9Phosphoric Acid§r is a key component of §6Lum
 
 # db 278
 #nomifactory.quest.db.278.title=Simulated Mobs
-nomifactory.quest.db.278.title=模拟的怪物
+nomifactory.quest.db.278.title=模拟怪物
 #nomifactory.quest.db.278.desc=You can combine various items with a §6Blank Data Model§r for a completed §6Data Model§r that you can run inside the §3Simulation Chamber§r.
 nomifactory.quest.db.278.desc=You can combine various items with a §6Blank Data Model§r for a completed §6Data Model§r that you can run inside the §3Simulation Chamber§r.
 
@@ -2124,13 +2124,13 @@ nomifactory.quest.db.365.desc=An ultimate pair of leggings, forged from all mann
 
 # db 366
 #nomifactory.quest.db.366.title=§2Creative Vending Upgrade
-nomifactory.quest.db.366.title=§2创造模式取出升级
+nomifactory.quest.db.366.title=§2创造量子箱
 #nomifactory.quest.db.366.desc=You win.%n%nCongratulations.%n%nI hope you enjoyed playing §5Nomifactory§r.
 nomifactory.quest.db.366.desc=You win.%n%nCongratulations.%n%nI hope you enjoyed playing §5Nomifactory§r.
 
 # db 367
 #nomifactory.quest.db.367.title=§2Creative Tank
-nomifactory.quest.db.367.title=§2创造储罐
+nomifactory.quest.db.367.title=§2创造量子缸
 #nomifactory.quest.db.367.desc=§oNow this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.§r%n%nThe §d§dCreative Tank§r is a major milestone. Great work!%n%nThis tank is your first proper creative item, which can be set to a fluid and then provides an infinite quantity of that fluid. §2Use the Creative Tank Provider to supply you with Creative Tanks.%n%nThe GT Creative Tank has been enhanced. You can turn it on and off, configure exactly how much fluid you want it to push and how often, and change which direction the fluid is pushed out. You can even configure the fluid you want directly from JEI!§r%n%nFrom there you can set up tanks with infinite quantities of every fluid you can think of. §3Fluid Solidifiers§r §2or the much more powerful Large Solidification Arrays§r can be used to make infinite of every element you can melt and solidify.%n%nThis is quite a game-changer as far as infrastructure goes. You'll find that many machines won't need to be used for their original purpose anymore. Some major base redesign is in order. Have you considered moving to space?%n%nAll that said, §ethe pack will still be challenging to complete§r. Infinite resources and power is nice, but it's not everything. There are plenty of materials you can't melt, and creative items will push your factory automation engineering skills to their limits.%n%nOnward to the final challenge: the §dCreative Vending Upgrade§r!%n%n
 nomifactory.quest.db.367.desc=§oNow this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.§r%n%nThe §d§dCreative Tank§r is a major milestone. Great work!%n%nThis tank is your first proper creative item, which can be set to a fluid and then provides an infinite quantity of that fluid. §2Use the Creative Tank Provider to supply you with Creative Tanks.%n%nThe GT Creative Tank has been enhanced. You can turn it on and off, configure exactly how much fluid you want it to push and how often, and change which direction the fluid is pushed out. You can even configure the fluid you want directly from JEI!§r%n%nFrom there you can set up tanks with infinite quantities of every fluid you can think of. §3Fluid Solidifiers§r §2or the much more powerful Large Solidification Arrays§r can be used to make infinite of every element you can melt and solidify.%n%nThis is quite a game-changer as far as infrastructure goes. You'll find that many machines won't need to be used for their original purpose anymore. Some major base redesign is in order. Have you considered moving to space?%n%nAll that said, §ethe pack will still be challenging to complete§r. Infinite resources and power is nice, but it's not everything. There are plenty of materials you can't melt, and creative items will push your factory automation engineering skills to their limits.%n%nOnward to the final challenge: the §dCreative Vending Upgrade§r!%n%n
 
@@ -2470,7 +2470,7 @@ nomifactory.quest.db.511.desc=§bEnderIO§r's equivalent of a §3Chemical Reacto
 
 # db 512
 #nomifactory.quest.db.512.title=Slice'N'Splice
-nomifactory.quest.db.512.title=切片然后拼接
+nomifactory.quest.db.512.title=头颅装配机
 #nomifactory.quest.db.512.desc=The §3Slice'N'Splice§r is a machine from §bEnderIO§r.%n%nIt is used for making monster-head-related items that are components for various things.%n%nIt needs to be supplied with an Axe and Shears, which are slowly damaged over time as items are crafted.
 nomifactory.quest.db.512.desc=The §3Slice'N'Splice§r is a machine from §bEnderIO§r.%n%nIt is used for making monster-head-related items that are components for various things.%n%nIt needs to be supplied with an Axe and Shears, which are slowly damaged over time as items are crafted.
 
@@ -2728,7 +2728,7 @@ nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n
 
 # db 580
 #nomifactory.quest.db.580.title=§2Blast Furnaces Galore
-nomifactory.quest.db.580.title=§2众多的高炉
+nomifactory.quest.db.580.title=§2更多高炉
 #nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
 nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
 
@@ -3161,7 +3161,7 @@ nomifactory.quest.db.678.desc=§6Californium§r is the final fissile material in
 
 # db 679
 #nomifactory.quest.db.679.title=Further Adventures In Fission
-nomifactory.quest.db.679.title=裂变的进一步冒险
+nomifactory.quest.db.679.title=进一步探索裂变
 #nomifactory.quest.db.679.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
 nomifactory.quest.db.679.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
 
