@@ -230,7 +230,7 @@ nomifactory.quest.db.26.desc=§6Steel§r alloyed with §6Obsidian§r makes §6Da
 #nomifactory.quest.db.27.title=LV Chemical Reactor
 nomifactory.quest.db.27.title=LV化学反应釜
 #nomifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
-nomifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
+nomifactory.quest.db.27.desc=这是你第一台进行初级化学反应的机器，现在你可以制造一些进阶电路基板了。
 
 # db 28
 #nomifactory.quest.db.28.title=Pulsating Dust
@@ -242,13 +242,13 @@ nomifactory.quest.db.28.desc=§6Pulsating Dust§r is a mysterious magical materi
 #nomifactory.quest.db.29.title=Pulsating Iron and Ender Pearls
 nomifactory.quest.db.29.title=“脉冲铁”和“末影珍珠”
 #nomifactory.quest.db.29.desc=An §bEnder IO§r alloy.%n%nMade from §6Pulsating Dust§r and an §6Iron Ingot§r.%n%nIf you can't find one otherwise, §6Ender Pearls§r can be crafted using Pulsating Dust and a §6Diamond§r in an §3Alloy Smelter§r.
-nomifactory.quest.db.29.desc=An §bEnder IO§r alloy.%n%nMade from §6Pulsating Dust§r and an §6Iron Ingot§r.%n%nIf you can't find one otherwise, §6Ender Pearls§r can be crafted using Pulsating Dust and a §6Diamond§r in an §3Alloy Smelter§r.
+nomifactory.quest.db.29.desc=一种§b末影接口§r合金。%n%nMade from §6Pulsating Dust§r and an §6Iron Ingot§r.%n%nIf you can't find one otherwise, §6Ender Pearls§r can be crafted using Pulsating Dust and a §6Diamond§r in an §3Alloy Smelter§r.
 
 # db 30
 #nomifactory.quest.db.30.title=Electrical Steel
 nomifactory.quest.db.30.title=磁钢
 #nomifactory.quest.db.30.desc=An §bEnderIO§r alloy, made from §6Silicon Dust§r and a §6Steel Ingot§r.%n%nThis material is frequently used in electronics and digital equipment.
-nomifactory.quest.db.30.desc=An §bEnderIO§r alloy, made from §6Silicon Dust§r and a §6Steel Ingot§r.%n%nThis material is frequently used in electronics and digital equipment.
+nomifactory.quest.db.30.desc=一种§b末影接口§r合金，由§6硅粉§r和§6钢锭§r制成%n%n这种材料经常被用于电子和数字设备。
 
 # db 31
 #nomifactory.quest.db.31.title=Vibrant Capacitor Bank
@@ -2330,7 +2330,7 @@ nomifactory.quest.db.415.desc=Now that you have a §aFlux Capacitor§r to keep t
 #nomifactory.quest.db.416.title=Fish Oil
 nomifactory.quest.db.416.title=鱼油
 #nomifactory.quest.db.416.desc=Fish Oil, surprisingly, comes from fish.
-nomifactory.quest.db.416.desc=Fish Oil, surprisingly, comes from fish.
+nomifactory.quest.db.416.desc=鱼油，令人惊讶的是，它来自鱼类。
 
 # db 417
 #nomifactory.quest.db.417.title=Combination Package Crafter
@@ -2342,7 +2342,7 @@ nomifactory.quest.db.417.desc=A much more efficient version of the §3Empowerer�
 #nomifactory.quest.db.488.title=Basic Satchel
 nomifactory.quest.db.488.title=基础背包
 #nomifactory.quest.db.488.desc=Useful to carry more stuff.%n%nWhat more explanation are you expecting?
-nomifactory.quest.db.488.desc=Useful to carry more stuff.%n%nWhat more explanation are you expecting?
+nomifactory.quest.db.488.desc=有助于携带更多的东西。%n%n你还指望有什么解释呢？
 
 # db 489
 #nomifactory.quest.db.489.title=§2LV Compressor
@@ -2414,7 +2414,7 @@ nomifactory.quest.db.500.desc=With your new§2 Epoxy Circuit Boards§r, §6Nano 
 #nomifactory.quest.db.501.title=Exotic Materials Catalyst
 nomifactory.quest.db.501.title=异域材料催化剂
 #nomifactory.quest.db.501.desc=A small appetizer, before the §dOmnium§r main course.%n%nAs the name suggests, this catalyst is formed from exotic non-elemental materials and alloys.
-nomifactory.quest.db.501.desc=A small appetizer, before the §dOmnium§r main course.%n%nAs the name suggests, this catalyst is formed from exotic non-elemental materials and alloys.
+nomifactory.quest.db.501.desc=在主菜§d万象§r之前，这是一道小小的开胃菜。%n%n顾名思义，这种催化剂是由外来的非元素材料和合金形成的。
 
 # db 502
 #nomifactory.quest.db.502.title=Capacitors
@@ -2425,8 +2425,6 @@ nomifactory.quest.db.502.desc=§6Capacitors§r are devices that store electrical
 # db 503
 #nomifactory.quest.db.503.title=Dark Soularium Ingots
 nomifactory.quest.db.503.title=玄色魂金锭
-#nomifactory.quest.db.503.desc=
-nomifactory.quest.db.503.desc=
 
 # db 504
 #nomifactory.quest.db.504.title=Brewery
@@ -2584,7 +2582,7 @@ nomifactory.quest.db.533.desc=With your §2Naquadah Alloy§r-based machine hulls
 #nomifactory.quest.db.534.title=§2The Second Tier Seven Circuits
 nomifactory.quest.db.534.title=§2第二种七阶电路
 #nomifactory.quest.db.534.desc=With §6Enderium§r, you can assemble a §6Crystal Supercomputer§r.
-nomifactory.quest.db.534.desc=With §6Enderium§r, you can assemble a §6Crystal Supercomputer§r.
+nomifactory.quest.db.534.desc=使用§6末影§r，你可以组装一台§6晶体超级计算机§r。
 
 # db 535
 #nomifactory.quest.db.535.title=§2The First Tier Eight Circuits
@@ -2636,13 +2634,13 @@ nomifactory.quest.db.543.title=蓝钢锭
 #nomifactory.quest.db.544.title=Hardened Satchel
 nomifactory.quest.db.544.title=硬化背包
 #nomifactory.quest.db.544.desc=Carry even more stuff.
-nomifactory.quest.db.544.desc=Carry even more stuff.
+nomifactory.quest.db.544.desc=携带更多的东西。
 
 # db 545
 #nomifactory.quest.db.545.title=Reinforced Satchel
 nomifactory.quest.db.545.title=强化背包
 #nomifactory.quest.db.545.desc=Carry §oeven more§r stuff.
-nomifactory.quest.db.545.desc=Carry §oeven more§r stuff.
+nomifactory.quest.db.545.desc=携带§o更多的§r东西。
 
 # db 546
 #nomifactory.quest.db.546.title=§2Distillery
@@ -2688,7 +2686,7 @@ nomifactory.quest.db.552.desc=Being able to fly is pretty sick. It's also pretty
 #nomifactory.quest.db.553.title=Hardened Jetpack
 nomifactory.quest.db.553.title=硬化飞行背包
 #nomifactory.quest.db.553.desc=Better flying.
-nomifactory.quest.db.553.desc=Better flying.
+nomifactory.quest.db.553.desc=更好的飞行。
 
 # db 554
 #nomifactory.quest.db.554.title=Reinforced Jetpack
@@ -2775,12 +2773,10 @@ nomifactory.quest.db.592.title=磁钢锭
 # db 593
 #nomifactory.quest.db.593.title=End Steel Ingots
 nomifactory.quest.db.593.title=末影钢锭
-#nomifactory.quest.db.593.desc=
 
 # db 594
 #nomifactory.quest.db.594.title=Microversium Ingots
 nomifactory.quest.db.594.title=微型宇宙锭
-#nomifactory.quest.db.594.desc=
 
 # db 595
 #nomifactory.quest.db.595.title=Mana Infused Ingots
@@ -2809,17 +2805,14 @@ nomifactory.quest.db.600.title=玛玉灵锭
 # db 601
 #nomifactory.quest.db.601.title=Magnalium Ingots
 nomifactory.quest.db.601.title=镁铝合金锭
-#nomifactory.quest.db.601.desc=
 
 # db 602
 #nomifactory.quest.db.602.title=Kanthal Ingots
 nomifactory.quest.db.602.title=坎塔尔合金锭
-#nomifactory.quest.db.602.desc=
 
 # db 603
 #nomifactory.quest.db.603.title=Nichrome Ingots
 nomifactory.quest.db.603.title=镍铬合金锭
-#nomifactory.quest.db.603.desc=
 
 # db 604
 #nomifactory.quest.db.604.title=Heart Of A Universe
