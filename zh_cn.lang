@@ -132,7 +132,7 @@ nomifactory.quest.db.10.desc=The Second Micro Miner!%n%nThis uses an §bExtended
 
 # db 11
 #nomifactory.quest.db.11.title=§2Electronics Subcomponents
-nomifactory.quest.db.11.title=§2电子零部件
+nomifactory.quest.db.11.title=§2电子元件
 #nomifactory.quest.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%n§2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.§r%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Crafting Station§r... you'll be making a LOT of these things.
 nomifactory.quest.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%n§2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.§r%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Crafting Station§r... you'll be making a LOT of these things.
 
@@ -212,7 +212,7 @@ nomifactory.quest.db.23.desc=You'll need §6Obsidian§r to make §6Dark Steel§r
 #nomifactory.quest.db.24.title=Steam Dynamo
 nomifactory.quest.db.24.title=蒸汽能源炉
 #nomifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dOmnicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
-nomifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dOmnicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
+nomifactory.quest.db.24.desc=你的第一个重要的合成工程！%n%n你将需要一小部分§6银§f来做这个能源炉。如果你还没有找到一个§6方铅矿矿脉§f(这就是银的所在地)，那么可以考虑用§d万象币§r“购买”一些§6银矿石§r。你还不需要大量的银和铅，所以不会让你破产。%n%n请记住，§e能源炉只有在通过燃料燃烧时才会输出功率，而且只有直接连接到线圈的那一端才会得到提供的功率§f。
 
 # db 25
 #nomifactory.quest.db.25.title=Cake Based Dimensional Transit
@@ -284,7 +284,7 @@ nomifactory.quest.db.35.desc=An EnderIO alloy.%n%n§2In EV Age, you can build an
 #nomifactory.quest.db.37.title=Rubber Sheets
 nomifactory.quest.db.37.title=橡胶片
 #nomifactory.quest.db.37.desc=Going out in search of a §6Rubber Tree§f is a viable option for sure. However, if this isn't appealing, you can also §eshear leaves§f and make §6Plantballs§f out of them. Plantballs smelt into §6Slime§f, and Slime smelts into §6Rubber§f.%n%nYou'll want to transition to Rubber Trees at some point, though, since the §eratio of leaves to rubber is quite poor§f.%n%nRubber can be hammered into sheets just like metals can be turned to plates. It's quite inefficient to do it this way, but such is the life of early game §bGregTech§f. At least rubber isn't particularly hard to come by.
-nomifactory.quest.db.37.desc=Going out in search of a §6Rubber Tree§f is a viable option for sure. However, if this isn't appealing, you can also §eshear leaves§f and make §6Plantballs§f out of them. Plantballs smelt into §6Slime§f, and Slime smelts into §6Rubber§f.%n%nYou'll want to transition to Rubber Trees at some point, though, since the §eratio of leaves to rubber is quite poor§f.%n%nRubber can be hammered into sheets just like metals can be turned to plates. It's quite inefficient to do it this way, but such is the life of early game §bGregTech§f. At least rubber isn't particularly hard to come by.
+nomifactory.quest.db.37.desc=出去寻找§6橡胶树§f是一个可行的选择，这是肯定的。然而，如果这并不吸引人，你也可以§e剪掉树叶§f，然后用它们制作成§6植物球§f。植物球烧制成§6粘液球§f，然后粘液球烧制成§6粘性树脂§f。%n%n不过，你会想在某个时候过渡到橡胶树，因为§e树叶到粘性树脂的转化比例太低了§f。%n%n粘性树脂可以被锤制成板，就像金属可以变成板一样。这样做的效率相当低，但这就是早期游戏§b格雷科技§f的生活。至少橡胶不是特别难得到。
 
 # db 38
 #nomifactory.quest.db.38.title=§2LV Power
@@ -302,7 +302,7 @@ nomifactory.quest.db.39.desc=Item conduits are useful for moving items between i
 #nomifactory.quest.db.40.title=Conductive Iron Energy Conduits
 nomifactory.quest.db.40.title=导电铁能量导管
 #nomifactory.quest.db.40.desc=The most basic tier of §aRF§r energy conduits from §bEnderIO§r.%n%nThese can be used to transport energy from your §3Steam Dynamos§r to various destinations.
-nomifactory.quest.db.40.desc=The most basic tier of §aRF§r energy conduits from §bEnderIO§r.%n%nThese can be used to transport energy from your §3Steam Dynamos§r to various destinations.
+nomifactory.quest.db.40.desc=这是§b末影接口§r中最基础的§aRF§r能量导管。%n%n这些可以用来将能量从你的§3蒸汽能源炉§r输送各个地方。
 
 # db 41
 #nomifactory.quest.db.41.title=Energetic Alloy Energy Conduits
@@ -326,19 +326,19 @@ nomifactory.quest.db.44.desc=Combining §6Basic RF Capacitors§r with some §6Co
 #nomifactory.quest.db.45.title=Ironman
 nomifactory.quest.db.45.title=钢铁侠
 #nomifactory.quest.db.45.desc=Being able to fly is nice. This is the first jetpack that uses §bEnderIO§r materials.%n%nThere's also a quest chain for §bThermal Expansion§r material Jetpacks (starting with the §6Leadstone Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.%n%nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2§r §eConfiguration file§r or the command §6/topcfg§r respectively.
-nomifactory.quest.db.45.desc=Being able to fly is nice. This is the first jetpack that uses §bEnderIO§r materials.%n%nThere's also a quest chain for §bThermal Expansion§r material Jetpacks (starting with the §6Leadstone Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.%n%nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2§r §eConfiguration file§r or the command §6/topcfg§r respectively.
+nomifactory.quest.db.45.desc=能够飞行是件好事。这是第一个使用§b末影接口§r材料的飞行背包。%n%n还有一个关于§b热力膨胀§r材料飞行背包的任务链(从§6铅石飞行背包§r开始)。最终你会需要做这两件事，但时间不会很长，所以请随意忽略这些任务链中的至少一个，除非你真的非常喜欢飞行。%n%n如果§6飞行背包§r的概述和§b检测器§r的信息发生冲突，可以分别通过§b简易喷气背包2§r的§e配置文件§r或§6/topcfg§r命令进行调整。
 
 # db 47
 #nomifactory.quest.db.47.title=Ironman 3
 nomifactory.quest.db.47.title=钢铁侠3
 #nomifactory.quest.db.47.desc=Flying faster, even nicer.
-nomifactory.quest.db.47.desc=Flying faster, even nicer.
+nomifactory.quest.db.47.desc=飞得更快，甚至更好。
 
 # db 48
 #nomifactory.quest.db.48.title=Ironman 2
 nomifactory.quest.db.48.title=钢铁侠2
 #nomifactory.quest.db.48.desc=Flying faster is nice.
-nomifactory.quest.db.48.desc=Flying faster is nice.
+nomifactory.quest.db.48.desc=飞得更快是好事。
 
 # db 49
 #nomifactory.quest.db.49.title=Air Centrifuging
@@ -446,7 +446,7 @@ nomifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§
 #nomifactory.quest.db.66.title=From Dusts To Wires
 nomifactory.quest.db.66.title=从粉末到导线
 #nomifactory.quest.db.66.desc=Although most §ealloys§f require an §3Alloy Smelter§f, some alloys can be made simply by mixing the correct metal dusts together. %n%nCopper Dust mixed with Redstone Dust makes §6Red Alloy Dust§f.%n%nIron Dust mixed with Redstone Dust makes §6Conductive Iron Dust§f.%n%n§3Smelt§f it into ingots, §ahammer§f it into §6Plates§f, and §acut§f them into §6Wires§f.
-nomifactory.quest.db.66.desc=Although most §ealloys§f require an §3Alloy Smelter§f, some alloys can be made simply by mixing the correct metal dusts together. %n%nCopper Dust mixed with Redstone Dust makes §6Red Alloy Dust§f.%n%nIron Dust mixed with Redstone Dust makes §6Conductive Iron Dust§f.%n%n§3Smelt§f it into ingots, §ahammer§f it into §6Plates§f, and §acut§f them into §6Wires§f.
+nomifactory.quest.db.66.desc=虽然大多数§e合金§f需要一个§3合金炉§f，但一些合金可以简单地通过将正确的金属粉混合在一起而制成。%n%n铜粉与红石混合在一起，可制成§6红色合金粉§f。%n%n铁粉与红石混合在一起，可制成§6导电铁粉§f。%n%n把它们§3熔炼§f成锭，用§a锻造锤§f敲打成§6板§f，再把它们切成§6导线§f。
 
 # db 67
 #nomifactory.quest.db.67.title=Octadic Capacitor
@@ -2048,7 +2048,7 @@ nomifactory.quest.db.352.desc=If you don't want to mine Obsidian by hand, consid
 #nomifactory.quest.db.353.title=Glider
 nomifactory.quest.db.353.title=滑翔翼
 #nomifactory.quest.db.353.desc=The §aHang Glider§f is a great way to cross long distances, if you're so inclined.%n%nIf you don't want to go exploring for Cows, just buy a pair of "§6Spawn Cow§f" eggs and breed them. Seriously, spend your §dcoins§f!
-nomifactory.quest.db.353.desc=The §aHang Glider§f is a great way to cross long distances, if you're so inclined.%n%nIf you don't want to go exploring for Cows, just buy a pair of "§6Spawn Cow§f" eggs and breed them. Seriously, spend your §dcoins§f!
+nomifactory.quest.db.353.desc=如果你有这样的想法，§a悬挂式滑翔翼§f是一个跨越长距离的好方法。%n%n如果你不想去探索、寻找牛，只需购买一对“§6生成牛§f”的刷怪蛋，然后繁殖它们。说真的，快花掉你的§d硬币§f！
 
 # db 354
 #nomifactory.quest.db.354.title=Empowered Enori Gear
@@ -2150,7 +2150,7 @@ nomifactory.quest.db.370.desc=这里没有什么麻烦。熔炼§6原木§f以�
 #nomifactory.quest.db.371.title=Soft Hammer
 nomifactory.quest.db.371.title=软锤
 #nomifactory.quest.db.371.desc=A §aSoft Hammer§f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the hammer.
-nomifactory.quest.db.371.desc=A §aSoft Hammer§f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the hammer.
+nomifactory.quest.db.371.desc=§a软锤§r可以用来暂时停止机器的运作。当你有两台机器在运行，但由于电力不足...两台机器都无法继续运行时，这很有用。让一台机器完工，然后用软锤敲击另一台机器，再让它继续运作。
 
 # db 384
 #nomifactory.quest.db.384.title=Elite Component
@@ -2250,9 +2250,9 @@ nomifactory.quest.db.400.desc=Space exploration isn't mandatory in this pack, so
 
 # db 401
 #nomifactory.quest.db.401.title=Proper Tool Care
-nomifactory.quest.db.401.title=恰当的工具保养
+nomifactory.quest.db.401.title=适当的工具保养
 #nomifactory.quest.db.401.desc=§3Anvils§f can be used to repair almost all §bGregTech tools§f!%n%nYou might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils§f spawn abundantly in §bLost Cities§f buildings, so go and snatch one!%n%nPut a damaged tool inside and put some material it's made of. For example, you'll need to put §6Wrought Iron Ingots§f to repair tools made of §6Wrought Iron§f. The only tools unable to be repaired are the mortar and the plunger.
-nomifactory.quest.db.401.desc=§3Anvils§f can be used to repair almost all §bGregTech tools§f!%n%nYou might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils§f spawn abundantly in §bLost Cities§f buildings, so go and snatch one!%n%nPut a damaged tool inside and put some material it's made of. For example, you'll need to put §6Wrought Iron Ingots§f to repair tools made of §6Wrought Iron§f. The only tools unable to be repaired are the mortar and the plunger.
+nomifactory.quest.db.401.desc=§3铁砧§f可以用来修复几乎所有的§b格雷科技工具§f！%n%n你可能想给自己找一个铁砧，而不是每次都用坏和制作新工具。铁砧在§b失落的城市§f建筑中大量生成，所以去寻找一个吧！%n%n把一个损坏的工具放在里面，放一些它对应的材料。例如，你需要把§6锻铁锭§f用来修理§6锻铁§f制成的工具。唯一无法修复的工具是研钵和搋子。
 
 # db 402
 #nomifactory.quest.db.402.title=§2Machine Covers
@@ -2710,7 +2710,7 @@ nomifactory.quest.db.556.desc=Now that you have a §3Wiremill§f and a §3Compre
 #nomifactory.quest.db.558.title=Fuel Catalyzers
 nomifactory.quest.db.558.title=燃料催化加速
 #nomifactory.quest.db.558.desc=This is an augment that will work in all §3dynamos§f. It increases the efficiency of the fuel being used inside the dynamo, increasing the power it generates. However, the rate of power generation remains the same, the fuel simply lasts longer. So, while §6Fuel Catalyzers§f decrease the amount you'll need to go mining for §6Coal§f, they won't boost your production of RF per second.%n%nEach Fuel Catalyzer increases fuel efficiency by §a15%%§f, additively (so two will make fuel last §a30%% longer§f, three is §a45%% longer§f, etc.).
-nomifactory.quest.db.558.desc=This is an augment that will work in all §3dynamos§f. It increases the efficiency of the fuel being used inside the dynamo, increasing the power it generates. However, the rate of power generation remains the same, the fuel simply lasts longer. So, while §6Fuel Catalyzers§f decrease the amount you'll need to go mining for §6Coal§f, they won't boost your production of RF per second.%n%nEach Fuel Catalyzer increases fuel efficiency by §a15%%§f, additively (so two will make fuel last §a30%% longer§f, three is §a45%% longer§f, etc.).
+nomifactory.quest.db.558.desc=这是一个将在所有§3能源炉§f中起作用的增强功能。它提高了能源炉内部使用燃料的效率，增加了产生的功率。然而，发电功率保持不变，只是燃料的使用时间更长。因此，虽然§6燃料催化加速§f减少了你需要去开采§6煤§f的数量，但它们不会提高你每秒的RF产能。%n%n每个燃料催化加速可增加燃料效率§a15%%§f，加起来(所以两个会使燃料持续时间§a30%%§f，三个是§a45%%§f，等等)。
 
 # db 559
 #nomifactory.quest.db.559.title=Auxiliary Transmission Coils
@@ -3198,7 +3198,7 @@ nomifactory.quest.db.685.desc=There's no rush to get these all done and leveled 
 #nomifactory.quest.db.686.title=§2Infinite Water
 nomifactory.quest.db.686.title=§2无限水源
 #nomifactory.quest.db.686.desc=Feeding a §3Steam Dynamo§f with water by hand is a pretty silly idea.%n%nAn §6Infinite Water Source§f will take care of that for you, albeit slowly.%n%n§2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven.
-nomifactory.quest.db.686.desc=Feeding a §3Steam Dynamo§f with water by hand is a pretty silly idea.%n%nAn §6Infinite Water Source§f will take care of that for you, albeit slowly.%n%n§2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven.
+nomifactory.quest.db.686.desc=手动给§3蒸气能源炉§f加水是一个相当愚蠢的做法。%n%n一个§6无限水§f将为你解决这个问题，尽管很慢。%n%n§2格雷科技社区版非官方版有一个原始水泵，它可以做得更快。然而，它需要处理过的木头，而处理过的木头需要来自焦炉的杂酚油。
 
 # db 687
 #nomifactory.quest.db.687.title=Hellish Matter
@@ -4122,7 +4122,7 @@ nomifactory.quest.db.878.desc=§2这个元素在万象中是必需的。
 #nomifactory.quest.db.879.title=§2Infinite GT EU Emitter
 nomifactory.quest.db.879.title=§2无限GTEU能量输出器
 #nomifactory.quest.db.879.desc=§2Configurable to output any number of GT Volts and Amps.
-nomifactory.quest.db.879.desc=§2可配置为输出任何数量的GT电压和电流。
+nomifactory.quest.db.879.desc=§2可配置为输出任何数量的格雷科技电压和电流。
 
 # db 880
 #nomifactory.quest.db.880.title=§2Polyphenylene Sulfide
