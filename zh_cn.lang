@@ -86,7 +86,7 @@ nomifactory.quest.db.2.desc=注意: 这个任务同时接受LV和MV装罐机。%
 #nomifactory.quest.db.3.title=§2Genesis
 nomifactory.quest.db.3.title=§2开局
 #nomifactory.quest.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
-nomifactory.quest.db.3.desc=欢迎来到§5全能工厂§r格雷科技社区版§2非官方版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于§2社区版非官方版§r的新功能和有新内容的任务将以§2深绿色(颜色2)§r突出显示。
+nomifactory.quest.db.3.desc=欢迎来到§5全能工厂§r格雷科技社区版：§2非官方版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于§2社区版非官方版§r的新功能和有新内容的任务将以§2深绿色(颜色2)§r突出显示。
 
 # db 4
 #nomifactory.quest.db.4.title=Iron Supply
@@ -402,7 +402,7 @@ nomifactory.quest.db.58.desc=§6电池§r是§b格雷科技§r为§aEU§r能量�
 
 # db 59
 #nomifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
-nomifactory.quest.db.59.title=铜... 镍... 铜镍合金(白铜)?
+nomifactory.quest.db.59.title=铜...镍...白铜?
 #nomifactory.quest.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.%n%nNickel is used mostly for several very important alloys, including Invar and Cupronickel.
 nomifactory.quest.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.%n%nNickel is used mostly for several very important alloys, including Invar and Cupronickel.
 
@@ -882,15 +882,15 @@ nomifactory.quest.db.144.desc=Centrifuge §6Rare Earth§r, and among other usefu
 
 # db 145
 #nomifactory.quest.db.145.title=LV Pistons
-nomifactory.quest.db.145.title=LV活塞
+nomifactory.quest.db.145.title=LV电力活塞
 #nomifactory.quest.db.145.desc=A piston is a specialized motor, which is needed to make certain machines.%n%nOne of the more intricate components, as it is made using a motor.
-nomifactory.quest.db.145.desc=A piston is a specialized motor, which is needed to make certain machines.%n%nOne of the more intricate components, as it is made using a motor.
+nomifactory.quest.db.145.desc=电力活塞是一种专业的马达，被需要用来制造某些机器。%n%n更为复杂的组件之一，因为它是使用电动马达制造的。
 
 # db 146
 #nomifactory.quest.db.146.title=LV Pumps
-nomifactory.quest.db.146.title=LV泵
+nomifactory.quest.db.146.title=LV电动泵
 #nomifactory.quest.db.146.desc=Another common component of any machine that uses fluids. Also usable as a cover for moving fluids between §bGregTech§r machines and adjacent tanks or machines.%n%nYou can use §6Paper Rings§r or §6Rubber Rings§r, but both will require a §aKnife§r to craft. A stick and a piece of flint will make a Knife with low durability, or check the recipe for metal ones.
-nomifactory.quest.db.146.desc=Another common component of any machine that uses fluids. Also usable as a cover for moving fluids between §bGregTech§r machines and adjacent tanks or machines.%n%nYou can use §6Paper Rings§r or §6Rubber Rings§r, but both will require a §aKnife§r to craft. A stick and a piece of flint will make a Knife with low durability, or check the recipe for metal ones.
+nomifactory.quest.db.146.desc=任何使用液体的机器的另一个常见组件。也可用作在§b格雷科技§r机器和相邻的储罐或机器之间移动流体的覆盖板。%n%n你可以使用§6纸环§r或§6橡胶环§r，但都需要§a刀§r来制作。一个木棍和一个燧石可以制作出耐用性不高的刀，或者查看配方中的金属刀。
 
 # db 147
 #nomifactory.quest.db.147.title=§2Polarizer
@@ -2202,7 +2202,7 @@ nomifactory.quest.db.391.desc=ASSEMBLE... TOO!%n%nYeah you get to craft §6Nethe
 
 # db 392
 #nomifactory.quest.db.392.title=UHV Circuit...s?
-nomifactory.quest.db.392.title=UHV电路...板?
+nomifactory.quest.db.392.title=UHV电路...?
 #nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
 nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
 
@@ -2364,9 +2364,9 @@ nomifactory.quest.db.491.desc=不再需要伐木斧，§d格雷科技斧§r将�
 
 # db 492
 #nomifactory.quest.db.492.title=Drill Baby Drill
-nomifactory.quest.db.492.title=钻头宝贝钻头
+nomifactory.quest.db.492.title=宝贝钻头
 #nomifactory.quest.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
-nomifactory.quest.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
+nomifactory.quest.db.492.desc=它很贵吗？是的。它值得吗？当然值得。%n%n不过，在你得到好的升级之前，它不会开始发光，所以也许要推迟一段时间。
 
 # db 494
 #nomifactory.quest.db.494.title=Fluid Terminal
@@ -2480,13 +2480,13 @@ nomifactory.quest.db.513.title=红钢锭
 #nomifactory.quest.db.516.title=LV Conveyor
 nomifactory.quest.db.516.title=LV传送带
 #nomifactory.quest.db.516.desc=Not as common a component, but used in a number of critical machines.%n%nAlso useful as a machine cover for continuously moving items.
-nomifactory.quest.db.516.desc=Not as common a component, but used in a number of critical machines.%n%nAlso useful as a machine cover for continuously moving items.
+nomifactory.quest.db.516.desc=不是那么常见的组件，但在一些关键机器中使用。%n%n也可作为持续传输物品的机器覆盖板。
 
 # db 517
 #nomifactory.quest.db.517.title=LV Robot Arm
 nomifactory.quest.db.517.title=LV机械臂
 #nomifactory.quest.db.517.desc=§6Robot Arms§r are components of several powerful machines, and are also useful as a machine cover for precise item movement.%n%nOne of the most expensive components, as it requires motors, pistons, and a circuit.
-nomifactory.quest.db.517.desc=§6Robot Arms§r are components of several powerful machines, and are also useful as a machine cover for precise item movement.%n%nOne of the most expensive components, as it requires motors, pistons, and a circuit.
+nomifactory.quest.db.517.desc=§6机械臂§r是几个强大的机器的组成部分，也可以作为精确物品传输的机器覆盖板。%n%n最昂贵的组件之一，因为它需要电动马达、电力活塞和电路板。
 
 # db 519
 #nomifactory.quest.db.519.title=Naquadah Reactor Mk1
@@ -2640,7 +2640,7 @@ nomifactory.quest.db.544.desc=携带更多的东西。
 #nomifactory.quest.db.545.title=Reinforced Satchel
 nomifactory.quest.db.545.title=强化背包
 #nomifactory.quest.db.545.desc=Carry §oeven more§r stuff.
-nomifactory.quest.db.545.desc=携带§o更多的§r东西。
+nomifactory.quest.db.545.desc=携带§o更多§r的东西。
 
 # db 546
 #nomifactory.quest.db.546.title=§2Distillery
@@ -2692,7 +2692,7 @@ nomifactory.quest.db.553.desc=更好的飞行。
 #nomifactory.quest.db.554.title=Reinforced Jetpack
 nomifactory.quest.db.554.title=强化飞行背包
 #nomifactory.quest.db.554.desc=Even better flying.%n%nYou're not getting up to Resonant for a long time, just FYI.
-nomifactory.quest.db.554.desc=Even better flying.%n%nYou're not getting up to Resonant for a long time, just FYI.
+nomifactory.quest.db.554.desc=甚至更好的飞行。%n%n你有很长一段时间没有加入到共鸣中来，顺便说一下。
 
 # db 555
 #nomifactory.quest.db.555.title=Fluxed Phyto-Gro
@@ -3234,19 +3234,19 @@ nomifactory.quest.db.691.desc=对所有的扳手感到困惑了吗？%n%n§a新�
 #nomifactory.quest.db.692.title=Infinity War
 nomifactory.quest.db.692.title=无限战争
 #nomifactory.quest.db.692.desc=Give me a little juice, FRIDAY!
-nomifactory.quest.db.692.desc=Give me a little juice, FRIDAY!
+nomifactory.quest.db.692.desc=给我一点果汁，星期五！
 
 # db 693
 #nomifactory.quest.db.693.title=Captain... Marvel? IDK
 nomifactory.quest.db.693.title=队长... 漫威？我不知道
 #nomifactory.quest.db.693.desc=I'm running out of MCU puns.%n%nThe §aAngel Ring§r is actually slower than a jetpack, but it grants creative flight and requires no fuel (except a bit of GP).%n%nUp to you if you want to use it over a jetpack for day to day stuff, but it's an ingredient in the next jetpack, so if you want that you'll need to make one eventually.
-nomifactory.quest.db.693.desc=I'm running out of MCU puns.%n%nThe §aAngel Ring§r is actually slower than a jetpack, but it grants creative flight and requires no fuel (except a bit of GP).%n%nUp to you if you want to use it over a jetpack for day to day stuff, but it's an ingredient in the next jetpack, so if you want that you'll need to make one eventually.
+nomifactory.quest.db.693.desc=我已经没有漫威电影宇宙的双关语了。%n%n天使指环实际上比飞行背包慢，但它能提供创造模式的飞行，而且不需要燃料(除了一点GP)。%n%n如果你想在飞行背包上使用它来处理日常的事情，这取决于你，但它是下一个飞行背包的组成部分，所以如果你想要它，你最终需要做一个。
 
 # db 694
 #nomifactory.quest.db.694.title=Endgame
 nomifactory.quest.db.694.title=终局
 #nomifactory.quest.db.694.desc=This is the flight of our lives.
-nomifactory.quest.db.694.desc=This is the flight of our lives.
+nomifactory.quest.db.694.desc=这是我们生命中的飞行。
 
 # db 695
 #nomifactory.quest.db.695.title=Naquadah Reactor Mk2
@@ -3360,7 +3360,7 @@ nomifactory.quest.db.751.desc=Using plain §3Steam Dynamos§r is pretty ineffici
 #nomifactory.quest.db.752.title=Resonant Satchel
 nomifactory.quest.db.752.title=谐振背包
 #nomifactory.quest.db.752.desc=Carry the most stuff.%n%nIf you need more space than this, enchant it with §aHolding IV§r.
-nomifactory.quest.db.752.desc=Carry the most stuff.%n%nIf you need more space than this, enchant it with §aHolding IV§r.
+nomifactory.quest.db.752.desc=携带的东西最多。%n%n如果你需要比这更多的空间，就用§a扩容IV§r给它附魔。
 
 # db 753
 #nomifactory.quest.db.753.title=Telepad
@@ -3430,9 +3430,9 @@ nomifactory.quest.db.763.desc=Circuits along this line are LV, and can all be su
 
 # db 764
 #nomifactory.quest.db.764.title=What is This?
-nomifactory.quest.db.764.title=这是什么？
+nomifactory.quest.db.764.title=这是什么呢？
 #nomifactory.quest.db.764.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
-nomifactory.quest.db.764.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
+nomifactory.quest.db.764.desc=增加了当前进展标签，以便你可以跟踪整合包的重要部分。%n%n电路是整个全能工厂进展的基线，所以要继续攀登！
 
 # db 765
 #nomifactory.quest.db.765.title=MV Circuits
@@ -3636,7 +3636,7 @@ nomifactory.quest.db.797.desc=§6Sunnarium§r is an alloy formed from §6Stabili
 #nomifactory.quest.db.798.title=Signalum Satchel
 nomifactory.quest.db.798.title=信素背包
 #nomifactory.quest.db.798.desc=Carry a whole lotta stuff!
-nomifactory.quest.db.798.desc=Carry a whole lotta stuff!
+nomifactory.quest.db.798.desc=携带大量的东西！
 
 # db 799
 #nomifactory.quest.db.799.title="Seed Oil" or "Fish Oil" or "Canola Press"
@@ -4258,7 +4258,7 @@ nomifactory.quest.db.901.desc=§2你伴生的平板设备非常有价值，可�
 
 # db 902
 #nomifactory.quest.db.902.title=§2Cupronickel Coils
-nomifactory.quest.db.902.title=§2铜镍合金线圈
+nomifactory.quest.db.902.title=§2白铜线圈
 #nomifactory.quest.db.902.desc=§2The coil recipes are harder in CEu, not only do they require their base material, they also need some extra material types and they must be made in Assembling Machines of their tier.%n%nFor Cupronickel Coils, you will need 8 Cupronickel, 2 Bronze, and 1 Tin Alloy for each coil. You need 16 for the Electric Blast Furnace and 16 for the Pyrolyse Oven. That totals to 176 Copper, 128 Nickel, 32 Tin, and 16 Iron.
 nomifactory.quest.db.902.desc=§2The coil recipes are harder in CEu, not only do they require their base material, they also need some extra material types and they must be made in Assembling Machines of their tier.%n%nFor Cupronickel Coils, you will need 8 Cupronickel, 2 Bronze, and 1 Tin Alloy for each coil. You need 16 for the Electric Blast Furnace and 16 for the Pyrolyse Oven. That totals to 176 Copper, 128 Nickel, 32 Tin, and 16 Iron.
 
