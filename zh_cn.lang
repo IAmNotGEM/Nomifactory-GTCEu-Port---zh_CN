@@ -290,7 +290,7 @@ nomifactory.quest.db.37.desc=出去寻找§6橡胶树§f是一个可行的选择
 #nomifactory.quest.db.38.title=§2LV Power
 nomifactory.quest.db.38.title=§2LV能量
 #nomifactory.quest.db.38.desc=§oNote: this quest accepts any §2§oLV Energy Converter§r§o.%n%n§rUntil now you have been generating §aRF power§r with your §3Steam Dynamos§r, but §bGregTech§r machines require §aEU power§r. With your first §6circuit§r in hand, you are ready to build a §eLow Voltage (LV) §3§2Energy Converter§r.%n%nThe §2Energy Converter§r is a special device that §econverts §2between §aRF power§r and §aEU power§r. They come in §2four sizes: 1A, 4A, 8A, and 16A.%n%n§aRF§r converts into §aEU§r at a §e4 to 1 ratio§r. §a100 RF§r becomes §a25 EU§r, and vice-versa. §2Use a Soft Hammer to change the conversion direction.
-nomifactory.quest.db.38.desc=§oNote: this quest accepts any §2§oLV Energy Converter§r§o.%n%n§rUntil now you have been generating §aRF power§r with your §3Steam Dynamos§r, but §bGregTech§r machines require §aEU power§r. With your first §6circuit§r in hand, you are ready to build a §eLow Voltage (LV) §3§2Energy Converter§r.%n%nThe §2Energy Converter§r is a special device that §econverts §2between §aRF power§r and §aEU power§r. They come in §2four sizes: 1A, 4A, 8A, and 16A.%n%n§aRF§r converts into §aEU§r at a §e4 to 1 ratio§r. §a100 RF§r becomes §a25 EU§r, and vice-versa. §2Use a Soft Hammer to change the conversion direction.
+nomifactory.quest.db.38.desc=§o注意: 这个任务接受任何§2§oLV能量转换器§r§o。%n%n§r到现在为止，你一直在用你的§3蒸汽能源炉§r产生§aRF能量§r，但§b格雷科技§r机器需要§aEU能量§r。有了你的第一个§6电路§r，你已经准备好制作一个§e低压(LV)§2能量转换器§r。%n%n§2能量转换器§r是一个特殊的装置，可以在§aRF能量§r和§aEU能量§r之间进行转换。它们有§24种规格: 1A、4A、8A§r和§216A§r。%n%n§aRF§r转换成§aEU§r是一个§e4到1的比例§r。§a100RF§r变成§a25EU§r，反之亦然。§2使用软锤来改变转换方向。
 
 # db 39
 #nomifactory.quest.db.39.title=Item Conduits
@@ -386,7 +386,7 @@ nomifactory.quest.db.55.desc=§3Centrifuges§r provide you with §21 tiny pile§
 #nomifactory.quest.db.56.title=Putting It All Together
 nomifactory.quest.db.56.title=组装起来吧
 #nomifactory.quest.db.56.desc=Now that you have everything you need to power your machines, it's time to put it all together.%n%nYour Steam Dynamo needs burnable fuel (like §6Coal§r) and §9water§r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a §aCrescent Hammer§r, if needed.%n%n§6Energy Conduits§r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter.%n%nThe Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a §aWrench§r. Attach your §6Conductive Iron Cables§r to the output side of the Energy Converter.%n%nNow all you need are some §bGregTech§r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:%n%nThe §6Wiremill§r will make crafting wires much, much easier.%n%nThe §2Metal Bender§r will make Plates from one ingot instead of two.
-nomifactory.quest.db.56.desc=Now that you have everything you need to power your machines, it's time to put it all together.%n%nYour Steam Dynamo needs burnable fuel (like §6Coal§r) and §9water§r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a §aCrescent Hammer§r, if needed.%n%n§6Energy Conduits§r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter.%n%nThe Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a §aWrench§r. Attach your §6Conductive Iron Cables§r to the output side of the Energy Converter.%n%nNow all you need are some §bGregTech§r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:%n%nThe §6Wiremill§r will make crafting wires much, much easier.%n%nThe §2Metal Bender§r will make Plates from one ingot instead of two.
+nomifactory.quest.db.56.desc=现在你已经有了为你的机器提供能量所需的一切，是时候把它们组装在一起了。%n%n你的蒸汽能源炉需要可燃烧的燃料(如§6煤§r)和§9水§r。它将通过励磁线圈(顶部的红色位)输出RF能量。如果需要，蒸汽能源炉的方向可以用§a新月锤§r调整。%n%n§6§6能量导管§r可用于传输RF能量，但通过使励磁线圈接触能量转换器，能源炉也可以直接向能量转换器输出RF。%n%n能量转换器将RF能量转化为EU，通过带有红点的一侧输出产生的EU。方向可以用§a扳手§r来调整。将你的§6导电铁导管§r连接到能量转换器的输出侧。%n%n现在你所需要的是一些§b格雷科技§r机器来连接到线缆上！你可以做任何你想要的东西，但建议你先得到这两样东西:%n%n§6线材轧机§r将使制作线缆的制作变得更加容易。%n%n§2卷板机§r将用一个金属锭而不是两个金属锭制作成板。
 
 # db 57
 #nomifactory.quest.db.57.title=Ender Fluid Conduits
@@ -398,7 +398,7 @@ nomifactory.quest.db.57.desc=§aEnder Fluid Conduits§r are the most powerful fl
 #nomifactory.quest.db.58.title=§2LV Power Storage
 nomifactory.quest.db.58.title=§2LV能量存储
 #nomifactory.quest.db.58.desc=§6Batteries§r are §bGregTech §rpower storage for §aEU§r energy.%n%nAlthough there are several types of rechargeable batteries you can make, §2Lithium Batteries§r are the best ones, and the only ones you should really consider making.%n%n§6Lithium§r is possible to find inside of §6Tungsten§r veins, however, they are fairly rare. Consider "buying" some Lithium with §dOmnicoins§r.
-nomifactory.quest.db.58.desc=§6Batteries§r are §bGregTech §rpower storage for §aEU§r energy.%n%nAlthough there are several types of rechargeable batteries you can make, §2Lithium Batteries§r are the best ones, and the only ones you should really consider making.%n%n§6Lithium§r is possible to find inside of §6Tungsten§r veins, however, they are fairly rare. Consider "buying" some Lithium with §dOmnicoins§r.
+nomifactory.quest.db.58.desc=§6电池§r是§b格雷科技§r为§aEU§r能量存储的设备。%n%n虽然有几种类型的可充电电池你可以制作，§2但锂电池是其中最好的一个，也是你真正应该考虑做的唯一事情。%n%n§6§6锂§r有可能在§6钨§r矿脉中找到，但是，它们相当罕见。考虑用§d万象币§r“购买”一些锂。
 
 # db 59
 #nomifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
@@ -2216,7 +2216,7 @@ nomifactory.quest.db.393.desc=You might be wondering what chunkloading options t
 #nomifactory.quest.db.394.title=Flux Capacitors
 nomifactory.quest.db.394.title=通量电容
 #nomifactory.quest.db.394.desc=Basic §aFlux Capacitors§r hold a whopping lot of energy - §a10 million RF§r - and are useful for keeping your §aRF-powered§r equipment and tools charged.%n%nPut one into your newly crafted §3Battery Buffer§r to charge it. You can then put it in your inventory to charge your items with §aRF§r. %n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!§r%n%nFlux Capacitor is a §bBauble§r, open your inventory and look for the Baubles button, click it to reveal the additional bauble slots menu and put it into any slot you wish.%n%nFinally you can charge up all those depleted §6Dark Boots§r and §6The Ender§r swords you've looted.
-nomifactory.quest.db.394.desc=Basic §aFlux Capacitors§r hold a whopping lot of energy - §a10 million RF§r - and are useful for keeping your §aRF-powered§r equipment and tools charged.%n%nPut one into your newly crafted §3Battery Buffer§r to charge it. You can then put it in your inventory to charge your items with §aRF§r. %n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!§r%n%nFlux Capacitor is a §bBauble§r, open your inventory and look for the Baubles button, click it to reveal the additional bauble slots menu and put it into any slot you wish.%n%nFinally you can charge up all those depleted §6Dark Boots§r and §6The Ender§r swords you've looted.
+nomifactory.quest.db.394.desc=基础的§a通量电容§r可容纳大量的能量 - §a1000万RF§r - 并有助于保持你使用§aRF能量§r的设备和工具的供能。%n%n把一个放进你新制作的§3电池箱§r来充能。然后你可以把它放在你的物品栏中，用§aRF§r为你的物品充电。%n§cRF电池，如通量电容，不能在电池箱放电！§r%n%n通量电容是一个§b饰品§r，打开你的物品栏，寻找饰品栏按钮，点击它以显示额外的饰品栏格位，并将其放入你想放的任何格位。%n%n最后你可以为你搜刮到的那些耗尽能量的§6玄钢靴子§r和§6终结之剑§r充电。
 
 # db 395
 #nomifactory.quest.db.395.title=Quantum Flux
@@ -2300,7 +2300,7 @@ nomifactory.quest.db.408.desc=§bPackagedAuto§r is an addon for §bApplied Ener
 #nomifactory.quest.db.409.title=§2A Primer on Power
 nomifactory.quest.db.409.title=§2电力初学者
 #nomifactory.quest.db.409.desc=Unlike §aRF power§r, which is safe to transport in any §6conduit§r, §aEU power §r§erequires caution§r. The key is to always §amatch or exceed§r the §eVoltage §rand §eAmperage§r of your power source with your §6cables§r and machines.%n%n§o§4§cNEVER §rhook up your Energy Converter§r to a cable that has fewer §eAmps§r than your Energy Converter or Battery Buffer§r generates. For example, you must use §64x cable§r for a 4A Converter§r, and §616x cable§r for a filled 16-slot Battery Buffer§r. Cables with insufficient amperage rating will §cburn and be destroyed§r. §2Both the multiple-amp-source and multiple-face-input bugs from CE have been fixed - the Energy network now works as intended.§r%n%nSimilarly, your cable must match or exceed the §eVoltage§r of your machines, or they will §cburn and be destroyed§r.%n%n§cNEVER§r connect a machine to excessive §eVoltage§r or it will §cvaporize§r. Touching a §6wire§r with connected §aEU power§r will §cinjure or kill you§r, so for your safety, §euse §6cables§e instead§r!%n%n§2Superconductor-type wires do not damage you in CEu. The 0-loss cables in CE (Conductive Iron, Energetic Alloy, etc.) are considered Superconductors.
-nomifactory.quest.db.409.desc=Unlike §aRF power§r, which is safe to transport in any §6conduit§r, §aEU power §r§erequires caution§r. The key is to always §amatch or exceed§r the §eVoltage §rand §eAmperage§r of your power source with your §6cables§r and machines.%n%n§o§4§cNEVER §rhook up your Energy Converter§r to a cable that has fewer §eAmps§r than your Energy Converter or Battery Buffer§r generates. For example, you must use §64x cable§r for a 4A Converter§r, and §616x cable§r for a filled 16-slot Battery Buffer§r. Cables with insufficient amperage rating will §cburn and be destroyed§r. §2Both the multiple-amp-source and multiple-face-input bugs from CE have been fixed - the Energy network now works as intended.§r%n%nSimilarly, your cable must match or exceed the §eVoltage§r of your machines, or they will §cburn and be destroyed§r.%n%n§cNEVER§r connect a machine to excessive §eVoltage§r or it will §cvaporize§r. Touching a §6wire§r with connected §aEU power§r will §cinjure or kill you§r, so for your safety, §euse §6cables§e instead§r!%n%n§2Superconductor-type wires do not damage you in CEu. The 0-loss cables in CE (Conductive Iron, Energetic Alloy, etc.) are considered Superconductors.
+nomifactory.quest.db.409.desc=不像§aRF能量§r，在任何§6导管§r传输都是安全的，§aEU能量§r则§e需要谨慎§r。关键在于保证能量源的§e电压§r和§e电流§r总是要和你的§6线缆§r以及§6机器§a相匹配§r。%n%n§c永远不要§r把只能承载较低§e电流§r的导线接到提供更高电流的能量转换器或电池箱上。例如，你必须使用§64x导线§r用于4A转换器§r，而§616x导线§r用于满载的16x电池箱§r。额定电流不足的导线将会§c熔断和损坏§r。§2社区版中的多电流源和多面输入的错误都已修复 - 能源网络现在可以按计划工作。§r%n%n同样，你的导线必须符合或超过机器的§e电压§r，否则它们将会§c熔断和损坏§r。%n%n§c永远不要§r把机器连接到过高的电压上，否则它将会§c蒸发§r掉。触碰到连接着的§6导线§r将§c使你受伤或杀死你§r，所以为了你的安全，请使用§6线缆§r来代替！%n%n§2超导类型的导线在社区版非官方版中不会对你造成伤害。社区版中的无损导线(如导电铁、充能合金等)被认为是超导体。
 
 # db 411
 #nomifactory.quest.db.411.title=§2Large Microverse Projector
@@ -2324,7 +2324,7 @@ nomifactory.quest.db.413.desc=§2The functions of the Extractor and Fluid Extrac
 #nomifactory.quest.db.415.title=Fluxomagnet
 nomifactory.quest.db.415.title=通量磁铁
 #nomifactory.quest.db.415.desc=Now that you have a §aFlux Capacitor§r to keep things charged, you might consider making yourself a §aFluxomagnet§r.%n%nThis relatively inexpensive bauble will suck nearby items into your inventory.
-nomifactory.quest.db.415.desc=Now that you have a §aFlux Capacitor§r to keep things charged, you might consider making yourself a §aFluxomagnet§r.%n%nThis relatively inexpensive bauble will suck nearby items into your inventory.
+nomifactory.quest.db.415.desc=现在，你有了一个§a通量电容§r来保持物品充电，你可以考虑让自己成为一个§a通量磁铁§r。%n%n这个相对便宜的小玩意会把附近的物品吸进你的物品栏。
 
 # db 416
 #nomifactory.quest.db.416.title=Fish Oil
@@ -2378,7 +2378,7 @@ nomifactory.quest.db.494.desc=This terminal allows you to interact with fluid st
 #nomifactory.quest.db.495.title=Storage Drawer Controller
 nomifactory.quest.db.495.title=抽屉控制器
 #nomifactory.quest.db.495.desc=§aStorage Drawer Controllers§r are the central hub of any good storage system. They can pull from any drawers they are connected to (via other drawers, or drawer trims) within a 12 block cubic radius. This leads to a potential 25x25x25 area to connect drawers, centered on the controller.%n%nThe appearance can be customized by crafting the controller into §aFramed Controller§r and putting it into a §aFraming Table§r.%n%n§aController Slaves§r do not extend the range, but rather act as another access point to that controller - allowing you to push/pull from any of the drawers within range of the local Drawer Controller.%n%nConnecting an §6ME Storage Bus§f to a controller exposes all of the drawers to §bApplied Energistics§f. Particularly large networks can be laggy though, so keep your drawer networks a manageable size.%n
-nomifactory.quest.db.495.desc=§aStorage Drawer Controllers§r are the central hub of any good storage system. They can pull from any drawers they are connected to (via other drawers, or drawer trims) within a 12 block cubic radius. This leads to a potential 25x25x25 area to connect drawers, centered on the controller.%n%nThe appearance can be customized by crafting the controller into §aFramed Controller§r and putting it into a §aFraming Table§r.%n%n§aController Slaves§r do not extend the range, but rather act as another access point to that controller - allowing you to push/pull from any of the drawers within range of the local Drawer Controller.%n%nConnecting an §6ME Storage Bus§f to a controller exposes all of the drawers to §bApplied Energistics§f. Particularly large networks can be laggy though, so keep your drawer networks a manageable size.%n
+nomifactory.quest.db.495.desc=§a抽屉控制器§a是任何良好存储系统的中心枢纽。它们可以在半径为12格立方体范围内，从它们所连接的任何抽屉（通过其他抽屉或桥接方块）中取出。这导致了一个潜在的25x25x25的区域来连接抽屉，以控制器为中心。%n%n外观可以通过定制将控制器放入§a镶框台§r来制作成§a镶框控制器§r。%n%n§a控制器传动方块§r不会扩大范围，而是作为该控制器的另一个接入点 - 允许你从本地抽屉控制器范围内的任何抽屉中放入/拿出。%n%n将一个§6ME存储总线§f连接到一个控制器，使所有的抽屉内容显示在§b应用能源2§f。不过，特别大的网络可能会有滞后性，所以要将你的抽屉网络保持在可管理的规模。
 
 # db 496
 #nomifactory.quest.db.496.title=Drawers
@@ -2558,7 +2558,7 @@ nomifactory.quest.db.529.desc=With your §6Tungstensteel§r-based machine hulls 
 #nomifactory.quest.db.530.title=§2Your First Circuit
 nomifactory.quest.db.530.title=§2你的第一块电路板
 #nomifactory.quest.db.530.desc=With all of the components made, it's time to craft an §2Electronic Circuit§r.%n%nThis is where your §3Crafting Station§f setups will really shine! With the patterns encoded into a Crafting Stations (well, really over §omany§r Crafting Stations), you'll be able to §ebatch craft circuits quickly§f.%n%nYou'll be making a LOT§r of circuits, so take advantage of the improved crafting efficiency.
-nomifactory.quest.db.530.desc=With all of the components made, it's time to craft an §2Electronic Circuit§r.%n%nThis is where your §3Crafting Station§f setups will really shine! With the patterns encoded into a Crafting Stations (well, really over §omany§r Crafting Stations), you'll be able to §ebatch craft circuits quickly§f.%n%nYou'll be making a LOT§r of circuits, so take advantage of the improved crafting efficiency.
+nomifactory.quest.db.530.desc=所有元件准备完毕，现在是时候制作一个§2电路板§r了。%n%n这就是你的§3先进合成站§f安排将真正闪耀的地方！随着配方被编码到先进合成站中(好吧，真的超越§o许多§r工作台)，你就能§e快速批量制作电路§f了。%n%n你将会制作大量的电路，所以要利用好改进后的制作效率。
 
 # db 531
 #nomifactory.quest.db.531.title=§2The First Tier Seven Circuits
@@ -2680,7 +2680,7 @@ nomifactory.quest.db.551.desc=These are useful for extending the range of other 
 #nomifactory.quest.db.552.title=Leadstone Jetpack
 nomifactory.quest.db.552.title=铅石飞行背包
 #nomifactory.quest.db.552.desc=Being able to fly is pretty sick. It's also pretty expensive.%n%nIt's probably a bit premature to consider a §6jetpack§r at this point, but if you really want to craft this bad boy, I won't stop you.%n%nThere's also a quest chain for §bEnderIO§r Jetpacks (starting with the §6Conductive Iron Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.%n%nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2§r §eConfiguration file§r or the command §6/topcfg§r respectively.
-nomifactory.quest.db.552.desc=Being able to fly is pretty sick. It's also pretty expensive.%n%nIt's probably a bit premature to consider a §6jetpack§r at this point, but if you really want to craft this bad boy, I won't stop you.%n%nThere's also a quest chain for §bEnderIO§r Jetpacks (starting with the §6Conductive Iron Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.%n%nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2§r §eConfiguration file§r or the command §6/topcfg§r respectively.
+nomifactory.quest.db.552.desc=能够飞行是很变态的。这也是相当昂贵的。%n%n在这一点上，考虑使用§6飞行背包§r可能有点为时过早，坏孩子，但如果你真的想制作这个，我不会阻止你。%n%n还有一个关于§b末影接口§r的飞行背包的任务链(从§6导电铁飞行背包§r开始)。最终你会需要做这两件事，但不是很长时间，所以，除非你真的非常喜欢飞行，否则请你至少忽略这些任务链中的一个任务。%n%n如果§6飞行背包§r的概述和§b检测器§r的信息发生冲突，可以分别通过§b简易喷气背包2§r的§e配置文件§r或§6/topcfg§r命令进行调整。
 
 # db 553
 #nomifactory.quest.db.553.title=Hardened Jetpack
@@ -3708,7 +3708,7 @@ nomifactory.quest.db.809.desc=§6Sulfur§r will be used in a variety of upcoming
 #nomifactory.quest.db.810.title=Sulfur Ore
 nomifactory.quest.db.810.title=硫矿石
 #nomifactory.quest.db.810.desc=§6Sulfur Ore§r is the only source of §6Sulfur Dust§r that's currently available to you.%n%nYou may want to spend a few §dOmnicoins§r on the ore to jumpstart your power storage.%n%nOtherwise the ore is only available in §athe Nether§r, and the only way to get there is with a §6Nether Cake§r. Oh no!
-nomifactory.quest.db.810.desc=§6Sulfur Ore§r is the only source of §6Sulfur Dust§r that's currently available to you.%n%nYou may want to spend a few §dOmnicoins§r on the ore to jumpstart your power storage.%n%nOtherwise the ore is only available in §athe Nether§r, and the only way to get there is with a §6Nether Cake§r. Oh no!
+nomifactory.quest.db.810.desc=§6硫矿石§r是目前唯一可供你使用的§6硫粉§r来源。%n%n你可能想在矿石上花费一些§d万象币§r来启动你的能量存储。%n%n否则，矿石只能在§a地狱§r中获得，而到达那里的唯一方法是使用§6地狱蛋糕§r。哦，不！
 
 # db 811
 #nomifactory.quest.db.811.title="Ethanol" and "Sulfuric Acid"
@@ -4296,7 +4296,7 @@ nomifactory.quest.db.907.desc=
 #nomifactory.quest.db.908.title=§2§2Primitive Steelworks
 nomifactory.quest.db.908.title=§2原始炼钢
 #nomifactory.quest.db.908.desc=A mixture of Clay and Brick produces large quantities of §6Firebricks§r, used in building the §3Primitive Blast Furnace§r. This allows you to make §6Steel§r from §6Wrought Iron§r, which forms the basis of LV Machine Hulls.%n%nThe §3PBF§r has been changed to be blazing fast - just 20 seconds per §6Steel Ingot§r! You will still want to keep it running, as you won't stop needing Steel.
-nomifactory.quest.db.908.desc=A mixture of Clay and Brick produces large quantities of §6Firebricks§r, used in building the §3Primitive Blast Furnace§r. This allows you to make §6Steel§r from §6Wrought Iron§r, which forms the basis of LV Machine Hulls.%n%nThe §3PBF§r has been changed to be blazing fast - just 20 seconds per §6Steel Ingot§r! You will still want to keep it running, as you won't stop needing Steel.
+nomifactory.quest.db.908.desc=粘土粉和砖粉的混合物产生大量的§6耐火砖§r，用于建造§3土高炉§r。这使你可以用§6锻铁§r制造§6钢§r，这构成了LV机械外壳的基础。%n%n§3土高炉§r已经被改变成了极快的速度 - 每一个§6钢锭§r只需要20秒！你仍然希望保持它的运行，因为你不会停止对钢的需求。
 
 # db 909
 #nomifactory.quest.db.909.title=§2Rhodium Plated Lumium-Palladium
@@ -4308,7 +4308,7 @@ nomifactory.quest.db.909.desc=§2Rhodium Plated Lumium-Palladium is a mixture of
 #nomifactory.quest.db.910.title=LV Battery Buffer
 nomifactory.quest.db.910.title=LV电池箱
 #nomifactory.quest.db.910.desc=The §6Battery Buffer§r is a machine which can hold §6Batteries§r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp.%n%nYou can also charge §6Electric tools§r in them.%n%n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!
-nomifactory.quest.db.910.desc=The §6Battery Buffer§r is a machine which can hold §6Batteries§r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp.%n%nYou can also charge §6Electric tools§r in them.%n%n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!
+nomifactory.quest.db.910.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！
 
 # db 911
 #nomifactory.quest.db.911.title=Hard Mode
