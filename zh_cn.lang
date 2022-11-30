@@ -134,7 +134,7 @@ nomifactory.quest.db.10.desc=The Second Micro Miner!%n%nThis uses an §bExtended
 #nomifactory.quest.db.11.title=§2Electronics Subcomponents
 nomifactory.quest.db.11.title=§2电子元件
 #nomifactory.quest.db.11.desc=A "§esubstrate§f" is the "board" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. §6Wood§r coated in §6Sticky Resin§r is a primitive but effective material to use as your first substrate.%n%n§2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.§r%n%nYou'll also need to make §6Vacuum Tubes§f, as well as some primitive §6Resistors§r. §6Paper§r will work as a material for these, for now.%n%nMake sure to code these recipes into a §3Crafting Station§r... you'll be making a LOT of these things.
-nomifactory.quest.db.11.desc=所谓“§e基板§f”是指电路板的“板”这一部分...也就是支撑电路组件和电线的部分。一个好的基板需要不导电，原因很明显。涂在§6粘性树脂§r上的§6木头§r是一种原始但有效的材料，可作为你的第一个基板。%n%n§2社区版非官方版电路的进展意味着你也必须在你的基板上放上电线，以便它们可以使用。在这种情况下，使用一些铜导线。§r%n%n你还需要制作§6真空管§f，以及一些原始的§6电阻§r。目前，§6纸§r将作为一个的材料来使用。%n%n请确保将这些配方写入§3先进合成站§r...你会做很多这些东西。
+nomifactory.quest.db.11.desc=所谓“§e基板§f”是指电路板的“板”这一部分...也就是支撑电路组件和电线的部分。一个好的基板需要不导电，原因很明显。涂上§6粘性树脂§r的§6木头§r是一种原始但有效的材料，可作为你的第一个基板。%n%n§2社区版非官方版电路的进展意味着你也必须在你的基板上放上电线，以便它们可以使用。在这种情况下，使用一些铜导线。§r%n%n你还需要制作§6真空管§f，以及一些原始的§6电阻§r。目前，§6纸§r将作为一个的材料来使用。%n%n请确保将这些配方写入§3先进合成站§r...你会做很多这些东西。
 
 # db 12
 #nomifactory.quest.db.12.title=Some Starter Tools
