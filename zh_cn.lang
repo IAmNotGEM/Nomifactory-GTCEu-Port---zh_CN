@@ -230,7 +230,7 @@ nomifactory.quest.db.26.desc=§6钢§r与§6黑曜石§r合金制成§6玄钢，
 #nomifactory.quest.db.27.title=LV Chemical Reactor
 nomifactory.quest.db.27.title=LV化学反应釜
 #nomifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
-nomifactory.quest.db.27.desc=The place for your very first chemical reactions, namely making some improved substrates.
+nomifactory.quest.db.27.desc=你的第一个化学反应的地方，即制作一些改进的底层材料。
 
 # db 28
 #nomifactory.quest.db.28.title=Pulsating Dust
@@ -506,7 +506,7 @@ nomifactory.quest.db.75.desc=The §6Machine Block§r is the first step into a mo
 #nomifactory.quest.db.76.title=§2The First Tier Two Circuits
 nomifactory.quest.db.76.title=§2第一种二阶电路
 #nomifactory.quest.db.76.desc=Your first §6Tier Two Circuits§r will require §2two §6Tier One Circuits§r plus §2two §6Diodes§r.%n%nThese are rather expensive... Always be on the lookout for a cheaper way to make your circuits - new sets of recipes become available each time you make a new tier of §2Circuit Assembler§r. Conveniently, this tier of Circuit unlocks one now!
-nomifactory.quest.db.76.desc=Your first §6Tier Two Circuits§r will require §2two §6Tier One Circuits§r plus §2two §6Diodes§r.%n%nThese are rather expensive... Always be on the lookout for a cheaper way to make your circuits - new sets of recipes become available each time you make a new tier of §2Circuit Assembler§r. Conveniently, this tier of Circuit unlocks one now!
+nomifactory.quest.db.76.desc=你的第一种§6二阶电路§r需要§22个§6一阶电路§r和§22个§6二极管§r%n%n这些都是相当昂贵的...总是在寻找一种更便宜的方法来制造你的电路 - 每当你制作新一层级的§2电路组装机§r时，就会有新的成套配方。方便的是，这个级别的电路现在就可以解锁一个了！
 
 # db 77
 #nomifactory.quest.db.77.title=§2Perfect Gems
@@ -518,7 +518,7 @@ nomifactory.quest.db.77.desc=§2Perfect Gems are equivalent to 8 of the base gem
 #nomifactory.quest.db.78.title=§2Gallium Arsenide
 nomifactory.quest.db.78.title=§2砷化镓
 #nomifactory.quest.db.78.desc=§2Initial circuit components are a bit more difficult in CEu, and you need Arsenic in addition to Gallium.§r%n%nFor §dGallium§r, you may, ranged from worst to best:%n%n- §3Electrolyze §aSphalerite§r for a low chance of small dust. Note that you lose on direct smelting value.%n%n-§r Put §aCrushed Bauxite§r in the §3Chemical Bath§r. Note that this requires §9Sodium Persulfate§r. %n%n- Obtain it as a Byproduct of §aSphalerite§r Ore Processing, in the §3Thermal Centrifuge§r or §3Centrifuge§r.%n%n§2For Arsenic, you must centrifuge Realgar Dust, or (more involvedly) flash smelt Cobaltite Dust in the EBF, and electrolyse the resultant Arsenic Trioxide.%n%nCombine both in a Mixer to make Gallium Arsenide.
-nomifactory.quest.db.78.desc=§2Initial circuit components are a bit more difficult in CEu, and you need Arsenic in addition to Gallium.§r%n%nFor §dGallium§r, you may, ranged from worst to best:%n%n- §3Electrolyze §aSphalerite§r for a low chance of small dust. Note that you lose on direct smelting value.%n%n-§r Put §aCrushed Bauxite§r in the §3Chemical Bath§r. Note that this requires §9Sodium Persulfate§r. %n%n- Obtain it as a Byproduct of §aSphalerite§r Ore Processing, in the §3Thermal Centrifuge§r or §3Centrifuge§r.%n%n§2For Arsenic, you must centrifuge Realgar Dust, or (more involvedly) flash smelt Cobaltite Dust in the EBF, and electrolyse the resultant Arsenic Trioxide.%n%nCombine both in a Mixer to make Gallium Arsenide.
+nomifactory.quest.db.78.desc=§2初始电路元件在社区版：非官方版中的难度较大，除了镓之外，你还需要砷。§r%n%n对于§d镓§r，你可以从最坏到最好的程度内选择:%n%n- §3电解§a闪锌矿§r，产生小撮粉的几率很低。请注意，你在直接熔炼价值上是有损失的。%n%n- 将§a粉碎的铝土矿§r放入§3化学反应釜§r中。注意，这需要§9过硫酸钠§r。%n%n- 在§3热力离心机§r或§3离心机§r中，作为§a闪锌矿§r矿石处理的副产物获得它。%n%n§2对于砷，你必须离心分离雄黄粉，或(更复杂地)在电力高炉中闪速熔炼辉钴矿粉尘，并电解产生的三氧化砷。%n%n将两者放在搅拌机中，制成砷化镓。
 
 # db 79
 #nomifactory.quest.db.79.title=§2Cutting Machine
@@ -530,7 +530,7 @@ nomifactory.quest.db.79.desc=Cuts things up.%n%nThe §3Cutting Machine§r is abl
 #nomifactory.quest.db.80.title=§2Silicon Boules
 nomifactory.quest.db.80.title=§2单晶硅
 #nomifactory.quest.db.80.desc=A hefty amount of §6Silicon Dust§r and a pinch of §2Gallium Arsenide §rcooked in an §3EBF§r will net you a §6Silicon Boule§r, the starting point for §6Circuit Wafers§r.%n%nMake sure your power system is up to the task. These take §27.5 minutes and 1,080,000 EU§r to process.
-nomifactory.quest.db.80.desc=A hefty amount of §6Silicon Dust§r and a pinch of §2Gallium Arsenide §rcooked in an §3EBF§r will net you a §6Silicon Boule§r, the starting point for §6Circuit Wafers§r.%n%nMake sure your power system is up to the task. These take §27.5 minutes and 1,080,000 EU§r to process.
+nomifactory.quest.db.80.desc=大量的§6硅粉§r和§2小堆砷化镓§r在§3电力高炉§r中提炼，就可以得到§6单晶硅§r，这是§6电路晶圆§r的起点。%n%n确保你的能量系统能够完成任务。这些需要§27.5分钟和1,080,000EU§r来处理。
 
 # db 81
 #nomifactory.quest.db.81.title=Silicon Wafers
@@ -542,7 +542,7 @@ nomifactory.quest.db.81.desc=§6Wafers§r are thin pieces of silicon cut from a 
 #nomifactory.quest.db.82.title=Phenol Coated Substrate
 nomifactory.quest.db.82.title=酚醛基板
 #nomifactory.quest.db.82.desc=§9Phenol§r is produced as a byproduct from making §6Coal Coke§r in a §3Pyrolyse Oven§r.%n%nThese boards will enable the next tier of circuits, as well as a much cheaper method of circuit production.
-nomifactory.quest.db.82.desc=§9Phenol§r is produced as a byproduct from making §6Coal Coke§r in a §3Pyrolyse Oven§r.%n%nThese boards will enable the next tier of circuits, as well as a much cheaper method of circuit production.
+nomifactory.quest.db.82.desc=§9酚醛§r是在§3热解炉§r中生产§6焦煤§r的副产物。%n%n这些电路板将实现下一层级的电路，以及一种更便宜的电路生产方法。
 
 # db 83
 #nomifactory.quest.db.83.title=MV Precision Laser Engraver
@@ -1874,7 +1874,7 @@ nomifactory.quest.db.318.desc=§2The Naphtha route for Epoxy has been removed. Y
 #nomifactory.quest.db.319.title=Farming
 nomifactory.quest.db.319.title=种田
 #nomifactory.quest.db.319.desc=You'll need large quantities of §6Canola§r (for §6Canola Oil§r in a §bCanola Press§r) and §6Sugarcane§r (for §6Ethanol§r).%n%nOf course, other crops can work as well, if you want to mix things up.
-nomifactory.quest.db.319.desc=You'll need large quantities of §6Canola§r (for §6Canola Oil§r in a §bCanola Press§r) and §6Sugarcane§r (for §6Ethanol§r).%n%nOf course, other crops can work as well, if you want to mix things up.
+nomifactory.quest.db.319.desc=你需要大量的§6油菜§r(用于§b油菜压榨机§r榨取§6菜籽油§r)和§6甘蔗§r(用于得到§6乙醇§r)。%n%n当然，如果你想混合种植，其他作物也可以使用。
 
 # db 320
 #nomifactory.quest.db.320.title=Empowered Void Gear
@@ -2618,7 +2618,7 @@ nomifactory.quest.db.540.desc=The §3Extruder§r is a universal metalworking mac
 #nomifactory.quest.db.541.title=§2More Blast Furnaces
 nomifactory.quest.db.541.title=§2更多高炉
 #nomifactory.quest.db.541.desc=Overclocking aside, as you continue to progress in §5Nomifactory§r, materials made in the §3Electric Blast Furnace§r will take longer to complete. §eMore advanced coils do not give speed bonuses§r §2directly§r; they mainly allow for the furnace to §eget hot enough to process more advanced materials§r, §2and they also granting energy efficiency bonuses and speed bonuses to overclocking.§r%n%nConsequently, you'll need to continually expand your smelting and power generation infrastructure.%n%nYou don't have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.%n%n§2As a reminder, all blocks and hatches can be shared across EBFs, except Maintenance!
-nomifactory.quest.db.541.desc=Overclocking aside, as you continue to progress in §5Nomifactory§r, materials made in the §3Electric Blast Furnace§r will take longer to complete. §eMore advanced coils do not give speed bonuses§r §2directly§r; they mainly allow for the furnace to §eget hot enough to process more advanced materials§r, §2and they also granting energy efficiency bonuses and speed bonuses to overclocking.§r%n%nConsequently, you'll need to continually expand your smelting and power generation infrastructure.%n%nYou don't have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.%n%n§2As a reminder, all blocks and hatches can be shared across EBFs, except Maintenance!
+nomifactory.quest.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈不§2直接的§r给速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率奖励和超频的速度奖励。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电炉。%n%n§2作为提醒，所有方块和仓都可以在电力高炉之间共享，除了维护仓以外！
 
 # db 542
 #nomifactory.quest.db.542.title=Soul Binder
@@ -2704,7 +2704,7 @@ nomifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by in
 #nomifactory.quest.db.556.title=Bounties For Omnicoins!
 nomifactory.quest.db.556.title=悬赏换取万象币！
 #nomifactory.quest.db.556.desc=Now that you have a §3Wiremill§r and a §3Compressor§r, you can consider starting to do §eBounties§r. The §6Bounty Board§r has a global inventory containing quests to turn in specific items in exchange for §dOmnicoins§r. These quests have a fairly short duration, so make sure to §estockpile the items§r that come up on them or else they'll §cexpire before you can complete them§r.%n%nWith renewable §dOmnicoins§r, you should feel free to spend the ones you have on whatever you need. §aSpend your coins!
-nomifactory.quest.db.556.desc=Now that you have a §3Wiremill§r and a §3Compressor§r, you can consider starting to do §eBounties§r. The §6Bounty Board§r has a global inventory containing quests to turn in specific items in exchange for §dOmnicoins§r. These quests have a fairly short duration, so make sure to §estockpile the items§r that come up on them or else they'll §cexpire before you can complete them§r.%n%nWith renewable §dOmnicoins§r, you should feel free to spend the ones you have on whatever you need. §aSpend your coins!
+nomifactory.quest.db.556.desc=现在你有了一个§3线材轧机§r和一个§3压缩机§r，你可以考虑开始做§e悬赏§r了。§6悬赏榜§r有一个全球性的库存，其中包含交出特定物品以换取§d万象币§r的任务。这些任务的持续时间相当短，所以一定要把任务中出现的物品储存起来，否则在你完成任务之前，它们就会过期。%n%n有了可再生的§d万象币§r，你应该感到自由，把你的那些钱花在你需要的任何地方。§a花费你的硬币！
 
 # db 558
 #nomifactory.quest.db.558.title=Fuel Catalyzers
@@ -2848,7 +2848,7 @@ nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether
 #nomifactory.quest.db.609.title=Reinforced Upgrade Kit
 nomifactory.quest.db.609.title=强化升级套件
 #nomifactory.quest.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
-nomifactory.quest.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
+nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位。%n%n能源炉在§a基础能量和燃料燃烧率的250%%§r运行。%n%n储罐可容纳§a450桶§r。%n%n机器以基础速度的250%%运行。
 
 # db 610
 #nomifactory.quest.db.610.title=Tough Alloy
@@ -3738,7 +3738,7 @@ nomifactory.quest.db.814.desc=§2卷板机§r的制造，取决于它被赋予�
 #nomifactory.quest.db.815.title=§2LV Circuit Assembler
 nomifactory.quest.db.815.title=§2LV电路组装机
 #nomifactory.quest.db.815.desc=§3Circuit Assemblers§r are the linchpin of your factory, gating progression through the §6Circuits§r. %n%nEach time you upgrade to a new voltage of Circuit Assembler, you will be able to craft more advanced §ethemes§r of circuits. These use more complex ingredients and require new infrastructure to be in place, but are more efficient to craft overall than the same tier of circuit from the prior theme.%n%n§2The LV Circuit Assembler allows you to make Electronic Circuits far more easily.%n%nThe circuit progression has been largely replaced with the progression native to CEu, with a few minor changes to reflect the progression of this pack better.§r Check out the §dProgression quest book tab§r to see the flow of circuit progression.%n
-nomifactory.quest.db.815.desc=§3Circuit Assemblers§r are the linchpin of your factory, gating progression through the §6Circuits§r. %n%nEach time you upgrade to a new voltage of Circuit Assembler, you will be able to craft more advanced §ethemes§r of circuits. These use more complex ingredients and require new infrastructure to be in place, but are more efficient to craft overall than the same tier of circuit from the prior theme.%n%n§2The LV Circuit Assembler allows you to make Electronic Circuits far more easily.%n%nThe circuit progression has been largely replaced with the progression native to CEu, with a few minor changes to reflect the progression of this pack better.§r Check out the §dProgression quest book tab§r to see the flow of circuit progression.%n
+nomifactory.quest.db.815.desc=§3电路组装机§r是你的工厂的关键，通过§6电路§r来控制进展。%n%n每当你升级到电路组装机的新电压时，你将能够制作更高级§e主题§r的电路。这些产品使用更复杂的原料，需要新的基础设施到位，但总体上比之前主题的同级电路制作更有效率。%n%n§2LV电路组装机使你能更容易地制作电子电路。%n%n电路的进展基本上被社区版：非官方版的原生进展所取代，并有一些小的改动，以更好地反映这个整合包的进展。§r检查一下§d当前进展任务标签§r，看看电路进展的流程。
 
 # db 816
 #nomifactory.quest.db.816.title=§2Steam Grinder
@@ -3750,7 +3750,7 @@ nomifactory.quest.db.816.desc=§2这种蒸汽多方块结构是为了在蒸汽�
 #nomifactory.quest.db.817.title=LV Emitter
 nomifactory.quest.db.817.title=LV发射器
 #nomifactory.quest.db.817.desc=An advanced component used for the Circuit Assembling Machine.
-nomifactory.quest.db.817.desc=An advanced component used for the Circuit Assembling Machine.
+nomifactory.quest.db.817.desc=一种用于电路组装机的高级组件。
 
 # db 818
 #nomifactory.quest.db.818.title=§2GregTech Drill
@@ -3762,7 +3762,7 @@ nomifactory.quest.db.818.desc=§2With MV Batteries unlocked, you can make Power 
 #nomifactory.quest.db.819.title=§2Diodes
 nomifactory.quest.db.819.title=§2二极管
 #nomifactory.quest.db.819.desc=§2Diodes are a component in the next Circuit tiers. They are made from liquid Glass, Fine Copper Wire and Gallium Arsenide, which is made in a Mixer with Gallium and Arsenic.%n%nLater, you will unlock better recipes for this.
-nomifactory.quest.db.819.desc=§2Diodes are a component in the next Circuit tiers. They are made from liquid Glass, Fine Copper Wire and Gallium Arsenide, which is made in a Mixer with Gallium and Arsenic.%n%nLater, you will unlock better recipes for this.
+nomifactory.quest.db.819.desc=§2二极管是下一个电路等级的一个组件。它们是由液态玻璃、细铜导线和砷化镓制成的，砷化镓是在搅拌机中与镓和砷一起制成的。%n%n以后，你会解锁更好的配方。
 
 # db 820
 #nomifactory.quest.db.820.title=§2Sodium Persulfate and Iron III Chloride
@@ -3774,7 +3774,7 @@ nomifactory.quest.db.820.desc=§2Sodium Persulfate§r §2and Iron III Chloride§
 #nomifactory.quest.db.821.title=§2Good Circuit Boards
 nomifactory.quest.db.821.title=§2良好的电路板
 #nomifactory.quest.db.821.desc=§2Phenolic Substrates need to be turned into Circuit Boards with Silver before being usable in Circuit production.%n%nSodium Persulfate and Iron III Chloride are troublesome to get right now, but using them in making Circuit Boards will reduce the amount of Silver required by 4 times.
-nomifactory.quest.db.821.desc=§2Phenolic Substrates need to be turned into Circuit Boards with Silver before being usable in Circuit production.%n%nSodium Persulfate and Iron III Chloride are troublesome to get right now, but using them in making Circuit Boards will reduce the amount of Silver required by 4 times.
+nomifactory.quest.db.821.desc=§2酚醛基板在用于电路生产之前需要用银制成电路板。%n%n过硫酸钠和三氯化铁现在很难搞到，但在制作电路板时使用它们会使所需的银量减少4倍。
 
 # db 822
 #nomifactory.quest.db.822.title=§2Sifter
