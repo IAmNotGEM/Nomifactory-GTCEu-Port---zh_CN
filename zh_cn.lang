@@ -194,7 +194,7 @@ nomifactory.quest.db.20.desc=§3钻石熔炉§r是目前最快的，熔炼一件
 #nomifactory.quest.db.21.title=§2Steel
 nomifactory.quest.db.21.title=§2钢
 #nomifactory.quest.db.21.desc=You already have §6Steel§r, but it can be made much faster in the §3Alloy Smelter§r, at the cost of EU.%n%nYou might want to save your §6Coal Dust§r for circuits and use §6Charcoal Dust§r instead. Later, you can also process either of these dusts, §6Coal Coke Dust§r, §2or Diamond Dust§r into §6Carbon Dust§r, which can be used for Steel and other useful things.
-nomifactory.quest.db.21.desc=You already have §6Steel§r, but it can be made much faster in the §3Alloy Smelter§r, at the cost of EU.%n%nYou might want to save your §6Coal Dust§r for circuits and use §6Charcoal Dust§r instead. Later, you can also process either of these dusts, §6Coal Coke Dust§r, §2or Diamond Dust§r into §6Carbon Dust§r, which can be used for Steel and other useful things.
+nomifactory.quest.db.21.desc=你已经有了§6钢§r，但在§3合金炉§r可以更快地制造它，代价是消耗EU。%n%n你可能想把你的§6煤炭粉§r留给电路，使用§6木炭粉§r代替吧。之后，你还可以将这些粉中的任何一种，即§6焦炭粉§r，§2或钻石粉§r加工成§6碳粉§r，可用于制造钢和其他有用的东西。
 
 # db 22
 #nomifactory.quest.db.22.title=§2Pyrolyse Oven
@@ -224,7 +224,7 @@ nomifactory.quest.db.25.desc=这个任务每小时可重复一次，并给你一
 #nomifactory.quest.db.26.title=Dark Steel
 nomifactory.quest.db.26.title=玄钢
 #nomifactory.quest.db.26.desc=§6Steel§r alloyed with §6Obsidian§r makes §6Dark Steel§r, which is needed for many of the machines in §bEnderIO§r and §bApplied Energistics§r.%n%nLater, you can use §6Void Crystal§r instead of Obsidian.
-nomifactory.quest.db.26.desc=§6Steel§r alloyed with §6Obsidian§r makes §6Dark Steel§r, which is needed for many of the machines in §bEnderIO§r and §bApplied Energistics§r.%n%nLater, you can use §6Void Crystal§r instead of Obsidian.
+nomifactory.quest.db.26.desc=§6钢§r与§6黑曜石§r合金制成§6玄钢，这是在§b末影接口§r和§b应用能源2§r的许多机器所需要的。%n%n以后，你可以用§6煤晶§r代替黑曜石。
 
 # db 27
 #nomifactory.quest.db.27.title=LV Chemical Reactor
@@ -236,13 +236,13 @@ nomifactory.quest.db.27.desc=The place for your very first chemical reactions, n
 #nomifactory.quest.db.28.title=Pulsating Dust
 nomifactory.quest.db.28.title=脉动之尘
 #nomifactory.quest.db.28.desc=§6Pulsating Dust§r is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make §6Pulsating Ingots§r and §6Ender Pearls§r.%n%nYour first source of Pulsating Dust is §6Uraninite§r, which you can get from §6Uraninite Ore§r. Later on, you'll be able to produce Pulsating Dust by smelting §6Resonant Clathrates§r.%n%n§cPlease note that the Enderpearl Dust electrolysis recipe requires an EV Electrolyzer, and is most likely not worth it.§r
-nomifactory.quest.db.28.desc=§6Pulsating Dust§r is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make §6Pulsating Ingots§r and §6Ender Pearls§r.%n%nYour first source of Pulsating Dust is §6Uraninite§r, which you can get from §6Uraninite Ore§r. Later on, you'll be able to produce Pulsating Dust by smelting §6Resonant Clathrates§r.%n%n§cPlease note that the Enderpearl Dust electrolysis recipe requires an EV Electrolyzer, and is most likely not worth it.§r
+nomifactory.quest.db.28.desc=§6脉动之尘§r是一种神秘的魔法材料，可以利用末影的力量。它有各种奇怪的和潜在的危险应用，包括能够制造§6脉冲铁锭§r和§6末影珍珠§r。%n%n你的第一个脉动之尘来源是§6晶质铀§r，你可以从§6晶质铀矿石§r获得。以后，你可以通过熔炼§6谐振末影络合物§r来生产脉动之尘。%n%n§c请注意，末影珍珠粉电解配方需要一个EV电解机，而且很可能不值得这样做。
 
 # db 29
 #nomifactory.quest.db.29.title=Pulsating Iron and Ender Pearls
 nomifactory.quest.db.29.title=“脉冲铁”和“末影珍珠”
 #nomifactory.quest.db.29.desc=An §bEnder IO§r alloy.%n%nMade from §6Pulsating Dust§r and an §6Iron Ingot§r.%n%nIf you can't find one otherwise, §6Ender Pearls§r can be crafted using Pulsating Dust and a §6Diamond§r in an §3Alloy Smelter§r.
-nomifactory.quest.db.29.desc=一种§b末影接口§r合金。%n%nMade from §6Pulsating Dust§r and an §6Iron Ingot§r.%n%nIf you can't find one otherwise, §6Ender Pearls§r can be crafted using Pulsating Dust and a §6Diamond§r in an §3Alloy Smelter§r.
+nomifactory.quest.db.29.desc=一种§b末影接口§r合金。%n%n由§6脉冲之尘§r和§6铁锭§r制成。%n%n如果你找不到，可以用脉动之尘和§6钻石§r在§3合金炉§r中制作§6末影珍珠§r。
 
 # db 30
 #nomifactory.quest.db.30.title=Electrical Steel
@@ -296,7 +296,7 @@ nomifactory.quest.db.38.desc=§o注意: 这个任务接受任何§2§oLV能量�
 #nomifactory.quest.db.39.title=Item Conduits
 nomifactory.quest.db.39.title=物品导管
 #nomifactory.quest.db.39.desc=Item conduits are useful for moving items between inventories over moderate distances.%n%nCrafting them in an Assembling Machine instead of by hand gives twice as many conduits.
-nomifactory.quest.db.39.desc=Item conduits are useful for moving items between inventories over moderate distances.%n%nCrafting them in an Assembling Machine instead of by hand gives twice as many conduits.
+nomifactory.quest.db.39.desc=物品导管对于在中等距离的容器之间传输物品很有用。%n%n用组装机而不是手工来制作它们，可以得到两倍数量的导管。
 
 # db 40
 #nomifactory.quest.db.40.title=Conductive Iron Energy Conduits
@@ -1286,7 +1286,7 @@ nomifactory.quest.db.214.desc=The Moon is a barren, lifeless rock... So why did 
 #nomifactory.quest.db.215.title=§2Pumps
 nomifactory.quest.db.215.title=§2泵
 #nomifactory.quest.db.215.desc=§2Pumps are now available in GT. Useful for gathering Oil or perhaps Lava from the Nether.
-nomifactory.quest.db.215.desc=§2泵现在可以在格雷科技中可用了。对从地狱收集石油或熔岩很有用。
+nomifactory.quest.db.215.desc=§2泵现在在格雷科技中可用了。对从地狱收集石油或熔岩很有用。
 
 # db 216
 #nomifactory.quest.db.216.title=§2Small Microverse Projector
@@ -1664,7 +1664,7 @@ nomifactory.quest.db.280.desc=Man, that's a LOT of quests linked to this one.%n%
 #nomifactory.quest.db.282.title=Energy Acceptor
 nomifactory.quest.db.282.title=能源接收器
 #nomifactory.quest.db.282.desc=Fluix is initially made via in-world crafting, by dropping §6Redstone Dust§r, §6Nether Quartz§r, and a §6Charged Certus Quartz Crystal§r in the same block of §9Water§r. You'll see some sparks then the items will merge into a §6Fluix Crystal§r. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process.%n%nThe §3Energy Acceptor§r converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected §6ME Cables§r, §6ME Conduits§r, and §6Quartz Fiber§r. %n%nQuartz Fiber are §emicroparts§r you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source.
-nomifactory.quest.db.282.desc=Fluix is initially made via in-world crafting, by dropping §6Redstone Dust§r, §6Nether Quartz§r, and a §6Charged Certus Quartz Crystal§r in the same block of §9Water§r. You'll see some sparks then the items will merge into a §6Fluix Crystal§r. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process.%n%nThe §3Energy Acceptor§r converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected §6ME Cables§r, §6ME Conduits§r, and §6Quartz Fiber§r. %n%nQuartz Fiber are §emicroparts§r you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source.
+nomifactory.quest.db.282.desc=福鲁伊克斯最初是通过世界配方内的手工制成的，在同一个方块的§9水§r中丢入§6红石§r、§6下界石英§r和§6充能赛特斯石英水晶§r。你会看到一些火花，然后这些物品会合并成一个§6福鲁伊克斯水晶§r。请确保关闭附近的任何物品磁铁/收集器，否则它们可能会打断这个制作过程。%n%n§3能源接收器§r将RF能量转换为AE能量，供应用能源2使用，比例为2RF比1AE。这些能量将通过相邻的ME网络设备整体方块，以及沿着所有连接的§6ME线缆§r、§6ME导管§r和§6石英纤维§r传输。%n%n石英纤维是你可以放在ME线缆和任何ME网络方块或另一个ME线缆之间的§e微型部件§r。这将允许传输AE能量，但不允许传输数据，这对于拥有数据隔离的ME网络共享同一能量源是很有用的。
 
 # db 283
 #nomifactory.quest.db.283.title=§2LuV Circuit Assembling Machine
@@ -1736,7 +1736,7 @@ nomifactory.quest.db.295.desc=§bDraconic Evolution§r features §eFusion Crafti
 #nomifactory.quest.db.296.title=Grains Of Infinity
 nomifactory.quest.db.296.title=基岩粉
 #nomifactory.quest.db.296.desc=Obtaining §6Grains of Infinity§r will require you to mine all the way down to Bedrock level.%n%nUse Flint and Steel to light a fire (or many fires) and then wait for it to go out. There's a 50%% chance of Grains Of Infinity to appear for every fire that burns out on its own.%n%nBut who wants to do that forever? There will be better ways before too long, don't worry.
-nomifactory.quest.db.296.desc=Obtaining §6Grains of Infinity§r will require you to mine all the way down to Bedrock level.%n%nUse Flint and Steel to light a fire (or many fires) and then wait for it to go out. There's a 50%% chance of Grains Of Infinity to appear for every fire that burns out on its own.%n%nBut who wants to do that forever? There will be better ways before too long, don't worry.
+nomifactory.quest.db.296.desc=要获得§6基岩粉§r，你需要一直开采到基岩层。%n%n用燧石和钢点燃出一个火焰(或许多火焰)，然后等待熄灭。每一个火焰熄灭，都有50%%的机会出现基岩粉。%n%n但谁想永远这样做呢？过不了多久就会有更好的方法，别担心。
 
 # db 297
 #nomifactory.quest.db.297.title=Mana Infused Ingot
@@ -2102,31 +2102,31 @@ nomifactory.quest.db.361.desc=Boots to surpass the ultimate, forged with the hea
 #nomifactory.quest.db.362.title=Ultimate Helmet
 nomifactory.quest.db.362.title=终极头盔
 #nomifactory.quest.db.362.desc=An ultimate helmet, forged from all manner of materials across dimensions and microverses.
-nomifactory.quest.db.362.desc=An ultimate helmet, forged from all manner of materials across dimensions and microverses.
+nomifactory.quest.db.362.desc=一个终极头盔，由跨维度和微型宇宙的各种类型的材料锻造而成。
 
 # db 363
 #nomifactory.quest.db.363.title=Ultimate Chestplate
 nomifactory.quest.db.363.title=终极胸甲
 #nomifactory.quest.db.363.desc=An ultimate chestplate, forged from all manner of materials across dimensions and microverses.
-nomifactory.quest.db.363.desc=An ultimate chestplate, forged from all manner of materials across dimensions and microverses.
+nomifactory.quest.db.363.desc=一个终极胸甲，由跨维度和微型宇宙的各种材料的类型锻造而成。
 
 # db 364
 #nomifactory.quest.db.364.title=Ultimate Boots
 nomifactory.quest.db.364.title=终极靴子
 #nomifactory.quest.db.364.desc=An ultimate pair of boots, forged from all manner of materials across dimensions and microverses.
-nomifactory.quest.db.364.desc=An ultimate pair of boots, forged from all manner of materials across dimensions and microverses.
+nomifactory.quest.db.364.desc=一双终极靴子，由跨维度和微型宇宙的各种类型的材料锻造而成。
 
 # db 365
 #nomifactory.quest.db.365.title=Ultimate Leggings
 nomifactory.quest.db.365.title=终极护腿
 #nomifactory.quest.db.365.desc=An ultimate pair of leggings, forged from all manner of materials across dimensions and microverses.
-nomifactory.quest.db.365.desc=An ultimate pair of leggings, forged from all manner of materials across dimensions and microverses.
+nomifactory.quest.db.365.desc=一条终极护腿，由跨维度和微型宇宙的各种类型的材料锻造而成。
 
 # db 366
 #nomifactory.quest.db.366.title=§2Creative Vending Upgrade
 nomifactory.quest.db.366.title=§2创造量子箱
 #nomifactory.quest.db.366.desc=You win.%n%nCongratulations.%n%nI hope you enjoyed playing §5Nomifactory§r.
-nomifactory.quest.db.366.desc=You win.%n%nCongratulations.%n%nI hope you enjoyed playing §5Nomifactory§r.
+nomifactory.quest.db.366.desc=你赢了。%n%n恭喜你。%n%n我希望你在§5全能工厂§r玩的愉快。
 
 # db 367
 #nomifactory.quest.db.367.title=§2Creative Tank
@@ -2654,9 +2654,9 @@ nomifactory.quest.db.547.title=Scanner Module: Block
 
 # db 548
 #nomifactory.quest.db.548.title=Molds
-nomifactory.quest.db.548.title=模板
+nomifactory.quest.db.548.title=模具
 #nomifactory.quest.db.548.desc=§aMolds§r are used in a §3Fluid Solidifier§r or §3Alloy Smelter§r to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape.%n%nThe Fluid Solidifier tends to be the more efficient option: for example, you can use §e8 ingots§r to make one §6Gear§r in an Alloy Smelter, but with an Extractor and Solidifier you can accomplish the same result with §e4 ingots§r.%n%nBe careful not to accidentally make §aExtruder Shapes§r. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away.
-nomifactory.quest.db.548.desc=§aMolds§r are used in a §3Fluid Solidifier§r or §3Alloy Smelter§r to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape.%n%nThe Fluid Solidifier tends to be the more efficient option: for example, you can use §e8 ingots§r to make one §6Gear§r in an Alloy Smelter, but with an Extractor and Solidifier you can accomplish the same result with §e4 ingots§r.%n%nBe careful not to accidentally make §aExtruder Shapes§r. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away.
+nomifactory.quest.db.548.desc=§a模具§r用于§3流体固化机§r或§3合金炉§r，将材料形成特定形状。这些东西在制作过程中不会被消耗或损坏，所以你可以把它们放在机器里，专门用于该形状。%n%n流体固化机往往是更有效的选择: 例如，你可以用§e8个锭§r在合金炉制造一个§6齿轮§r，但用提取机和流体固化机，你可以用§e4个锭§r达到同样的结果。%n%n小心不要意外地制造出§a压模器形状§r。那些是为你以后会接触到的机器准备的。这个任务中的三个模具是你马上就会发现有用的。
 
 # db 549
 #nomifactory.quest.db.549.title=§2Fluid Rig
@@ -3180,7 +3180,7 @@ nomifactory.quest.db.682.desc=为你的§3模拟室§r提供RF能量和§6脉冲
 #nomifactory.quest.db.683.title=Pulsating Mesh
 nomifactory.quest.db.683.title=脉动网格
 #nomifactory.quest.db.683.desc=§6§6String§r and §6Coal Dust§r can be baked together into a §6Carbon Mesh§r in an §3Alloy Furnace§r.%n%nCombine that with §6Pulsating Dust§r to get a §6Pulsating Mesh§r.%n%n
-nomifactory.quest.db.683.desc=§6§6String§r and §6Coal Dust§r can be baked together into a §6Carbon Mesh§r in an §3Alloy Furnace§r.%n%nCombine that with §6Pulsating Dust§r to get a §6Pulsating Mesh§r.%n%n
+nomifactory.quest.db.683.desc=§6线§r和§6煤炭粉§r可以在§3合金炉§r中一起制作成§6碳纤维网§r。%n%n将其与§6脉动之尘§r结合起来，得到一个§6脉动网格§r。
 
 # db 684
 #nomifactory.quest.db.684.title=Loot Fabricator
@@ -3516,7 +3516,7 @@ nomifactory.quest.db.777.desc=Now that you have §6Awakened Cores§r, you can ma
 #nomifactory.quest.db.778.title=§2Infinite Cobblestone
 nomifactory.quest.db.778.title=§2无限圆石
 #nomifactory.quest.db.778.desc=Now that you have acquired §6Steel§6§r, your path to infinite cobblestone awaits! The §6Cobblestone Generator§r continuously outputs cobblestone into adjacent inventories, and can be upgraded to produce it even faster.%n%nCobblestone can be processed into many useful materials:%n%n§6Stone Dust§r is useful for small amounts of a whole host of useful materials.%n%n§6Gravel§r is useful for making conduits and §9Concrete§r.%n%n§6Sand§r is useful for §6Glass§r, which can be turned into §6Nether Quartz§r or §6Silicon Dioxide§r for §6Oxygen§r.%n%nFinally, §6Dust§r can be turned into §6Clay§r which is both a reliable source of §6Aluminium§r and very important for automating §bDeep Mob Learning§r.%n%nSet up a §ecobbleworks§r soon, so you can stockpile all these useful materials.%n
-nomifactory.quest.db.778.desc=Now that you have acquired §6Steel§6§r, your path to infinite cobblestone awaits! The §6Cobblestone Generator§r continuously outputs cobblestone into adjacent inventories, and can be upgraded to produce it even faster.%n%nCobblestone can be processed into many useful materials:%n%n§6Stone Dust§r is useful for small amounts of a whole host of useful materials.%n%n§6Gravel§r is useful for making conduits and §9Concrete§r.%n%n§6Sand§r is useful for §6Glass§r, which can be turned into §6Nether Quartz§r or §6Silicon Dioxide§r for §6Oxygen§r.%n%nFinally, §6Dust§r can be turned into §6Clay§r which is both a reliable source of §6Aluminium§r and very important for automating §bDeep Mob Learning§r.%n%nSet up a §ecobbleworks§r soon, so you can stockpile all these useful materials.%n
+nomifactory.quest.db.778.desc=现在你已经获得了§6钢§r，你通往无限的圆石之路正在等待着你！§6造石机§r不断地将圆石输出到相邻的容器中，并且可以通过升级使其生产速度更快。%n%n圆石可以被加工成许多有用的材料:%n%n§6石头粉§r对大量有用的材料都很有用。%n%n§6沙砾§r对制作导管和§9混凝土粉末§r很有用。%n%n§6沙子§r可用于§6玻璃§r，它可以变成§6石英矿砂§r或用于§6氧气§r制造的§6二氧化硅粉§r。%n%n最后，§6粘土§r可以变成§6粘土粉§r，这既是§6铝§r的可靠来源，对于自动化§b深度怪物学习§r也非常重要。%n%n尽快建立一个§e圆石工厂§r，这样你就可以囤积所有这些有用的材料。
 
 # db 779
 #nomifactory.quest.db.779.title=§2To the Nether
@@ -3726,7 +3726,7 @@ nomifactory.quest.db.812.desc=§2请看新的材料树标签！它将在一个�
 #nomifactory.quest.db.813.title=§2Arc Furnace
 nomifactory.quest.db.813.title=§2电弧炉
 #nomifactory.quest.db.813.desc=§2Technically not new to CEu, but it was disabled in the original version, and it had much less functionality in CE.§r%n%nThe Arc Furnace allows you to make §6Annealed Copper§r, which will be used in the MV Age. It can also make 2 pieces of Glass from 1 Sand. Later, it can make §2Tempered Glass§r§r for use in higher-tier recipes.%n%nThe Arc Furnace also functions as a §auniversal recycling machine§r. Pretty much anything can be recycled into ingots and dusts of its base components.%n%nAll of its recipes require Oxygen.%n%nAll Arc Furnace recipes use exactly 30 EU/t, so you can get away with using LV Arc Furnaces for the whole pack!
-nomifactory.quest.db.813.desc=§2Technically not new to CEu, but it was disabled in the original version, and it had much less functionality in CE.§r%n%nThe Arc Furnace allows you to make §6Annealed Copper§r, which will be used in the MV Age. It can also make 2 pieces of Glass from 1 Sand. Later, it can make §2Tempered Glass§r§r for use in higher-tier recipes.%n%nThe Arc Furnace also functions as a §auniversal recycling machine§r. Pretty much anything can be recycled into ingots and dusts of its base components.%n%nAll of its recipes require Oxygen.%n%nAll Arc Furnace recipes use exactly 30 EU/t, so you can get away with using LV Arc Furnaces for the whole pack!
+nomifactory.quest.db.813.desc=§2从技术上讲，这不是社区版：非官方版的新功能，但它在原始版本中是禁用的，而且它在社区版中的功能少得多。§r%n%n电弧炉允许你制造§6退火铜§r，这将在MV时代使用。它还可以用1个沙子制造出2个玻璃。然后，它可以制作§2强化玻璃§r，用于更高级别的配方。%n%n电弧炉还具有§a通用回收机§r的功能。几乎任何东西都可以被回收为其基本组成的锭和粉。%n%n其所有的配方都需要氧气。%n%n所有的电弧炉配方都正好使用30EU/t，所以你可以在整个整合包中使用LV电弧炉！
 
 # db 814
 #nomifactory.quest.db.814.title=§2LV Bending Machine
@@ -3816,7 +3816,7 @@ nomifactory.quest.db.827.desc=§2This is the highest tier of polymer. It is used
 #nomifactory.quest.db.828.title=§2Forge Hammer
 nomifactory.quest.db.828.title=§2锻造锤
 #nomifactory.quest.db.828.desc=§2This isn't new in CEu either, but in this version, you will use this to break Cobblestone into Gravel and Gravel into Sand. It's also used to combine 2 Rods into 1 Long Rod.
-nomifactory.quest.db.828.desc=§2This isn't new in CEu either, but in this version, you will use this to break Cobblestone into Gravel and Gravel into Sand. It's also used to combine 2 Rods into 1 Long Rod.
+nomifactory.quest.db.828.desc=§2这在社区版：非官方版中也不是什么新鲜事，但在这个版本中，你将用它来把圆石打成沙砾，把沙砾打成沙子。它也被用来将2个杆合并成1个长杆。
 
 # db 829
 #nomifactory.quest.db.829.title=HV Assembler
