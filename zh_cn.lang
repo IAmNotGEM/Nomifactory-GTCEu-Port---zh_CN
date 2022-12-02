@@ -86,7 +86,7 @@ nomifactory.quest.db.2.desc=注意: 这个任务同时接受LV和MV装罐机。%
 #nomifactory.quest.db.3.title=§2Genesis
 nomifactory.quest.db.3.title=§2开局
 #nomifactory.quest.db.3.desc=Welcome to §5Nomifactory§r §2GTCEu Edition§r!%n%nThis pack is intended to be played in a §bLost Cities / Overworld dimension§r.%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§r.%n%n§rIf you wish to build your base in a skyblock world, place the §6Void World Cake§r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§r.%n%nFeatures new to §2CEu§r and quests with new content will be highlighted in §2dark green (colour 2)§r.
-nomifactory.quest.db.3.desc=欢迎来到§5全能工厂§r格雷科技社区版：§2非官方版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请它们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于§2社区版：非官方版§r的新功能和有新内容的任务将以§2深绿色(颜色2)§r突出显示。
+nomifactory.quest.db.3.desc=欢迎来到§5全能工厂§r格雷科技社区版：§2非官方版§r！%n%n该整合包应该在§b失落的城市§r或§b主世界§r中游玩。%n%n如果你和朋友一起玩，别忘了邀请他们加入§e任务书队伍§r。%n%n§r如果你想在虚空世界建立你的基地，把§6虚空世界蛋糕§r放在地上，吃一口就会被传送到虚空。请注意，你仍然需要回到失落的城市或主世界去采矿，但你可以在完全安全的§e虚空世界§r中自由建造。%n%n对于§2社区版：非官方版§r的新功能和有新内容的任务将以§2深绿色(颜色2)§r突出显示。
 
 # db 4
 #nomifactory.quest.db.4.title=Iron Supply
