@@ -314,7 +314,7 @@ nomifactory.quest.db.41.desc=现在你已经有了§6充能合金§r，是时候
 #nomifactory.quest.db.42.title=Vibrant Alloy Energy Conduits
 nomifactory.quest.db.42.title=脉冲合金能量导管
 #nomifactory.quest.db.42.desc=Conduits to carry even MORE RF power.%n%nYou're making these in the §3Assembling Machine§r, right?
-nomifactory.quest.db.42.desc=Conduits to carry even MORE RF power.%n%nYou're making these in the §3Assembling Machine§r, right?
+nomifactory.quest.db.42.desc=输送更多RF能量的导管。%n%n你在§3组装机§r中制作这些东西，对吗？
 
 # db 44
 #nomifactory.quest.db.44.title=Double Capacitor
@@ -476,7 +476,7 @@ nomifactory.quest.db.70.desc=§aMV Batteries§r function essentially the same as
 #nomifactory.quest.db.71.title=MV Electrolyzer
 nomifactory.quest.db.71.title=MV电解机
 #nomifactory.quest.db.71.desc=An §3MV Electrolyzer§r allows you to process recipes that require up to 128 EU/t, and can optionally overclock recipes costing at most 32 EU/t.%n%nThis means you can split more kinds of things for useful products.%n
-nomifactory.quest.db.71.desc=An §3MV Electrolyzer§r allows you to process recipes that require up to 128 EU/t, and can optionally overclock recipes costing at most 32 EU/t.%n%nThis means you can split more kinds of things for useful products.%n
+nomifactory.quest.db.71.desc=§3MV电解机§r允许您处理需要高达128EU/t的配方，并且可以选择对消耗最高为32EU/t的配方进行超频。%n%n这意味着你可以为有用的产物拆分更多种类的东西。
 
 # db 72
 #nomifactory.quest.db.72.title=§2LV Assembling Machine
@@ -494,13 +494,13 @@ nomifactory.quest.db.73.desc=§6ME导管§r的优点是能够与其他导管类�
 #nomifactory.quest.db.74.title=Aluminium Casing
 nomifactory.quest.db.74.title=铝制外壳
 #nomifactory.quest.db.74.desc=§6Quartzite Ore§r is found in... quartzite veins in the Overworld.%n%n§6Quartzite Dust§r can be electrolyzed into §6Crushed Black Quartz§r, which can be crystallized into §6Black Quartz§r in an §3Autoclave§r.%n%nBlack Quartz and §6Aluminium Plates§r will make §6Aluminium Casings§r, which are used for making machines from §bActually Additions§r.
-nomifactory.quest.db.74.desc=§6Quartzite Ore§r is found in... quartzite veins in the Overworld.%n%n§6Quartzite Dust§r can be electrolyzed into §6Crushed Black Quartz§r, which can be crystallized into §6Black Quartz§r in an §3Autoclave§r.%n%nBlack Quartz and §6Aluminium Plates§r will make §6Aluminium Casings§r, which are used for making machines from §bActually Additions§r.
+nomifactory.quest.db.74.desc=§6石英岩矿石被发现于...主世界上的石英岩矿脉。%n%n§6石英岩粉§r可以被电解成§6焦黑石英粉§r，它可以在§3高压釜§r中结晶成§6焦黑石英§r。%n%n焦黑石英和§6铝板§r将制成§6铝制外壳§r，用于用§b实用拓展§r制造机器。
 
 # db 75
 #nomifactory.quest.db.75.title=Machine Block
 nomifactory.quest.db.75.title=机器方块
 #nomifactory.quest.db.75.desc=The §6Machine Block§r is the first step into a mod called §bExtra Utilities 2§r.
-nomifactory.quest.db.75.desc=The §6Machine Block§r is the first step into a mod called §bExtra Utilities 2§r.
+nomifactory.quest.db.75.desc=§6机器方块§r是进入一个叫做§b更多实用设备2§r模组的第一步。
 
 # db 76
 #nomifactory.quest.db.76.title=§2The First Tier Two Circuits
@@ -524,7 +524,7 @@ nomifactory.quest.db.78.desc=§2初始电路元件在社区版：非官方版中
 #nomifactory.quest.db.79.title=§2Cutting Machine
 nomifactory.quest.db.79.title=§2板材切割机
 #nomifactory.quest.db.79.desc=Cuts things up.%n%nThe §3Cutting Machine§r is able to cut wafers, rods, wood, and various other things for you, making it a versatile crafting tool. Cutting blocks into 9 plates may be faster than using a §2Metal Bender §rto make them one at a time.%n%nThe MV version is required for cutting §6Silicon Boules§r for easier §6Diodes§r, and for cutting §6Wafers§r into usable components. %n%nThe blade will require you to make §2Vanadiumsteel§r.%n%nCutting Machines work with plain §9Water§r for all recipes. You can also use §9Distilled Water§r which speeds up the processing somewhat, or §9Lubricant§r that speeds it up greatly (and uses very little per operation). These might be a little tricky to make right now, but are very worthwhile upgrades in the future.%n
-nomifactory.quest.db.79.desc=Cuts things up.%n%nThe §3Cutting Machine§r is able to cut wafers, rods, wood, and various other things for you, making it a versatile crafting tool. Cutting blocks into 9 plates may be faster than using a §2Metal Bender §rto make them one at a time.%n%nThe MV version is required for cutting §6Silicon Boules§r for easier §6Diodes§r, and for cutting §6Wafers§r into usable components. %n%nThe blade will require you to make §2Vanadiumsteel§r.%n%nCutting Machines work with plain §9Water§r for all recipes. You can also use §9Distilled Water§r which speeds up the processing somewhat, or §9Lubricant§r that speeds it up greatly (and uses very little per operation). These might be a little tricky to make right now, but are very worthwhile upgrades in the future.%n
+nomifactory.quest.db.79.desc=把东西切开。%n%n§3板材切割机§r能够为你切割晶圆、杆、木头和其他各种东西，使它成为一个多功能的灵活制作工具。将方块切成9个板，可能比用§2卷板机§r一次做一个要快。%n%n在切割§6单晶硅§r时，需要使用MV版本，以便更容易切割§6二极管§r，以及将§6硅圆§r切割成可用的组件。%n%n圆锯锯刃需要你制造出§2钒钢§r。%n%n板材切割机在所有配方中使用普通的§9水§r。你也可以使用§9蒸馏水§r，它在一定程度上加快了处理速度，或者使用§9润滑油§r，它大大加快了处理速度(而且每次操作使用很少)。现在做这些可能有点棘手，但在未来是非常值得的升级。
 
 # db 80
 #nomifactory.quest.db.80.title=§2Silicon Boules
@@ -536,7 +536,7 @@ nomifactory.quest.db.80.desc=大量的§6硅粉§r和§2小堆砷化镓§r在§3
 #nomifactory.quest.db.81.title=Silicon Wafers
 nomifactory.quest.db.81.title=硅晶圆
 #nomifactory.quest.db.81.desc=§6Wafers§r are thin pieces of silicon cut from a §6Silicon Boule§r.%n%nTheir primary purpose is engraving §6Circuit Wafers§r.%n%nYou'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple §3EBF§rs and making a stockpile of them.
-nomifactory.quest.db.81.desc=§6Wafers§r are thin pieces of silicon cut from a §6Silicon Boule§r.%n%nTheir primary purpose is engraving §6Circuit Wafers§r.%n%nYou'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple §3EBF§rs and making a stockpile of them.
+nomifactory.quest.db.81.desc=§6晶圆§r是从§6单晶硅§r上切割下来的硅薄片。%n%n它们的主要用途是雕刻§6电路晶圆§r。%n%n你将会需要大量的这种晶圆来制作电路。目前，制作单晶硅需要很长的时间，因此可以考虑在多个§3电力高炉§r中并行制作配方，并做一个储备。
 
 # db 82
 #nomifactory.quest.db.82.title=Phenol Coated Substrate
@@ -548,13 +548,13 @@ nomifactory.quest.db.82.desc=§9酚醛§r是在§3热解炉§r中生产§6焦煤
 #nomifactory.quest.db.83.title=MV Precision Laser Engraver
 nomifactory.quest.db.83.title=MV精密激光蚀刻机
 #nomifactory.quest.db.83.desc=A §3Precision Laser Engraver§r is used to engrave circuits onto §6Wafers§r.%n%nThe type of circuit will depend on the kind of wafer used and which §aLens§r is in the machine.
-nomifactory.quest.db.83.desc=A §3Precision Laser Engraver§r is used to engrave circuits onto §6Wafers§r.%n%nThe type of circuit will depend on the kind of wafer used and which §aLens§r is in the machine.
+nomifactory.quest.db.83.desc=一台§3精密激光蚀刻机§r被用来在§6晶圆§r上雕刻电路。%n%n电路的类型将取决于所使用的晶圆的种类和机器中的§a透镜§r。
 
 # db 84
 #nomifactory.quest.db.84.title=Circuit Wafers
 nomifactory.quest.db.84.title=电路晶圆
 #nomifactory.quest.db.84.desc=§6Circuit Wafers§r are batches of integrated circuits engraved onto a wafer of electronics-grade silicon.%n%nYou need to run these through the §3Cutting Machine§r to dice the wafers into individual integrated circuits (called dies).%n%nThese are important components and will be used for making more advanced Circuits.
-nomifactory.quest.db.84.desc=§6Circuit Wafers§r are batches of integrated circuits engraved onto a wafer of electronics-grade silicon.%n%nYou need to run these through the §3Cutting Machine§r to dice the wafers into individual integrated circuits (called dies).%n%nThese are important components and will be used for making more advanced Circuits.
+nomifactory.quest.db.84.desc=§6电路晶圆§r是在电子级硅片上雕刻的成批集成电路。%n%n你需要把这些东西通过§3板材切割机§r来把晶圆切成独立的集成电路(称为内核)。%n%n这些都是重要的元件，将用于制作更高级的电路。
 
 # db 86
 #nomifactory.quest.db.86.title=§2The Second Tier One Circuits
@@ -572,7 +572,7 @@ nomifactory.quest.db.87.desc=§2Two Integrated Circuits§r and various other com
 #nomifactory.quest.db.88.title=§2Lenses
 nomifactory.quest.db.88.title=§2透镜
 #nomifactory.quest.db.88.desc=You'll need a variety of §alenses§r for use in §3Precision Laser Engravers§r, all of which are made in the §2Lathe§r.%n%nInitially you'll need a §a§3§2Ruby Lens§r. Soon you will need §2Diamond, Emerald, Topaz, and Sapphire Lenses§r. §2You can choose to use an MV Lathe to get a lens from a plate, or sift for an Exquisite Gem and use an LV Lathe.%n%n
-nomifactory.quest.db.88.desc=You'll need a variety of §alenses§r for use in §3Precision Laser Engravers§r, all of which are made in the §2Lathe§r.%n%nInitially you'll need a §a§3§2Ruby Lens§r. Soon you will need §2Diamond, Emerald, Topaz, and Sapphire Lenses§r. §2You can choose to use an MV Lathe to get a lens from a plate, or sift for an Exquisite Gem and use an LV Lathe.%n%n
+nomifactory.quest.db.88.desc=你需要各种用于§3精密激光蚀刻机§r的§a透镜§r，所有这些都是在§2车床§r中制作的。%n%n最初，你需要一个§2红宝石透镜§r。很快你就会需要§2钻石、绿宝石、黄玉和蓝宝石透镜§r了。§2你可以选择使用MV车床从一个板里得到一个透镜，或者筛选出一个精致的宝石并使用LV车床。
 
 # db 89
 #nomifactory.quest.db.89.title=§2The First Tier Three Circuits
@@ -590,7 +590,7 @@ nomifactory.quest.db.90.desc=With the §3Advanced Circuit Assembling Machine§r,
 #nomifactory.quest.db.91.title=Chrome
 nomifactory.quest.db.91.title=铬
 #nomifactory.quest.db.91.desc=§6Chrome§r is obtained by electrolyzing §6Ruby Dust§r.
-nomifactory.quest.db.91.desc=§6Chrome§r is obtained by electrolyzing §6Ruby Dust§r.
+nomifactory.quest.db.91.desc=§6铬§r是通过电解§6红宝石粉§r得到的。
 
 # db 92
 #nomifactory.quest.db.92.title=Farmer
@@ -686,7 +686,7 @@ nomifactory.quest.db.106.desc=顾名思义，这个终端让你把配方编写�
 #nomifactory.quest.db.107.title=Atomic Reconstructor
 nomifactory.quest.db.107.title=原子再构机
 #nomifactory.quest.db.107.desc=The §3Atomic Reconstructor§r is the cornerstone of §bActually Additions§r, using Crystal Flux (which automatically converts 1:1 with RF) to change items into other items.%n%nThis machine fires a laser out of the front that reconstructs standard materials into special variants.%n%nThe machine itself will give you further instructions on how to configure it.
-nomifactory.quest.db.107.desc=The §3Atomic Reconstructor§r is the cornerstone of §bActually Additions§r, using Crystal Flux (which automatically converts 1:1 with RF) to change items into other items.%n%nThis machine fires a laser out of the front that reconstructs standard materials into special variants.%n%nThe machine itself will give you further instructions on how to configure it.
+nomifactory.quest.db.107.desc=§3原子再构机§r是§b实用拓展§r的基石，使用水晶通量(自动与RF进行1:1转换)将物品变为其他物品。%n%n这台机器从前面发射出激光，将标准材料重构为特殊变体。%n%n机器本身会给你进一步的指示，告诉你如何配置它。
 
 # db 108
 #nomifactory.quest.db.108.title=Interface Terminal
@@ -716,7 +716,7 @@ nomifactory.quest.db.111.desc=在使用原始的木制桌子这么久之后，�
 #nomifactory.quest.db.112.title=Reconstruction Of Atoms
 nomifactory.quest.db.112.title=原子的重构
 #nomifactory.quest.db.112.desc=By placing them in the path of an §3Atomic Reconstructor§r's laser beam, §6Coal§r can be turned into §6Void Crystals§r, and §6Iron Ingots§r into §6Enori Crystals§r.%n%nKeep in mind you can efficiently do this with blocks, splitting them into nine base items as usual.
-nomifactory.quest.db.112.desc=By placing them in the path of an §3Atomic Reconstructor§r's laser beam, §6Coal§r can be turned into §6Void Crystals§r, and §6Iron Ingots§r into §6Enori Crystals§r.%n%nKeep in mind you can efficiently do this with blocks, splitting them into nine base items as usual.
+nomifactory.quest.db.112.desc=通过把它们放在§3原子再构机§r的激光束的路径上，§6煤炭§r可以变成§6煤晶§r，§6铁锭§r可以变成§6铁晶§r。%n%n请记住，你可以有效地用方块做这件事，像往常一样把它们分成九个基础物品。
 
 # db 113
 #nomifactory.quest.db.113.title=Resonator
@@ -806,7 +806,7 @@ nomifactory.quest.db.126.desc=§6Surface Mounted Devices§r, or §6SMD§rs for s
 #nomifactory.quest.db.129.title=§2MV Emitter
 nomifactory.quest.db.129.title=§2MV发射器
 #nomifactory.quest.db.129.desc=§2An expensive advanced component used in the construction of the MV Precision Laser Engraver and MV Circuit Assembler.%n%nProcess some Emerald Ore in the Sifter to get the Flawless Emerald required to craft this.
-nomifactory.quest.db.129.desc=§2An expensive advanced component used in the construction of the MV Precision Laser Engraver and MV Circuit Assembler.%n%nProcess some Emerald Ore in the Sifter to get the Flawless Emerald required to craft this.
+nomifactory.quest.db.129.desc=§2在MV精密激光蚀刻机和MV电路组装机的结构中使用的一种昂贵的高级组件。%n%n在筛选器中处理一些绿宝石矿石，以获得制作这个所需的无瑕绿宝石。
 
 # db 130
 #nomifactory.quest.db.130.title=Annealed Copper
@@ -1374,7 +1374,7 @@ nomifactory.quest.db.230.desc=如果你试图快速输入或移出大量的物�
 
 # db 231
 #nomifactory.quest.db.231.title=Infiniter Water
-nomifactory.quest.db.231.title=更无限的水源
+nomifactory.quest.db.231.title=蓄水库
 #nomifactory.quest.db.231.desc=Endervoirs are blocks that generate water much faster than basic NuclearCraft infinite water sources.%n%nEndervoirs are multiblocks formed by at least three Endervoir blocks. You can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
 nomifactory.quest.db.231.desc=蓄水库是产生水的方块，比基础的核电工艺无限水快得多。%n%n蓄水库是由至少三个蓄水库方块组成的多方块。你可以用扳手右击一个方块，使其输出到相邻的机器。%n%n蓄水库的最大传输速率是每秒一桶。
 
@@ -2420,7 +2420,7 @@ nomifactory.quest.db.501.desc=在主菜§d万象§r之前，这是一道小小�
 #nomifactory.quest.db.502.title=Capacitors
 nomifactory.quest.db.502.title=电容
 #nomifactory.quest.db.502.desc=§6Capacitors§r are devices that store electrical energy, which is useful for circuits.%n%nNot to be confused with §bEnderIO§r's capacitors§r, which store redstone flux.
-nomifactory.quest.db.502.desc=§6Capacitors§r are devices that store electrical energy, which is useful for circuits.%n%nNot to be confused with §bEnderIO§r's capacitors§r, which store redstone flux.
+nomifactory.quest.db.502.desc=§6电容§r是储存电能的装置，对电路很有用。%n%n不要与§b末影接口§r的电容混淆，后者储存红石通量。
 
 # db 503
 #nomifactory.quest.db.503.title=Dark Soularium Ingots
@@ -2618,7 +2618,7 @@ nomifactory.quest.db.540.desc=The §3Extruder§r is a universal metalworking mac
 #nomifactory.quest.db.541.title=§2More Blast Furnaces
 nomifactory.quest.db.541.title=§2更多高炉
 #nomifactory.quest.db.541.desc=Overclocking aside, as you continue to progress in §5Nomifactory§r, materials made in the §3Electric Blast Furnace§r will take longer to complete. §eMore advanced coils do not give speed bonuses§r §2directly§r; they mainly allow for the furnace to §eget hot enough to process more advanced materials§r, §2and they also granting energy efficiency bonuses and speed bonuses to overclocking.§r%n%nConsequently, you'll need to continually expand your smelting and power generation infrastructure.%n%nYou don't have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.%n%n§2As a reminder, all blocks and hatches can be shared across EBFs, except Maintenance!
-nomifactory.quest.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈不§2直接的§r给速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率奖励和超频的速度奖励。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电炉。%n%n§2作为提醒，所有方块和仓都可以在电力高炉之间共享，除了维护仓以外！
+nomifactory.quest.db.541.desc=撇开超频不谈，随着你在§5全能工厂§r中不断进步，在§3电力高炉§r中制作的材料将需要更长时间才能完成。§e更高级的线圈§2不直接§r的给速度加成；它们主要允许熔炉获得足够的温度来加工更高级的材料§r，§2而且它们还给予能量效率奖励和超频的速度奖励。§r%n%n因此，你需要不断地扩大你的熔炼和发电基础设施。%n%n你不一定非要把这四个电力高炉全部完成并运行，但要准备在整合包的过程中制作更多电炉。%n%n§2作为提醒，所有方块和仓都可以在电力高炉之间共享，除了维护仓以外！
 
 # db 542
 #nomifactory.quest.db.542.title=Soul Binder
@@ -2848,7 +2848,7 @@ nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether
 #nomifactory.quest.db.609.title=Reinforced Upgrade Kit
 nomifactory.quest.db.609.title=强化升级套件
 #nomifactory.quest.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
-nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位。%n%n能源炉在§a基础能量和燃料燃烧率的250%%§r运行。%n%n储罐可容纳§a450桶§r。%n%n机器以基础速度的250%%运行。
+nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位。%n%n能源炉在§a基础功率和燃料效率的250%%§r运行。%n%n储罐可容纳§a450桶§r。%n%n机器以基础速度的250%%运行。
 
 # db 610
 #nomifactory.quest.db.610.title=Tough Alloy
@@ -3196,7 +3196,7 @@ nomifactory.quest.db.685.desc=不用急于把这些都做完并提高等级，�
 
 # db 686
 #nomifactory.quest.db.686.title=§2Infinite Water
-nomifactory.quest.db.686.title=§2无限水源
+nomifactory.quest.db.686.title=§2无限水
 #nomifactory.quest.db.686.desc=Feeding a §3Steam Dynamo§r with water by hand is a pretty silly idea.%n%nAn §6Infinite Water Source§r will take care of that for you, albeit slowly.%n%n§2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven.
 nomifactory.quest.db.686.desc=手动给§3蒸气能源炉§r加水是一个相当愚蠢的做法。%n%n一个§6无限水§r将为你解决这个问题，尽管很慢。%n%n§2格雷科技社区版：非官方版有一个原始水泵，它可以做得更快。然而，它需要处理过的木头，而处理过的木头需要来自焦炉的杂酚油。
 
@@ -3564,7 +3564,7 @@ nomifactory.quest.db.785.desc=§bEffortless Building§r is a mod that makes it m
 #nomifactory.quest.db.786.title=Farming Station
 nomifactory.quest.db.786.title=种植站
 #nomifactory.quest.db.786.desc=The §3Farming Station§r is a machine that automates growing and harvesting trees and crops around it, based on what items you put in it.%n%nThe Farming Station will principally collect crops, saplings, and wood, but it will also collect things like §6Apples§r from Oak Trees and §6Sticky Resin§r from Rubber Trees. It can also collect leaves if you want it to.%n%nLike other §bEnderIO§r machines, it requires an §6RF capacitor§r. The quality of capacitor affects the overall size of the farm as well as the speed and energy at which it operates.%n%nYou can configure which crops or tree types will be planted relative to the Farming Station by placing the crop or sapling in the various quadrants in the GUI. Clicking the lock button will ensure that the stack placed there won't be completely consumed, as that could lead to plants migrating to other quadrants.%n%nIn addition to power, the Farming Station§r requires specific §etools§r (and usually a supply of §9Water§r) to operate. If you're missing anything, the machine will refuse to operate and displays a message over itself to let you know.%n%nFor planting §6crops§r or §6saplings§r, you need a §aHoe§r.%nFor chopping §6trees§r, you need an §aAxe§r. To collect §6leaves§r, you also need §aShears§r.%n%nTool durability is consumed as the farm performs work, so the tools will eventually break. You can make §aStone Tools§r from a cobblestone generator and some sticks, or even §aDiamond Tools§r using diamonds from your §3Deep Mob Learning§r setup.%n%nAlternately, you can invest in fancier tools such as th§re §aDark Backhoe§r (which is designed for use in the Farming Station), or even unbreakable tools much later like the §aFlux Infused Axe§r and §aOmniwrench§r (shears).%n%nThe Farming Station also has a lesser-known feature: it respects enchantments and upgrades on your tools. Tools with §eEmpowered§r upgrades will be ejected into the output slots when they run out of charge (if they don't break first). Tools with the §eMending§r enchantment are similarly ejected when they are about to break.%n%nYou can use these properties to your advantage.%n%n
-nomifactory.quest.db.786.desc=The §3Farming Station§r is a machine that automates growing and harvesting trees and crops around it, based on what items you put in it.%n%nThe Farming Station will principally collect crops, saplings, and wood, but it will also collect things like §6Apples§r from Oak Trees and §6Sticky Resin§r from Rubber Trees. It can also collect leaves if you want it to.%n%nLike other §bEnderIO§r machines, it requires an §6RF capacitor§r. The quality of capacitor affects the overall size of the farm as well as the speed and energy at which it operates.%n%nYou can configure which crops or tree types will be planted relative to the Farming Station by placing the crop or sapling in the various quadrants in the GUI. Clicking the lock button will ensure that the stack placed there won't be completely consumed, as that could lead to plants migrating to other quadrants.%n%nIn addition to power, the Farming Station§r requires specific §etools§r (and usually a supply of §9Water§r) to operate. If you're missing anything, the machine will refuse to operate and displays a message over itself to let you know.%n%nFor planting §6crops§r or §6saplings§r, you need a §aHoe§r.%nFor chopping §6trees§r, you need an §aAxe§r. To collect §6leaves§r, you also need §aShears§r.%n%nTool durability is consumed as the farm performs work, so the tools will eventually break. You can make §aStone Tools§r from a cobblestone generator and some sticks, or even §aDiamond Tools§r using diamonds from your §3Deep Mob Learning§r setup.%n%nAlternately, you can invest in fancier tools such as th§re §aDark Backhoe§r (which is designed for use in the Farming Station), or even unbreakable tools much later like the §aFlux Infused Axe§r and §aOmniwrench§r (shears).%n%nThe Farming Station also has a lesser-known feature: it respects enchantments and upgrades on your tools. Tools with §eEmpowered§r upgrades will be ejected into the output slots when they run out of charge (if they don't break first). Tools with the §eMending§r enchantment are similarly ejected when they are about to break.%n%nYou can use these properties to your advantage.%n%n
+nomifactory.quest.db.786.desc=§3种植站§r是一台机器，根据你放入的物品，自动种植和收获周围的树木和作物。%n%n种植站主要收集农作物、树苗和木头，但它也会收集橡树的§6苹果§r和§6橡胶树§r的§6粘性树脂§r。如果你愿意，它还可以收集树叶。%n%n与其他§b末影接口§r机器一样，它需要一个§6RF电容§r。电容的质量影响到农场的整体规模，以及其运行的速度和能量。%n%n你可以通过将作物或树苗放置在GUI中的各个象限，来配置哪些作物或树种会相对于种植站被种植。点击锁定按钮将确保放在那里的物品不会被完全消耗，因为这可能导致植物转移到其他象限。%n%n除了能量之外，种植站还需要特定的工具(通常还需要供应§9水§r）来运作。如果你缺少任何东西，机器将拒绝操作，并在自身上方显示一条信息，让你知道。%n%n对于种植§6作物§r或§6树苗§r，你需要一个§a锄头§r。%n对于砍伐§6树木§r，你需要一个§a斧头§r。要收集§6树叶§r，你还需要§a剪刀§r。%n%n工具的耐久是随着种植站进行工作而消耗的，所以工具最终会损坏。你可以用造石机和一些木棍制作§a石制工具§r，甚至可以用§3深度怪物学习§r生产的钻石制作§a钻石工具§r。%n%n另外，你可以制作更高级的工具，如§a玄钢反铲§r(专门用于种植站)，甚至更迟获得的牢不可破的工具，如§a红石充能斧§r和§a万象扳手§r(剪刀)。%n%种植站还有一个鲜为人知的特性: 它接受你的工具上的附魔和升级。带有§e注能§r升级的工具在耗尽电量时将被弹出到输出槽中(如果它们不是早就损坏的话)。具有§e经验修补§r附魔的工具在即将损坏时也会被弹出。%n%n你可以利用这些属性来发挥你的优势。
 
 # db 787
 #nomifactory.quest.db.787.title=Smart Item Filter
@@ -3768,7 +3768,7 @@ nomifactory.quest.db.819.desc=§2二极管是下一个电路等级的一个组�
 #nomifactory.quest.db.820.title=§2Sodium Persulfate and Iron III Chloride
 nomifactory.quest.db.820.title=§2“过硫酸钠”和“三氯化铁”
 #nomifactory.quest.db.820.desc=§2Sodium Persulfate§r §2and Iron III Chloride§r are used to make cheaper §9Good Circuit Boards§r, as it cuts the Silver amount by a factor of four. They are also §drequired§r to make §9Plastic Circuit Boards§r.%n%nMaking §aSodium Persulfate§r will yield §aHydrochloric Acid§r as a coproduct, which you may re-use to make §aIron III Chloride§r. This should the best approach right now, but the decision is entirely yours. With more automation later in the game, Iron III Chloride will be the cheaper and more straight forward path.%n%nSodium Persulfate§r can also be used in §9Ore Processing§r in the §3Chemical Bath§r, to get various bonus outputs you would not normally obtain. It is completely optional, but pretty rewarding.
-nomifactory.quest.db.820.desc=§2Sodium Persulfate§r §2and Iron III Chloride§r are used to make cheaper §9Good Circuit Boards§r, as it cuts the Silver amount by a factor of four. They are also §drequired§r to make §9Plastic Circuit Boards§r.%n%nMaking §aSodium Persulfate§r will yield §aHydrochloric Acid§r as a coproduct, which you may re-use to make §aIron III Chloride§r. This should the best approach right now, but the decision is entirely yours. With more automation later in the game, Iron III Chloride will be the cheaper and more straight forward path.%n%nSodium Persulfate§r can also be used in §9Ore Processing§r in the §3Chemical Bath§r, to get various bonus outputs you would not normally obtain. It is completely optional, but pretty rewarding.
+nomifactory.quest.db.820.desc=§过硫酸钠§r和§2三氯化铁§r被用来制造更便宜的§9良好的电路板§r，因为它将银的数量减少了四倍。他们也被§d需要§r来制作§9塑料电路板§r。%n%n制作§a过硫酸钠§r会产生§a盐酸§r作为副产物，你可以重新使用它来制作§a三氯化铁§r。这应该是目前最好的办法，但决定权完全在你。随着后期自动化程度的提高，三氯化铁将是更便宜、更直接的途径。%n%n过硫酸钠也可用于§9矿物处理§r中的§3化学浸洗器§r，以获得各种你通常不会获得的奖励产出。这完全是可有可无的，但相当有意义。
 
 # db 821
 #nomifactory.quest.db.821.title=§2Good Circuit Boards
@@ -3780,13 +3780,13 @@ nomifactory.quest.db.821.desc=§2酚醛基板在用于电路生产之前需要�
 #nomifactory.quest.db.822.title=§2Sifter
 nomifactory.quest.db.822.title=§2筛选器
 #nomifactory.quest.db.822.desc=§2This quest accepts an LV or MV Sifter.%n%nThe Sifter gets you Flawless and Exquisite Gems from Crushed Purified Gem Ores. Overall it results in a higher yield. Higher tiers of Sifter increase the yield further.%n%nYou will need small quantities of Flawless Emeralds for MV Emitter and Sensor components.
-nomifactory.quest.db.822.desc=§2This quest accepts an LV or MV Sifter.%n%nThe Sifter gets you Flawless and Exquisite Gems from Crushed Purified Gem Ores. Overall it results in a higher yield. Higher tiers of Sifter increase the yield further.%n%nYou will need small quantities of Flawless Emeralds for MV Emitter and Sensor components.
+nomifactory.quest.db.822.desc=§2这个任务同时接受LV和MV筛选器。%n%n筛选器能让你从粉碎的洁净宝石矿石中获得无暇和精致的宝石。总的来说，这导致了更高的产量。更高层级的筛选器会进一步提高产量。%n%n你将需要少量的无瑕绿宝石用于MV发射器和传感器组件。
 
 # db 823
 #nomifactory.quest.db.823.title=§2Inductors
 nomifactory.quest.db.823.title=§2电感器
 #nomifactory.quest.db.823.desc=§2The successor of Small Coils, Inductors are another circuit component you will need.%n%nFor the best results, use Nickel Zinc Ferrite and Annealed Copper to make these.%n%nBut depending on which setups you build first, you may not need to make many of the basic version over the SMD version.
-nomifactory.quest.db.823.desc=§2The successor of Small Coils, Inductors are another circuit component you will need.%n%nFor the best results, use Nickel Zinc Ferrite and Annealed Copper to make these.%n%nBut depending on which setups you build first, you may not need to make many of the basic version over the SMD version.
+nomifactory.quest.db.823.desc=§2小线圈的继承者，电感器是你需要的另一个电路元件。%n%n为了获得最佳成果，请使用镍锌铁氧体和退火铜来制作这些材料。%n%n但是，根据你首次构建的体系，你可能不需要在SMD版本上制造许多基础的版本。
 
 # db 824
 #nomifactory.quest.db.824.title=§2Polytetrafluoroethylene
@@ -3822,13 +3822,13 @@ nomifactory.quest.db.828.desc=§2这在社区版：非官方版中也不是什�
 #nomifactory.quest.db.829.title=HV Assembler
 nomifactory.quest.db.829.title=HV组装机
 #nomifactory.quest.db.829.desc=§2The next tier of Assembling Machine. This one can make quite a few nice things - check the surrounding quests.
-nomifactory.quest.db.829.desc=§2The next tier of Assembling Machine. This one can make quite a few nice things - check the surrounding quests.
+nomifactory.quest.db.829.desc=§2组装机的下一个层级。这个可以做相当多的好东西 - 检查周围的任务。
 
 # db 830
 #nomifactory.quest.db.830.title=§2Greggy Infinite Water
-nomifactory.quest.db.830.title=§2覆盖型无限水源
+nomifactory.quest.db.830.title=§2无限水覆盖
 #nomifactory.quest.db.830.desc=§2A more compact infinite Water source. Place this as a cover on any GT machine and it will insert 16B of water every second.
-nomifactory.quest.db.830.desc=§2A more compact infinite Water source. Place this as a cover on any GT machine and it will insert 16B of water every second.
+nomifactory.quest.db.830.desc=§2一个更紧凑的无限水源。将此作为一个覆盖板放在任何格雷科技机器上，它将每秒输入16B的水。
 
 # db 831
 #nomifactory.quest.db.831.title=§2Super Ender Tanks
@@ -3864,7 +3864,7 @@ nomifactory.quest.db.835.desc=§2In GTCEu, higher-tier blends of dusts require h
 #nomifactory.quest.db.836.title=§2Vanadiumsteel
 nomifactory.quest.db.836.title=§2钒钢
 #nomifactory.quest.db.836.desc=§2A bit of Vanadiumsteel is used for progression. It's also a very strong tool material.%n%n§6Vanadium§r is an element acquired by processing §6Vanadium Magnetite Ore§r.
-nomifactory.quest.db.836.desc=§2A bit of Vanadiumsteel is used for progression. It's also a very strong tool material.%n%n§6Vanadium§r is an element acquired by processing §6Vanadium Magnetite Ore§r.
+nomifactory.quest.db.836.desc=§2一点点钒钢是用来推进发展的。它也是一种非常坚固的工具材料。%n%n§6钒§r是通过处理§6钒磁铁矿§r而获得的一种元素。
 
 # db 837
 #nomifactory.quest.db.837.title=§2Systems on Chip
