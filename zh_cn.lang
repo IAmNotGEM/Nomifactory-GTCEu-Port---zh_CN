@@ -2180,7 +2180,7 @@ nomifactory.quest.db.387.desc=将几种成分组合成一种催化剂。
 #nomifactory.quest.db.388.title=Ultimate Component
 nomifactory.quest.db.388.title=终极组件
 #nomifactory.quest.db.388.desc=Used for Ultimate tier §bExtended Crafting§r.%n%nDon't worry if you can't make these for a while. You'll probably get to them around IV power.
-nomifactory.quest.db.388.desc=用于终极级别的§b拓展合成§r。%n%n如果你暂时不能制作这些，不要担心。你可能会在IV级别的电力的时候得到它们。
+nomifactory.quest.db.388.desc=用于终极级别的§b拓展合成§r。%n%n如果你暂时不能制作这些，不要担心。你可能会在IV时代左右的时候得到它们。
 
 # db 389
 #nomifactory.quest.db.389.title=Ultimate Extended Crafting Table
@@ -3420,7 +3420,7 @@ nomifactory.quest.db.761.desc=现在你有了§e跨维度传送§r，你可以�
 #nomifactory.quest.db.762.title=Rod of Return
 nomifactory.quest.db.762.title=折返权杖
 #nomifactory.quest.db.762.desc=A good, but slightly gated way of teleporting back to your telepads.%n%nIt won't be possible to make this until you reach EV tier power.
-nomifactory.quest.db.762.desc=一个很好的，但略带门槛的传送回你的传送台的方法。%n%n在你达到IV级别的电力之前，是不可能做到这一点的。
+nomifactory.quest.db.762.desc=一个很好的，但略带门槛的传送回你的传送台的方法。%n%n在你达到IV时代之前，是不可能做到这一点的。
 
 # db 763
 #nomifactory.quest.db.763.title=LV Circuits
