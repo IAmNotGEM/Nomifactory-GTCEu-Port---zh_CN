@@ -980,7 +980,7 @@ nomifactory.quest.db.160.desc=First, you need some §9Oil§r. Pick your favorite
 #nomifactory.quest.db.161.title=§2Refinery Gas
 nomifactory.quest.db.161.title=§2炼油气
 #nomifactory.quest.db.161.desc=Like other petroleum products, §9Sulfuric Gas§r §2or Natural Gas§r is hydrodesulfurized into §9Refinery Gas§r using §9Hydrogen§r in a §3Chemical Reactor§r.%n%nRefinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for §3Gas Turbines§r. While it can be burned directly, centrifuging Refinery Gas produces §9LPG§r (Liquefied Petroleum Gas), which is an ideal fuel for Gas Turbines, and §9Methane§r which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
-nomifactory.quest.db.161.desc=Like other petroleum products, §9Sulfuric Gas§r §2or Natural Gas§r is hydrodesulfurized into §9Refinery Gas§r using §9Hydrogen§r in a §3Chemical Reactor§r.%n%nRefinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for §3Gas Turbines§r. While it can be burned directly, centrifuging Refinery Gas produces §9LPG§r (Liquefied Petroleum Gas), which is an ideal fuel for Gas Turbines, and §9Methane§r which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
+nomifactory.quest.db.161.desc=与其他石油产物一样，§9含硫炼油气§r§2或天然气§r在§3化学反应釜中使用§9氢§r加氢脱硫成§9炼油气§r。%n%n炼油气可以被裂解并进一步蒸馏其成分，但它也可以作为燃料用于§3燃气轮机§r。虽然它可以直接燃烧，但离心处理炼油气会产生§9LPG§r(液化石油气)，这是燃气轮机的理想燃料，以及§9甲烷§r，这是一种潜在的不理想的燃气轮机燃料，但也对各种化学反应有用。
 
 # db 162
 #nomifactory.quest.db.162.title=Canola Press
@@ -998,7 +998,7 @@ nomifactory.quest.db.163.desc=一大批流体可以作为你的§9生物柴油§
 #nomifactory.quest.db.164.title=Heavy Fuel
 nomifactory.quest.db.164.title=重燃料
 #nomifactory.quest.db.164.desc=§9Heavy Fuel§r is mixed with §9Light Fuel§r to create §9Diesel§r.%n%nSince Diesel requires more Light than Heavy fuel, you should consider Steam-cracking and distilling the excess quantity of Heavy Fuel for its useful constituents.
-nomifactory.quest.db.164.desc=§9Heavy Fuel§r is mixed with §9Light Fuel§r to create §9Diesel§r.%n%nSince Diesel requires more Light than Heavy fuel, you should consider Steam-cracking and distilling the excess quantity of Heavy Fuel for its useful constituents.
+nomifactory.quest.db.164.desc=§重燃料§r与轻燃料§r混合，形成§9柴油§r。%n%n由于柴油需要的轻燃料多于重燃料，你应该考虑将多余的重燃料进行蒸汽裂解和蒸馏，以获得有用的成分。
 
 # db 165
 #nomifactory.quest.db.165.title=§2Light Fuel
@@ -1010,19 +1010,19 @@ nomifactory.quest.db.165.desc=§2轻燃料的蒸馏物现在更有用，它是�
 #nomifactory.quest.db.166.title=Naphtha
 nomifactory.quest.db.166.title=石脑油
 #nomifactory.quest.db.166.desc=§9Naphtha§r is best utilized for Steam-Cracking and distilling for its constituents.%n%nNotably it contains §9Light Fuel§r and §9Heavy Fuel§r for making more §9Diesel§r, as well as many other useful chemicals for a variety of purposes.
-nomifactory.quest.db.166.desc=§9Naphtha§r is best utilized for Steam-Cracking and distilling for its constituents.%n%nNotably it contains §9Light Fuel§r and §9Heavy Fuel§r for making more §9Diesel§r, as well as many other useful chemicals for a variety of purposes.
+nomifactory.quest.db.166.desc=§9石脑油§r最好用于蒸汽裂解和蒸馏其成分。%n%n值得注意的是，它包含了用于制造更多§9柴油的§9轻燃料§r和§9重燃料§r，以及许多其他有用的化学物，用于各种用途。
 
 # db 167
 #nomifactory.quest.db.167.title=§2Hydrogen Sulfide
 nomifactory.quest.db.167.title=§2硫化氢
 #nomifactory.quest.db.167.desc=§9Hydrogen Sulfide§r is a byproduct of hydrodesulfurization. §2It also comes from distilling Liquid Nether Air.§r%n%nA simple chemical reaction with §9Water§r reprocesses it into the useful §9Sulfuric Acid§r, or it can be electrolyzed for recovering the §9Hydrogen§r.
-nomifactory.quest.db.167.desc=§9Hydrogen Sulfide§r is a byproduct of hydrodesulfurization. §2It also comes from distilling Liquid Nether Air.§r%n%nA simple chemical reaction with §9Water§r reprocesses it into the useful §9Sulfuric Acid§r, or it can be electrolyzed for recovering the §9Hydrogen§r.
+nomifactory.quest.db.167.desc=§9硫化氢§r是加氢脱硫的一种副产物。§2它也来自于蒸馏液态下界空气。§r%n%n与§9水§r进行简单的化学反应，就可以将其重新处理成有用的§9硫酸§r，或者可以通过电解来回收§9氢§r。
 
 # db 168
 #nomifactory.quest.db.168.title=Diesel
 nomifactory.quest.db.168.title=柴油
 #nomifactory.quest.db.168.desc=§9Diesel§r is a mixture of §9Light Fuel§r and §9Heavy Fuel§r.%n%nThe primary use is for making §9Nitro Diesel§r, which you will want to stockpile in large quantities for the later production of §6Draconium§r §2(unless you use Gasoline instead).%n%nThe performance of Combustion Generators is also improved, but you probably want to refine Diesel anyway.%n%n§2It's more power efficient to use singleblock Distilleries over a Distillation Tower for Oil, due to the overclocking mechanics being different. For Diesel, the correct ratio is 3 Distilleries for Light Oil and 2 Distilleries for Heavy Oil.
-nomifactory.quest.db.168.desc=§9Diesel§r is a mixture of §9Light Fuel§r and §9Heavy Fuel§r.%n%nThe primary use is for making §9Nitro Diesel§r, which you will want to stockpile in large quantities for the later production of §6Draconium§r §2(unless you use Gasoline instead).%n%nThe performance of Combustion Generators is also improved, but you probably want to refine Diesel anyway.%n%n§2It's more power efficient to use singleblock Distilleries over a Distillation Tower for Oil, due to the overclocking mechanics being different. For Diesel, the correct ratio is 3 Distilleries for Light Oil and 2 Distilleries for Heavy Oil.
+nomifactory.quest.db.168.desc=§9柴油§r是§9轻燃料§r和§9重燃料§r的混合物。%n%n主要用途是制造§9高十六烷值柴油§r，你会想大量囤积，以便以后生产§6龙素§2(除非你用汽油代替)。%n%n燃气轮机的性能也得到了改善，但无论如何，你可能想提炼柴油。%n%n§2由于超频机制的不同，使用蒸馏室比使用蒸馏塔处理石油更省电。对于柴油来说，正确的比例是3个轻油蒸馏室，2个重油蒸馏室。
 
 # db 169
 #nomifactory.quest.db.169.title=Palladium
@@ -1082,31 +1082,31 @@ nomifactory.quest.db.177.desc=不要让环保局抓住你制造这种东西。%n
 #nomifactory.quest.db.178.title=Tetranitromethane
 nomifactory.quest.db.178.title=四硝基甲烷
 #nomifactory.quest.db.178.desc=This is the additive that will bring our diesel fuel to the next level.%n%nMix §9Nitric Acid§r and §9Ethenone§r in a §3Chemical Reactor§r to make §9Tetranitromethane§r.%n%nIn a newly added route, you can also mix §9Nitric Acid§r and §9Methyl Acetate§r in a §3Chemical Reactor§r.
-nomifactory.quest.db.178.desc=This is the additive that will bring our diesel fuel to the next level.%n%nMix §9Nitric Acid§r and §9Ethenone§r in a §3Chemical Reactor§r to make §9Tetranitromethane§r.%n%nIn a newly added route, you can also mix §9Nitric Acid§r and §9Methyl Acetate§r in a §3Chemical Reactor§r.
+nomifactory.quest.db.178.desc=这是一种添加剂，将使我们的柴油燃料达到新的水平。%n%n将§9硝酸§r和§9乙烯酮§r在§3化学反应釜§r中混合，制成§9四硝基甲烷§r。%n%n在新增加的路线中，你也可以将§9硝酸§r和§9乙酸甲酯§r在§3化学反应釜§r中混合。
 
 # db 179
 #nomifactory.quest.db.179.title=§2NITRO DIESEL!!
 nomifactory.quest.db.179.title=§2高十六烷值柴油！！
 #nomifactory.quest.db.179.desc=Mixing §9Diesel§r (or less efficiently, §9Bio Diesel§r) with §9Tetranitromethane§r in an §3HV Mixer§r produces §9Nitro Diesel§r, an extremely potent fuel needed later for §6Draconium§r production.%n%nIf you have a very robust petrochemical infrastructure and can afford to burn it, this fuel along with proper oxygenation §2is a potent fuel in the Large Combustion Engine and Extreme Combustion Engine, producing §2720 EU/mB of fuel.
-nomifactory.quest.db.179.desc=Mixing §9Diesel§r (or less efficiently, §9Bio Diesel§r) with §9Tetranitromethane§r in an §3HV Mixer§r produces §9Nitro Diesel§r, an extremely potent fuel needed later for §6Draconium§r production.%n%nIf you have a very robust petrochemical infrastructure and can afford to burn it, this fuel along with proper oxygenation §2is a potent fuel in the Large Combustion Engine and Extreme Combustion Engine, producing §2720 EU/mB of fuel.
+nomifactory.quest.db.179.desc=将§9柴油§r(或效率较低的§9生物柴油§r)与§9四硝基甲烷§r在§3HV搅拌机§r中混合，产生§9硝基柴油§r，这是一种极其有效的燃料，以后需要用于§6龙素§r的生产。%n%n如果你有一个非常强大的石化基础设施，并且能够烧得起它，这种燃料连同适当的充氧§2是大型柴油引擎和高级大型柴油引擎的有效燃料，燃料产生§2720EU/mB。
 
 # db 180
 #nomifactory.quest.db.180.title=Ethenone
 nomifactory.quest.db.180.title=乙烯酮
 #nomifactory.quest.db.180.desc=§9Acetic Acid§r and §9Sulfuric Acid§r make §9Ethenone§r.%n%nOr you can heat §9Acetone§r, or a few other approaches. Check out §bJEI§r for the various options.
-nomifactory.quest.db.180.desc=§9Acetic Acid§r and §9Sulfuric Acid§r make §9Ethenone§r.%n%nOr you can heat §9Acetone§r, or a few other approaches. Check out §bJEI§r for the various options.
+nomifactory.quest.db.180.desc=§9醋酸§r和§9硫酸§r可制成§9乙烯酮§r。%n%n或者你可以加热§9丙酮§r，或者其他一些方法。请查看§bJEI§r的各种选项。
 
 # db 181
 #nomifactory.quest.db.181.title=Acetic Acid
 nomifactory.quest.db.181.title=乙酸
 #nomifactory.quest.db.181.desc=There are several paths to §9Acetic Acid§r... probably the simplest is combining §9Oxygen§r, §9Hydrogen§r, and §6Carbon§r, but one of the several other methods may appeal to you more, especially if you have a §3Distillation Tower§r.%n%nLook through §bJEI§r for the various options.
-nomifactory.quest.db.181.desc=There are several paths to §9Acetic Acid§r... probably the simplest is combining §9Oxygen§r, §9Hydrogen§r, and §6Carbon§r, but one of the several other methods may appeal to you more, especially if you have a §3Distillation Tower§r.%n%nLook through §bJEI§r for the various options.
+nomifactory.quest.db.181.desc=有几条途径可以获得§9乙酸§r...可能最简单的是结合§9氧§r、§9氢§r和§6碳§r元素，但其他几种方法中的一种可能更吸引你，特别是如果你有一个§3蒸馏塔§r的话。%n%n通过§bJEI§r查看各种选项。
 
 # db 182
 #nomifactory.quest.db.182.title=§2Epichlorohydrin
 nomifactory.quest.db.182.title=§2环氧氯丙烷
 #nomifactory.quest.db.182.desc=A colorless liquid with a pungent, garlic-like odor. It's needed in the production of §9Epoxy§r.%n%n§2You can skip a step making this with the Large Chemical Reactor.
-nomifactory.quest.db.182.desc=A colorless liquid with a pungent, garlic-like odor. It's needed in the production of §9Epoxy§r.%n%n§2You can skip a step making this with the Large Chemical Reactor.
+nomifactory.quest.db.182.desc=一种无色的流体，有刺激性的、类似蒜的气味。在生产§9环氧树脂§r的过程中需要它。%n%n§2用大型化学反应釜制作这个你可以跳过一个步骤。
 
 # db 183
 #nomifactory.quest.db.183.title=§2Fiber Reinforced Epoxy Substrate
@@ -1124,7 +1124,7 @@ nomifactory.quest.db.184.desc=石油化工是与石油有关的有机化学类�
 #nomifactory.quest.db.185.title=Epoxy
 nomifactory.quest.db.185.title=环氧树脂
 #nomifactory.quest.db.185.desc=Finally, §6Epoxy Resin Sheets§r.%n%nThese can be made into circuit boards as a substrate for advanced circuits.
-nomifactory.quest.db.185.desc=最后，§6环氧树脂片§r。%n%n这些可以被制成电路板，作为先进电路的基板。
+nomifactory.quest.db.185.desc=终于，§6环氧树脂片§r。%n%n这些可以被制成电路板，作为先进电路的基板。
 
 # db 186
 #nomifactory.quest.db.186.title=§2Carbon Fibers
@@ -1394,7 +1394,7 @@ nomifactory.quest.db.233.desc=在§b实用拓展§r中，有大量有趣的内�
 #nomifactory.quest.db.234.title=Barium
 nomifactory.quest.db.234.title=钡
 #nomifactory.quest.db.234.desc=§6Barium§r is an element found in §6Barite§r, which may be found as §6Barite Ore§r, inside §6Quartz§r veins.%n%nBarite can also be extracted from other Quartz ores via ore processing.
-nomifactory.quest.db.234.desc=§6钡是一种在§6重晶石§r中发现的元素，在§6石英§r矿脉内作为§6重晶石矿石§r发现。%n%n重晶石也可以通过从其他石英矿石处理中提取。
+nomifactory.quest.db.234.desc=§6钡§r是一种在§6重晶石§r中发现的元素，在§6石英§r矿脉内作为§6重晶石矿石§r发现。%n%n重晶石也可以通过从其他石英矿石处理中提取。
 
 # db 235
 #nomifactory.quest.db.235.title=§2Primal Mana
@@ -1866,9 +1866,9 @@ nomifactory.quest.db.317.desc=A complex plating material used exclusively for th
 
 # db 318
 #nomifactory.quest.db.318.title=§2Epoxy Production
-nomifactory.quest.db.318.title=§2环氧树脂生产
+nomifactory.quest.db.318.title=§2环氧树脂产线
 #nomifactory.quest.db.318.desc=§2The Naphtha route for Epoxy has been removed. You can only make Epoxy using the BPA route.%n%n§rBPA can be produced using petrochemistry distillation products, or via distilling §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r into useful components. Alternatively, you can get §9Phenol§r from §6Coal§r pyrolysis. §9Fermented Biomass§r is also useful to distill as it provides many useful products.%n%n§2Using the Large Chemical Reactor, you can skip two steps in the Epoxy production line.
-nomifactory.quest.db.318.desc=§2The Naphtha route for Epoxy has been removed. You can only make Epoxy using the BPA route.%n%n§rBPA can be produced using petrochemistry distillation products, or via distilling §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r into useful components. Alternatively, you can get §9Phenol§r from §6Coal§r pyrolysis. §9Fermented Biomass§r is also useful to distill as it provides many useful products.%n%n§2Using the Large Chemical Reactor, you can skip two steps in the Epoxy production line.
+nomifactory.quest.db.318.desc=§2环氧树脂的石脑油路线已被取消。你只能用双酚A路线来制造环氧树脂。%n%n§r双酚A可以使用石油化工蒸馏产物来生产，或者通过从你的§3热解炉§r将§9木炭副产品§r蒸馏成有用的成分。另外，你可以从§6煤炭§r热解中获得§9苯酚§r。§9发酵过的生物质§r也有助于蒸馏，因为它提供许多有用的产物。%n%n§2使用大型化学反应釜，你可以跳过环氧树脂生产线的两个步骤。
 
 # db 319
 #nomifactory.quest.db.319.title=Farming
@@ -1922,7 +1922,7 @@ nomifactory.quest.db.327.desc=Just ignore the protesters outside your base.%n%nE
 #nomifactory.quest.db.328.title=Boron
 nomifactory.quest.db.328.title=硼
 #nomifactory.quest.db.328.desc=§6Boron§r is currently obtainable by doing ore processing on §6Lepidolite Ore§r and §6Salt Ore§r (via §6Borax§r).
-nomifactory.quest.db.328.desc=§6Boron§r is currently obtainable by doing ore processing on §6Lepidolite Ore§r and §6Salt Ore§r (via §6Borax§r).
+nomifactory.quest.db.328.desc=目前可以通过对§6锂云母矿石§r和§6盐矿石§r(通过§6硼砂§r)进行矿石处理获得硼。
 
 # db 329
 #nomifactory.quest.db.329.title=Wyvern Fusion Injectors
@@ -2024,7 +2024,7 @@ nomifactory.quest.db.345.desc=§6Wyvern Cores§r are the second tier of cores, u
 #nomifactory.quest.db.347.title=NuclearCraft Platings
 nomifactory.quest.db.347.title=核电工艺金属板
 #nomifactory.quest.db.347.desc=§6Steel Heavy Plating§r can be augmented with §6Tungsten Plates§r and §6Tough Alloy§r to make §6Basic Reactor Plating§r.%n%nThat's right-- it's time to get into §bNuclearCraft§r.%n%nEnhancing basic plating with §6YBCO§r and §6Hard Carbon alloy§r results in a better plating material for more advanced §bNuclearCraft§r blocks.
-nomifactory.quest.db.347.desc=§6Steel Heavy Plating§r can be augmented with §6Tungsten Plates§r and §6Tough Alloy§r to make §6Basic Reactor Plating§r.%n%nThat's right-- it's time to get into §bNuclearCraft§r.%n%nEnhancing basic plating with §6YBCO§r and §6Hard Carbon alloy§r results in a better plating material for more advanced §bNuclearCraft§r blocks.
+nomifactory.quest.db.347.desc=§6钢重板§r可以用§6钨板§r和§6高强合金§r来增强，以制造§6反应堆基础板§r%n%n这就对了 - 是时候进入§b核电工艺§r了。%n%n用§6钇钡铜氧§r和§6硬碳合金§r加强基础镀层，为更先进的§b核电工艺§r方块提供更好的镀层材料。
 
 # db 350
 #nomifactory.quest.db.350.title=Fission Reactor
@@ -2728,7 +2728,7 @@ nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n
 #nomifactory.quest.db.580.title=§2Blast Furnaces Galore
 nomifactory.quest.db.580.title=§2众多高炉
 #nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
-nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
+nomifactory.quest.db.580.desc=随着你的不断发展，更高级的§3电力高炉§r配方的制作时间将继续增加。更高级的线圈并不提供速度加成，它们只是提高了工作温度，以便你能熔炼更高级的材料，§2而且它们还提供能源效率加成和超频的速度加成。§r%n%n为了弥补，你需要让你的熔炼和发电的基础设施达到一定的水平。%n%n你不需要现在就完成并运行所有这八个电力高炉，但计划在未来的某个时间点进行。与其升级现有的电力高炉，不如让它们被动地自动储存材料，并建立新的电力高炉，为新材料提供更高的规格。
 
 # db 582
 #nomifactory.quest.db.582.title=Fluxed Electrum Ingots
@@ -2854,7 +2854,7 @@ nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位�
 #nomifactory.quest.db.610.title=Tough Alloy
 nomifactory.quest.db.610.title=高强合金
 #nomifactory.quest.db.610.desc=§6Ferroboron§r is an alloy of §6Steel§r and §6Boron§r.%n%nAlloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
-nomifactory.quest.db.610.desc=§6Ferroboron§r is an alloy of §6Steel§r and §6Boron§r.%n%nAlloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
+nomifactory.quest.db.610.desc=§6硼铁§r是§6钢§r和§6硼§r组成的合金。%n%n将一些§6锂§r合金化到§6硼铁§r中会产生§6高强合金§r，这是§b核电工艺§r方块中的常见成分。
 
 # db 611
 #nomifactory.quest.db.611.title=ZPM Compressor
@@ -3156,7 +3156,7 @@ nomifactory.quest.db.678.desc=§6Californium§r is the final fissile material in
 #nomifactory.quest.db.679.title=Further Adventures In Fission
 nomifactory.quest.db.679.title=进一步探索裂变
 #nomifactory.quest.db.679.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
-nomifactory.quest.db.679.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
+nomifactory.quest.db.679.desc=现在你已经拥有了核裂变的所有基本建筑方块，你需要开始创建增殖链，以大量生产每种元素的稳定版本，用于合成§d万象§r。%n%n实验一下能够处理高浓缩燃料的大型增殖反应堆。%n%n你可能需要建造多个反应堆，以便在任何合理的时间内制造所有的裂变元素。
 
 # db 680
 #nomifactory.quest.db.680.title=§2Implosion Compressor
@@ -3288,7 +3288,7 @@ nomifactory.quest.db.730.desc=你的§3化学反应釜§r将制造很多不同�
 #nomifactory.quest.db.731.title=§2Hard Carbon Alloy
 nomifactory.quest.db.731.title=§2硬碳合金
 #nomifactory.quest.db.731.desc=§6Hard Carbon Alloy§r is an alloy made from §2Steel§r and §6Diamonds§r.
-nomifactory.quest.db.731.desc=§6Hard Carbon Alloy§r is an alloy made from §2Steel§r and §6Diamonds§r.
+nomifactory.quest.db.731.desc=§6硬碳合金§r是一种由§2钢§r和§6钻石§r制成的合金。
 
 # db 732
 #nomifactory.quest.db.732.title=Draconic Evolution Information Tablet
@@ -3540,7 +3540,7 @@ nomifactory.quest.db.781.desc=SMP的隐藏收集任务
 #nomifactory.quest.db.782.title=§2Large Turbines
 nomifactory.quest.db.782.title=§2大型涡轮机
 #nomifactory.quest.db.782.desc=§2Large Turbines have been improved in CEu. They are quite complex to run, but can generate lots of power when done well and scale very well.§r%n%nRight now, you can make the §6Large Steam Turbine§r and §6Large Gas Turbine§r. Once you get a §3Fusion Reactor§r going, you can make the §6Large Plasma Turbine§r.%n%nEach Large Turbine will need a §3Rotor Holder§r of the same or higher tier than the Large Turbine itself, and a §3Dynamo Hatch§r capable of handling the energy output. Each §3Rotor Holder§r tier above the Large Turbine §ddoubles§r the energy production and adds 10%% to fuel efficiency.%n%nYou will need a §aRotor§r to go into each §3Rotor Holder§r§r. The Rotor will grant multiplicative Power and Efficiency bonuses depending on its material. Each Rotor also has a Durability, which is the number of seconds it will last.%n%n§aExample: §r§6Large Gas Turbine§r, with §3HSS-E Rotor§r and §3IV Rotor Holder§r:%n§aProduction:§r 4096 * 2.80 * 2=22938 EU/t (91752 RF/t)%n§aEfficiency:§r 1.40 * 1.10=154.0%%%n§aDurability:§r 205,600 s (57.1 h)%n%nYou can run the §6Large Gas Turbine§r off §9LPG§r and §9Methane§r from §3Fluid Rigs§r, or §9Nitrobenzene§r from §6Wood§r.%nThe best §6Large Steam Turbine§r fuel is a closely-guarded government secret.
-nomifactory.quest.db.782.desc=§2Large Turbines have been improved in CEu. They are quite complex to run, but can generate lots of power when done well and scale very well.§r%n%nRight now, you can make the §6Large Steam Turbine§r and §6Large Gas Turbine§r. Once you get a §3Fusion Reactor§r going, you can make the §6Large Plasma Turbine§r.%n%nEach Large Turbine will need a §3Rotor Holder§r of the same or higher tier than the Large Turbine itself, and a §3Dynamo Hatch§r capable of handling the energy output. Each §3Rotor Holder§r tier above the Large Turbine §ddoubles§r the energy production and adds 10%% to fuel efficiency.%n%nYou will need a §aRotor§r to go into each §3Rotor Holder§r§r. The Rotor will grant multiplicative Power and Efficiency bonuses depending on its material. Each Rotor also has a Durability, which is the number of seconds it will last.%n%n§aExample: §r§6Large Gas Turbine§r, with §3HSS-E Rotor§r and §3IV Rotor Holder§r:%n§aProduction:§r 4096 * 2.80 * 2=22938 EU/t (91752 RF/t)%n§aEfficiency:§r 1.40 * 1.10=154.0%%%n§aDurability:§r 205,600 s (57.1 h)%n%nYou can run the §6Large Gas Turbine§r off §9LPG§r and §9Methane§r from §3Fluid Rigs§r, or §9Nitrobenzene§r from §6Wood§r.%nThe best §6Large Steam Turbine§r fuel is a closely-guarded government secret.
+nomifactory.quest.db.782.desc=§2大型涡轮机在社区版：非官方版中得到了改进。它们的运行相当复杂，但如果做得好，可以产生大量的电力，而且规模非常大。§r%n%n现在，你可以制作§6大型蒸汽涡轮§r和§6大型燃气涡轮§r。一旦你得到一个§3聚变反应堆§r，你就可以制作§6大型等离子体涡轮§r。%n%n每个大型涡轮将需要一个与大型涡轮本身相同或更高等级的§3转子支架§r，以及一个能够处理能量输出的§3动力仓§r。在大型涡轮之上的每一个§3转子支架§r等级都能使能量生产§d翻倍§r，并增加10%%的燃料效率。%n%n你将需要一个§a转子§r来放入每个§3转子支架§r§r。转子将根据其材料提供倍数的功率和效率加成。每个转子也有一个耐久，即它能持续多少秒。%n%n§a例子: §6大型燃气涡轮§r，配有§3高速钢-E转子§r和§3IV转子支架§r:%n§a生产:§r 4096*2.80*2=22938EU/t(91752RF/t)%n§a效率:§r 1.40*1.10=154.0%%%n§a耐久:§r 205,600秒(57.1小时)%n%n你可以从§3流体钻机§r的§9液化石油气§r和§9甲烷§r，或从§6木头§r上的§9硝基苯§r运行§6大型燃气涡轮§r。%n最好的§6大型蒸汽涡轮§r燃料是一个被严密保护的政府秘密。
 
 # db 783
 #nomifactory.quest.db.783.title=ME Cables
@@ -3630,7 +3630,7 @@ nomifactory.quest.db.796.desc=The §6System-on-Chip§r (or §6SoC§r) is a speci
 #nomifactory.quest.db.797.title=Sunnarium
 nomifactory.quest.db.797.title=日耀素
 #nomifactory.quest.db.797.desc=§6Sunnarium§r is an alloy formed from §6Stabilized Plutonium§r and §6Stabilized Curium§r in an IV or better §3Alloy Smelter§r.%n%nIt is a common ingredient in higher tier §6Solar Panels§r, as well as a crucial ingredient of the §3Processing Array§r.%n%nThis stuff takes a long time to produce so consider stocking it passively.
-nomifactory.quest.db.797.desc=§6Sunnarium§r is an alloy formed from §6Stabilized Plutonium§r and §6Stabilized Curium§r in an IV or better §3Alloy Smelter§r.%n%nIt is a common ingredient in higher tier §6Solar Panels§r, as well as a crucial ingredient of the §3Processing Array§r.%n%nThis stuff takes a long time to produce so consider stocking it passively.
+nomifactory.quest.db.797.desc=§6日耀素§r是由§6稳定钚§r和§6稳定锔§r在IV级或更好的§3合金炉§r中形成的合金。%n%n它是更高级别的§6太阳能电池板§r的常见成分，也是§3处理阵列§r的关键成分。%n%n这种东西需要很长的时间来生产，所以考虑被动地储备它。
 
 # db 798
 #nomifactory.quest.db.798.title=Signalum Satchel
@@ -3678,7 +3678,7 @@ nomifactory.quest.db.804.desc=一个任务。
 #nomifactory.quest.db.805.title=§2Allyl Chloride
 nomifactory.quest.db.805.title=§2烯丙基氯
 #nomifactory.quest.db.805.desc=§2You only need this step if you are using normal Chemical Reactors. If you are using LCRs, the Allyl Chloride step is skipped.%n%n§9Allyl Chloride§r provides an alternative means of producing §9Epichlorohydrin§r for §9Epoxy§r.%n%nReacting §9Chlorine§r and §9Propene§r will produce Allyl Chloride. Propene is distilled in a §3Distillation Tower§r from any of various cracked petroleum products like §9Steam-Cracked Naphtha§r.
-nomifactory.quest.db.805.desc=§2You only need this step if you are using normal Chemical Reactors. If you are using LCRs, the Allyl Chloride step is skipped.%n%n§9Allyl Chloride§r provides an alternative means of producing §9Epichlorohydrin§r for §9Epoxy§r.%n%nReacting §9Chlorine§r and §9Propene§r will produce Allyl Chloride. Propene is distilled in a §3Distillation Tower§r from any of various cracked petroleum products like §9Steam-Cracked Naphtha§r.
+nomifactory.quest.db.805.desc=§2只有当你使用普通的化学反应釜时，你才需要这一步。如果你使用的是大型化学反应釜，则跳过烯丙基氯步骤。%n%n§9烯丙基氯§r为生产§9环氧氯丙烷§r的§9环氧树脂§r提供了一种替代方法。%n%n让§9氯§r和§9丙烯§r反应，将产生烯丙基氯。丙烯是由各种裂解石油产物(如蒸汽裂化石脑油)在§3蒸馏塔§r中蒸馏出来。
 
 # db 806
 #nomifactory.quest.db.806.title=Seed Oil
@@ -3798,7 +3798,7 @@ nomifactory.quest.db.824.desc=§2聚四氟乙烯(PTFE，或特氟隆)是一种�
 #nomifactory.quest.db.825.title=§2Large Chemical Reactor
 nomifactory.quest.db.825.title=§2大型化学反应釜
 #nomifactory.quest.db.825.desc=§2The §3§2Large Chemical Reactor (LCR)§r §2is a multiblock §3§2Chemical Reactor§r §2with more input/output slots.§r%n%nThe §3LCR§r can perform some exclusive reactions which allow you to combine multiple normal §3Chemical Reactor§r steps into a §6single step§r, such as:%n- §aNitrogen Dioxide§r%n- §r§aSulfuric Acid§r%n-§r §aEpichlorohydrin§r, needed for...%n-§r §aEpoxy§r%n%nThe §3LCR§r also is required to perform some recipes, such as §aRaw Gasoline§r production.%n%nAny other recipe which could be done in a normal §9Chemical Reactor§r, as well as certain §9Mixer§r recipes, can also be done in an §3LCR§r.%n%nAll §dOverclocks§r in the §3LCR§r are §6100%% efficient§r; each overclock will §5quadruple the speed§r, as opposed to doubling it.
-nomifactory.quest.db.825.desc=§2The §3§2Large Chemical Reactor (LCR)§r §2is a multiblock §3§2Chemical Reactor§r §2with more input/output slots.§r%n%nThe §3LCR§r can perform some exclusive reactions which allow you to combine multiple normal §3Chemical Reactor§r steps into a §6single step§r, such as:%n- §aNitrogen Dioxide§r%n- §r§aSulfuric Acid§r%n-§r §aEpichlorohydrin§r, needed for...%n-§r §aEpoxy§r%n%nThe §3LCR§r also is required to perform some recipes, such as §aRaw Gasoline§r production.%n%nAny other recipe which could be done in a normal §9Chemical Reactor§r, as well as certain §9Mixer§r recipes, can also be done in an §3LCR§r.%n%nAll §dOverclocks§r in the §3LCR§r are §6100%% efficient§r; each overclock will §5quadruple the speed§r, as opposed to doubling it.
+nomifactory.quest.db.825.desc=§2大型化学反应釜(LCR)是一个具有更多输入/输出槽位的多方块结构化学反应器。§r%n%n§3大型化学反应釜§r可以进行一些排他性的反应，允许你将多个正常的§3化学反应釜§r步骤合并为一个§6单一步骤§r，例如:%n- §a二氧化氮§r%n- §a硫酸§r%n- §a环氧氯丙烷§r， 所需的...%n- §a环氧树脂§r%n%n§3大型化学反应釜§r也被要求执行一些配方，如§a汽油原料§r生产。%n%n任何其他可以在正常的§9化学反应釜§r中完成的配方，以及某些§9搅拌机§r配方，也可以在§3大型化学反应釜§r中完成。%n%n§3大型化学反应釜§r中的所有§d超频§r都有§6100%%的效率§r；每一次超频都会使速度增加四倍，而不是增加一倍。
 
 # db 826
 #nomifactory.quest.db.826.title=§2Platinum Group Processing
@@ -3954,7 +3954,7 @@ nomifactory.quest.db.850.desc=通过在你的高速钢-G中加入一些铱和锇
 #nomifactory.quest.db.851.title=§2Americium Ingot
 nomifactory.quest.db.851.title=§2镅锭
 #nomifactory.quest.db.851.desc=You can get Americium from NuclearCraft progression, but you can also fuse it. First combine Lanthanum with Silicon to make Lutetium, then combine it with Chrome to get Americium.%n%n§2Americium is used in larger quantities in CEu progression. You cannot convert this form of Americium to NuclearCraft Americium isotopes.
-nomifactory.quest.db.851.desc=You can get Americium from NuclearCraft progression, but you can also fuse it. First combine Lanthanum with Silicon to make Lutetium, then combine it with Chrome to get Americium.%n%n§2Americium is used in larger quantities in CEu progression. You cannot convert this form of Americium to NuclearCraft Americium isotopes.
+nomifactory.quest.db.851.desc=你可以从核电工艺进展中获得镅，但你也可以融合它。首先将镧与硅结合，制成镥，然后将其与铬结合，得到镅。%n%n§2镅在社区版：非官方版进展中的使用量较大。你不能将这种形式的镅转换成核电工艺的镅同位素。
 
 # db 852
 #nomifactory.quest.db.852.title=§2Ruridit
@@ -4170,7 +4170,7 @@ nomifactory.quest.db.886.desc=§2在格雷科技社区版：非官方版中，�
 #nomifactory.quest.db.887.title=§2Gasoline
 nomifactory.quest.db.887.title=§2汽油
 #nomifactory.quest.db.887.desc=§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid. It can also be substituted for Nitro Diesel in Draconium production.%n%nGasoline is made of:%n- 16 parts Naphtha%n- 2 parts Refinery Gas%n- 1 part Toluene%n- 1 part Methanol%n- 1 part Acetone%n%nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.
-nomifactory.quest.db.887.desc=§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid. It can also be substituted for Nitro Diesel in Draconium production.%n%nGasoline is made of:%n- 16 parts Naphtha%n- 2 parts Refinery Gas%n- 1 part Toluene%n- 1 part Methanol%n- 1 part Acetone%n%nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.
+nomifactory.quest.db.887.desc=§2汽油是一种强大的燃烧燃料，每mB流体产生1600EU。它也可以代替高十六烷值柴油用于龙素生产。%n%n汽油是由以下制成:%n- 16份石脑油%n- 2份炼油气%n- 1份甲烷%n- 1份甲醇%n- 1份丙酮%n%n为了最大限度地发挥它的作用，在有液氧的高级大型柴油引擎中运行它。
 
 # db 888 (MISSING)
 #nomifactory.quest.db.888.title=Platinum Group Processing
@@ -4194,7 +4194,7 @@ nomifactory.quest.db.890.desc=§2Chemical Dyes are made with 1 unit of dye, 2 Sa
 #nomifactory.quest.db.891.title=§2Large Miners
 nomifactory.quest.db.891.title=§2大型采矿场
 #nomifactory.quest.db.891.desc=§2The Large Ore Drilling Plants mine ores from under them in a large radius. They require Drilling Fluid to operate.%n%nThey automatically macerate the ores, yielding 3 times more crushed ore than a normal Macerator, plus the normal amount of byproduct.
-nomifactory.quest.db.891.desc=§2The Large Ore Drilling Plants mine ores from under them in a large radius. They require Drilling Fluid to operate.%n%nThey automatically macerate the ores, yielding 3 times more crushed ore than a normal Macerator, plus the normal amount of byproduct.
+nomifactory.quest.db.891.desc=§2大型矿石钻探设备在大半径范围内从其下方开采矿石。它们需要钻井液来操作。%n%n它们会自动研磨矿石，产生的碎矿量是普通研磨机的3倍，外加正常数量的副产物。
 
 # db 892
 #nomifactory.quest.db.892.title=§2Maintenance and Muffler Mechanics
@@ -4206,7 +4206,7 @@ nomifactory.quest.db.892.desc=社区版：非官方版中的某些多方块结�
 #nomifactory.quest.db.893.title=§2MV Assembling Machine
 nomifactory.quest.db.893.title=§2MV组装机
 #nomifactory.quest.db.893.desc=§2With the MV Assembling Machine, you can assemble a few necessary parts for the next Circuit tier.
-nomifactory.quest.db.893.desc=§2有了MV组装机，你可以为下一个电路层组装一些必要的零件。
+nomifactory.quest.db.893.desc=§2有了MV组装机，你可以为下一个电路层组装一些必要的部件。
 
 # db 894
 #nomifactory.quest.db.894.title=§2MV Energy Input
