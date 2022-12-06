@@ -344,7 +344,7 @@ nomifactory.quest.db.48.desc=飞得更快是好事。
 #nomifactory.quest.db.49.title=Air Centrifuging
 nomifactory.quest.db.49.title=空气离心
 #nomifactory.quest.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.%n%nCentrifuging air is a reliable way to get §9Nitrogen§r before you have access to §3Cryogenic Distillation§r.%n%n
-nomifactory.quest.db.49.desc=Note: this quest accepts LV/MV/HV Centrifuge.%n%nCentrifuging air is a reliable way to get §9Nitrogen§r before you have access to §3Cryogenic Distillation§r.%n%n
+nomifactory.quest.db.49.desc=注意: 这个任务同时接受LV/MV/HV离心机。%n%n离心空气是在你能够获得§9氮§r之前，获得§3低温蒸馏§r的可靠方法。
 
 # db 50
 #nomifactory.quest.db.50.title=§2Fluid Transport
@@ -440,7 +440,7 @@ nomifactory.quest.db.64.desc=§b应用能源2§r使用§6存储元件§r作为�
 #nomifactory.quest.db.65.title=§2Tier Three Micro Miner
 nomifactory.quest.db.65.title=§2三阶微型采掘机
 #nomifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§6* Tetrahedrite Ore%n* Cassiterite Ore%n* Tungstate Ore%n* Scheelite Ore%n* Redstone Ore%n* Quartz Ore%n* Vanadium Magnetite Ore%n§2* Ilmenite Ore§6%n* Tin Ore%n* Sapphire Ore§r%n§6* Almandine Ore§r%n%nWhen equipped with Gemstone Sensor:%n§6§2* Perfect Emeralds%n* Perfect Diamonds%n* Perfect Rubies%n* Perfect Topaz%n§6* Silver Ore%n* Gold Ore
-nomifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§6* Tetrahedrite Ore%n* Cassiterite Ore%n* Tungstate Ore%n* Scheelite Ore%n* Redstone Ore%n* Quartz Ore%n* Vanadium Magnetite Ore%n§2* Ilmenite Ore§6%n* Tin Ore%n* Sapphire Ore§r%n§6* Almandine Ore§r%n%nWhen equipped with Gemstone Sensor:%n§6§2* Perfect Emeralds%n* Perfect Diamonds%n* Perfect Rubies%n* Perfect Topaz%n§6* Silver Ore%n* Gold Ore
+nomifactory.quest.db.65.desc=第三级微型采掘机。%n%n这个你可以获得:%n§6* 黝铜矿矿石%n* 锡石矿石%n* 钨酸锂矿石%n* 白钨矿矿石%n* 红石矿石%n* 赛特斯石英矿石%n* 钒磁铁矿矿石%n§2* 钛铁矿矿石§6%n* 锡矿石%n* 锂云母矿石§r%n§6* 铁铝榴石矿石§r%n%n当配备了宝石传感器时:%n§2* 完美绿宝石%n* 完美钻石%n* 完美红宝石%n* 完美黄玉%n§6* 银矿石%n* 金矿石%n* 蓝宝石矿石
 
 # db 66
 #nomifactory.quest.db.66.title=From Dusts To Wires
@@ -458,7 +458,7 @@ nomifactory.quest.db.67.desc=一对§6双层RF电容§r与一些§6脉冲合金�
 #nomifactory.quest.db.68.title=Experience Obelisk
 nomifactory.quest.db.68.title=经验方尖碑
 #nomifactory.quest.db.68.desc=The §3Experience Obelisk§r is a mass storage device for player experience in the form of §9Liquid XP§r.%n%nVia the GUI you can insert or extract levels as needed, as well as configure interactions with neighboring blocks (as is typical of §bEnderIO§r machines).%n%nLiquid XP can also be pumped in directly from your automation such as §3Fluid Extractors§r.
-nomifactory.quest.db.68.desc=The §3Experience Obelisk§r is a mass storage device for player experience in the form of §9Liquid XP§r.%n%nVia the GUI you can insert or extract levels as needed, as well as configure interactions with neighboring blocks (as is typical of §bEnderIO§r machines).%n%nLiquid XP can also be pumped in directly from your automation such as §3Fluid Extractors§r.
+nomifactory.quest.db.68.desc=经验方尖碑是一个大量储存玩家经验的设备，其形式为§9液态经验§r。%n%n通过图形用户界面，你可以根据需要输入或提取等级，以及配置与相邻方块交互(正如§b末影接口§r机器的典型做法)。%n%n液态经验也可以直接从你的自动化设备中泵入，如§3流体提取机§r。
 
 # db 69
 #nomifactory.quest.db.69.title=§2Aluminium Ingots
@@ -860,7 +860,7 @@ nomifactory.quest.db.138.desc=With §6§2Rhodium Plated Lumium-Palladium§r,§6 
 #nomifactory.quest.db.139.title=Rare Earth
 nomifactory.quest.db.139.title=稀土
 #nomifactory.quest.db.139.desc=§6Rare Earth§r comes from either centrifuging certain Impure Dusts, or processing those same Purified Dusts.%n%nThe sources are essentially §6Redstone§r, and everything inside of §6Bastnasite§r veins.
-nomifactory.quest.db.139.desc=§6Rare Earth§r comes from either centrifuging certain Impure Dusts, or processing those same Purified Dusts.%n%nThe sources are essentially §6Redstone§r, and everything inside of §6Bastnasite§r veins.
+nomifactory.quest.db.139.desc=§6稀土§r来源于某些离心粉碎矿粉，或处理这些相同的洁净矿粉。%n%n来源基本上是§6红石§r，以及§6氟碳镧铈矿§r矿脉内的一切。
 
 # db 140
 #nomifactory.quest.db.140.title=Advanced Inscriber
@@ -878,7 +878,7 @@ nomifactory.quest.db.141.desc=虽然没有极其罕见的矿脉类型，但你�
 #nomifactory.quest.db.144.title=Yttrium
 nomifactory.quest.db.144.title=钇
 #nomifactory.quest.db.144.desc=Centrifuge §6Rare Earth§r, and among other useful materials, you'll get some §6Yttrium§r.%n%nBecause this recipe has chanced outputs, use a §2high tier Centrifuge to increase output chances§r, and §eensure the output slots don't fill up or excess items will be voided§r.
-nomifactory.quest.db.144.desc=Centrifuge §6Rare Earth§r, and among other useful materials, you'll get some §6Yttrium§r.%n%nBecause this recipe has chanced outputs, use a §2high tier Centrifuge to increase output chances§r, and §eensure the output slots don't fill up or excess items will be voided§r.
+nomifactory.quest.db.144.desc=离心§6稀土§r，和其他有用的材料中，你会得到一些§6钇§r。%n%n因为这个配方是有概率产出，所以要使用§2高等级的离心机来增加产出的概率§r，并§e确保输出槽位不被填满，否则多余的物品将被销毁§r。
 
 # db 145
 #nomifactory.quest.db.145.title=LV Pistons
@@ -968,7 +968,7 @@ nomifactory.quest.db.158.desc=§6镍铬合金§r是一种由§6镍§r和§6铬§
 #nomifactory.quest.db.159.title=§2Nichrome Coil Blocks
 nomifactory.quest.db.159.title=§2镍铬合金线圈方块
 #nomifactory.quest.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.%n%n§23600K is now also hot enough to grant a single 100%% efficient overclock to 1800K and below recipes. In effect, you will get an additional 2x speed boost by overclocking once. You may wish to use this well to make up for the slower recipes.
-nomifactory.quest.db.159.desc=§6镍铬§r是第三种可用的线圈材料，将你的电力高炉的工作温度提高到3600K，因此它可以加工更先进的材料。%n%n§23600K现在也足够热，可以给予1800K及以下的配方一个100%%的高效超频。实际上，通过超频一次，你将获得额外的2倍速度提升。你可能希望用它来弥补较慢的配方。
+nomifactory.quest.db.159.desc=§6镍铬§r是第三种可用的线圈材料，将你的电力高炉的工作温度提高到3600K，因此它可以处理更先进的材料。%n%n§23600K现在也足够热，可以给予1800K及以下的配方一个100%%的高效超频。实际上，通过超频一次，你将获得额外的2倍速度提升。你可能希望用它来弥补较慢的配方。
 
 # db 160 (MISSING)
 #nomifactory.quest.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
@@ -986,13 +986,13 @@ nomifactory.quest.db.161.desc=Like other petroleum products, §9Sulfuric Gas§r 
 #nomifactory.quest.db.162.title=Canola Press
 nomifactory.quest.db.162.title=油菜压榨机
 #nomifactory.quest.db.162.desc=The §3Canola Press§r is a machine that uses RF power to extract §9Canola Oil§r from §6Canola§r.%n%nCanola Oil can be turned into §9Glycerol§r and §9Bio Diesel§r in a §3Chemical Reactor§r.%n%nRefining, Crystallizing, or Empowering the Canola Oil first allows you to make Glycerol and Bio Diesel more efficiently.
-nomifactory.quest.db.162.desc=The §3Canola Press§r is a machine that uses RF power to extract §9Canola Oil§r from §6Canola§r.%n%nCanola Oil can be turned into §9Glycerol§r and §9Bio Diesel§r in a §3Chemical Reactor§r.%n%nRefining, Crystallizing, or Empowering the Canola Oil first allows you to make Glycerol and Bio Diesel more efficiently.
+nomifactory.quest.db.162.desc=§3油菜压榨机§r是一种使用RF能量从§6油菜§r中提取§9菜籽油§r的机器。%n%n菜籽油可以在§3化学反应釜§r中变成§9丙三醇§r和§9生物柴油§r。%n%n首先对菜籽油进行精炼、结晶或重构，可以更有效地制造丙三醇和生物柴油。
 
 # db 163
 #nomifactory.quest.db.163.title=Seed Oil, Fish Oil, Canola Oil
 nomifactory.quest.db.163.title=种子油、鱼油、菜籽油
 #nomifactory.quest.db.163.desc=A whole host of fluids can be used as the feedstock for your §9Bio Diesel§r, including §9Seed Oil§r, §9Fish Oil§r, and the various tiers of §9Canola Oils§r.%n%nFish Oil and Canola Oil are probably the easiest, but it's up to you to choose.%n%nFish are easiest to get from §aGuardian Models§r from §bDML§r.
-nomifactory.quest.db.163.desc=A whole host of fluids can be used as the feedstock for your §9Bio Diesel§r, including §9Seed Oil§r, §9Fish Oil§r, and the various tiers of §9Canola Oils§r.%n%nFish Oil and Canola Oil are probably the easiest, but it's up to you to choose.%n%nFish are easiest to get from §aGuardian Models§r from §bDML§r.
+nomifactory.quest.db.163.desc=一大批流体可以作为你的§9生物柴油§r的原料，包括§9种子油§r、§9鱼油§r和各种级别的§9菜籽油§r。%n%n鱼油和菜籽油可能是最简单的，但这取决于你的选择。%n%n鱼是最容易从§b深度怪物学习§r的§a守卫者数据模型§r得到的。
 
 # db 164
 #nomifactory.quest.db.164.title=Heavy Fuel
@@ -1034,49 +1034,49 @@ nomifactory.quest.db.169.desc=§6Palladium§r is found in §6Palladium Ore§r, w
 #nomifactory.quest.db.170.title=Sodium Hydroxide
 nomifactory.quest.db.170.title=氢氧化钠
 #nomifactory.quest.db.170.desc=§6Sodium Hydroxide§r is a strong base, and an ingredient in §9Bio Diesel§r, among other reactions.%n%n§2The only source§r is splitting §9Salt Water§r in an §3Electrolyzer§r - this is also a good source of §9Chlorine§r. You can get §9Salt Water§r from mixing §6Salt§r and §9Water§r (duh), §2dissolving Ghast Tears, or drilling it from Salt Water fluid veins, which only spawn over oceans.
-nomifactory.quest.db.170.desc=§6Sodium Hydroxide§r is a strong base, and an ingredient in §9Bio Diesel§r, among other reactions.%n%n§2The only source§r is splitting §9Salt Water§r in an §3Electrolyzer§r - this is also a good source of §9Chlorine§r. You can get §9Salt Water§r from mixing §6Salt§r and §9Water§r (duh), §2dissolving Ghast Tears, or drilling it from Salt Water fluid veins, which only spawn over oceans.
+nomifactory.quest.db.170.desc=§6氢氧化钠§r是一种强碱，是§9生物柴油§r的成分，也是其他反应的成分。%n%n§2唯一的来源§r是在一个§3电解机中分离§9盐水§r - 这也是§9氯§r的一个很好来源。你可以通过混合§6盐§r和§9水§r(咄)，§2溶解恶魂之泪，或从盐水矿脉中钻取来获得§9盐水§r，而盐水矿脉只在海洋上生成。
 
 # db 171
 #nomifactory.quest.db.171.title=§2Cryogenic Air Distillation
 nomifactory.quest.db.171.title=§2低温空气蒸馏
 #nomifactory.quest.db.171.desc=§9Air§r can be sent into the §3Vacuum Freezer§r to turn it into §9Liquid Air§r.%n%nLiquid Air can be sent into a §2normal Distillation Tower§r to break it down into its components.%n%n§2Liquid Nether Air and Liquid Ender Air give different useful components.%n
-nomifactory.quest.db.171.desc=§9Air§r can be sent into the §3Vacuum Freezer§r to turn it into §9Liquid Air§r.%n%nLiquid Air can be sent into a §2normal Distillation Tower§r to break it down into its components.%n%n§2Liquid Nether Air and Liquid Ender Air give different useful components.%n
+nomifactory.quest.db.171.desc=§9空气§r可以被送入§3真空冷冻机§r，把它变成§9液态空气§r。%n%n液态空气可以被送入§2普通蒸馏塔§r，将其分解为各种成分。%n%n§2液态下界空气和液态末地空气提供了不同的有用成分。
 
 # db 172
 #nomifactory.quest.db.172.title=Bio Diesel and Glycerol
-nomifactory.quest.db.172.title=“生物柴油”和“甘油”
+nomifactory.quest.db.172.title=“生物柴油”和“丙三醇”
 #nomifactory.quest.db.172.desc=The reaction that produces §9Bio Diesel§r is also the only source of §9Glycerol§r, which is an easy way to make §9Epichlorohydrin§r, an important ingredient of §9Epoxy§r.%n%n§9Glycerol§r is also used in the production of §9§9Glyceryl Trinitrate§r, an important step in making §6Dynamite§r, which can be used later in the §9§r§3Implosion Compressor§r.%n%nEven if you're otherwise going all in on petrochemistry for Epoxy, you'll probably end up with some Bio Diesel as a result of making Glycerol.%n%nBio Diesel can be used for power, but is probably better to convert to §9Nitro Diesel§r§r.
-nomifactory.quest.db.172.desc=The reaction that produces §9Bio Diesel§r is also the only source of §9Glycerol§r, which is an easy way to make §9Epichlorohydrin§r, an important ingredient of §9Epoxy§r.%n%n§9Glycerol§r is also used in the production of §9§9Glyceryl Trinitrate§r, an important step in making §6Dynamite§r, which can be used later in the §9§r§3Implosion Compressor§r.%n%nEven if you're otherwise going all in on petrochemistry for Epoxy, you'll probably end up with some Bio Diesel as a result of making Glycerol.%n%nBio Diesel can be used for power, but is probably better to convert to §9Nitro Diesel§r§r.
+nomifactory.quest.db.172.desc=生产§9生物柴油§r的反应也是§9丙三醇§r的唯一来源，它是制造§9环氧树脂§r的简单方法，是§9环氧树脂§r的重要成分。%n%n§9丙三醇也用于生产§9硝化甘油§r，这是制造§6炸药§r的一个重要步骤，以后可用于§3聚爆压缩机§r。%n%n即使你要为环氧树脂进行全面的石油化工处理，你也可能在制造丙三醇的过程中得到一些生物柴油。%n%n生物柴油可以用于发电，但可能更好地转换为§9高十六烷值柴油§r。
 
 # db 173
 #nomifactory.quest.db.173.title=Nitrogen
 nomifactory.quest.db.173.title=氮
 #nomifactory.quest.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Because of this, after the first few processes of §9Liquid Air§r, you'll probably have more Nitrogen than you know what to do with.%n%nIf you got here centrifuging air, then it's gonna take you longer to get to that point.%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, one of which you'll be needing very soon.
-nomifactory.quest.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Because of this, after the first few processes of §9Liquid Air§r, you'll probably have more Nitrogen than you know what to do with.%n%nIf you got here centrifuging air, then it's gonna take you longer to get to that point.%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, one of which you'll be needing very soon.
+nomifactory.quest.db.173.desc=§9氮§r占大气层的78%%。正因为如此，在§9液态空气§r的前几个处理之后，你可能会有更多的氮，而你不知道该如何处理。%n%n如果你到这里来离心空气，那么你要花更长的时间来达到这一点。%n%n即便如此，除非你已经获得了非常大的储存，否则不要销毁它。储存很便宜，而且氮被大量用于一些值得注意的事情，其中之一是你很快就会需要的。
 
 # db 174
 #nomifactory.quest.db.174.title=§2Basic Air Collection
 nomifactory.quest.db.174.title=§2基础空气收集
 #nomifactory.quest.db.174.desc=Note: this quest accepts LV/MV/HV/EV §3Gas Collectors§r.%n%nA §3Gas Collector§r will suck up air at a decent rate, provided the top side is unobstructed. The collected Air is automatically ejected into an adjacent tank via the output face.%n%n§2Gas Collectors in the Nether and End will collect Nether Air and Ender Air respectively, which yield different products.§r%n%nIV+ air collectors are not part of this quest, but for reference they exist and are called §3Atmosphere Collectors§r.%n%n
-nomifactory.quest.db.174.desc=Note: this quest accepts LV/MV/HV/EV §3Gas Collectors§r.%n%nA §3Gas Collector§r will suck up air at a decent rate, provided the top side is unobstructed. The collected Air is automatically ejected into an adjacent tank via the output face.%n%n§2Gas Collectors in the Nether and End will collect Nether Air and Ender Air respectively, which yield different products.§r%n%nIV+ air collectors are not part of this quest, but for reference they exist and are called §3Atmosphere Collectors§r.%n%n
+nomifactory.quest.db.174.desc=注意: 这个任务同时接受LV/MV/HV/EV§3集气器§r。%n%n只要顶部不受阻挡，§3集气器§r将以一个适当的速度吸起空气。收集的空气通过输出口自动输出到相邻的储罐里。%n%n§2地狱和末地的集气器将分别收集下界空气和末地空气，产生不同的产物。§r%n%nIV+集气器不是这个任务的一部分，但作为参考，它们是存在的，被称为§3大气收集器§r。
 
 # db 175
 #nomifactory.quest.db.175.title=§2Noble Gasses
 nomifactory.quest.db.175.title=§2稀有气体
 #nomifactory.quest.db.175.desc=You'll be needing large quantities of the various Noble Gasses so you should get this automated and running continuously. %n%n§9Argon§r, for example, is important for production of advanced §6Silicon Boules§r.%n%n§2After liquefication, Overworld Air grants Helium and Argon; Nether Air grants Helium-3 and Neon; Ender Air grants Helium, Krypton, Xenon, and Radon.%n%n§2Certain Noble Gases can also boost the speed of EBF processes.
-nomifactory.quest.db.175.desc=You'll be needing large quantities of the various Noble Gasses so you should get this automated and running continuously. %n%n§9Argon§r, for example, is important for production of advanced §6Silicon Boules§r.%n%n§2After liquefication, Overworld Air grants Helium and Argon; Nether Air grants Helium-3 and Neon; Ender Air grants Helium, Krypton, Xenon, and Radon.%n%n§2Certain Noble Gases can also boost the speed of EBF processes.
+nomifactory.quest.db.175.desc=你将需要大量的各种稀有气体，所以你应该让它自动化并持续运行。%n%n例如，§9氩§r，对生产先进的§6单晶硅§r很重要。%n%n§2液化后，主世界空气提供氦和氩；下界空气提供氦-3和氖；末地空气提供氦、氪、氙和氡。%n%n§2某些惰性气体也可以提高电力高炉处理的速度。
 
 # db 176
 #nomifactory.quest.db.176.title=Nitrogen Dioxide
 nomifactory.quest.db.176.title=二氧化氮
 #nomifactory.quest.db.176.desc=A simple combination of §9Nitrogen§r and §9Oxygen§r, the two most common elements in the air, yet this substance is very toxic. Chemistry is weird.
-nomifactory.quest.db.176.desc=A simple combination of §9Nitrogen§r and §9Oxygen§r, the two most common elements in the air, yet this substance is very toxic. Chemistry is weird.
+nomifactory.quest.db.176.desc=§9氮§r和§9氧§r的简单组合，是空气中最常见的两种元素，但这种物质却有很大毒性。化学是奇怪的。
 
 # db 177
 #nomifactory.quest.db.177.title=§2Nitric Acid
 nomifactory.quest.db.177.title=§2硝酸
 #nomifactory.quest.db.177.desc=Don't let the EPA catch you making this stuff.%n%n§9Nitrogen Dioxide§r, §9Oxygen§r, and §9Water§r will create §9Nitric Acid§r, the next step in your chemical journey.
-nomifactory.quest.db.177.desc=Don't let the EPA catch you making this stuff.%n%n§9Nitrogen Dioxide§r, §9Oxygen§r, and §9Water§r will create §9Nitric Acid§r, the next step in your chemical journey.
+nomifactory.quest.db.177.desc=不要让环保局抓住你制造这种东西。%n%n§9二氧化氮§r、§9氧§r和§9水§r将产生§9硝酸§r，这是化学之旅的下一步。
 
 # db 178
 #nomifactory.quest.db.178.title=Tetranitromethane
@@ -1124,7 +1124,7 @@ nomifactory.quest.db.184.desc=石油化工是与石油有关的有机化学类�
 #nomifactory.quest.db.185.title=Epoxy
 nomifactory.quest.db.185.title=环氧树脂
 #nomifactory.quest.db.185.desc=Finally, §6Epoxy Resin Sheets§r.%n%nThese can be made into circuit boards as a substrate for advanced circuits.
-nomifactory.quest.db.185.desc=Finally, §6Epoxy Resin Sheets§r.%n%nThese can be made into circuit boards as a substrate for advanced circuits.
+nomifactory.quest.db.185.desc=最后，§6环氧树脂片§r。%n%n这些可以被制成电路板，作为先进电路的基板。
 
 # db 186
 #nomifactory.quest.db.186.title=§2Carbon Fibers
@@ -1190,19 +1190,19 @@ nomifactory.quest.db.197.desc=§6Tungstensteel§r is an alloy of §6Tungsten§r 
 #nomifactory.quest.db.198.title=§2IV Machine Hulls
 nomifactory.quest.db.198.title=§2IV机械方块
 #nomifactory.quest.db.198.desc=With §6Tungstensteel§r achieved, you can now make hulls for Insane Voltage (IV) §bGregTech§r machines.%n%n§2Starting at IV, 16A Energy and Dynamo hatches are available at each tier.
-nomifactory.quest.db.198.desc=With §6Tungstensteel§r achieved, you can now make hulls for Insane Voltage (IV) §bGregTech§r machines.%n%n§2Starting at IV, 16A Energy and Dynamo hatches are available at each tier.
+nomifactory.quest.db.198.desc=在完成了§6钨钢§r后，你现在可以为强导压(IV)§b格雷科技§r机器制作机器。%n%n§2从IV开始，每一级都有16A的能源仓和动力仓。
 
 # db 199
 #nomifactory.quest.db.199.title=Yttrium Barium Cuprate
 nomifactory.quest.db.199.title=钇钡铜氧合金
 #nomifactory.quest.db.199.desc=§6Yttrium Barium Cuprate§r (more accurately, Yttrium Barium Copper Oxide, or YBCO) is, among other things, a high-temperature superconductor material.%n%nThis is used as plates in §bNuclearCraft§r, and will become an important cable material for later tiers of §bGregTech§r components.
-nomifactory.quest.db.199.desc=§6Yttrium Barium Cuprate§r (more accurately, Yttrium Barium Copper Oxide, or YBCO) is, among other things, a high-temperature superconductor material.%n%nThis is used as plates in §bNuclearCraft§r, and will become an important cable material for later tiers of §bGregTech§r components.
+nomifactory.quest.db.199.desc=§6钇钡铜氧§r(更准确地说，钇钡铜氧化物，或YBCO)，除其他外，是一种高温超导体材料。%n%n这被用作§b核电工艺§r中的板，并将成为§b格雷科技§r组件的后期级别的重要导线材料。
 
 # db 201
 #nomifactory.quest.db.201.title=§2Tungsten
 nomifactory.quest.db.201.title=§2钨
 #nomifactory.quest.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer §2and Chemical Bath§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r.%n%nIt is only found from §6Tungstate§r §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then electrolyzed§r to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.
-nomifactory.quest.db.201.desc=§6Tungsten§r is a material that requires an §3EV Electrolyzer §2and Chemical Bath§r and an §3Electric Blast Furnace§r with at least §6Nichrome Coils§r.%n%nIt is only found from §6Tungstate§r §2Dust and Scheelite Dust, obtained from their respective ores.§r Tungstate is also obtainable in small quantities from centrifuging §6Endstone Dust§r.%n%nScheelite and Tungstate needs to be §2bathed in Hydrochloric Acid to make Tungstic Acid, then electrolyzed§r to get to the Tungsten, which then needs to be cooked in the EBF for Tungsten ingots.
+nomifactory.quest.db.201.desc=§6钨§r是一种材料，需要一个§3EV电解机§r和§2化学浸洗器§r和一个至少有§6镍铬合金线圈§r的§3电力高炉§r。%n%n它只能从§6钨酸锂§2粉和白钨矿粉中找到，从它们各自的矿石中获得§r。钨酸锂也可以从离心§6末地石粉§r中少量获得。%n%n白钨矿和钨酸锂需要§2在盐酸中浸泡以制成钨酸，然后电解§r以获得钨，然后需要在电力高炉中熔炼成钨锭。
 
 # db 202
 #nomifactory.quest.db.202.title=Apollo Program
@@ -1334,7 +1334,7 @@ nomifactory.quest.db.223.desc=§9次氯酸§r和§9氨§r结合在一起，成�
 #nomifactory.quest.db.224.title=Ammonia
 nomifactory.quest.db.224.title=氨
 #nomifactory.quest.db.224.desc=§9Hydrogen§r and §9Nitrogen§r combine together to make §9Ammonia§r.%n%nAn easy way to get Nitrogen is to centrifuge §9Air§r, which will require you to build an §3Air Collector§r. You could also electrolyze §6Saltpeter§r, distill §9Fermented Biomass§r in a §3Distillation Tower§r, or get huge amounts from a §3Cryogenic Air Distillation§r Tower§r.
-nomifactory.quest.db.224.desc=§9氢§r和§9氮§r结合在一起，形成§9氨§r。%n%n获得氮的一个简单方法是离心§9空气§r，这将需要你建造一个§3气体收集器§r。你还可以电解§6硝石§r，在§3蒸馏塔§r中蒸馏§9发酵过的生物质§r，或从§3低温空气蒸馏塔§r中大量获得。
+nomifactory.quest.db.224.desc=§9氢§r和§9氮§r结合在一起，形成§9氨§r。%n%n获得氮的一个简单方法是离心§9空气§r，这将需要你建造一个§3集气器§r。你还可以电解§6硝石§r，在§3蒸馏塔§r中蒸馏§9发酵过的生物质§r，或从§3低温空气蒸馏塔§r中大量获得。
 
 # db 225
 #nomifactory.quest.db.225.title=Methanol
@@ -1394,7 +1394,7 @@ nomifactory.quest.db.233.desc=在§b实用拓展§r中，有大量有趣的内�
 #nomifactory.quest.db.234.title=Barium
 nomifactory.quest.db.234.title=钡
 #nomifactory.quest.db.234.desc=§6Barium§r is an element found in §6Barite§r, which may be found as §6Barite Ore§r, inside §6Quartz§r veins.%n%nBarite can also be extracted from other Quartz ores via ore processing.
-nomifactory.quest.db.234.desc=§6Barium§r is an element found in §6Barite§r, which may be found as §6Barite Ore§r, inside §6Quartz§r veins.%n%nBarite can also be extracted from other Quartz ores via ore processing.
+nomifactory.quest.db.234.desc=§6钡是一种在§6重晶石§r中发现的元素，在§6石英§r矿脉内作为§6重晶石矿石§r发现。%n%n重晶石也可以通过从其他石英矿石处理中提取。
 
 # db 235
 #nomifactory.quest.db.235.title=§2Primal Mana
@@ -1466,7 +1466,7 @@ nomifactory.quest.db.245.desc=厚重: 避免掉在你的脚上。%n%n这种特�
 #nomifactory.quest.db.246.title=§2Tungsten Carbide Heavy Plating
 nomifactory.quest.db.246.title=§2碳化钨重板
 #nomifactory.quest.db.246.desc=Heavy Plating for Micro Miners made from §6Tungsten Carbide§r.%n%nYou §2no longer need high tier Compressors to make these.
-nomifactory.quest.db.246.desc=Heavy Plating for Micro Miners made from §6Tungsten Carbide§r.%n%nYou §2no longer need high tier Compressors to make these.
+nomifactory.quest.db.246.desc=用§6碳化钨§r制成的微型采掘机的重镀层。%n%n你§2不再需要高等级的压缩机来制造这些§r。
 
 # db 248
 #nomifactory.quest.db.248.title=Space Station Assembler
@@ -1514,7 +1514,7 @@ nomifactory.quest.db.254.desc=The Sixth Micro Miner.%n%nThe first decent source 
 #nomifactory.quest.db.255.title=Tungsten Carbide
 nomifactory.quest.db.255.title=碳化钨
 #nomifactory.quest.db.255.desc=An alloy of equal parts §6Tungsten§r and §6Carbon Dust§r.%n%n§6Tungsten Carbide§r is a very dense, sturdy, and heat-resistant material useful for a variety of applications.
-nomifactory.quest.db.255.desc=An alloy of equal parts §6Tungsten§r and §6Carbon Dust§r.%n%n§6Tungsten Carbide§r is a very dense, sturdy, and heat-resistant material useful for a variety of applications.
+nomifactory.quest.db.255.desc=§6钨§r和§6碳粉§r各占同等份量的合金。%n%n§6碳化钨§r是一种非常致密、坚固和耐热的材料，可用于各种应用。
 
 # db 256
 #nomifactory.quest.db.256.title=§2Tier Seven Micro Miner
@@ -1550,7 +1550,7 @@ nomifactory.quest.db.260.desc=§3电解机§r使用电力将物品分离成更�
 #nomifactory.quest.db.261.title=Signalum Upgrade Kit
 nomifactory.quest.db.261.title=信素升级套件
 #nomifactory.quest.db.261.desc=Having unlocked §6Signalum§r and §6Lumium§r, at long last you can now make §aSignalum Upgrade Kits§r!%n%nProvides more augment slots to machines and dynamos.%n%nDynamos operate at §a500%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a800 buckets§r.%n%nMachines operate at §a400%% of base speed§r.
-nomifactory.quest.db.261.desc=Having unlocked §6Signalum§r and §6Lumium§r, at long last you can now make §aSignalum Upgrade Kits§r!%n%nProvides more augment slots to machines and dynamos.%n%nDynamos operate at §a500%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a800 buckets§r.%n%nMachines operate at §a400%% of base speed§r.
+nomifactory.quest.db.261.desc=在解锁了§6信素§r和§6流明§r之后，你终于可以制作§a信素升级套件§r了！%n%n为机器和能源提供更多的增强槽位。%n%n能源炉在§a基础功率和燃料效率的500%%§r运行。%n%n储罐可容纳§a800桶§r。%n%n机器§a以基础速度的400%%§r运行。
 
 # db 262
 #nomifactory.quest.db.262.title=Conflux Catalyst
@@ -1826,13 +1826,13 @@ nomifactory.quest.db.310.desc=赞美太阳。\[T]/%n%n这台机器使用不同�
 #nomifactory.quest.db.311.title=Tungstensteel Coil Blocks
 nomifactory.quest.db.311.title=钨钢线圈方块
 #nomifactory.quest.db.311.desc=§6Tungstensteel§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
-nomifactory.quest.db.311.desc=§6Tungstensteel§r is the fourth coil material available, increasing your EBF's operating temperature to 4500K so it can process more advanced materials.
+nomifactory.quest.db.311.desc=§6钨钢§r是第四种可用的线圈材料，将你的电力高炉的工作温度提高到4500K，因此它可以处理更先进的材料。
 
 # db 312
 #nomifactory.quest.db.312.title=High Speed Steel Type G
 nomifactory.quest.db.312.title=高速钢-G
 #nomifactory.quest.db.312.desc=§6HSS-G§r is an alloy of §6Tungstensteel§r, §6Chrome§r, §6Molybdenum§r, and §6Vanadium§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
-nomifactory.quest.db.312.desc=§6HSS-G§r is an alloy of §6Tungstensteel§r, §6Chrome§r, §6Molybdenum§r, and §6Vanadium§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
+nomifactory.quest.db.312.desc=§6高速钢-G§r是由§6钨钢§r、§6铬§r、§6钼§r和§6钒§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。
 
 # db 313
 #nomifactory.quest.db.313.title=HSS-G Coil Block
@@ -2000,7 +2000,7 @@ nomifactory.quest.db.340.desc=一个超高压级别的§b格雷科技§r电池�
 #nomifactory.quest.db.341.title=§2IV Power Storage
 nomifactory.quest.db.341.title=§2IV能量存储
 #nomifactory.quest.db.341.desc=An Insane Voltage tier §bGregTech§r battery. §2Equivalent to 40 Vibrant Capacitor Banks!
-nomifactory.quest.db.341.desc=An Insane Voltage tier §bGregTech§r battery. §2Equivalent to 40 Vibrant Capacitor Banks!
+nomifactory.quest.db.341.desc=一个强导压等级的§b格雷科技§r电池。§2相当于40个脉冲电容库！
 
 # db 342
 #nomifactory.quest.db.342.title=§2LuV Power Storage
@@ -2012,7 +2012,7 @@ nomifactory.quest.db.342.desc=A Ludicrous Voltage tier §bGregTech§r battery.
 #nomifactory.quest.db.344.title=Empowerer
 nomifactory.quest.db.344.title=充能台
 #nomifactory.quest.db.344.desc=§3The Empowerer§r is a machine from §bActually Additions§r used to convert its special crystalline materials into empowered variants.%n%nThe Empowerer is placed in the center of a flat 7x7 region. The four §aDisplay Stands§r are placed with a two-block gap from the Empowerer, one in each cardinal direction.%n%nRecipes require specific items to be placed on the Display Stands and the main item on the Empowerer itself. The items on the Display Stands are consumed and the central item is Empowered.%n%nRF power needs to be fed into the Display Stands to infuse the center item with power. The Display Stands have a low per-side power transfer rate so it takes a while. Consider putting energy conduits on multiple sides of each display stand to speed it up a bit.%n%nThis thing's a bit of a pain. It's slow, takes up a large space, and it's cumbersome to automate. Don't worry, you'll get access to the §3Crafting Core§r after you get §6Draconium§r, which is vastly faster, more compact, and easier to automate. Even better, that's pretty much immediately craftable into the §3Combination Package Crafter§r, which can do the Empowerer recipes directly through §bPackagedAuto§r and §bAE2§r.
-nomifactory.quest.db.344.desc=§3The Empowerer§r is a machine from §bActually Additions§r used to convert its special crystalline materials into empowered variants.%n%nThe Empowerer is placed in the center of a flat 7x7 region. The four §aDisplay Stands§r are placed with a two-block gap from the Empowerer, one in each cardinal direction.%n%nRecipes require specific items to be placed on the Display Stands and the main item on the Empowerer itself. The items on the Display Stands are consumed and the central item is Empowered.%n%nRF power needs to be fed into the Display Stands to infuse the center item with power. The Display Stands have a low per-side power transfer rate so it takes a while. Consider putting energy conduits on multiple sides of each display stand to speed it up a bit.%n%nThis thing's a bit of a pain. It's slow, takes up a large space, and it's cumbersome to automate. Don't worry, you'll get access to the §3Crafting Core§r after you get §6Draconium§r, which is vastly faster, more compact, and easier to automate. Even better, that's pretty much immediately craftable into the §3Combination Package Crafter§r, which can do the Empowerer recipes directly through §bPackagedAuto§r and §bAE2§r.
+nomifactory.quest.db.344.desc=§3充能台§r是一台来自§b实用拓展§r的机器，用于将其特殊的晶体材料转化为充能的变体。%n%n充能台被放置在一个平坦的7x7区域的中心。四个§a物品展示台§r与充能台有两个方块的距离，每个方向都有一个。%n%n配方要求将特定的物品放在展示架上，主要物品放在充能台上。展示架上的物品被消耗，中键的物品被赋予充能。%n%nRF能量需要输入到物品展示台，以便为中心物品注入能量。物品展示台的每侧的能量传输率很低，所以需要一段时间。考虑在每个物品展示架的多个侧面放置能量导管，以加快一点速度。%n%n这东西有点麻烦。它很慢，占用了很大的空间，而且自动操作起来很麻烦。别担心，在你得到§6龙素§r之后，你将可以访问§3聚合核心§r，它更快、更紧凑、更容易自动化。更妙的是，这几乎可以立即制作到§3精英封包合成器§r，它可以通过§b封包合成§r和§b应用能源2§r直接进行充能台配方。
 
 # db 345
 #nomifactory.quest.db.345.title=Wyvern Core
@@ -2408,7 +2408,7 @@ nomifactory.quest.db.499.desc=Now that you have a §3Wiremill§r, you can turn o
 #nomifactory.quest.db.500.title=§2The Third And Final Tier Three Circuits
 nomifactory.quest.db.500.title=§2第四种也是最后一种三阶电路
 #nomifactory.quest.db.500.desc=With your new§2 Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
-nomifactory.quest.db.500.desc=用你的新型§2环氧树脂电路板§r、§6纳米CPU§r和一些标准元件，你可以制作最后一种三阶电路。: §6纳米电路§r。%n%作为三阶电路的最佳形式，这些应该是自动化的，并储存起来。与最后一种二阶电路一样，§6先进片上系统§r的变体配方暂时不会出现。
+nomifactory.quest.db.500.desc=用你的新型§2环氧树脂电路板§r、§6纳米CPU§r和一些标准元件，你可以制作最后一种三阶电路: §6纳米电路§r。%n%n作为三阶电路的最佳形式，这些应该是自动化的，并储存起来。与最后一种二阶电路一样，§6先进片上系统§r的变体配方暂时不会出现。
 
 # db 501
 #nomifactory.quest.db.501.title=Exotic Materials Catalyst
@@ -2470,7 +2470,7 @@ nomifactory.quest.db.511.desc=对§b末影接口§r粗略地来说相当于一�
 #nomifactory.quest.db.512.title=Slice'N'Splice
 nomifactory.quest.db.512.title=头颅装配机
 #nomifactory.quest.db.512.desc=The §3Slice'N'Splice§r is a machine from §bEnderIO§r.%n%nIt is used for making monster-head-related items that are components for various things.%n%nIt needs to be supplied with an Axe and Shears, which are slowly damaged over time as items are crafted.
-nomifactory.quest.db.512.desc=The §3Slice'N'Splice§r is a machine from §bEnderIO§r.%n%nIt is used for making monster-head-related items that are components for various things.%n%nIt needs to be supplied with an Axe and Shears, which are slowly damaged over time as items are crafted.
+nomifactory.quest.db.512.desc=§3头颅装配机§r是一台来自§b末影接口§r的机器。%n%n它用于制作与怪物头颅有关的物品，这些物品是各种东西的组成部分。%n%n它需要提供斧和剪刀，随着时间的推移，它们会随着物品的制作而慢慢损坏。
 
 # db 513
 #nomifactory.quest.db.513.title=Red Steel Ingots
@@ -2540,7 +2540,7 @@ nomifactory.quest.db.526.desc=有了基于§6钛§r的机械方块和§6电脑�
 #nomifactory.quest.db.527.title=Lumium
 nomifactory.quest.db.527.title=流明
 #nomifactory.quest.db.527.desc=Glowing! §2But all the GTCEu machines glow already, so...§r%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%nWires made from §6Lumium§r transmit IV power losslessly, and it forms part of the basis for §6LuV Machine Hulls§r.
-nomifactory.quest.db.527.desc=Glowing! §2But all the GTCEu machines glow already, so...§r%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%nWires made from §6Lumium§r transmit IV power losslessly, and it forms part of the basis for §6LuV Machine Hulls§r.
+nomifactory.quest.db.527.desc=发光！§2但是所有的格雷科技社区版：非官方版的机器都已经发光了，所以...§r%n%n这个需要相当长的时间来熔炼，所以要确保不断地进行。%n%n由§6流明§r制成的导线可以无损地传输IV能量，它是§6LuV机械方块§r的部分基础。
 
 # db 528
 #nomifactory.quest.db.528.title=Hardened Upgrade Kit
@@ -2624,7 +2624,7 @@ nomifactory.quest.db.541.desc=撇开超频不谈，随着你在§5全能工厂§
 #nomifactory.quest.db.542.title=Soul Binder
 nomifactory.quest.db.542.title=灵魂绑定器
 #nomifactory.quest.db.542.desc=The §3Soul Binder§r is an §bEnderIO§r machine which uses §aSoul Vials§r and Experience to enhance specific items.%n%nIt may be prudent to store §9Liquid XP§r in an adjacent §3Obelisk§r, which the Soul Binder can draw from directly, or you can insert it using other standard means of fluid routing.
-nomifactory.quest.db.542.desc=The §3Soul Binder§r is an §bEnderIO§r machine which uses §aSoul Vials§r and Experience to enhance specific items.%n%nIt may be prudent to store §9Liquid XP§r in an adjacent §3Obelisk§r, which the Soul Binder can draw from directly, or you can insert it using other standard means of fluid routing.
+nomifactory.quest.db.542.desc=§3灵魂绑定器§r是一种使用§a灵魂瓶§r和经验来增强特定物品的机器。%n%n谨慎的做法可能是将§9液态经验§r储存在相邻的§3方尖碑§r中，灵魂绑定器可以直接从其中提取，或者你可以使用其他标准的流体路由手段来插入它。
 
 # db 543
 #nomifactory.quest.db.543.title=Blue Steel Ingots
@@ -2848,7 +2848,7 @@ nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether
 #nomifactory.quest.db.609.title=Reinforced Upgrade Kit
 nomifactory.quest.db.609.title=强化升级套件
 #nomifactory.quest.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
-nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位。%n%n能源炉在§a基础功率和燃料效率的250%%§r运行。%n%n储罐可容纳§a450桶§r。%n%n机器以基础速度的250%%运行。
+nomifactory.quest.db.609.desc=为机器和能源炉提供更多的增强槽位。%n%n能源炉在§a基础功率和燃料效率的250%%§r运行。%n%n储罐可容纳§a450桶§r。%n%n机器§a以基础速度的250%%§r运行。
 
 # db 610
 #nomifactory.quest.db.610.title=Tough Alloy
@@ -3312,7 +3312,7 @@ nomifactory.quest.db.743.desc=That's a lot of foil. §2These use Platinum Foil i
 #nomifactory.quest.db.744.title=Signalum
 nomifactory.quest.db.744.title=信素
 #nomifactory.quest.db.744.desc=Not glowing.%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%n§6Signalum§r is noteworthy as the long-awaited next tier upgrade for your §bThermal Expansion§r machines and dynamos following "Reinforced" back in MV.
-nomifactory.quest.db.744.desc=Not glowing.%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%n§6Signalum§r is noteworthy as the long-awaited next tier upgrade for your §bThermal Expansion§r machines and dynamos following "Reinforced" back in MV.
+nomifactory.quest.db.744.desc=不发光。%n%n这个需要相当长的时间来熔炼，所以要确保不断地进行。%n%n§6信素§r是值得注意的，它是继在MV中“强化”之后，你的§b热力膨胀§r机器和能源炉期待已久的下一个级别的升级。
 
 # db 745
 #nomifactory.quest.db.745.title=Compactor
@@ -3550,9 +3550,9 @@ nomifactory.quest.db.783.desc=这些是§3应用能源2§r用于传输网络连�
 
 # db 784
 #nomifactory.quest.db.784.title=§2New Cable Coverings
-nomifactory.quest.db.784.title=§2新的线缆覆盖层
+nomifactory.quest.db.784.title=§2新型线缆涂层
 #nomifactory.quest.db.784.desc=§9Rubber§r has been sufficient for making cables so far, but you will soon discover that this basic type of rubber won't withstand more than §2Extreme Voltage§r. Higher quality rubber is necessary to properly insulate your wires.%n%nThere are two better types of rubber, and you will eventually need to make both of them. §eThese can also be used for insulating lower voltage wires more efficiently, requiring less fluid§r!%n%n§9§2Both Styrene-Butadiene Rubber (SBR) and Silicone Rubber (SiR) can wrap any Cable tier.§r However, SBR requires petrochemistry infrastructure you may not have yet, and is not mandatory until you are making late-game components. On the other hand, SiR can conveniently be made from chemicals you are already familiar with. By setting this up now, you won't have to change your wire coating material later!%n%nTo make Silicone Rubber, you will need to create §6Polydimethylsiloxane Dust§r in one of several ways, then mix it with §6Sulfur§r in a §3Chemical Reactor§r. You can then coat wires with it in an §3Assembling Machine§r.%n%n§2To make Styrene-Butadiene Rubber, you will need to create Raw Styrene-Butadiene Rubber Dust in one of several ways, then mix it with Sulfur in a Chemical Reactor. This produces more liquid than Silicon Rubber, as well as being a more efficient way to coat wires.%n
-nomifactory.quest.db.784.desc=§9Rubber§r has been sufficient for making cables so far, but you will soon discover that this basic type of rubber won't withstand more than §2Extreme Voltage§r. Higher quality rubber is necessary to properly insulate your wires.%n%nThere are two better types of rubber, and you will eventually need to make both of them. §eThese can also be used for insulating lower voltage wires more efficiently, requiring less fluid§r!%n%n§9§2Both Styrene-Butadiene Rubber (SBR) and Silicone Rubber (SiR) can wrap any Cable tier.§r However, SBR requires petrochemistry infrastructure you may not have yet, and is not mandatory until you are making late-game components. On the other hand, SiR can conveniently be made from chemicals you are already familiar with. By setting this up now, you won't have to change your wire coating material later!%n%nTo make Silicone Rubber, you will need to create §6Polydimethylsiloxane Dust§r in one of several ways, then mix it with §6Sulfur§r in a §3Chemical Reactor§r. You can then coat wires with it in an §3Assembling Machine§r.%n%n§2To make Styrene-Butadiene Rubber, you will need to create Raw Styrene-Butadiene Rubber Dust in one of several ways, then mix it with Sulfur in a Chemical Reactor. This produces more liquid than Silicon Rubber, as well as being a more efficient way to coat wires.%n
+nomifactory.quest.db.784.desc=到目前为止，§9橡胶§r已经足够用于制作线缆，但你很快就会发现，这种基本类型的橡胶不能承受超过§2超高压§r。更高质量的橡胶是必要的，以正确地绝缘你的线缆。%n%n有两种更好类型的橡胶，你最终将需要制作这两种橡胶。§e这些也可用于更有效地绝缘低压线缆，需要更少的流体§r！%n%n§2丁苯橡胶(SBR)和硅橡胶(SiR0都可以包裹任何级别的导线。§r然而，丁苯橡胶需要你可能还没有的石油化工基础设施，而且在你制造游戏后期组件之前不是强制性的。另一方面，硅橡胶可以方便地由你已经熟悉的化学物制成。通过现在的设置，你就不必在以后改变你的线缆涂层材料了！%n%n要制造硅橡胶，你需要用几种方法之一制造出§6聚二甲基硅氧烷粉§r，然后将其与§6硫§r在§3化学反应釜§r中混合。然后你可以在§3组装机§r中用它来涂抹线缆。%n%n§2要制造丁苯橡胶，你需要用几种方法之一制造生丁苯橡胶粉，然后在化学反应釜中与硫混合。这比硅橡胶产生更多的流体，同时也是一种更有效的涂抹线缆的方法。
 
 # db 785 (MISSING)
 #nomifactory.quest.db.785.title=Effortless Building
@@ -3804,13 +3804,13 @@ nomifactory.quest.db.825.desc=§2The §3§2Large Chemical Reactor (LCR)§r §2is
 #nomifactory.quest.db.826.title=§2Platinum Group Processing
 nomifactory.quest.db.826.title=§2铂系处理
 #nomifactory.quest.db.826.desc=§2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum - as well as Gold. All of these elements will be used in IV-tier and above materials.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nThis is still optional, and you can get §6Ruthenium§r and §6Rhodium§r from §6Osmiridium 80/20 Ore§r and §6Iridosmine 80/20 Ore§r from Microverse adventures instead.
-nomifactory.quest.db.826.desc=§2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum - as well as Gold. All of these elements will be used in IV-tier and above materials.%n%n§rYou will need to treat certain ores with §9Nitric Acid§r to yield §6PGS§r - §6Sheldonite§r is the best. Then, using an §3HV+ Centrifuge§r and §9Aqua Regia§r, break it down into the PGS salts, and reduce those salts to the metals.%n%nThis is still optional, and you can get §6Ruthenium§r and §6Rhodium§r from §6Osmiridium 80/20 Ore§r and §6Iridosmine 80/20 Ore§r from Microverse adventures instead.
+nomifactory.quest.db.826.desc=§2在基础整合包中存在一个初级版本的铂系矿泥(PGS)处理。在这里，它是铂系金属的一个强大来源 - 钌、铑、钯、锇、铱和铂 - 以及金。所有这些元素都将被用于IV级及以上的材料中。%n%n§r你需要用§9硝酸§r处理某些矿石，以获得§6铂系矿泥§r - §6谢尔顿矿§r是最好的。然后，使用§3HV+离心机§r和§9王水§r，将其分解为铂系矿泥盐类，并将这些盐类还原为金属。%n%n这仍然是可有可无的，你可以从微型宇宙探索中的§6铱锇80/20矿石§r和§6锇铱80/20矿石§r中获得§6钌§r和§6铑§r。
 
 # db 827
 #nomifactory.quest.db.827.title=§2Polybenzimidazole (PBI)
 nomifactory.quest.db.827.title=§2聚苯并咪唑 (PBI)
 #nomifactory.quest.db.827.desc=§2This is the highest tier of polymer. It is used in crafting Advanced SMD components, ZPM+ Machine Hulls, among other things.%n%nThis polymer requires at least 14 processing steps to craft. Good luck!
-nomifactory.quest.db.827.desc=§2This is the highest tier of polymer. It is used in crafting Advanced SMD components, ZPM+ Machine Hulls, among other things.%n%nThis polymer requires at least 14 processing steps to craft. Good luck!
+nomifactory.quest.db.827.desc=§2这是最高级别的聚合物。它被用于制作高级SMD元件、ZPM+机械方块，以及其他东西。%n%n这种聚合物至少需要14个处理步骤来制作。祝你好运！
 
 # db 828
 #nomifactory.quest.db.828.title=§2Forge Hammer
@@ -3885,10 +3885,10 @@ nomifactory.quest.db.839.title=§2高级处理阵列
 nomifactory.quest.db.839.desc=§2The Advanced Processing Array can handle up to 64 parallel recipes at once.%n%nYou may need some 4A or 16A Energy Hatches to keep up with its power draw.
 
 # db 840
-#nomifactory.quest.db.840.title=高速钢-E
-nomifactory.quest.db.840.title=High Speed Steel Type E
+#nomifactory.quest.db.840.title=High Speed Steel Type E
+nomifactory.quest.db.840.title=高速钢-E
 #nomifactory.quest.db.840.desc=Made by adding some Cobalt, Manganese and Silicon to your HSS-G.
-nomifactory.quest.db.840.desc=Made by adding some Cobalt, Manganese and Silicon to your HSS-G.
+nomifactory.quest.db.840.desc=通过在你的高速钢-G中加入一些钴、锰和硅而制成。
 
 # db 841
 #nomifactory.quest.db.841.title=§2Neuro Processing Unit
@@ -3936,19 +3936,19 @@ nomifactory.quest.db.847.desc=§2Naquadah Alloy is different in CEu, it requires
 #nomifactory.quest.db.848.title=§2IV Assembling Machine
 nomifactory.quest.db.848.title=§2IV组装机
 #nomifactory.quest.db.848.desc=§2Used for Advanced SMD components.
-nomifactory.quest.db.848.desc=§2Used for Advanced SMD components.
+nomifactory.quest.db.848.desc=§2用于高级SMD元件。
 
 # db 849
 #nomifactory.quest.db.849.title=§2Advanced SMD Components
 nomifactory.quest.db.849.title=§2高级SMD元件
 #nomifactory.quest.db.849.desc=§2Advanced SMD Components are new to CEu and are required for Crystal and Wetware circuits. They can also be substituted for the equivalent of 4 normal SMD components in Nano and Quantum circuits.%n%nAll of these components require IV power and liquid PBI.%n%nAdvanced SMD Transistor: Vanadium-Gallium Foil and Fine HSS-G Wire%n%nAdvanced SMD Resistor: Graphene Dust and Fine Platinum Wire%n%nAdvanced SMD Capacitor: Thin PBI Sheet and HSS-S Foil%n%nAdvanced SMD Diode: Small Pile of InGaP Dust and Fine Niobium-Titanium Wire%n%nAdvanced SMD Inductor: HSS-E Ring and Fine Palladium Wire%n%nAs with the normal SMD components, invest in an extremely robust automation system for these, as you won't stop needing them.
-nomifactory.quest.db.849.desc=§2Advanced SMD Components are new to CEu and are required for Crystal and Wetware circuits. They can also be substituted for the equivalent of 4 normal SMD components in Nano and Quantum circuits.%n%nAll of these components require IV power and liquid PBI.%n%nAdvanced SMD Transistor: Vanadium-Gallium Foil and Fine HSS-G Wire%n%nAdvanced SMD Resistor: Graphene Dust and Fine Platinum Wire%n%nAdvanced SMD Capacitor: Thin PBI Sheet and HSS-S Foil%n%nAdvanced SMD Diode: Small Pile of InGaP Dust and Fine Niobium-Titanium Wire%n%nAdvanced SMD Inductor: HSS-E Ring and Fine Palladium Wire%n%nAs with the normal SMD components, invest in an extremely robust automation system for these, as you won't stop needing them.
+nomifactory.quest.db.849.desc=§2高级SMD元件是社区版：非官方版的新产品，是晶体和湿件电路的必需品。在纳米和量子电路中，它们也可以替代相当于4个普通的SMD元件。%n%n所有这些组件都需要IV能量和流体聚苯并咪唑。%n%n高级贴片晶体管: 钒镓合金箔和细高速钢-G导线%n%n高级贴片电阻: 石墨烯粉和细铂导线%n%n高级贴片电容: 聚苯并咪唑薄片和高速钢-S箔%n%n高级贴片二极管: 小堆磷化镓粉和细铌钛导线%n%n高级贴片电感器: 高速钢-E环和细钯导线%n%n与普通的SMD元件一样，为这些元件投入一个极其强大的自动化系统，因为你不会停止对它们的需要。
 
 # db 850
 #nomifactory.quest.db.850.title=High Speed Steel Type S
 nomifactory.quest.db.850.title=高速钢-S
 #nomifactory.quest.db.850.desc=Made by adding some Iridium and Osmium to your HSS-G.
-nomifactory.quest.db.850.desc=Made by adding some Iridium and Osmium to your HSS-G.
+nomifactory.quest.db.850.desc=通过在你的高速钢-G中加入一些铱和锇而制成。
 
 # db 851
 #nomifactory.quest.db.851.title=§2Americium Ingot
@@ -3990,13 +3990,13 @@ nomifactory.quest.db.856.desc=§2用于制作合金冶炼炉。%n%n§6钽§r是�
 #nomifactory.quest.db.857.title=§2Alloy Blast Smelter
 nomifactory.quest.db.857.title=§2合金冶炼炉
 #nomifactory.quest.db.857.desc=§2The Alloy Blast Smelter directly smelts dust combinations into molten Alloys, skipping the Mixer step. Some molten alloys may need to be cooled in a Vacuum Freezer before being usable.%n%n§rThis is the only way to create some of the advanced alloys used in multiblock machines. You can also use it for most normal alloys if you want. In particular, the yield of §6Energetic Alloy§r and §6Vibrant Alloy§r is §ddoubled§r.
-nomifactory.quest.db.857.desc=§2The Alloy Blast Smelter directly smelts dust combinations into molten Alloys, skipping the Mixer step. Some molten alloys may need to be cooled in a Vacuum Freezer before being usable.%n%n§rThis is the only way to create some of the advanced alloys used in multiblock machines. You can also use it for most normal alloys if you want. In particular, the yield of §6Energetic Alloy§r and §6Vibrant Alloy§r is §ddoubled§r.
+nomifactory.quest.db.857.desc=§2合金冶炼炉直接将粉组合冶炼成熔融合金，跳过搅拌机步骤。一些熔融合金可能需要在真空冷冻机中冷却后才能使用。%n%n§r这是制造一些用于多方块结构机器的先进合金的唯一方法。如果你愿意，你也可以把它用于大多数普通合金。特别是，§6充能合金§r和§6脉冲合金§r的产量是§d翻倍的§r。
 
 # db 858
 #nomifactory.quest.db.858.title=§2Gregicality Multiblocks
 nomifactory.quest.db.858.title=§2格雷科技多方块
 #nomifactory.quest.db.858.desc=§2With advanced alloys from the Alloy Blast Smelter and IV Machines, you can make large versions of most GT machines.%n%n§rThese are formed like multiblocks. You can add a §3Parallel Control Hatch§r in order to allow them to process §dmore recipes§r at the same time, similarly to a §3Processing Array§r. The highest tier of Parallel Control Hatch can facilitate processing §d256 recipes§r at once!%n%nSearch "@gregicality" or look up the usages of Parallel Hatches in JEI to see details of all the multiblock machines.
-nomifactory.quest.db.858.desc=§2With advanced alloys from the Alloy Blast Smelter and IV Machines, you can make large versions of most GT machines.%n%n§rThese are formed like multiblocks. You can add a §3Parallel Control Hatch§r in order to allow them to process §dmore recipes§r at the same time, similarly to a §3Processing Array§r. The highest tier of Parallel Control Hatch can facilitate processing §d256 recipes§r at once!%n%nSearch "@gregicality" or look up the usages of Parallel Hatches in JEI to see details of all the multiblock machines.
+nomifactory.quest.db.858.desc=§2有了来自合金冶炼炉和IV机器的先进合金，你可以制造大多数格雷科技机器的大型版本。%n%n§r这些都是像多方块结构一样形成的。你可以添加一个§3并行控制仓§r，以便让他们同时处理§d更多配方§r，类似于§3处理阵列§r。最高级别的并行控制仓可以容易地一次处理§d256个配方§r！%n%n搜索“@gregicality”或在JEI中查找并行控制仓的使用情况，以查看所有多方块结构机器的细节。
 
 # db 859 (MISSING)
 #nomifactory.quest.db.859.title=§2Chemical Plant
