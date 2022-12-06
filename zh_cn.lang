@@ -374,7 +374,7 @@ nomifactory.quest.db.53.desc=§3线材轧机§r是一个重大的效率提升，
 #nomifactory.quest.db.54.title=Quantum Eyes
 nomifactory.quest.db.54.title=量子之眼
 #nomifactory.quest.db.54.desc=When §6Ender Eyes§r just aren't creepy enough.%n%nYou'll need an HV or better §3Chemical Bath§r to make these. The recipe is quite slow, so invest in the highest tier Chemical Baths you can and consider parallelizing the recipe.
-nomifactory.quest.db.54.desc=When §6Ender Eyes§r just aren't creepy enough.%n%nYou'll need an HV or better §3Chemical Bath§r to make these. The recipe is quite slow, so invest in the highest tier Chemical Baths you can and consider parallelizing the recipe.
+nomifactory.quest.db.54.desc=当§6末影之眼§r还不够令人毛骨悚然时。%n%n你需要一个HV或更好的§3化学浸洗器§r来制作这些。这个配方相当慢，所以要投入于最高级别的化学浸洗器，并考虑将这个配方并行化。
 
 # db 55
 #nomifactory.quest.db.55.title=§2Centrifuge
@@ -902,37 +902,37 @@ nomifactory.quest.db.147.desc=注意: 这个任务同时接受LV和MV两极磁�
 #nomifactory.quest.db.148.title=Titanium
 nomifactory.quest.db.148.title=钛
 #nomifactory.quest.db.148.desc=A perfect material for making chopsticks.%n%nAlso the tier material for Extreme Voltage (EV).
-nomifactory.quest.db.148.desc=A perfect material for making chopsticks.%n%nAlso the tier material for Extreme Voltage (EV).
+nomifactory.quest.db.148.desc=是制作筷子的完美材料。%n%n也是超高压(EV)的层级材料。
 
 # db 149
 #nomifactory.quest.db.149.title=Hot Titanium
 nomifactory.quest.db.149.title=热钛
 #nomifactory.quest.db.149.desc=Combining §9Titanium Tetrachloride§r with §6Magnesium§r in an §3Electric Blast Furnace§r (approximating the Kroll process) will net you your first Titanium.%n%nUnfortunately, it is super hot. You'll need to cool it in a §3Vacuum Freezer§r for it to be usable.%n%nIf you are autocrafting on-demand, it's better to not have your ME network know about this intermediate state. Outputting the §6Hot Titanium Ingot§r directly into a Vacuum Freezer avoids extra computations and item types.%n%nIf you absolutely insist on putting hot ingots in your network, you'll have to manually encode the §aPattern§r with an ingot that §cdamages you while you hold it§r. Your call.%n%n
-nomifactory.quest.db.149.desc=Combining §9Titanium Tetrachloride§r with §6Magnesium§r in an §3Electric Blast Furnace§r (approximating the Kroll process) will net you your first Titanium.%n%nUnfortunately, it is super hot. You'll need to cool it in a §3Vacuum Freezer§r for it to be usable.%n%nIf you are autocrafting on-demand, it's better to not have your ME network know about this intermediate state. Outputting the §6Hot Titanium Ingot§r directly into a Vacuum Freezer avoids extra computations and item types.%n%nIf you absolutely insist on putting hot ingots in your network, you'll have to manually encode the §aPattern§r with an ingot that §cdamages you while you hold it§r. Your call.%n%n
+nomifactory.quest.db.149.desc=将§9四氯化钛§r与§6镁§r在§3电力高炉§r中结合起来(类似于克罗尔工艺)，就可以得到你的第一个钛。%n%n不幸的是，它是超级热的。你需要在§3真空冷冻机§r中冷却它，以便它可以使用。%n%n如果你是按需自动制作的，最好不要让你的ME网络知道这个中间状态。将§6热钛锭§r直接输出到真空冷冻机中，避免了额外的计算和物品类型。%n%n如果你绝对坚持在你的网络中放置热锭，你就必须用一个§c在你拿着它的时候会对你造成伤害§r的锭手动编写§a样板§r。你的决定。
 
 # db 150
 #nomifactory.quest.db.150.title=Vacuum Freezer
 nomifactory.quest.db.150.title=真空冷冻机
 #nomifactory.quest.db.150.desc=§3Vacuum Freezers§r are primarily used to cool down hot ingots.%n%nThey're also capable of freezing air into a liquid, and making superconductors.%n%nAt minimum you will need an energy input hatch, an input bus, an output bus, and 22 §6Frost Proof Machine Casings§r for forming the multiblock for processing Hot Ingots.%n%nIf you want to deal with fluids as well, subtract two casings and use a fluid input and fluid output in their place.%n%nBesides the controller placement, as usual the hatches/buses can go anywhere. Use the building guide in §bJEI§r which can be pulled up from the controller block.
-nomifactory.quest.db.150.desc=§3Vacuum Freezers§r are primarily used to cool down hot ingots.%n%nThey're also capable of freezing air into a liquid, and making superconductors.%n%nAt minimum you will need an energy input hatch, an input bus, an output bus, and 22 §6Frost Proof Machine Casings§r for forming the multiblock for processing Hot Ingots.%n%nIf you want to deal with fluids as well, subtract two casings and use a fluid input and fluid output in their place.%n%nBesides the controller placement, as usual the hatches/buses can go anywhere. Use the building guide in §bJEI§r which can be pulled up from the controller block.
+nomifactory.quest.db.150.desc=§3真空冷冻机§r主要用于冷却热锭。%n%n他们还能够将空气冻结成流体，和制造超导体。%n%n至少你需要一个能源仓，一个输入总线，一个输出总线，以及22个§6防冻机械方块§r，用于形成处理热锭的多方块结构。%n%n如果你也想处理流体，请减去两个机械方块，用流体输入仓和流体输出仓来代替它们。%n%n除了控制器的位置，像往常一样，仓/总线可以在任何地方。使用§bJEI§r中的建筑指南，可以从控制器方块中拉出。
 
 # db 151
 #nomifactory.quest.db.151.title=Early Rutile
 nomifactory.quest.db.151.title=早期金红石
 #nomifactory.quest.db.151.desc=§6Rutile§r is a §6Titanium§r precursor found in §6Ilmenite Ore§r and §6Bauxite Ore§r, which spawn uncommonly in the Overworld.%n%n§6§rLarger quantities of Ilmenite and Bauxite may be found on the Moon and other planets.%n%n
-nomifactory.quest.db.151.desc=§6Rutile§r is a §6Titanium§r precursor found in §6Ilmenite Ore§r and §6Bauxite Ore§r, which spawn uncommonly in the Overworld.%n%n§6§rLarger quantities of Ilmenite and Bauxite may be found on the Moon and other planets.%n%n
+nomifactory.quest.db.151.desc=§6金红石是一种§6钛§r的前身，可在§6钛铁矿矿石§r和§6铝土矿矿石§r中找到，这些矿石在主世界内罕见生成。%n%n在月球和其他行星上可能会发现更多的钛铁矿和铝土矿。
 
 # db 152
 #nomifactory.quest.db.152.title=Titanium Tetrachloride
 nomifactory.quest.db.152.title=四氯化钛
 #nomifactory.quest.db.152.desc=§6Rutile§r, §6Carbon§r, and §9Chlorine§r may be chemically reacted to form §9Titanium Tetrachloride§r.%n%nThis fluid is a precursor for metallic §6Titanium§r, as well as a titanium halide useful for catalyzing various polymer reactions (like plastics) for greater yields.
-nomifactory.quest.db.152.desc=§6Rutile§r, §6Carbon§r, and §9Chlorine§r may be chemically reacted to form §9Titanium Tetrachloride§r.%n%nThis fluid is a precursor for metallic §6Titanium§r, as well as a titanium halide useful for catalyzing various polymer reactions (like plastics) for greater yields.
+nomifactory.quest.db.152.desc=§6金红石§r、§6碳§r和§9氯§r可以进行化学反应，形成§9四氯化钛§r。%n%n这种流体是金属§6钛§r的前体，也是一种卤化物，有助于催化各种聚合物反应(如塑料)，以提高产量。
 
 # db 153
 #nomifactory.quest.db.153.title=HV Chemical Reactor
 nomifactory.quest.db.153.title=HV化学反应釜
 #nomifactory.quest.db.153.desc=You'll need an §3HV Chemical Reactor§r for processing §6Titanium§r.
-nomifactory.quest.db.153.desc=You'll need an §3HV Chemical Reactor§r for processing §6Titanium§r.
+nomifactory.quest.db.153.desc=你需要一个§3HV化学反应釜§r来处理§6钛§r。
 
 # db 154
 #nomifactory.quest.db.154.title=§2Distillation Tower
@@ -950,25 +950,25 @@ nomifactory.quest.db.155.desc=With your §6Crystal CPUs§r and the §3LuV Assemb
 #nomifactory.quest.db.156.title=Kanthal Ingots
 nomifactory.quest.db.156.title=坎塔尔合金锭
 #nomifactory.quest.db.156.desc=§6Kanthal§r is an alloy of §6Iron§r, §6Aluminium§r, and §6Chrome§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r into a §6Hot Kanthal Ingot§r which will damage you if it is held. To prevent this damage and obtain the desired ingot, the Hot Ingot must be cooled in a §3Vacuum Freezer§r.%n%nIt is best to directly route this Hot Ingot from the §6Output Bus§r of your Blast Furnace to the §6Input Bus§r of your Vacuum Freezer via conduits or an §6Ore Dictionary Filter§r and then retrieve the cooled ingot.
-nomifactory.quest.db.156.desc=§6Kanthal§r is an alloy of §6Iron§r, §6Aluminium§r, and §6Chrome§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r into a §6Hot Kanthal Ingot§r which will damage you if it is held. To prevent this damage and obtain the desired ingot, the Hot Ingot must be cooled in a §3Vacuum Freezer§r.%n%nIt is best to directly route this Hot Ingot from the §6Output Bus§r of your Blast Furnace to the §6Input Bus§r of your Vacuum Freezer via conduits or an §6Ore Dictionary Filter§r and then retrieve the cooled ingot.
+nomifactory.quest.db.156.desc=§6坎塔尔§r是一种由§6铁§r、§6铝§r和§6铬§r组成的合金。%n%n这种合金在§3电力高炉§r中被熔炼成§6热坎塔尔锭§r，如果拿着它，会对你造成伤害。为了防止这种伤害并获得所需的锭，热锭必须在§3真空冷冻机§r中冷却。%n%n最好的办法是直接将这种热锭从电力高炉的§6输出总线§r通过导管或§6矿石词典过滤卡§r输送到真空冷冻机的§6输入总线§r，然后再取回冷却过的锭。
 
 # db 157
 #nomifactory.quest.db.157.title=§2Kanthal Coil Blocks
 nomifactory.quest.db.157.title=§2坎塔尔合金线圈方块
 #nomifactory.quest.db.157.desc=§6Kanthal§r is the second coil material available, increasing your EBF's operating temperature to 2700K so it can process more advanced materials.%n%n§2In CEu, using higher-tier coils provides some bonuses to their multiblocks.%n- Pyrolyse Oven: Cupronickel Coils are 25%% slower, every coil above Kanthal grants +50%% additive speed%n- Multi Smelter: Increases number of parallel operations and decreases energy usage%n- Cracking Unit: -5%% energy usage per coil above Cupronickel%n- Electric Blast Furnace: The temperature of the EBF is the coil's temperature, plus 100K for each voltage tier above MV.%nFor every 900K above the recipe temperature, the energy usage is multiplied by 0.95x.%nFor every 1800K above, one overclock becomes 100%% efficient - each overclock will 4x the speed instead of 2x.
-nomifactory.quest.db.157.desc=§6Kanthal§r is the second coil material available, increasing your EBF's operating temperature to 2700K so it can process more advanced materials.%n%n§2In CEu, using higher-tier coils provides some bonuses to their multiblocks.%n- Pyrolyse Oven: Cupronickel Coils are 25%% slower, every coil above Kanthal grants +50%% additive speed%n- Multi Smelter: Increases number of parallel operations and decreases energy usage%n- Cracking Unit: -5%% energy usage per coil above Cupronickel%n- Electric Blast Furnace: The temperature of the EBF is the coil's temperature, plus 100K for each voltage tier above MV.%nFor every 900K above the recipe temperature, the energy usage is multiplied by 0.95x.%nFor every 1800K above, one overclock becomes 100%% efficient - each overclock will 4x the speed instead of 2x.
+nomifactory.quest.db.157.desc=§6坎塔尔§r是第二种可用的线圈材料，将你的电力高炉的工作温度提高到2700K，因此它可以处理更先进的材料。%n%n§2在社区版：非官方版中，使用更高级别的线圈可以为其多方块结构提供一些加成。%n- 热解炉: 白铜线圈的速度要慢25%%，每一个高于坎塔尔的线圈都给予+50%%的速度加成%n- 工业熔炉: 增加并行操作的数量，减少能源使用量%n- 裂化机: 超过白铜的每个线圈的能源使用量减少5%%%n- 电力高炉: 电力高炉的温度是线圈的温度，在MV以上的每一级电压中加上100K。%n每高于配方温度900K，能源使用量就会乘以0.95倍。%n每超过1800K，一个超频就会有100%%的效率 - 每次超频将使速度提高4倍而不是2倍。
 
 # db 158
 #nomifactory.quest.db.158.title=Nichrome Ingots
 nomifactory.quest.db.158.title=镍铬合金锭
 #nomifactory.quest.db.158.desc=§6Nichrome§r is an alloy of §6Nickel§r and §6Chrome§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
-nomifactory.quest.db.158.desc=§6Nichrome§r is an alloy of §6Nickel§r and §6Chrome§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
+nomifactory.quest.db.158.desc=§6镍铬合金§r是一种由§6镍§r和§6铬§r组成的合金。%n%n这种合金在§3电力高炉§r中熔化，并在§3真空冷冻机§r中冷却。
 
 # db 159
 #nomifactory.quest.db.159.title=§2Nichrome Coil Blocks
 nomifactory.quest.db.159.title=§2镍铬合金线圈方块
 #nomifactory.quest.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.%n%n§23600K is now also hot enough to grant a single 100%% efficient overclock to 1800K and below recipes. In effect, you will get an additional 2x speed boost by overclocking once. You may wish to use this well to make up for the slower recipes.
-nomifactory.quest.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.%n%n§23600K is now also hot enough to grant a single 100%% efficient overclock to 1800K and below recipes. In effect, you will get an additional 2x speed boost by overclocking once. You may wish to use this well to make up for the slower recipes.
+nomifactory.quest.db.159.desc=§6镍铬§r是第三种可用的线圈材料，将你的电力高炉的工作温度提高到3600K，因此它可以加工更先进的材料。%n%n§23600K现在也足够热，可以给予1800K及以下的配方一个100%%的高效超频。实际上，通过超频一次，你将获得额外的2倍速度提升。你可能希望用它来弥补较慢的配方。
 
 # db 160 (MISSING)
 #nomifactory.quest.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
@@ -1130,7 +1130,7 @@ nomifactory.quest.db.185.desc=Finally, §6Epoxy Resin Sheets§r.%n%nThese can be
 #nomifactory.quest.db.186.title=§2Carbon Fibers
 nomifactory.quest.db.186.title=§2碳纤维
 #nomifactory.quest.db.186.desc=§6Carbon Fibers§r are useful for a variety of things.%n%n§2They are made with Carbon Dust and polymers. Higher tier polymers grant higher yields. It's also not a chanced output anymore.
-nomifactory.quest.db.186.desc=§6Carbon Fibers§r are useful for a variety of things.%n%n§2They are made with Carbon Dust and polymers. Higher tier polymers grant higher yields. It's also not a chanced output anymore.
+nomifactory.quest.db.186.desc=§6碳纤维§r有多种用途。%n%n§2它们是用碳粉和聚合物制成的。更高级别的聚合物能提供更高的产量。这再也不是一个概率性的产出。
 
 # db 187
 #nomifactory.quest.db.187.title=MV Energy Converter
@@ -1142,13 +1142,13 @@ nomifactory.quest.db.187.desc=记住要把MV区域和LV区域分开。§e将LV�
 #nomifactory.quest.db.188.title=§2Epoxy Substrate
 nomifactory.quest.db.188.title=§2环氧树脂基板
 #nomifactory.quest.db.188.desc=§6Epoxy Circuit Boards§r are a more advanced substrate type that gives you access to §2Nanocircuits, which span tiers three through six.
-nomifactory.quest.db.188.desc=§6Epoxy Circuit Boards§r are a more advanced substrate type that gives you access to §2Nanocircuits, which span tiers three through six.
+nomifactory.quest.db.188.desc=§6环氧树脂电路板§r是一种更先进的基板类型，可以让你接触到§2纳米电路，它跨越了第三阶到第六阶。
 
 # db 190
 #nomifactory.quest.db.190.title=Nano CPUs
 nomifactory.quest.db.190.title=纳米CPU
 #nomifactory.quest.db.190.desc=§6Nano CPUs§r are advanced §6Circuit Wafers§r made from infusing a §6CPU Wafer§r with §6Carbon Fibers§r and §9Energized Glowstone§r in a §3Chemical Reactor§r.%n%nThen, cut the resulting wafer into dies using a §3Cutting Machine§r.
-nomifactory.quest.db.190.desc=§6Nano CPUs§r are advanced §6Circuit Wafers§r made from infusing a §6CPU Wafer§r with §6Carbon Fibers§r and §9Energized Glowstone§r in a §3Chemical Reactor§r.%n%nThen, cut the resulting wafer into dies using a §3Cutting Machine§r.
+nomifactory.quest.db.190.desc=§6纳米CPU§r是先进的§6电路晶圆§r，由§6CPU晶圆§r与§6碳纤维§r和§9充能液态荧石§r在§3化学反应釜§r中注入而成。%n%n然后，使用§3板材切割机§r将所得晶圆切割成芯片。
 
 # db 191
 #nomifactory.quest.db.191.title=The Fourth And Final Tier Two Circuits
@@ -1160,13 +1160,13 @@ nomifactory.quest.db.191.desc=Using your new §6Epoxy Circuit Boards§r and some
 #nomifactory.quest.db.192.title=§2The First Tier Five Circuit
 nomifactory.quest.db.192.title=§2第一种五阶电路
 #nomifactory.quest.db.192.desc=The first Mainframe you'll have to contend with.%n%nThis is the first Tier Five circuit available, and consequently the most expensive to make. as always, invest in the next circuit theme to get to cheaper recipes as soon as possible.
-nomifactory.quest.db.192.desc=The first Mainframe you'll have to contend with.%n%nThis is the first Tier Five circuit available, and consequently the most expensive to make. as always, invest in the next circuit theme to get to cheaper recipes as soon as possible.
+nomifactory.quest.db.192.desc=你必须要面对的第一个电脑主机。%n%n这是第一种可用的五阶电路，因此也是最昂贵的制造。一如既往，投入于下一个电路主题，以尽快获得更便宜的配方。
 
 # db 194
 #nomifactory.quest.db.194.title=§2Glowstone Doped Silicon Boule
 nomifactory.quest.db.194.title=§2荧石掺杂的单晶硅
 #nomifactory.quest.db.194.desc=A more advanced type of §6Silicon Boule§r, formed by doping the §6Silicon§r crystal lattice with §6Glowstone§r.%n%nThese are made in an §3EBF§r with §2Kanthal§r or better coils, and need §2Nitrogen§r for the process. It needs twice as much Silicon as the basic boules, but also results in twice as many doped Silicon Wafers when sliced.%n%nCircuit Wafers can be made far more efficiently with these doped Silicon Wafers, but they are also needed for some more advanced types of Circuit Wafers that can't be engraved onto the basic ones.
-nomifactory.quest.db.194.desc=A more advanced type of §6Silicon Boule§r, formed by doping the §6Silicon§r crystal lattice with §6Glowstone§r.%n%nThese are made in an §3EBF§r with §2Kanthal§r or better coils, and need §2Nitrogen§r for the process. It needs twice as much Silicon as the basic boules, but also results in twice as many doped Silicon Wafers when sliced.%n%nCircuit Wafers can be made far more efficiently with these doped Silicon Wafers, but they are also needed for some more advanced types of Circuit Wafers that can't be engraved onto the basic ones.
+nomifactory.quest.db.194.desc=一种更先进的§6单晶硅§r类型，通过在§6硅§r的晶格中掺入§6荧石§r而形成。%n%n这些都是在§3电力高炉§r与§2坎塔尔§r或更好的线圈中制造的，并且需要§2氮§r进行处理。它所需要的硅是基础单晶硅的两倍，但在切片时也能得到两倍的掺杂晶片。%n%n使用这些掺杂的晶片可以更有效地制造电路晶圆，但对于一些无法在基础晶片上雕刻的更高级类型的电路晶圆，也需要它们。
 
 # db 195
 #nomifactory.quest.db.195.title=§2Fusion Reactor MK3
@@ -1460,7 +1460,7 @@ nomifactory.quest.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§r, and 
 #nomifactory.quest.db.245.title=§2Titanium Heavy Plating
 nomifactory.quest.db.245.title=§2钛重板
 #nomifactory.quest.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThis special plating is used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
-nomifactory.quest.db.245.desc=Heavy: avoid dropping it on your foot.%n%nThis special plating is used for two things-- §6Tier Two Micro Miners§r and the §3Space Station Assembler§r.
+nomifactory.quest.db.245.desc=厚重: 避免掉在你的脚上。%n%n这种特殊的板有两方面的用途 - §6二级微型采掘机§r和§3太空站组装机§r。
 
 # db 246
 #nomifactory.quest.db.246.title=§2Tungsten Carbide Heavy Plating
@@ -1472,19 +1472,19 @@ nomifactory.quest.db.246.desc=Heavy Plating for Micro Miners made from §6Tungst
 #nomifactory.quest.db.248.title=Space Station Assembler
 nomifactory.quest.db.248.title=太空站组装机
 #nomifactory.quest.db.248.desc=This quest, and the ones that follow it, are §cNOT REQUIRED§r for progression.%n%nOnly do them if you want to be able to explore the various planets offered by Advanced Rocketry and potentially build bases there, or in space.%n%nRefer to the various high quality tutorials on AR available on YouTube for specifics.
-nomifactory.quest.db.248.desc=This quest, and the ones that follow it, are §cNOT REQUIRED§r for progression.%n%nOnly do them if you want to be able to explore the various planets offered by Advanced Rocketry and potentially build bases there, or in space.%n%nRefer to the various high quality tutorials on AR available on YouTube for specifics.
+nomifactory.quest.db.248.desc=这个任务和后面的任务，并不是进展中所§c需要的§r。%n%n只有当你希望能够探索高级火箭提供的各种星球，并有可能在那里建立基地，或在太空中建立基地时，才会做这些事情。%n%n具体内容请参考油管上的各种高质量的AR教程。
 
 # db 249
 #nomifactory.quest.db.249.title=Warp Core
 nomifactory.quest.db.249.title=跃迁核心
 #nomifactory.quest.db.249.desc=The §3Warp Core§r is a multiblock structure that you can build on the space station. Use the Holo-Projector for a building guide.%n%nWhile it's not required for the progression, you can spend some resources to travel to distant planets, either to explore them or just to change the background of your space station.%n%nThe Input Hatch must be filled with §6Dilithium§r.
-nomifactory.quest.db.249.desc=The §3Warp Core§r is a multiblock structure that you can build on the space station. Use the Holo-Projector for a building guide.%n%nWhile it's not required for the progression, you can spend some resources to travel to distant planets, either to explore them or just to change the background of your space station.%n%nThe Input Hatch must be filled with §6Dilithium§r.
+nomifactory.quest.db.249.desc=§3跃迁核心§r是一个你可以在太空站上建造多方块结构。使用全息投影仪进行建筑指南。%n%n虽然这不是进展的必要条件，但你可以花费一些资源前往遥远的星球，要么是为了探索它们，要么只是为了改变你的太空站的背景。%n%n输入口必须装满§6双锂§r。
 
 # db 250
 #nomifactory.quest.db.250.title=Dilithium
 nomifactory.quest.db.250.title=双锂
 #nomifactory.quest.db.250.desc=§6Dilithium Crystals§r are used to power Warp Cores, and are also a key component in several Micro Miner missions.%n%nThey are made by crystallizing §6Dilithium Dust§r with §9Deuterium§r in an §3Autoclave§r.
-nomifactory.quest.db.250.desc=§6Dilithium Crystals§r are used to power Warp Cores, and are also a key component in several Micro Miner missions.%n%nThey are made by crystallizing §6Dilithium Dust§r with §9Deuterium§r in an §3Autoclave§r.
+nomifactory.quest.db.250.desc=§6双锂水晶§r被用来为跃迁核心提供动力，同时也是几个微型采掘机任务的关键组成部分。%n%n它们是由§6双锂粉§r与§9氘§r在§3的高压釜§r中结晶而成。
 
 # db 251
 #nomifactory.quest.db.251.title=§2Tier Four Micro Miner
@@ -1586,7 +1586,7 @@ nomifactory.quest.db.266.desc=§2物品管道又回到了格雷科技社区版�
 #nomifactory.quest.db.267.title=§2Radon
 nomifactory.quest.db.267.title=§2氡
 #nomifactory.quest.db.267.desc=§9Radon§r will be needed in large quantities.%n%nFor now, you'll need to obtain it from Tier Two Micro Miner missions, in the form of §6Radium Salt§r. Electrolyze it for Radon and §6Rock Salt§r. §2You can also get it from distilling liquid Ender Air.§r%n%nLater it will be possible to make Radon using a §bGregTech§r §3Fusion Reactor§r.
-nomifactory.quest.db.267.desc=§9Radon§r will be needed in large quantities.%n%nFor now, you'll need to obtain it from Tier Two Micro Miner missions, in the form of §6Radium Salt§r. Electrolyze it for Radon and §6Rock Salt§r. §2You can also get it from distilling liquid Ender Air.§r%n%nLater it will be possible to make Radon using a §bGregTech§r §3Fusion Reactor§r.
+nomifactory.quest.db.267.desc=将需要大量的§9氡§r。%n%n目前，你需要从二级微型采掘机任务中获得它，以§6氡岩盐§r的形式。电解它以获得氡和§6岩盐§r。§2你也可以从蒸馏下界空气中得到它。§r%n%n以后就可以用§b格雷科技§r的§3核聚变反应堆§r制造氡。
 
 # db 268
 #nomifactory.quest.db.268.title=The Third Tier Five Circuit
@@ -1742,7 +1742,7 @@ nomifactory.quest.db.296.desc=要获得§6基岩粉§r，你需要一直开采�
 #nomifactory.quest.db.297.title=Mana Infused Ingot
 nomifactory.quest.db.297.title=蕴魔秘银锭
 #nomifactory.quest.db.297.desc=Mixing §6Titanium§r with §6Mana Dust§r creates §6Mana Infused Metal Dust§r. This can be smelted into ingots in an §3Electric Blast Furnace§r equipped with §6Kanthal Coils§r or better.%n%nMana Infused Metal is the basis of §bThermal Expansion§r device casings, and is used for many advanced §aAugments§r.
-nomifactory.quest.db.297.desc=Mixing §6Titanium§r with §6Mana Dust§r creates §6Mana Infused Metal Dust§r. This can be smelted into ingots in an §3Electric Blast Furnace§r equipped with §6Kanthal Coils§r or better.%n%nMana Infused Metal is the basis of §bThermal Expansion§r device casings, and is used for many advanced §aAugments§r.
+nomifactory.quest.db.297.desc=将§6钛§r与§6元始魔力粉§r混合，可产生§6蕴魔秘银粉§r。这可以在配备有§6坎塔尔线圈§r或更好的§3电力高炉§r中熔炼成锭。%n%n蕴魔秘银是§b热力膨胀§r设备外壳的基础，并被用于许多高级§a增强§r组件。
 
 # db 298
 #nomifactory.quest.db.298.title=Mana Dust
@@ -1754,13 +1754,13 @@ nomifactory.quest.db.298.desc=拼接！%n%n§6元始魔力粉§r是一种重要�
 #nomifactory.quest.db.299.title=Thermal Device Casing
 nomifactory.quest.db.299.title=热力设备框架
 #nomifactory.quest.db.299.desc=This casing is the structure for §bThermal Expansion§r's devices, which are simpler machines.%n%n
-nomifactory.quest.db.299.desc=This casing is the structure for §bThermal Expansion§r's devices, which are simpler machines.%n%n
+nomifactory.quest.db.299.desc=这个外壳是§b热力膨胀§r较简单机器的设备的结构。
 
 # db 300
 #nomifactory.quest.db.300.title=Thermal Machine Frame
 nomifactory.quest.db.300.title=热力机器框架
 #nomifactory.quest.db.300.desc=§6Thermal Device Casings§r are upgradable to a §6Machine Frame§r with some §6Stainless Steel Plates§r.%n%nThese frames form the basis of §bThermal Expansion§r's more advanced machinery.
-nomifactory.quest.db.300.desc=§6Thermal Device Casings§r are upgradable to a §6Machine Frame§r with some §6Stainless Steel Plates§r.%n%nThese frames form the basis of §bThermal Expansion§r's more advanced machinery.
+nomifactory.quest.db.300.desc=§6热力设备外壳§r可升级为配有一些§6不锈钢板§r的§6机器框架§r。%n%n这些框架构成了§b热力膨胀§r更先进机器的基础。
 
 # db 301
 #nomifactory.quest.db.301.title=Cryotheum
@@ -1820,7 +1820,7 @@ nomifactory.quest.db.309.desc=如果你不喜欢搜寻热力元素，或者因�
 #nomifactory.quest.db.310.title=Phytogenic Insolator
 nomifactory.quest.db.310.title=有机灌注器
 #nomifactory.quest.db.310.desc=Praise the sun. \[T]/%n%nThis machine uses various tiers of §6Phyto-Gro§r and §9Water§r to grow plants.%n%nIt can be customized with various §aAugments§r.
-nomifactory.quest.db.310.desc=Praise the sun. \[T]/%n%nThis machine uses various tiers of §6Phyto-Gro§r and §9Water§r to grow plants.%n%nIt can be customized with various §aAugments§r.
+nomifactory.quest.db.310.desc=赞美太阳。\[T]/%n%n这台机器使用不同级别的§6光合堆肥§r和§9水§r来生长植物。%n%n它可以用各种§a增强§r进行定制。
 
 # db 311
 #nomifactory.quest.db.311.title=Tungstensteel Coil Blocks
@@ -1988,13 +1988,13 @@ nomifactory.quest.db.338.desc=§2你可以像LV和MV电池一样制造HV电池�
 #nomifactory.quest.db.339.title=§2EV Machine Hulls
 nomifactory.quest.db.339.title=§2EV机械方块
 #nomifactory.quest.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%n§2Starting at EV, 4A Energy and Dynamo hatches are available at each tier.
-nomifactory.quest.db.339.desc=With §6Titanium§r smelting automated, you can now build Machine Hulls for Extreme Voltage machines.%n%n§2Starting at EV, 4A Energy and Dynamo hatches are available at each tier.
+nomifactory.quest.db.339.desc=随着§6钛§r熔炼的自动化，你现在可以为超高压机器制作机械方块。%n%n§2从EV开始，每级都有4A能源仓和动力仓。
 
 # db 340
 #nomifactory.quest.db.340.title=§2EV Power Storage
 nomifactory.quest.db.340.title=§2EV能量存储
 #nomifactory.quest.db.340.desc=An Extreme Voltage tier §bGregTech§r battery.%n%n§3§2Higher tier GT Batteries have been buffed to be quite strong - this one holds 25 MEU, or 100 MRF. You may want to consider using them over RF storage.
-nomifactory.quest.db.340.desc=An Extreme Voltage tier §bGregTech§r battery.%n%n§3§2Higher tier GT Batteries have been buffed to be quite strong - this one holds 25 MEU, or 100 MRF. You may want to consider using them over RF storage.
+nomifactory.quest.db.340.desc=一个超高压级别的§b格雷科技§r电池。%n%n§2较高等级的格雷科技电池已被增强，变得相当强大 - 这个可以容纳25,000,000EU，或者100,000,000RF。你可能要考虑在RF存储上使用它们。
 
 # db 341
 #nomifactory.quest.db.341.title=§2IV Power Storage
@@ -2192,7 +2192,7 @@ nomifactory.quest.db.389.desc=这是最大的拓展工作台，能够处理9x9�
 #nomifactory.quest.db.390.title=Energetic Infuser
 nomifactory.quest.db.390.title=能量灌注机
 #nomifactory.quest.db.390.desc=Infuses things with Redstone Flux.%n%nThis is useful for charging RF-powered devices, but it also can also charge §6Rich Phyto-Gro§r into §6Fluxed Phyto-Gro§r, and charge §6Activated Certus Quartz Crystals§r into §6Charged Certus Quartz Crystals§r.
-nomifactory.quest.db.390.desc=Infuses things with Redstone Flux.%n%nThis is useful for charging RF-powered devices, but it also can also charge §6Rich Phyto-Gro§r into §6Fluxed Phyto-Gro§r, and charge §6Activated Certus Quartz Crystals§r into §6Charged Certus Quartz Crystals§r.
+nomifactory.quest.db.390.desc=为东西注入红石通量。%n%n这对充能RF驱动的设备很有用，但它也可以将§6富集光合堆肥§r充能到§6充能光合堆肥§r，并将§6赛特斯石英水晶§r充能到§6充能赛特斯石英水晶§r。
 
 # db 391
 #nomifactory.quest.db.391.title=Craftable Nether Stars
@@ -2408,7 +2408,7 @@ nomifactory.quest.db.499.desc=Now that you have a §3Wiremill§r, you can turn o
 #nomifactory.quest.db.500.title=§2The Third And Final Tier Three Circuits
 nomifactory.quest.db.500.title=§2第四种也是最后一种三阶电路
 #nomifactory.quest.db.500.desc=With your new§2 Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
-nomifactory.quest.db.500.desc=With your new§2 Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6Advanced System-on-Chip§r variant recipes won't be available for a while.
+nomifactory.quest.db.500.desc=用你的新型§2环氧树脂电路板§r、§6纳米CPU§r和一些标准元件，你可以制作最后一种三阶电路。: §6纳米电路§r。%n%作为三阶电路的最佳形式，这些应该是自动化的，并储存起来。与最后一种二阶电路一样，§6先进片上系统§r的变体配方暂时不会出现。
 
 # db 501
 #nomifactory.quest.db.501.title=Exotic Materials Catalyst
@@ -2534,7 +2534,7 @@ nomifactory.quest.db.525.desc=Nothing you haven't seen here: just combine some s
 #nomifactory.quest.db.526.title=§2EV Circuit Assembling Machine
 nomifactory.quest.db.526.title=§2EV电路组装机
 #nomifactory.quest.db.526.desc=With your §6Titanium§r-based machine hulls and §6Mainframes§r squared away, you can finally get on the path to making an Extreme Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Nanocircuits§r, as well as handling crafting recipes up to 2048 EU/t. It can also optionally overclock recipes that consume up to 512 EU/t for improved speed at the cost of relatively more power.
-nomifactory.quest.db.526.desc=With your §6Titanium§r-based machine hulls and §6Mainframes§r squared away, you can finally get on the path to making an Extreme Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Nanocircuits§r, as well as handling crafting recipes up to 2048 EU/t. It can also optionally overclock recipes that consume up to 512 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.526.desc=有了基于§6钛§r的机械方块和§6电脑主机§r，你终于可以走上制作超高压§3电路组装机§r的道路了。%n%n这个级别的电路组装机可以解锁§6纳米电路§r，以及处理高达2048EU/t的制作配方。它还可以选择超频配方，该配方消耗高达512EU/t的能量，以提高速度，代价是相对更大的功率。
 
 # db 527
 #nomifactory.quest.db.527.title=Lumium
@@ -2570,7 +2570,7 @@ nomifactory.quest.db.531.desc=Now you can craft the §6Quantum Processor Mainfra
 #nomifactory.quest.db.532.title=§2HV Circuit Assembling Machine
 nomifactory.quest.db.532.title=§2HV电路组装机
 #nomifactory.quest.db.532.desc=The §3HV Circuit Assembling Machine§r unlocks §2the Mainframe§r, as well as handling crafting recipes that consume up to 512 EU/t.%n%nIt can also optionally overclock recipes up to 128 EU/t, gaining additional speed for relatively more power.
-nomifactory.quest.db.532.desc=The §3HV Circuit Assembling Machine§r unlocks §2the Mainframe§r, as well as handling crafting recipes that consume up to 512 EU/t.%n%nIt can also optionally overclock recipes up to 128 EU/t, gaining additional speed for relatively more power.
+nomifactory.quest.db.532.desc=§3HV电路组装机§r可以解锁§2电脑主机§r，也可以处理消耗512EU/t的制作配方。%n%n它还可以选择超频配方，最高可达128EU/t，以相对更多的功率获得额外的速度。
 
 # db 533
 #nomifactory.quest.db.533.title=§2ZPM Circuit Assembling Machine
@@ -2698,7 +2698,7 @@ nomifactory.quest.db.554.desc=甚至更好的飞行。%n%n你有很长一段时�
 #nomifactory.quest.db.555.title=Fluxed Phyto-Gro
 nomifactory.quest.db.555.title=充能光合堆肥
 #nomifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by infusing it with Redstone Flux in the §3Energetic Infuser§r.
-nomifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by infusing it with Redstone Flux in the §3Energetic Infuser§r.
+nomifactory.quest.db.555.desc=通过在§3能量灌注机§r中注入红石通量，可以进一步增强§6富集光合堆肥§r。
 
 # db 556
 #nomifactory.quest.db.556.title=Bounties For Omnicoins!
@@ -3318,7 +3318,7 @@ nomifactory.quest.db.744.desc=Not glowing.%n%nThis one takes a significant amoun
 #nomifactory.quest.db.745.title=Compactor
 nomifactory.quest.db.745.title=压缩机
 #nomifactory.quest.db.745.desc=A very power-efficient, if slow before upgrades, means of creating plates. Also the only way to directly make plates from single gems.%n%nUpgrading the machine tier with §aUpgrade Kits§r and applying §aAugments§r to boost its crafting speed is a good idea.
-nomifactory.quest.db.745.desc=A very power-efficient, if slow before upgrades, means of creating plates. Also the only way to directly make plates from single gems.%n%nUpgrading the machine tier with §aUpgrade Kits§r and applying §aAugments§r to boost its crafting speed is a good idea.
+nomifactory.quest.db.745.desc=如果在升级前速度较慢，但是一种非常节能的制作板的方法。也是直接用单个宝石制作成板的唯一方法。%n%n用§a升级套件§r升级机器等级，并应用到§a增强§r来提高其制作速度是一个好主意。
 
 # db 746
 #nomifactory.quest.db.746.title=Dark Steel Enchanter
@@ -3330,7 +3330,7 @@ nomifactory.quest.db.746.desc=原版的附魔机制实在是太乏味了。你�
 #nomifactory.quest.db.747.title=Gearworking Die
 nomifactory.quest.db.747.title=齿轮工作模具
 #nomifactory.quest.db.747.desc=A §3Compactor§r§r§r specialized to a §aGear Press§r is a very power efficient way to make gears. It is slower than its overclocking GTCE counterparts, but is required for some gears, most notably the crystal and gemstone ones.%n%nLike all §aAugments§r, the Gear Press specialization takes up an upgrade slot, but you can still use the rest of the slots for other ones like speed upgrades.
-nomifactory.quest.db.747.desc=A §3Compactor§r§r§r specialized to a §aGear Press§r is a very power efficient way to make gears. It is slower than its overclocking GTCE counterparts, but is required for some gears, most notably the crystal and gemstone ones.%n%nLike all §aAugments§r, the Gear Press specialization takes up an upgrade slot, but you can still use the rest of the slots for other ones like speed upgrades.
+nomifactory.quest.db.747.desc=一个专门用于§a齿轮工作模具§r的§3压缩机§r是一个非常有效的制造齿轮的方法。它比其超频的格雷科技非官方版同行要慢，但对一些齿轮来说是必需的，最明显的是水晶和宝石的齿轮。%n%n像所有的§a增强§r一样，齿轮工作模具的专门化占用了一个升级槽位，但你仍然可以将其余的槽用于其他的，如速度升级。
 
 # db 748
 #nomifactory.quest.db.748.title=§2Fusion Reactor MK2
@@ -3346,9 +3346,9 @@ nomifactory.quest.db.749.desc=A complex material from §bThermal Expansion§r co
 
 # db 750
 #nomifactory.quest.db.750.title=Infinitest Water
-nomifactory.quest.db.750.title=蓄水库
+nomifactory.quest.db.750.title=蓄水器
 #nomifactory.quest.db.750.desc=§3Aqueous Accumulators§r in §5Nomifactory§r are infinite water sources; they §l§ndo not§r require any water blocks nearby.%n%nThis machine can produce §9Water§r as fast as you can extract it (the only downside being that it makes some annoying noises).%n%nFriendship with §aEndervoirs§r ended.
-nomifactory.quest.db.750.desc=§3Aqueous Accumulators§r in §5Nomifactory§r are infinite water sources; they §l§ndo not§r require any water blocks nearby.%n%nThis machine can produce §9Water§r as fast as you can extract it (the only downside being that it makes some annoying noises).%n%nFriendship with §aEndervoirs§r ended.
+nomifactory.quest.db.750.desc=§3在§5全能工厂§r中的蓄水器§r是无限的水源；它们§l§n不§r需要附近有任何水方块。%n%n这台机器能以你提取水的最快速度生产§9水§r(唯一的缺点是它发出一些恼人的噪音)。%n%n与§a蓄水库§r的友谊结束。
 
 # db 751
 #nomifactory.quest.db.751.title=Boilers and Turbines
@@ -3610,7 +3610,7 @@ nomifactory.quest.db.793.desc=Hidden placeholder OR quest
 
 # db 794
 #nomifactory.quest.db.794.title=Advanced System-on-Chip
-nomifactory.quest.db.794.title=高级片上系统
+nomifactory.quest.db.794.title=先进片上系统
 #nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
 nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
 
@@ -3792,7 +3792,7 @@ nomifactory.quest.db.823.desc=§2小线圈的继承者，电感器是你需要�
 #nomifactory.quest.db.824.title=§2Polytetrafluoroethylene
 nomifactory.quest.db.824.title=§2聚四氟乙烯
 #nomifactory.quest.db.824.desc=§2Polytetrafluoroethylene (PTFE, or Teflon) is a polymer made from Carbon and Fluorine.%n%nThis polymer is most importantly used to make Large Chemical Reactors. It's also required for IV and LuV Machine Hulls, and can be substituted in some cases for higher yields.
-nomifactory.quest.db.824.desc=§2Polytetrafluoroethylene (PTFE, or Teflon) is a polymer made from Carbon and Fluorine.%n%nThis polymer is most importantly used to make Large Chemical Reactors. It's also required for IV and LuV Machine Hulls, and can be substituted in some cases for higher yields.
+nomifactory.quest.db.824.desc=§2聚四氟乙烯(PTFE，或特氟隆)是一种由碳和氟制成的聚合物。%n%n这种聚合物最重要的是用于制造大型化学反应釜。它也是IV和LuV机械方块所需要的，在某些情况下可以替代以获得更高的产量。
 
 # db 825
 #nomifactory.quest.db.825.title=§2Large Chemical Reactor
@@ -3870,7 +3870,7 @@ nomifactory.quest.db.836.desc=§2一点点钒钢是用来推进发展的。它�
 #nomifactory.quest.db.837.title=§2Systems on Chip
 nomifactory.quest.db.837.title=§2片上系统
 #nomifactory.quest.db.837.desc=§2Systems on Chip can be engraved with HV power and Glowstone Boules. This unlocks the ultimate tier one circuit recipe in the EV Circuit Assembler.%n%nThe ultimate tier two circuit recipe requires an IV Circuit Assembler.
-nomifactory.quest.db.837.desc=§2Systems on Chip can be engraved with HV power and Glowstone Boules. This unlocks the ultimate tier one circuit recipe in the EV Circuit Assembler.%n%nThe ultimate tier two circuit recipe requires an IV Circuit Assembler.
+nomifactory.quest.db.837.desc=§2片上系统可以用HV能量和荧石掺杂的晶片进行雕刻。这可以解锁EV电路组装机中的最终的一阶电路配方。%n%n最终的二阶电路配方需要一个IV电路组装机。
 
 # db 838
 #nomifactory.quest.db.838.title=§2Crystal Growing
@@ -3982,9 +3982,9 @@ nomifactory.quest.db.855.desc=§2For making Wetware Circuits more easily. You ne
 
 # db 856
 #nomifactory.quest.db.856.title=§2Advanced Alloys
-nomifactory.quest.db.856.title=§2高级合金
+nomifactory.quest.db.856.title=§2先进合金
 #nomifactory.quest.db.856.desc=§2Used in building the Alloy Blast Smelter. %n%n§r§6Tantalum§r is obtained from §6Tantalite Ore§r, or in small quantities from centrifuging §eLava§r.%n%n§6Molybdenum§r is obtained from §6Molybdenum, Molybdenite, Powellite, and Wulfenite ores§r. They spawn together in the §eNether§r rarely, or some of them come from §3Tier One§r and §3Five Micro Miners§r.%n%n§2Remember, you need an appropriately tiered Mixer (HV for HSLA Steel, and EV for the others).
-nomifactory.quest.db.856.desc=§2Used in building the Alloy Blast Smelter. %n%n§r§6Tantalum§r is obtained from §6Tantalite Ore§r, or in small quantities from centrifuging §eLava§r.%n%n§6Molybdenum§r is obtained from §6Molybdenum, Molybdenite, Powellite, and Wulfenite ores§r. They spawn together in the §eNether§r rarely, or some of them come from §3Tier One§r and §3Five Micro Miners§r.%n%n§2Remember, you need an appropriately tiered Mixer (HV for HSLA Steel, and EV for the others).
+nomifactory.quest.db.856.desc=§2用于制作合金冶炼炉。%n%n§6钽§r是从§6钽铁矿§r中获得的，或从离心§e熔岩§r中获得少量的钽。%n%n§6钼§r从§6钼、辉钼矿、钼钙矿和钼铅矿矿石§r获得。它们很少在§e地狱§r中一起生成，或者其中一些来自§3一级§r和§3五级微型采掘机§r。%n%n§2请记住，你需要一个适当分级的搅拌机(HV用于HSLA钢，EV用于其他)。
 
 # db 857
 #nomifactory.quest.db.857.title=§2Alloy Blast Smelter
@@ -4236,7 +4236,7 @@ nomifactory.quest.db.897.desc=§2Required for staining Glass Lenses with Chemica
 #nomifactory.quest.db.898.title=§2Hydrofluoric Acid
 nomifactory.quest.db.898.title=§2氢氟酸
 #nomifactory.quest.db.898.desc=§2Hydrofluoric Acid is a dangerous acid made by mixing Hydrogen and Fluorine. It is used in the production of Polytetrafluoroethylene, and in Uranium and Naquadah processing.%n%nFluorine is best obtained from Topaz or Bastnasite Ore processing from their Microminer missions, or in small amounts from renewable Black Granite.
-nomifactory.quest.db.898.desc=§2Hydrofluoric Acid is a dangerous acid made by mixing Hydrogen and Fluorine. It is used in the production of Polytetrafluoroethylene, and in Uranium and Naquadah processing.%n%nFluorine is best obtained from Topaz or Bastnasite Ore processing from their Microminer missions, or in small amounts from renewable Black Granite.
+nomifactory.quest.db.898.desc=§2氢氟酸是一种由氢和氟混合而成的危险酸。它被用于生产聚四氟乙烯，以及铀和硅岩处理。%n%n氟最好从它们的微型采掘机任务中的黄玉或氟碳镧铈矿矿石处理中获得，或者从可再生的黑花岗岩中获得少量的氟。
 
 # db 899
 #nomifactory.quest.db.899.title=§2High-Octane Gasoline
