@@ -1400,7 +1400,7 @@ nomifactory.quest.db.234.desc=§6Barium§r is an element found in §6Barite§r, 
 #nomifactory.quest.db.235.title=§2Primal Mana
 nomifactory.quest.db.235.title=§2元始魔力
 #nomifactory.quest.db.235.desc=Melting §6Mana Dust§r in a §2Extractor§r produces §9Primal Mana§r, which is needed for smelting various alloys from §bThermal Expansion§r.
-nomifactory.quest.db.235.desc=Melting §6Mana Dust§r in a §2Extractor§r produces §9Primal Mana§r, which is needed for smelting various alloys from §bThermal Expansion§r.
+nomifactory.quest.db.235.desc=在§2提取机§r熔化§6元始魔力粉§r，产生§9元始魔力§r，这是熔炼§b热力膨胀§r的各种合金所需要的。
 
 # db 236
 #nomifactory.quest.db.236.title=§2Transistor
@@ -1748,7 +1748,7 @@ nomifactory.quest.db.297.desc=Mixing §6Titanium§r with §6Mana Dust§r creates
 #nomifactory.quest.db.298.title=Mana Dust
 nomifactory.quest.db.298.title=元始魔力粉
 #nomifactory.quest.db.298.desc=ASSEMBLE!%n%n§6Mana Dust§r is an important material. It is needed for a variety of materials related to §bThermal Expansion§r.
-nomifactory.quest.db.298.desc=ASSEMBLE!%n%n§6Mana Dust§r is an important material. It is needed for a variety of materials related to §bThermal Expansion§r.
+nomifactory.quest.db.298.desc=拼接！%n%n§6元始魔力粉§r是一种重要的材料。与§b热力膨胀§r有关的各种材料都需要它。
 
 # db 299
 #nomifactory.quest.db.299.title=Thermal Device Casing
@@ -1766,55 +1766,55 @@ nomifactory.quest.db.300.desc=§6Thermal Device Casings§r are upgradable to a �
 #nomifactory.quest.db.301.title=Cryotheum
 nomifactory.quest.db.301.title=凛冰粉
 #nomifactory.quest.db.301.desc=§6§6Redstone§r, a §6Snowball§r, and §6Blizz Powder§r creates §6Cryotheum Dust§r, a mixture imbued with potent elemental frost.
-nomifactory.quest.db.301.desc=§6§6Redstone§r, a §6Snowball§r, and §6Blizz Powder§r creates §6Cryotheum Dust§r, a mixture imbued with potent elemental frost.
+nomifactory.quest.db.301.desc=§6红石§r、§6雪球§r和§6暴雪粉§r创造了§6凛冰粉§r，这是一种充满强大冰霜元素的混合物。
 
 # db 302
 #nomifactory.quest.db.302.title=Aerotheum
 nomifactory.quest.db.302.title=空气粉
 #nomifactory.quest.db.302.desc=§6§6Redstone§r, §6Saltpeter§r, and §6Blitz Powder§r creates §6Aerotheum Dust§r, a mixture imbued with potent elemental air.
-nomifactory.quest.db.302.desc=§6§6Redstone§r, §6Saltpeter§r, and §6Blitz Powder§r creates §6Aerotheum Dust§r, a mixture imbued with potent elemental air.
+nomifactory.quest.db.302.desc=§6红石§r、§6硝石§r和§6狂风粉§r创造了§6空气粉§r，这是一种充满强大空气元素的混合物。
 
 # db 303
 #nomifactory.quest.db.303.title=Petrotheum
 nomifactory.quest.db.303.title=地岩粉
 #nomifactory.quest.db.303.desc=§6§6Redstone§r, §6Obsidian Dust§r, and §6Basalz Powder§r creates §6Petrotheum Dust§r, a mixture imbued with potent elemental earth.
-nomifactory.quest.db.303.desc=§6§6Redstone§r, §6Obsidian Dust§r, and §6Basalz Powder§r creates §6Petrotheum Dust§r, a mixture imbued with potent elemental earth.
+nomifactory.quest.db.303.desc=§6红石§r、§6黑曜石粉§r和§6岩石粉§r创造了§6地岩粉§r，这是一种充满强大土元素的混合物。
 
 # db 304
 #nomifactory.quest.db.304.title=Pyrotheum
 nomifactory.quest.db.304.title=炽焱粉
 #nomifactory.quest.db.304.desc=§6§6Redstone§r, §6Sulfur§r, and §6Blaze Powder§r creates §6Pyrotheum Dust§r, a mixture imbued with potent elemental flame.
-nomifactory.quest.db.304.desc=§6§6Redstone§r, §6Sulfur§r, and §6Blaze Powder§r creates §6Pyrotheum Dust§r, a mixture imbued with potent elemental flame.
+nomifactory.quest.db.304.desc=§6红石§r、§6硫§r和§6烈焰粉§r创造了§6炽焱粉§r，这是一种充满强大火元素的混合物。
 
 # db 305
 #nomifactory.quest.db.305.title=Blaze Powder
-#nomifactory.quest.db.305.title=烈焰粉
-nomifactory.quest.db.305.desc=Bits of a §6Blaze Rod§r. Using a §3Macerator§r doubles your yield.
-nomifactory.quest.db.305.desc=Bits of a §6Blaze Rod§r. Using a §3Macerator§r doubles your yield.
+nomifactory.quest.db.305.title=烈焰粉
+#nomifactory.quest.db.305.desc=Bits of a §6Blaze Rod§r. Using a §3Macerator§r doubles your yield.
+nomifactory.quest.db.305.desc=§6烈焰棒§r的碎片。使用§3研磨机§r可以使你的产量翻倍。
 
 # db 306
 #nomifactory.quest.db.306.title=Basalz Powder
 nomifactory.quest.db.306.title=岩石粉
 #nomifactory.quest.db.306.desc=Bits of a §6Basalz Rod§r. Using a §3Macerator§r doubles your yield.
-nomifactory.quest.db.306.desc=Bits of a §6Basalz Rod§r. Using a §3Macerator§r doubles your yield.
+nomifactory.quest.db.306.desc=§6岩石棒§r的碎片。使用§3研磨机§r可以使你的产量翻倍。
 
 # db 307
 #nomifactory.quest.db.307.title=Blitz Powder
 nomifactory.quest.db.307.title=狂风粉
 #nomifactory.quest.db.307.desc=Bits of a §6Blitz Rod§r. Using a §3Macerator§r doubles your yield.
-nomifactory.quest.db.307.desc=Bits of a §6Blitz Rod§r. Using a §3Macerator§r doubles your yield.
+nomifactory.quest.db.307.desc=§6狂风棒§r的碎片。使用§3研磨机§r可以使你的产量翻倍。
 
 # db 308
 #nomifactory.quest.db.308.title=Blizz Powder
 nomifactory.quest.db.308.title=暴雪粉
 #nomifactory.quest.db.308.desc=Bits of a §6Blizz Rod§r. Using a §3Macerator§r doubles your yield.
-nomifactory.quest.db.308.desc=Bits of a §6Blizz Rod§r. Using a §3Macerator§r doubles your yield.
+nomifactory.quest.db.308.desc=§6暴雪棒§r的碎片。使用§3研磨机§r可以使你的产量翻倍。
 
 # db 309
 #nomifactory.quest.db.309.title=Elemental Reduction Fluid
 nomifactory.quest.db.309.title=元素还原液
 #nomifactory.quest.db.309.desc=If you don't feel like searching for a Thermal Elemental, or can't because you're playing on Peaceful, you will need to make §eone§r batch of §9Elemental Reduction Fluid§r.%n%nThis will bootstrap being able to craft a §aThermal Elemental Model§r for DML, and you can get all of the rods from §6Thermal Elemental Pristine Matter§r going forward.
-nomifactory.quest.db.309.desc=If you don't feel like searching for a Thermal Elemental, or can't because you're playing on Peaceful, you will need to make §eone§r batch of §9Elemental Reduction Fluid§r.%n%nThis will bootstrap being able to craft a §aThermal Elemental Model§r for DML, and you can get all of the rods from §6Thermal Elemental Pristine Matter§r going forward.
+nomifactory.quest.db.309.desc=如果你不喜欢搜寻热力元素，或者因为你在和平模式中玩而不能搜寻，你将需要制作§e一§r批§9元素还原液§r。%n%n这将引导你能够为深度怪物学习制作一个§a热力元素数据模型§r，而你可以从§6热力元素原始物质§r中得到所有的棒，继续前进。
 
 # db 310
 #nomifactory.quest.db.310.title=Phytogenic Insolator
@@ -2198,7 +2198,7 @@ nomifactory.quest.db.390.desc=Infuses things with Redstone Flux.%n%nThis is usef
 #nomifactory.quest.db.391.title=Craftable Nether Stars
 nomifactory.quest.db.391.title=可合成的下界之星
 #nomifactory.quest.db.391.desc=ASSEMBLE... TOO!%n%nYeah you get to craft §6Nether Stars§r. Cool huh?%n%nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player's ability to farm Withers. §eCraft them, don't bother trying to farm them.
-nomifactory.quest.db.391.desc=ASSEMBLE... TOO!%n%nYeah you get to craft §6Nether Stars§r. Cool huh?%n%nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player's ability to farm Withers. §eCraft them, don't bother trying to farm them.
+nomifactory.quest.db.391.desc=拼接...也是！%n%n是的，你可以制作§6下界之星§r。很酷吧？%n%n在整个游戏过程中，下界之星的需求量远远超过了一个合理的玩家对击杀凋零的能力。§e制作它们，不要费力去击杀它们。
 
 # db 392
 #nomifactory.quest.db.392.title=UHV Circuit...s?
@@ -2726,7 +2726,7 @@ nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n
 
 # db 580
 #nomifactory.quest.db.580.title=§2Blast Furnaces Galore
-nomifactory.quest.db.580.title=§2更多高炉
+nomifactory.quest.db.580.title=§2众多高炉
 #nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
 nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials, §2and they also grant energy efficiency bonuses and speed bonuses to overclocking.§r%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
 
@@ -3378,7 +3378,7 @@ nomifactory.quest.db.754.desc=这个整合包有§b建筑小帮手§r。%n%n这�
 #nomifactory.quest.db.755.title=I Don't Like Chemistry
 nomifactory.quest.db.755.title=我不喜欢化学
 #nomifactory.quest.db.755.desc=...or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
-nomifactory.quest.db.755.desc=...or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
+nomifactory.quest.db.755.desc=...或者，好吧，你可能只是做一些探索，并杀死一个野生热力元素得到一个棒。%n%n用它来制作一个§a热力元素数据模型§r。其余的粉可以用原始物质制作。%n%n如果你不在和平模式中玩，就可以省去做一桶§9元素还原液§r。
 
 # db 756
 #nomifactory.quest.db.756.title=The End...?
