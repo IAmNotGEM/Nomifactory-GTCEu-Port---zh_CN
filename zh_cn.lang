@@ -3108,7 +3108,7 @@ nomifactory.quest.db.670.desc=钍是另一种基本的裂变材料，可以用�
 #nomifactory.quest.db.671.title=§2Nuclear Fuel Infrastructure
 nomifactory.quest.db.671.title=§2核燃料基础建设
 #nomifactory.quest.db.671.desc=Climbing the ladder of fissile materials will require some specific raw materials and machinery.%n%n§2Uraninite is the base resource you will need, which comes from Uraninite and Pitchblende Ore. You will need to react it with Fluorine and Hydrofluoric Acid in a Chemical Reactor to form Uranium Hexafluoride.%n%nThe Uranium Hexafluoride must then be separated into Depleted and Enriched Uranium Hexafluoride in a Centrifuge. The Depleted UF₆ will grant Uranium-238, while the Enriched UF₆ will grant Uranium-235.%n%n
-nomifactory.quest.db.671.desc=攀登裂变材料的阶级将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。
+nomifactory.quest.db.671.desc=攀登裂变材料的阶段将需要一些特定的原材料和机器。%n%n§2铀矿是你需要的基础资源，它来自于晶质铀矿矿石和沥青铀矿矿石。你将需要在化学反应釜中与氟和氢氟酸反应，形成六氟化铀。%n%n然后，六氟化铀必须在离心机中被分离成枯竭的和浓缩六氟化铀。枯竭的六氟化铀将提供铀-238，而浓缩六氟化铀将提供铀-235。
 
 # db 672
 #nomifactory.quest.db.672.title=Neptunium Fission
