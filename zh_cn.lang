@@ -1208,7 +1208,7 @@ nomifactory.quest.db.201.desc=§6Tungsten§r is a material that requires an §3E
 #nomifactory.quest.db.202.title=Apollo Program
 nomifactory.quest.db.202.title=阿波罗计划
 #nomifactory.quest.db.202.desc=This is one of the simpler rockets you can build. The specifics of the shape don't really matter, as long as the rocket engines are on the bottom and all the parts are added. It also needs to be inside the edges of the Launch Pad and not taller than the Structure Tower.%n%n§aIn order to progress this quest chain further, you'll first need to complete the Interdimensional Transport (either Dislocators or Telepad) questline and the Rocket Fuel questline, both of which are nearby on this quest tab.
-nomifactory.quest.db.202.desc=This is one of the simpler rockets you can build. The specifics of the shape don't really matter, as long as the rocket engines are on the bottom and all the parts are added. It also needs to be inside the edges of the Launch Pad and not taller than the Structure Tower.%n%n§aIn order to progress this quest chain further, you'll first need to complete the Interdimensional Transport (either Dislocators or Telepad) questline and the Rocket Fuel questline, both of which are nearby on this quest tab.
+nomifactory.quest.db.202.desc=这是你可以建造的较简单的火箭之一。形状的具体细节其实并不重要，只要火箭发动机在底部，所有的零件都加起来就可以了。它还需要在发射台的边缘之内，并且不比结构塔高。%n%n§a为了进一步推进这个任务链，你首先需要完成跨维度传送(传送符咒或传送台)任务线和火箭燃料任务线，这两个任务都在这个任务标签的附近。
 
 # db 203
 #nomifactory.quest.db.203.title=§2The Second Tier Three Circuits
@@ -1244,7 +1244,7 @@ nomifactory.quest.db.207.desc=将几种成分组合成一种催化剂。
 #nomifactory.quest.db.208.title=Launch Pad and Rocket Assembly Machine
 nomifactory.quest.db.208.title=“发射台”和“火箭组装机”
 #nomifactory.quest.db.208.desc=At some point you might consider venturing into space, like the Moon. While it's not at all required for the progression, you might find it valuable: to say the least, the Moon contains ore veins which are otherwise very rare to find in the Overworld. And for this, you'll need a rocket and a whole lot of preparations.%n%nBefore you can build the rocket itself, you'll need to create a launch pad. The §6Launch Pad§r blocks go in a 3x3 layout flat on the ground to form the platform.%n%nThe Structure Tower§r is formed from a column of §6Structure Tower§r blocks that holds your rocket upright. The first block goes adjacent to any side of the launch pad platform (on the same Y-level as the launch pad blocks).%n%nWith 6 Structure Tower blocks, you can only build a rocket 5 blocks high, since any higher would exceed the height of the tower. To build a taller rocket, you'll need to build a taller tower using more Structure Tower blocks.%n%nThe §3Rocket Assembling Machine§r needs to be placed next to the launch pad (not on it) 1 block higher than the platform, so that the bottom of the Rocket Assembler is flush with the top of the launch pad. It also needs to be supplied with RF power to function.%n%n
-nomifactory.quest.db.208.desc=At some point you might consider venturing into space, like the Moon. While it's not at all required for the progression, you might find it valuable: to say the least, the Moon contains ore veins which are otherwise very rare to find in the Overworld. And for this, you'll need a rocket and a whole lot of preparations.%n%nBefore you can build the rocket itself, you'll need to create a launch pad. The §6Launch Pad§r blocks go in a 3x3 layout flat on the ground to form the platform.%n%nThe Structure Tower§r is formed from a column of §6Structure Tower§r blocks that holds your rocket upright. The first block goes adjacent to any side of the launch pad platform (on the same Y-level as the launch pad blocks).%n%nWith 6 Structure Tower blocks, you can only build a rocket 5 blocks high, since any higher would exceed the height of the tower. To build a taller rocket, you'll need to build a taller tower using more Structure Tower blocks.%n%nThe §3Rocket Assembling Machine§r needs to be placed next to the launch pad (not on it) 1 block higher than the platform, so that the bottom of the Rocket Assembler is flush with the top of the launch pad. It also needs to be supplied with RF power to function.%n%n
+nomifactory.quest.db.208.desc=在某些时候，你可以考虑进入太空，比如月球。虽然这不是进展的必要条件，但你可能会发现它很有价值: 至少可以说，月球上有一些矿脉，而这些矿脉在地球上是非常罕见的。而为此，你需要一枚火箭和一大堆准备工作。%n%n在你建造火箭本身之前，你需要搭建一个发射台。§6发射台§r方块在地面上以3x3的平面布局形成平台。%n%n结构塔是由§6个结构塔§r方块组成的柱子，将你的火箭竖立起来。第一个方块与发射台平台的任何一侧相邻(与发射台块在同一Y水平面上)。%n%n使用6个结构塔方块，你只能建造一个5个方块高的火箭，因为再高就会超过塔的高度。为了建造更高的火箭，你需要使用更多的结构塔方块建造更高的塔。%n%n§3火箭组装机§r需要放在发射台旁边(而不是在上面)，比平台高一个方块，以便火箭组装机的底部与发射台的顶部平齐。它还需要提供RF能量才能运作。
 
 # db 209
 #nomifactory.quest.db.209.title=Advanced Extended Crafting Table
@@ -1262,13 +1262,13 @@ nomifactory.quest.db.210.desc=即使是简单的火箭也需要§6重板§r来�
 #nomifactory.quest.db.211.title=Flightplan To The Moon
 nomifactory.quest.db.211.title=月球飞行计划
 #nomifactory.quest.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eC§r but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
-nomifactory.quest.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eC§r but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
+nomifactory.quest.db.211.desc=你将需要这个来设置§a导航电脑的§r目的地为月球(露娜)。%n%n在你组装好的火箭中，按下火箭GUI热键(默认为§eC§r，但你可能需要重新绑定它)。点击写有“导航电脑”的小方块，就可以调出导航电脑的库存。然后，将空白芯片放入导航电脑。退出这个菜单(§eEsc§r或§eE§r)，回到火箭主图形界面。%n%n点击§c选择目的地§r按钮，选择月球，并点击选择按钮，将目的地分配给芯片。%n%n§e注意: 如果你想让你的火箭返回地球，你将需要在发射前以这种方式再次改变目的地为地球。
 
 # db 212
 #nomifactory.quest.db.212.title=Fuel Loading
 nomifactory.quest.db.212.title=燃料装载
 #nomifactory.quest.db.212.desc=The §3Fueling Station§r is how rockets get fuel.%n%nFirst, put together your Rocket, then §aScan§r and §cBuild§r the Rocket in the §3Rocket Assembling Machine§r to assemble it (which turns it into an entity). Next, with the §aLinker§r in your hand, right-click the Fueling Station then the Rocket Assembling Machine to link the Fueling Station to the constructed Rocket. %n%nYou'll get a confirmation message when you do it right, and a little line will appear between the Fueling Station and the rocket.%n%nNow just get §9Rocket Fuel§r into the Fueling Station and it will transfer to the Rocket automatically.%n
-nomifactory.quest.db.212.desc=The §3Fueling Station§r is how rockets get fuel.%n%nFirst, put together your Rocket, then §aScan§r and §cBuild§r the Rocket in the §3Rocket Assembling Machine§r to assemble it (which turns it into an entity). Next, with the §aLinker§r in your hand, right-click the Fueling Station then the Rocket Assembling Machine to link the Fueling Station to the constructed Rocket. %n%nYou'll get a confirmation message when you do it right, and a little line will appear between the Fueling Station and the rocket.%n%nNow just get §9Rocket Fuel§r into the Fueling Station and it will transfer to the Rocket automatically.%n
+nomifactory.quest.db.212.desc=§3燃油站§r是火箭获得燃料的方式。%n%n首先，把你的火箭组装起来，然后在§3火箭组装机§r中对火箭进行§a扫描§r和§c建造§r来组装它(把它变成一个实体)。接下来，用你手中的§a连接器§r，右击燃油站，然后单击火箭组装机，将燃油站与建造的火箭连接起来。%n%n当你做对了，你会得到一个确认信息，在燃油站和火箭之间会出现一条小线。%n%n现在只要把§9火箭燃料§r放入燃油站，它就会自动转移到火箭上。
 
 # db 213
 #nomifactory.quest.db.213.title=Staff of Traveling
@@ -1310,43 +1310,43 @@ nomifactory.quest.db.219.desc=在你的基地周围放置一些，你就可以�
 #nomifactory.quest.db.220.title=Rocket Fuel
 nomifactory.quest.db.220.title=火箭燃料
 #nomifactory.quest.db.220.desc=Mix §9Oxygen§r and §91,1-Dimethylhydrazine§r together to make §9Rocket Fuel§r.%n%nAwesome!%n%nWhen you have stable sourcing for Nitrogen and Oxygen, you can make and use §9Dinitrogen Tetroxide§r in the recipe instead of Oxygen. It doubles the efficiency of your Hydrazine when making Rocket Fuel.
-nomifactory.quest.db.220.desc=Mix §9Oxygen§r and §91,1-Dimethylhydrazine§r together to make §9Rocket Fuel§r.%n%nAwesome!%n%nWhen you have stable sourcing for Nitrogen and Oxygen, you can make and use §9Dinitrogen Tetroxide§r in the recipe instead of Oxygen. It doubles the efficiency of your Hydrazine when making Rocket Fuel.
+nomifactory.quest.db.220.desc=将§9氧§r和§91,1-二甲基肼§r混合在一起，制成§9火箭燃料§r。%n%n棒极了！%n%n当你有稳定的氮和氧来源时，你可以在配方中制作和使用§9四氧化二氮§r，而不是氧。在制造火箭燃料时，它能使你的1,1-二甲基肼的利用率提高一倍。
 
 # db 221
 #nomifactory.quest.db.221.title=1,1-Dimethylhydrazine
 nomifactory.quest.db.221.title=1,1-二甲基肼
 #nomifactory.quest.db.221.desc=§9Dimethylamine§r and §9Chloramine§r combine together into §91,1-Dimethylhydrazine§r.
-nomifactory.quest.db.221.desc=§9Dimethylamine§r and §9Chloramine§r combine together into §91,1-Dimethylhydrazine§r.
+nomifactory.quest.db.221.desc=§9二甲胺§r和§9氯胺§r一起结合成§91,1-二甲基肼§r。
 
 # db 222
 #nomifactory.quest.db.222.title=Dimethylamine
 nomifactory.quest.db.222.title=二甲胺
 #nomifactory.quest.db.222.desc=§9Methanol§r and §9Ammonia§r combine together to make §9Dimethylamine§r.%n%nI know you're expecting a Breaking Bad joke here, but I don't walt to go for such low hanging fruit.
-nomifactory.quest.db.222.desc=§9Methanol§r and §9Ammonia§r combine together to make §9Dimethylamine§r.%n%nI know you're expecting a Breaking Bad joke here, but I don't walt to go for such low hanging fruit.
+nomifactory.quest.db.222.desc=§9甲醇§r和§9氨§r结合在一起，制成§9二甲胺§r。%n%n我知道你在期待一个绝命毒师的笑话，但我不愿意去吃这种挂得很低的水果。
 
 # db 223
 #nomifactory.quest.db.223.title=Chloramine
 nomifactory.quest.db.223.title=氯胺
 #nomifactory.quest.db.223.desc=§9Hypochlorous Acid§r and §9Ammonia§r combine together to make §9Chloramine§r.
-nomifactory.quest.db.223.desc=§9Hypochlorous Acid§r and §9Ammonia§r combine together to make §9Chloramine§r.
+nomifactory.quest.db.223.desc=§9次氯酸§r和§9氨§r结合在一起，成为§9氯胺§r。
 
 # db 224
 #nomifactory.quest.db.224.title=Ammonia
 nomifactory.quest.db.224.title=氨
 #nomifactory.quest.db.224.desc=§9Hydrogen§r and §9Nitrogen§r combine together to make §9Ammonia§r.%n%nAn easy way to get Nitrogen is to centrifuge §9Air§r, which will require you to build an §3Air Collector§r. You could also electrolyze §6Saltpeter§r, distill §9Fermented Biomass§r in a §3Distillation Tower§r, or get huge amounts from a §3Cryogenic Air Distillation§r Tower§r.
-nomifactory.quest.db.224.desc=§9氢§r和§9氮§r结合在一起，形成§9氨§r。%n%nAn easy way to get Nitrogen is to centrifuge §9Air§r, which will require you to build an §3Air Collector§r. You could also electrolyze §6Saltpeter§r, distill §9Fermented Biomass§r in a §3Distillation Tower§r, or get huge amounts from a §3Cryogenic Air Distillation§r Tower§r.
+nomifactory.quest.db.224.desc=§9氢§r和§9氮§r结合在一起，形成§9氨§r。%n%n获得氮的一个简单方法是离心§9空气§r，这将需要你建造一个§3气体收集器§r。你还可以电解§6硝石§r，在§3蒸馏塔§r中蒸馏§9发酵过的生物质§r，或从§3低温空气蒸馏塔§r中大量获得。
 
 # db 225
 #nomifactory.quest.db.225.title=Methanol
 nomifactory.quest.db.225.title=甲醇
 #nomifactory.quest.db.225.desc=§9Oxygen§r, §9Hydrogen§r, and §6Carbon§r combine together in a §3Chemical Reactor§r to make §9Methanol§r.%n%nYou can also use a §3Distillation Tower§r to get Methanol from §9Wood Vinegar§r and §9Fermented Biomass§r.
-nomifactory.quest.db.225.desc=§9Oxygen§r, §9Hydrogen§r, and §6Carbon§r combine together in a §3Chemical Reactor§r to make §9Methanol§r.%n%nYou can also use a §3Distillation Tower§r to get Methanol from §9Wood Vinegar§r and §9Fermented Biomass§r.
+nomifactory.quest.db.225.desc=§9氧§r、§9氢§r和§9碳§r在化学反应釜中结合在一起，制成甲醇。%n%n你也可以使用§3蒸馏塔§r来从§9木醋酸§r和§9发酵过的生物质§r中获得甲醇。
 
 # db 226
 #nomifactory.quest.db.226.title=§2Hypochlorous Acid
 nomifactory.quest.db.226.title=§2次氯酸
 #nomifactory.quest.db.226.desc=§9Water§r and §9Chlorine§r can be combined to make §9Hypochlorous Acid§r. If you add §9Mercury§r to catalyze the reaction, the yield is much better.%n%n§ePlease note that Hypochlorous Acid and Hydrochloric Acid are different things.§r%n%nYou're already familiar with Chlorine production from your forays into Plastics, but a great source of Mercury is §2centrifuging§4 §6Redstone§r.
-nomifactory.quest.db.226.desc=§9Water§r and §9Chlorine§r can be combined to make §9Hypochlorous Acid§r. If you add §9Mercury§r to catalyze the reaction, the yield is much better.%n%n§ePlease note that Hypochlorous Acid and Hydrochloric Acid are different things.§r%n%nYou're already familiar with Chlorine production from your forays into Plastics, but a great source of Mercury is §2centrifuging§4 §6Redstone§r.
+nomifactory.quest.db.226.desc=§9水§r和§9氯§r可以组合成§9次氯酸§r。如果你加入§9汞§r来催化反应，产量会好很多。%n%n§e请注意，次氯酸和盐酸是不同的东西。§r%n%n你已经从你对塑料的探索中熟悉了氯的生产，但汞的一个重要来源是§2离心§6红石§r。
 
 # db 227
 #nomifactory.quest.db.227.title=MV Chemical Reactor
@@ -2458,7 +2458,7 @@ nomifactory.quest.db.509.desc=§b末影接口§r和§b热力§r的合金比普�
 #nomifactory.quest.db.510.title=Dew Of The Void
 nomifactory.quest.db.510.title=深渊露水
 #nomifactory.quest.db.510.desc=Mix together these two crushed gems along with §9Resonant Ender§r to make §9Dew of the Void§r, the fluid that will power §bEnderIO§r interdimensional teleportation.%n%nPlease note that Dew of the Void goes great with Doritos.
-nomifactory.quest.db.510.desc=将这两个粉碎的宝石与§9谐振末影珍珠§r混合在一起，制成§9深渊露水§r，这种流体将为§b末影接口§b的跨维度传送提供动力。%n%n请注意，深渊露水与多力多滋的搭配很不错。
+nomifactory.quest.db.510.desc=将这两个粉碎的宝石与§9谐振末影珍珠§r混合在一起，制成§9深渊露水§r，这种流体将为§b末影接口§b的跨维度传送提供动力。%n%n你得知道，深渊露水与多力多滋的搭配很不错。
 
 # db 511
 #nomifactory.quest.db.511.title=The Vat
