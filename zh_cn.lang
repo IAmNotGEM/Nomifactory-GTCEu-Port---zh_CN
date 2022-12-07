@@ -638,7 +638,7 @@ nomifactory.quest.db.98.desc=§6不锈钢§r将是你的HV的主要材料，就�
 #nomifactory.quest.db.99.title=§2Synthesizing Your First Omnium
 nomifactory.quest.db.99.title=§2合成你的第一个万象
 #nomifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r. §2Compared to the original pack, this requires 20 new elements.§r%n%nYou're gonna need to make at least 487 of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about all along!
-nomifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r. §2Compared to the original pack, this requires 20 new elements.§r%n%nYou're gonna need to make at least 487 of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about all along!
+nomifactory.quest.db.99.desc=有了你从一个微型宇宙中收获的§6稳定锿§r，你现在应该可以获得合成你的第一个§d万象尘埃§r所需的一切。§2与原整合包相比，这需要20个新元素。§r%n%n当你进入终局时，你至少需要制作487个这样的东西，所以要确保你的§e自动化为你提供了所有的原料库存§r。这就是终局标签中的那些任务一直以来的意义所在！
 
 # db 100
 #nomifactory.quest.db.100.title=Engineering Processor
@@ -1178,7 +1178,7 @@ nomifactory.quest.db.195.desc=FUSION!%n%nThis baby can do any fusion recipe, not
 #nomifactory.quest.db.196.title=§2Tritanium Ingot
 nomifactory.quest.db.196.title=§2三钛合金锭
 #nomifactory.quest.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
-nomifactory.quest.db.196.desc=§2Doesn't look exactly like Europium anymore.§r%n%nTo make §9Tritanium§r, you first need to make §9Duranium§r. This is done by fusing molten §9Gallium§r and §9Radon§r in a §3Fusion Reactor Mark 1§r or better.%n%nOnce you have Duranium, you can fuse Tritanium in a §3Fusion Reactor Mark 2§r using the Duranium and molten §9Titanium§r.%n%nIf you're having trouble figuring out the right item and fluid ratios for batching up these processes, consider plugging the relevant recipes into the §aCrafting Calculator§r.
+nomifactory.quest.db.196.desc=§2看起来不完全是铕的样子了。§r%n%n要制作§9三钛合金§r，你首先需要制作§9铿铀§r。这是由熔化的§9镓§r和§9氡§r在Mk1或更好的§3核聚变反应堆§r中融合完成。%n%n一旦你有了铿铀，你就可以用铿铀和熔化的§9钛§r在§3核聚变反应堆Mk2§r中熔化三钛合金。%n%n如果你在计算这些过程的正确物品和流体比例时遇到困难，可以考虑将相关配方插入§a合成计算器§r中。
 
 # db 197
 #nomifactory.quest.db.197.title=Tungstensteel
@@ -1430,7 +1430,7 @@ nomifactory.quest.db.239.desc=§6Chaos Shards§r are an endgame component for §
 #nomifactory.quest.db.240.title=Tier Nine Micro Miner
 nomifactory.quest.db.240.title=九阶微型采掘机
 #nomifactory.quest.db.240.desc=The Ninth Micro Miner.%n%nCombines §bStellar Creation Data§r into the §dUniverse Creation Data§r, which is a crucial component for the Tier Ten Micro Miner mission.%n%nThe alternate mission brings a decent quantity of §6Neutronium§r, but you have to bootstrap it with some Neutronium from the §3Fusion Reactor Mark 3§r anyway. It might be easier to just make all your Neutronium in the reactor, but it's up to you.
-nomifactory.quest.db.240.desc=The Ninth Micro Miner.%n%nCombines §bStellar Creation Data§r into the §dUniverse Creation Data§r, which is a crucial component for the Tier Ten Micro Miner mission.%n%nThe alternate mission brings a decent quantity of §6Neutronium§r, but you have to bootstrap it with some Neutronium from the §3Fusion Reactor Mark 3§r anyway. It might be easier to just make all your Neutronium in the reactor, but it's up to you.
+nomifactory.quest.db.240.desc=第九个微型采掘机。%n%n将§b恒星创造数据§r合并为§d宇宙创造数据§r，这是第十级微型采掘机任务的一个重要组成部分。%n%n替代任务带来了数量可观的§6中子素§r，但无论如何你必须用§3核裂变反应堆Mk3§r的一些中子来引导它。在反应堆中制造所有的中子可能会更容易，但这取决于你。
 
 # db 241
 #nomifactory.quest.db.241.title=§2Crystal Matrix Heavy Plating
@@ -1452,7 +1452,7 @@ nomifactory.quest.db.243.desc=
 
 # db 244
 #nomifactory.quest.db.244.title=Draconic Reactor Core
-nomifactory.quest.db.244.title=神龙反应堆核心
+nomifactory.quest.db.244.title=反应堆核心
 #nomifactory.quest.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§r, and §6Stabilized Einsteinium§r can be used in a Draconic Tier fusion crafting setup to create a §6Draconic Reactor Core§r.%n%nThis is an important component in the Tier Nine and Tier Ten Micro Miners, as well as some Endgame items.
 nomifactory.quest.db.244.desc=§6Awakened Draconium§r, §6Chaos Shards§r, and §6Stabilized Einsteinium§r can be used in a Draconic Tier fusion crafting setup to create a §6Draconic Reactor Core§r.%n%nThis is an important component in the Tier Nine and Tier Ten Micro Miners, as well as some Endgame items.
 
@@ -1496,19 +1496,19 @@ nomifactory.quest.db.251.desc=第四个微型微型采掘机。%n%n所有的四�
 #nomifactory.quest.db.252.title=§2Tier Five Micro Miner
 nomifactory.quest.db.252.title=§2五阶微型采掘机
 #nomifactory.quest.db.252.desc=The Fifth Micro Miner.%n%nThe only source of §6Naquadah §2Ore§r. Along with it, §2Sheldonite Ore§r (for §6PGS§r) and §2Kaemanite Ore§r (for §6Trinium§r).%n%nWhen provided with §6Stabilized Uranium§r, brings:%n§6§2* Uraninite Ore§6%n* Molybdenite Ore%n* Bastnasite Ore%n* Sphalerite Ore%n* Palladium Ore%n* Beryllium Ore%n* Monazite Ore%n§2* Osmiridium 80/20 Ore%n* Realgar Ore§6§r%n§6* Enderpearl Blocks%n* Boron Dust§r
-nomifactory.quest.db.252.desc=The Fifth Micro Miner.%n%nThe only source of §6Naquadah §2Ore§r. Along with it, §2Sheldonite Ore§r (for §6PGS§r) and §2Kaemanite Ore§r (for §6Trinium§r).%n%nWhen provided with §6Stabilized Uranium§r, brings:%n§6§2* Uraninite Ore§6%n* Molybdenite Ore%n* Bastnasite Ore%n* Sphalerite Ore%n* Palladium Ore%n* Beryllium Ore%n* Monazite Ore%n§2* Osmiridium 80/20 Ore%n* Realgar Ore§6§r%n§6* Enderpearl Blocks%n* Boron Dust§r
+nomifactory.quest.db.252.desc=第五个微型采掘机。%n%n§6硅岩§2矿石§r的唯一来源。此外，还包括§2希尔顿矿石§r(用于§6铂系处理§r)和§2凯特明矿石(用于§6三元金属§r)§r。%n%n当提供了§6稳定铀§r时，带来的是:%n§6§2* 晶质铀矿矿石§6%n* 辉钼矿矿石%n* 氟碳镧铈矿矿石%n* 闪锌矿矿石%n* 钯矿石%n* 铍矿石%n* 独居石矿石%n§2* 铱锇 80/20矿石%n* 雄黄矿石§6§r%n§6* 末影珍珠块%n* 硼粉
 
 # db 253
 #nomifactory.quest.db.253.title=Iridium
 nomifactory.quest.db.253.title=铱
 #nomifactory.quest.db.253.desc=§6Iridium§r is an advanced material used for Micro Miner plating, §6§rand for alloying with §6Osmium§r into §6Osmiridium§r.%n%n§6Iridium Ore§r is available renewably from the Tier Four and Tier Six micro miners.
-nomifactory.quest.db.253.desc=§6铱是一种先进的材料，用于微型采掘机甲板，并与§6锇§r合金为§6锇铱§r。%n%n§6铱矿§r可以从第四级和第六级的微型采掘机那里获得再生。
+nomifactory.quest.db.253.desc=§6铱§r是一种先进的材料，用于微型采掘机甲板，并与§6锇§r合金为§6锇铱§r。%n%n§6铱矿§r可以从第四级和第六级的微型采掘机那里获得再生。
 
 # db 254
 #nomifactory.quest.db.254.title=§2Tier Six Micro Miner
 nomifactory.quest.db.254.title=§2六阶微型采掘机
 #nomifactory.quest.db.254.desc=The Sixth Micro Miner.%n%nThe first decent source of §6Dragon Eggs§r and §6Stabilized Einsteinium§r.%n%nIs also useful for:%n§6§2* Uraninite Ore%n* Iridosmine 80/20 Ore%n* Osmiridium 80/20 Ore
-nomifactory.quest.db.254.desc=The Sixth Micro Miner.%n%nThe first decent source of §6Dragon Eggs§r and §6Stabilized Einsteinium§r.%n%nIs also useful for:%n§6§2* Uraninite Ore%n* Iridosmine 80/20 Ore%n* Osmiridium 80/20 Ore
+nomifactory.quest.db.254.desc=第六个微型采掘机。%n%n第一个像样的§6龙蛋§r和§6稳定锿§r来源。%n%n也适用于:%n§6§2* 晶质铀矿矿石%n* 铱锇 80/20矿石%n* 锇铱 80/20矿石
 
 # db 255
 #nomifactory.quest.db.255.title=Tungsten Carbide
@@ -1526,7 +1526,7 @@ nomifactory.quest.db.256.desc=The Seventh Micro Miner.%n%nThe source of §6Drago
 #nomifactory.quest.db.257.title=§2Draconium Heavy Plating
 nomifactory.quest.db.257.title=§2龙素重板
 #nomifactory.quest.db.257.desc=Heavy plating used exclusively for the Tier Seven Micro Miner. 
-nomifactory.quest.db.257.desc=Heavy plating used exclusively for the Tier Seven Micro Miner. 
+nomifactory.quest.db.257.desc=专门用于七级微型采掘机的重板。
 
 # db 258
 #nomifactory.quest.db.258.title=Awakened Draconium
@@ -1694,7 +1694,7 @@ nomifactory.quest.db.287.desc=Time to get fusing!%n%nThe §3Fusion Reactor§r is
 #nomifactory.quest.db.288.title=§2Draconium Ingots
 nomifactory.quest.db.288.title=§2龙素锭
 #nomifactory.quest.db.288.desc=You'll need at least §6Naquadah Coil Blocks§r in your blast furnace to smelt §6Draconium§r, as well as a healthy supply of §9Nitro Diesel §2or Gasoline§r to reach the immense heat it takes to liquefy.%n%nDraconium gets so hot that it requires the potent coolant §9Gelid Cryotheum§r to aid your §3Vacuum Freezer§r in turning it into usable ingots.%n%nThere are several ways to make Draconium: dust can be smelted into ingots, but you can also turn §6Ender Dragon Scales§r, which contain Draconium, directly into ingots. It uses a lot of§2 combustion fuel§r, but is the most efficient way to craft Draconium.%n%nYou've been stockpiling fuel, right?
-nomifactory.quest.db.288.desc=You'll need at least §6Naquadah Coil Blocks§r in your blast furnace to smelt §6Draconium§r, as well as a healthy supply of §9Nitro Diesel §2or Gasoline§r to reach the immense heat it takes to liquefy.%n%nDraconium gets so hot that it requires the potent coolant §9Gelid Cryotheum§r to aid your §3Vacuum Freezer§r in turning it into usable ingots.%n%nThere are several ways to make Draconium: dust can be smelted into ingots, but you can also turn §6Ender Dragon Scales§r, which contain Draconium, directly into ingots. It uses a lot of§2 combustion fuel§r, but is the most efficient way to craft Draconium.%n%nYou've been stockpiling fuel, right?
+nomifactory.quest.db.288.desc=你的电力高炉至少需要§6硅岩线圈方块§r，以熔炼§6龙素§r，以及强大的§9高十六烷值柴油§r或§2汽油§r供应，以达到液化所需的巨大热量。%n%n龙素变得如此之热，以至于需要有效的冷却剂§9极寒之凛冰§r来帮助你的§3真空冷冻机§r把它变成可用的锭。%n%n有几种制作龙素的方法: 粉可以被熔炼成锭，但你也可以把含有龙素的§6末影龙鳞片§r直接变成锭。它使用了大量的§2燃烧燃料§r，但却是制作龙素的最有效方法。%n%n你一直在储备燃料，对吗？
 
 # db 289
 #nomifactory.quest.db.289.title=§2Engraved Crystal Chip
@@ -1712,7 +1712,7 @@ nomifactory.quest.db.291.desc=§6晶体处理器§r是§6晶体电路§r的核�
 #nomifactory.quest.db.292.title=§2The Third Tier Six Circuits
 nomifactory.quest.db.292.title=§2第三种六阶电路
 #nomifactory.quest.db.292.desc=With some now-standard components you can upgrade a few §6Crystal Circuits§r into a §6Crystal Processor§r.
-nomifactory.quest.db.292.desc=With some now-standard components you can upgrade a few §6Crystal Circuits§r into a §6Crystal Processor§r.
+nomifactory.quest.db.292.desc=通过一些现在的标准组件，你可以将一些§6晶体电路§r升级为§6晶体处理器§r。
 
 # db 293
 #nomifactory.quest.db.293.title=Chaotic Cores
@@ -1728,7 +1728,7 @@ nomifactory.quest.db.294.desc=A gear forged from §6Empowered Restonia Crystal§
 
 # db 295
 #nomifactory.quest.db.295.title=Basic Fusion Injectors
-nomifactory.quest.db.295.title=基础聚合注入器
+nomifactory.quest.db.295.title=基础注入合成装置
 #nomifactory.quest.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.%n%nYes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
 nomifactory.quest.db.295.desc=§bDraconic Evolution§r features §eFusion Crafting§r, which requires a §6Fusion Crafting Core§r and up to ten injectors of the appropriate tier.%n%nYou'll need eight §6Basic Fusion Crafting Injectors§r to upgrade any additional injectors you make to Wyvern Tier.%n%nYes, that means you should plan to make more than eight. If you really want to plan ahead, make thirty-four of these.
 
@@ -1898,7 +1898,7 @@ nomifactory.quest.db.322.desc=A gear forged from §6Empowered Emeradic Crystal§
 #nomifactory.quest.db.323.title=Naquadah Ingots
 nomifactory.quest.db.323.title=硅岩锭
 #nomifactory.quest.db.323.desc=An otherworldly material exclusive to Microverses, §6Naquadah§r is an important material in the late game.%n%nIt can be alloyed and enriched to various forms, and is the eventual source of §6Neutronium§r in a §3Mark Three Fusion Reactor§r.
-nomifactory.quest.db.323.desc=An otherworldly material exclusive to Microverses, §6Naquadah§r is an important material in the late game.%n%nIt can be alloyed and enriched to various forms, and is the eventual source of §6Neutronium§r in a §3Mark Three Fusion Reactor§r.
+nomifactory.quest.db.323.desc=作为微型宇宙独有的另一个世界的材料，§6硅岩§r是游戏后期的一个重要材料。%n%n它可以被合金化和富集成各种形式，并且是§3核聚变反应堆Mk3§r中§6中子素§r的最终来源。
 
 # db 324
 #nomifactory.quest.db.324.title=Naquadah Coil Blocks
@@ -1926,19 +1926,19 @@ nomifactory.quest.db.328.desc=目前可以通过对§6锂云母矿石§r和§6�
 
 # db 329
 #nomifactory.quest.db.329.title=Wyvern Fusion Injectors
-nomifactory.quest.db.329.title=飞龙聚合注入器
+nomifactory.quest.db.329.title=飞龙注入合成装置
 #nomifactory.quest.db.329.desc=§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
 nomifactory.quest.db.329.desc=§6Basic Fusion Crafting Injectors§r can be upgraded to Wyvern Tier via fusion crafting.%n%nTechnically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these.
 
 # db 330
 #nomifactory.quest.db.330.title=Draconic Fusion Injectors
-nomifactory.quest.db.330.title=神龙聚合注入器
+nomifactory.quest.db.330.title=神龙注入合成装置
 #nomifactory.quest.db.330.desc=§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
 nomifactory.quest.db.330.desc=§6Draconic Fusion Crafting Injectors§r are the penultimate tier of injectors for fusion crafting.%n%nYou'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these.
 
 # db 331
 #nomifactory.quest.db.331.title=Chaotic Fusion Injectors
-nomifactory.quest.db.331.title=混沌聚合注入器
+nomifactory.quest.db.331.title=混沌注入合成装置
 #nomifactory.quest.db.331.desc=The highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dCreative Portable Tank§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
 nomifactory.quest.db.331.desc=The highest tier of fusion crafting injectors. You will need at least ten of these to reach the §dCreative Portable Tank§r.%n%nEach injector requires four ingots of §6Neutronium§r and four §6Chaos Shards§r, as well as two §6Crystal Matrix§r blocks.%n%nHope you've got those Tier Eight Micro Miners automated.
 
@@ -1946,31 +1946,31 @@ nomifactory.quest.db.331.desc=The highest tier of fusion crafting injectors. You
 #nomifactory.quest.db.332.title=§2The Fourth And Final Tier Six Circuits
 nomifactory.quest.db.332.title=§2第四种也是最后一种六阶电路
 #nomifactory.quest.db.332.desc=The final form of Tier Six circuits, and the final circuit theme.%n%nUsing your §2Neuro Processing Units§r, you can craft (grow?) these circuits in a ZPM or better §3Assembling Machine§r.%n%nThese are fairly slow to craft and you're going to need considerable quantities, so make sure you have a good parallelized infrastructure for keeping these stocked.
-nomifactory.quest.db.332.desc=The final form of Tier Six circuits, and the final circuit theme.%n%nUsing your §2Neuro Processing Units§r, you can craft (grow?) these circuits in a ZPM or better §3Assembling Machine§r.%n%nThese are fairly slow to craft and you're going to need considerable quantities, so make sure you have a good parallelized infrastructure for keeping these stocked.
+nomifactory.quest.db.332.desc=六阶电路的最终形式，以及最终的电路主题。%n%n使用你的§2神经处理单元§r，你可以在ZPM或更好的§3电路组装机§r中制作(培养？)这些电路。%n%n这些东西制作起来相当慢，而且你将需要相当多的数量，所以要确保你有一个良好的并行基础设施来保持这些库存。
 
 # db 333
 #nomifactory.quest.db.333.title=§2The Third and Final Tier Seven Circuits
 nomifactory.quest.db.333.title=§2第三种也是最后一种七阶电路
 #nomifactory.quest.db.333.desc=§6Wetware Processors§r are made in §2the ZPM+ Circuit Assembler still.
-nomifactory.quest.db.333.desc=§6Wetware Processors§r are made in §2the ZPM+ Circuit Assembler still.
+nomifactory.quest.db.333.desc=§6湿件处理器§r是在§2的ZPM+电路组装器中制作的。
 
 # db 334
 #nomifactory.quest.db.334.title=§2The Second And Final Tier Eight Circuits
 nomifactory.quest.db.334.title=§2第二种也是最后一种八阶电路
 #nomifactory.quest.db.334.desc=§6Wetware Supercomputers§r are made in an §3Assembly Line§r at ZPM or better power.%n%nYou'll need §6Europium§r from the §3Fusion Reactor§r to craft these.
-nomifactory.quest.db.334.desc=§6Wetware Supercomputers§r are made in an §3Assembly Line§r at ZPM or better power.%n%nYou'll need §6Europium§r from the §3Fusion Reactor§r to craft these.
+nomifactory.quest.db.334.desc=§6湿件超级计算机§r是在§3装配线§r以ZPM或更好的能量制造的。%n%n你需要从§3核聚变反应堆§r获得§6铕§r来制作这些。
 
 # db 335
 #nomifactory.quest.db.335.title=§2The First And Only Tier Nine Circuit
-nomifactory.quest.db.335.title=§2第一种也是唯一一种九阶电路
+nomifactory.quest.db.335.title=§2第一种也是唯一的九阶电路
 #nomifactory.quest.db.335.desc=The final circuit!%n%nThe only novel ingredient is §6Tritanium Frames§r.%n%n§6Wetware Processor Mainframes§r are unique in that there are no subsquent circuit themes, and thus no other kinds of Tier Nine circuits. Unlike past mainframes, you will need to craft more than just a few of them. They're mostly used in the Endgame though, so you don't have to worry too much yet.%n%nDefinitely consider parallelizing your §3Assembly Lines§r if you haven't already. Even just having two or three lines will vastly improve your production speeds and help avoid bottlenecks as you push towards the Endgame.%n
-nomifactory.quest.db.335.desc=The final circuit!%n%nThe only novel ingredient is §6Tritanium Frames§r.%n%n§6Wetware Processor Mainframes§r are unique in that there are no subsquent circuit themes, and thus no other kinds of Tier Nine circuits. Unlike past mainframes, you will need to craft more than just a few of them. They're mostly used in the Endgame though, so you don't have to worry too much yet.%n%nDefinitely consider parallelizing your §3Assembly Lines§r if you haven't already. Even just having two or three lines will vastly improve your production speeds and help avoid bottlenecks as you push towards the Endgame.%n
+nomifactory.quest.db.335.desc=最后的电路！%n%n唯一的新成分是§6三钛合金框架§r。%n%n§6湿件处理器主机§r的独特之处在于，没有次要的电路主题，因此也没有其他种类的九阶电路。与过去的主机不同，你需要制作的不仅仅是几个主机。不过它们主要是在终局中使用，所以你还不用太担心。%n%n如果你还没有，一定要考虑将你的§3装配线§r并行化。即使只是拥有两到三条生产线，也会极大地提高你的生产速度，并有助于在你向终局推进时避免出现瓶颈。
 
 # db 336
 #nomifactory.quest.db.336.title=Draconium Dust
-nomifactory.quest.db.336.title=龙尘
+nomifactory.quest.db.336.title=龙素粉
 #nomifactory.quest.db.336.desc=Draconium is a complex material needed in vast quantities.%n%nYou'll likely have come by some dust while mining in the End, but you can also create it with §6Dragon's Breath§r and §6Manyullyn§r.
-nomifactory.quest.db.336.desc=Draconium is a complex material needed in vast quantities.%n%nYou'll likely have come by some dust while mining in the End, but you can also create it with §6Dragon's Breath§r and §6Manyullyn§r.
+nomifactory.quest.db.336.desc=龙素是一种需要大量的复杂材料。%n%n你很可能在末地采矿时遇到了一些粉，但你也可以用§6龙息§r和§6玛玉灵§r创造它。
 
 # db 337
 #nomifactory.quest.db.337.title=Draconic Cores
@@ -2282,13 +2282,13 @@ nomifactory.quest.db.405.desc=这个整合包有§a合成计算器§r。它有�
 #nomifactory.quest.db.406.title=Automating Extended Crafting
 nomifactory.quest.db.406.title=自动化拓展合成
 #nomifactory.quest.db.406.desc=Now that you have §6Osmium§r and §6Iridium§r from the §6Tier Four Micro Miner§r, you can begin automating §bExtended Crafting§r recipes. While it is possible to use §6Automation Interfaces§r for this task, you have access to something §nvastly§r better§r: §bPackagedExCrafting§r.%n%nTo begin, you'll need to craft one of each extended §3Package Crafter§r listed on the right. Put an §3Unpackager§r on top of each one, and then a §3Packager§r on top of each Unpackager. These are all AE2 devices, so you'll need to connect them to an ME Network.%n%nNext, right-click the §3Package Recipe Encoder§r, and you should see a button saying "Processing": this button cycles through recipe types, including the various Extended Crafting tables. You'll have to choose the appropriate table for the recipe you want to encode.%n%n§6Holders§r must be encoded in pairs: one for the Packager, and one for the Unpackager. Select the appropriate table for the recipe, look up the recipe you want to encode, and press §6[+]§r in §bJEI§r to fill it in. Put two Holders in the top-left slot and press Save to encode the recipe to both of them. Finally, put each Holder into the respective machines.%n%nIf you've done everything correctly, you should see the item appear as craftable in a Terminal.%n%nWhile it might seem that the crafting process is slow, §ePackagedAuto is excellent at parallelizing§r. You can surround an Unpackager with Crafters and it will use all of them. It's also possible to add more Unpackagers with Crafters to keep up with the Packager, as long as the Holders are all the same.%n%n
-nomifactory.quest.db.406.desc=现在你已经从§6四级微型采掘机§r中获得了§6锇§r和§6铱§r，你可以开始自动化§b拓展合成§r中的配方了。虽然有可能使用§6自动化接口§r来完成这项任务，但你有机会获得§n非常的§r更好的东西: §b封包合成拓展§r。%n%n首先，你需要制作右边列出的拓展§3封包合成器§r中的每一个。在每一个的上面放一个§3解包机§r，然后在每个解包机的上面放一个§3封包机§r。这些都是应用能源2的设备，所以你需要把它们连接到一个ME网络。%n%n接下来，右击§3封包配方编码器§r，你应该看到一个“处理”的按钮: 这个按钮可以循环查看配方类型，包括各种拓展配方表。你必须为你要编码的配方选择适当的表。%n%n§6配方包存储器§r必须成对编码: 一个用于封包机，一个用于解包机。选择相应的配方表，查找你要编码的配方，在§bJEI§r中按§6[+]§r来填入。在左上角的槽位中放入两个配方包存储器，并按下“保存”键将配方编码到这两个配方包存储器中。最后，将每个配方包存储器放入各自的机器中。%n%n如果你所做的一切都正确，你应该看到该物品在终端中显示为可合成。%n%n虽然看起来制作过程很慢，但§e封包合成在并行§r方面非常出色。你可以用合成器围住一个解包机，它将使用所有的合成器。只要配方包存储器都是一样的，也可以用合成器增加更多的解包机来跟上封包机的步伐。
+nomifactory.quest.db.406.desc=现在你已经从§6四级微型采掘机§r中获得了§6锇§r和§6铱§r，你可以开始自动化§b拓展合成§r中的配方了。虽然有可能使用§6自动化接口§r来完成这项任务，但你有机会获得§n非常§r更好的东西: §b封包合成拓展§r。%n%n首先，你需要制作右边列出的拓展§3封包合成器§r中的每一个。在每一个的上面放一个§3解包机§r，然后在每个解包机的上面放一个§3封包机§r。这些都是应用能源2的设备，所以你需要把它们连接到一个ME网络。%n%n接下来，右击§3封包配方编码器§r，你应该看到一个“处理”的按钮: 这个按钮可以循环查看配方类型，包括各种拓展配方表。你必须为你要编码的配方选择适当的表。%n%n§6配方包存储器§r必须成对编码: 一个用于封包机，一个用于解包机。选择相应的配方表，查找你要编码的配方，在§bJEI§r中按§6[+]§r来填入。在左上角的槽位中放入两个配方包存储器，并按下“保存”键将配方编码到这两个配方包存储器中。最后，将每个配方包存储器放入各自的机器中。%n%n如果你所做的一切都正确，你应该看到该物品在终端中显示为可合成。%n%n虽然看起来制作过程很慢，但§e封包合成在并行§r方面非常出色。你可以用合成器围住一个解包机，它将使用所有的合成器。只要配方包存储器都是一样的，也可以用合成器增加更多的解包机来跟上封包机的步伐。
 
 # db 407
 #nomifactory.quest.db.407.title=Medium Microverse Projector
 nomifactory.quest.db.407.title=中型微型宇宙投影仪
 #nomifactory.quest.db.407.desc=The §3Medium Microverse Projector§r is a more powerful projector required for sending §6Tier Four§r through §6Tier Six Micro Miners§r into microverses.%n%nInitial missions can operate on §eIV power§r, while §eLuV power§r is required for later missions. As with the prior projector, this structure supports overclocking and the position of buses and hatches can be swapped with any §6Microverse Projector Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
-nomifactory.quest.db.407.desc=The §3Medium Microverse Projector§r is a more powerful projector required for sending §6Tier Four§r through §6Tier Six Micro Miners§r into microverses.%n%nInitial missions can operate on §eIV power§r, while §eLuV power§r is required for later missions. As with the prior projector, this structure supports overclocking and the position of buses and hatches can be swapped with any §6Microverse Projector Casing§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
+nomifactory.quest.db.407.desc=§3中型微型宇宙投影仪§r是一种更强大的投影仪，用于将§6四级微型采掘机§r和§6六级微型采掘机§r投射到微型宇宙中。%n%n最初的任务可以在§eIV能量§r下运行，而以后的任务则需要§eLuV能量§r。与之前的投影仪一样，这种结构支持超频，总线和仓的位置可以与任何§6微型宇宙投影仪外壳§r进行互换。%n%n§6潜行右击§r控制器，以启用世界预览。
 
 # db 408
 #nomifactory.quest.db.408.title=PackagedAuto
@@ -2336,7 +2336,7 @@ nomifactory.quest.db.416.desc=鱼油，令人惊讶的是，它来自鱼类。
 #nomifactory.quest.db.417.title=Combination Package Crafter
 nomifactory.quest.db.417.title=组合封包合成器
 #nomifactory.quest.db.417.desc=A much more efficient version of the §3Empowerer§r.%n%nThis is a digital upgrade to the §3Crafting Core§r, allowing you to craft Empowerer recipes directly through §bPackagedAuto§r.%n%nThe §aMarked Pedestals§r can be placed freely within three blocks distance of the Crafting block, as long as they are on the same Y-level.%n%nAs usual with PackagedAuto crafters, you need to encode the recipe in the correct mode and place a copy in two places: a §3Packager§r somewhere on your network, and an §3Unpackager§r adjacent to the §3Combination Package Crafter§r.%n%nThese recipes require large amounts of RF and it §ewill not use power from your §aME Network§r, so you must also connect the package crafter directly to energy conduits.
-nomifactory.quest.db.417.desc=A much more efficient version of the §3Empowerer§r.%n%nThis is a digital upgrade to the §3Crafting Core§r, allowing you to craft Empowerer recipes directly through §bPackagedAuto§r.%n%nThe §aMarked Pedestals§r can be placed freely within three blocks distance of the Crafting block, as long as they are on the same Y-level.%n%nAs usual with PackagedAuto crafters, you need to encode the recipe in the correct mode and place a copy in two places: a §3Packager§r somewhere on your network, and an §3Unpackager§r adjacent to the §3Combination Package Crafter§r.%n%nThese recipes require large amounts of RF and it §ewill not use power from your §aME Network§r, so you must also connect the package crafter directly to energy conduits.
+nomifactory.quest.db.417.desc=一个更有效的§3充能台§r版本。%n%n这是对§3合成核心§r的数字化升级，允许你直接通过§b封包合成§r制作充能台配方。%n%n标记的基座可以在合成方块的三个方块距离内自由放置，只要它们在同一Y水平线上。%n%n像通常封包合成的合成器一样，你需要以正确的模式对配方进行编码，并在两个地方放置一份副本: 在你的网络上的某个地方有一个§3封包机§r，和一个邻近§3组合封包合成器§r的§3解包机§r。%n%n这些配方需要大量的RF，而且它不会使用你的§aME网络§r能量，所以你还必须将封包合成器直接连接到能量管道。
 
 # db 488
 #nomifactory.quest.db.488.title=Basic Satchel
@@ -2490,9 +2490,9 @@ nomifactory.quest.db.517.desc=§6机械臂§r是几个强大的机器的组成�
 
 # db 519
 #nomifactory.quest.db.519.title=Naquadah Reactor Mk1
-nomifactory.quest.db.519.title=硅岩反应堆Mk1
+nomifactory.quest.db.519.title=一类硅岩反应堆
 #nomifactory.quest.db.519.desc=The §3Naquadah Reactor Mk1§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
-nomifactory.quest.db.519.desc=The §3Naquadah Reactor Mk1§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
+nomifactory.quest.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用世界预览。
 
 # db 520
 #nomifactory.quest.db.520.title=The Second Tier Four Circuits
@@ -2576,7 +2576,7 @@ nomifactory.quest.db.532.desc=§3HV电路组装机§r可以解锁§2电脑主机
 #nomifactory.quest.db.533.title=§2ZPM Circuit Assembling Machine
 nomifactory.quest.db.533.title=§2ZPM电路组装机
 #nomifactory.quest.db.533.desc=With your §2Naquadah Alloy§r-based machine hulls and §6Crystal Processor Mainframes§r squared away, you can finally get on the path to making a ZPM §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Wetware Circuits§r, as well as handling crafting recipes up to 131072 EU/t. It can also optionally overclock recipes that consume up to 32768 EU/t for improved speed at the cost of relatively more power.
-nomifactory.quest.db.533.desc=With your §2Naquadah Alloy§r-based machine hulls and §6Crystal Processor Mainframes§r squared away, you can finally get on the path to making a ZPM §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Wetware Circuits§r, as well as handling crafting recipes up to 131072 EU/t. It can also optionally overclock recipes that consume up to 32768 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.533.desc=有了基于§2硅岩合金§r的机械方块和§6晶体处理器主机§r，你终于可以走上制造ZPM§3电路组装机§r的道路了。%n%n这个级别的电路组装机可以解锁§6湿件电路§r，以及处理高达131072EU/t的制作配方。它还可以选择性地对耗能高达32768EU/t的配方进行超频，以相对更多的电力为代价提高速度。
 
 # db 534
 #nomifactory.quest.db.534.title=§2The Second Tier Seven Circuits
@@ -2588,13 +2588,13 @@ nomifactory.quest.db.534.desc=使用§6末影§r，你可以组装一台§6晶�
 #nomifactory.quest.db.535.title=§2The First Tier Eight Circuits
 nomifactory.quest.db.535.title=§2第一种八阶电路
 #nomifactory.quest.db.535.desc=The §6Crystal Processor Mainframe§r is the first Tier Eight circuit.%n%nAlong with things you already know how to make, this needs §6HSS-E Frames§r.%n%nThese are required for crafting the §3ZPM Assembling Machine§r. As usual, these are extremely expensive: invest in the next theme of circuits instead of trying to mass-produce these.%n
-nomifactory.quest.db.535.desc=The §6Crystal Processor Mainframe§r is the first Tier Eight circuit.%n%nAlong with things you already know how to make, this needs §6HSS-E Frames§r.%n%nThese are required for crafting the §3ZPM Assembling Machine§r. As usual, these are extremely expensive: invest in the next theme of circuits instead of trying to mass-produce these.%n
+nomifactory.quest.db.535.desc=§6晶体电脑主机§r是第一种八阶电路。%n%n除了你已经知道如何制作的东西外，这需要§6高速钢-E框架§r。%n%n这些是制作§3ZPM电路组装机§r所需要的。像往常一样，这些都是非常昂贵的: 投入于下一个主题的电路，而不是试图大规模生产这些。
 
 # db 536
 #nomifactory.quest.db.536.title=§2ZPM Machine Hulls
 nomifactory.quest.db.536.title=§2ZPM机械方块
 #nomifactory.quest.db.536.desc=§6ZPM Machine Hulls§r are made with §2Naquadah Alloy Plates,§r but you'll notice they also need §2Polybenzimidazole§r.%n%nZPM stands for Zero Point Module.%n%nThis is the last tier of machine that's sensible to produce before you reach the §dCreative Tank§r. Multiblock hatches are a different matter: feel free to upgrade your §3EBF§rs to Ultimate Voltage, if you can handle the power drain.%n
-nomifactory.quest.db.536.desc=§6ZPM Machine Hulls§r are made with §2Naquadah Alloy Plates,§r but you'll notice they also need §2Polybenzimidazole§r.%n%nZPM stands for Zero Point Module.%n%nThis is the last tier of machine that's sensible to produce before you reach the §dCreative Tank§r. Multiblock hatches are a different matter: feel free to upgrade your §3EBF§rs to Ultimate Voltage, if you can handle the power drain.%n
+nomifactory.quest.db.536.desc=§6ZPM机械方块§r是用§2硅岩合金板§r制成的，但你会发现它们还需要§2聚苯并咪唑§r。%n%nZPM是指零点模块的意思。%n%n这是达到§d创造量子缸§r之前的合理生产的最后一级机器。多方块结构仓是另一个状况: 如果你能处理好能量消耗，请随时将你的§3电力高炉§rs升级到极限压。
 
 # db 537
 #nomifactory.quest.db.537.title=§2Sterilized Growth Medium
@@ -2840,9 +2840,9 @@ nomifactory.quest.db.607.desc=§6Neutronium§r is a hyper-dense material normall
 
 # db 608
 #nomifactory.quest.db.608.title=Superconductor Wire
-nomifactory.quest.db.608.title=超导导线
+nomifactory.quest.db.608.title=超导线材
 #nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether Star§r and freezing it solid results in a superconductive material capable of transmitting enormous amounts of energy.%n%nThese wires losslessly transmit "MAX" tier, which is effectively infinite transfer rate. This means they will work for any tier of power. 1x wires handle 4 amps, meaning 4x wires can handle 16 amps.%n%nThese can also be made into RF conduits that can transmit a whopping 134 Million RF/t.
-nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether Star§r and freezing it solid results in a superconductive material capable of transmitting enormous amounts of energy.%n%nThese wires losslessly transmit "MAX" tier, which is effectively infinite transfer rate. This means they will work for any tier of power. 1x wires handle 4 amps, meaning 4x wires can handle 16 amps.%n%nThese can also be made into RF conduits that can transmit a whopping 134 Million RF/t.
+nomifactory.quest.db.608.desc=用§9熔融下界之星§r涂抹在§6龙素导线§r，并将其冷冻成固体，从而得到一种能够传输大量能量的超导材料。%n%n这些线无损地传输“MAX”级别，这实际上是无限的传输速率。这意味着它们将适用于任何级别的能量。1x导线处理4A，这意味着4x导线可以处理16A。%n%n这些也可以被制成RF导管，可以传输高达134,217,728RF/t。
 
 # db 609
 #nomifactory.quest.db.609.title=Reinforced Upgrade Kit
@@ -3250,9 +3250,9 @@ nomifactory.quest.db.694.desc=这是我们生命中的飞行。
 
 # db 695
 #nomifactory.quest.db.695.title=Naquadah Reactor Mk2
-nomifactory.quest.db.695.title=硅岩反应堆Mk2
+nomifactory.quest.db.695.title=二类硅岩反应堆
 #nomifactory.quest.db.695.desc=The §3Naquadah Reactor Mk2§r is an upgraded reactor that can generate immense amounts of EU energy from the same types of fuels as the Mk1. The materials it requires are similar to the Mk1, and you can almost reuse the same structure. Make sure you are prepared for the UV power output by adding a §6UV Energy Output Hatch§r.%n%nThis is a pretty expensive structure though, as it needs blocks of §dOmnium§r. Maybe wait until after you get the §dCreative Tank§r?%n%n§6Sneak-right click§r the controller to enable the in-world preview.
-nomifactory.quest.db.695.desc=The §3Naquadah Reactor Mk2§r is an upgraded reactor that can generate immense amounts of EU energy from the same types of fuels as the Mk1. The materials it requires are similar to the Mk1, and you can almost reuse the same structure. Make sure you are prepared for the UV power output by adding a §6UV Energy Output Hatch§r.%n%nThis is a pretty expensive structure though, as it needs blocks of §dOmnium§r. Maybe wait until after you get the §dCreative Tank§r?%n%n§6Sneak-right click§r the controller to enable the in-world preview.
+nomifactory.quest.db.695.desc=§3二类硅岩反应堆§r是一个升级的反应堆，可以从与Mk1相同类型的燃料中产生巨大的EU能量。它所需要的材料与一类相似，而且你几乎可以重复使用相同的结构。通过添加§6UV能源仓§r，确保你为UV能量输出做好准备。%n%n但这是一个相当昂贵的结构，因为它需要§d万象§r方块。也许要等到你得到§d创造量子缸§r之后？%n%n§6潜行右击§r控制器，以启用世界预览。
 
 # db 726
 #nomifactory.quest.db.726.title=§2Ore Processing for Byproducts
@@ -3294,7 +3294,7 @@ nomifactory.quest.db.731.desc=§6硬碳合金§r是一种由§2钢§r和§6钻�
 #nomifactory.quest.db.732.title=Draconic Evolution Information Tablet
 nomifactory.quest.db.732.title=龙之进化信息板
 #nomifactory.quest.db.732.desc=The §aDraconic Evolution Information Tablet§r contains useful information about the mod as well as diagrams for valid Fusion Crafting block placement.%n%nYou might also be interested in the §oDraconic Evolution Fusion Core Automation§r guide linked to in §9#omnicompendium§r in the official §5Nomifactory§r Discord server.
-nomifactory.quest.db.732.desc=The §aDraconic Evolution Information Tablet§r contains useful information about the mod as well as diagrams for valid Fusion Crafting block placement.%n%nYou might also be interested in the §oDraconic Evolution Fusion Core Automation§r guide linked to in §9#omnicompendium§r in the official §5Nomifactory§r Discord server.
+nomifactory.quest.db.732.desc=§a龙之进化信息板§r包含了关于模组的有用信息，以及有效的聚合合成方块放置图解。%n%n你也可能对官方§5全能工厂§r的Discord服务器中§o龙之进化聚合核心自动化§r指南中链接的§9#omnicompendium§r感兴趣。
 
 # db 742
 #nomifactory.quest.db.742.title=Use JEI! Use JEI! USE. JEI.
@@ -3342,7 +3342,7 @@ nomifactory.quest.db.748.desc=Upgrade time! %n...or building a new one, which is
 #nomifactory.quest.db.749.title=§2Enderium Ingot
 nomifactory.quest.db.749.title=§2末影锭
 #nomifactory.quest.db.749.desc=A complex material from §bThermal Expansion§r cooked in an §3Electric Blast Furnace§r.%n%n§6Enderium§r doesn't require much power (running on as little as MV) but it does need a lot of heat and is incredibly slow without overclocking. §2You can use small amounts of Krypton from Liquid Ender Air distillation to significantly decrease the smelting time.§r%n%nAs with all later blast furnace materials, dedicate a furnace to keeping these in stock and have it running constantly to ensure a stable supply (turning it off when you have an acceptably vast stockpile).%n%nIn addition to its other uses, Enderium gets you access to §aResonant Upgrade Kits§r for machines and the §6Resonant Satchel§r. These quests can be found on the §eProgression§r tab.%n%n
-nomifactory.quest.db.749.desc=A complex material from §bThermal Expansion§r cooked in an §3Electric Blast Furnace§r.%n%n§6Enderium§r doesn't require much power (running on as little as MV) but it does need a lot of heat and is incredibly slow without overclocking. §2You can use small amounts of Krypton from Liquid Ender Air distillation to significantly decrease the smelting time.§r%n%nAs with all later blast furnace materials, dedicate a furnace to keeping these in stock and have it running constantly to ensure a stable supply (turning it off when you have an acceptably vast stockpile).%n%nIn addition to its other uses, Enderium gets you access to §aResonant Upgrade Kits§r for machines and the §6Resonant Satchel§r. These quests can be found on the §eProgression§r tab.%n%n
+nomifactory.quest.db.749.desc=一种来自§b热力膨胀§r在§3电力高炉§r中熔炼的复合材料。%n%n§6末影§r不需要太多的电力(运行时只需MV)，但它确实需要大量的热量，而且在不超频的情况下速度惊人。§2你可以使用液态末地空气蒸馏的少量氪，以显著减少熔炼时间。§r%n%n与所有后来的电力高炉材料一样，要用一个电力高炉来保持这些材料的库存，并让它不断运行，以确保稳定的供应(当你有一个可接受的大量库存时，就关闭它)。%n%n除了其他用途之外，末影还能让你获得用于机器的§a谐振升级套件§r和§6谐振背包§r。这些任务可以在§e当前进展§r标签上找到。
 
 # db 750
 #nomifactory.quest.db.750.title=Infinitest Water
@@ -3594,31 +3594,31 @@ nomifactory.quest.db.790.desc=§6处理阵列§r是一个§b格雷科技§r多�
 #nomifactory.quest.db.791.title=Dynamite
 nomifactory.quest.db.791.title=炸药
 #nomifactory.quest.db.791.desc=§6Dynamite§r is an explosive made from §9Glyceryl Trinitrate§r, which is itself made of §9Glycerol§r and §9Nitration Mixture§r. You can throw dynamite to blow things up, but it is primarily a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6TNT§r is another explosive that could be made instead of Dynamite. It's a stronger explosive so you need fewer TNT per recipe it's used in relative to dynamite, but it has its own unique processing chain.
-nomifactory.quest.db.791.desc=§6Dynamite§r is an explosive made from §9Glyceryl Trinitrate§r, which is itself made of §9Glycerol§r and §9Nitration Mixture§r. You can throw dynamite to blow things up, but it is primarily a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6TNT§r is another explosive that could be made instead of Dynamite. It's a stronger explosive so you need fewer TNT per recipe it's used in relative to dynamite, but it has its own unique processing chain.
+nomifactory.quest.db.791.desc=§6炸药§r是一种由§9硝化甘油§r制成，而硝化甘油本身是由§9丙三醇§r和§9硝酸混酸§r制成。你可以投掷炸药来炸毁东西，但它主要是一种制作材料，你可以在§3聚爆压缩机§r中使用。%n%n§6TNT§r是另一种可以替代炸药的爆炸物。它是一种更强的炸药，所以相对于炸药，它在每个配方中需要的TNT更少，但它有自己独特的处理链。
 
 # db 792
 #nomifactory.quest.db.792.title=TNT
 nomifactory.quest.db.792.title=TNT
 #nomifactory.quest.db.792.desc=§6TNT§r is an explosive made from §9Toluene§r, a distillation byproduct of §9Wood Tar§r or various §eSteam-Cracked Fuels§r. Besides its typical uses in Minecraft, it is a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6Dynamite§r is an alternative explosive for the Implosion Compressor, though you need relatively more of them per craft.
-nomifactory.quest.db.792.desc=§6TNT§r is an explosive made from §9Toluene§r, a distillation byproduct of §9Wood Tar§r or various §eSteam-Cracked Fuels§r. Besides its typical uses in Minecraft, it is a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6Dynamite§r is an alternative explosive for the Implosion Compressor, though you need relatively more of them per craft.
+nomifactory.quest.db.792.desc=§6TNT§r是一种炸药，由§9甲苯§r制成，是§9木焦油§r或各种§e蒸汽裂化燃料§r的蒸馏副产物。除了在我的世界中的典型用途外，它还是一种可以在§3聚爆压缩机§r中使用的制作材料。%n%n§6炸药§r是聚爆压缩机的替代炸药，尽管你每次制作需要的炸药相对较多。
 
 # db 793
 #nomifactory.quest.db.793.title=TNT or Dynamite
 nomifactory.quest.db.793.title=“TNT”或“炸药”
 #nomifactory.quest.db.793.desc=Hidden placeholder OR quest
-nomifactory.quest.db.793.desc=Hidden placeholder OR quest
+nomifactory.quest.db.793.desc=隐藏的占位符或任务
 
 # db 794
 #nomifactory.quest.db.794.title=Advanced System-on-Chip
 nomifactory.quest.db.794.title=高级片上系统
 #nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
-nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
+nomifactory.quest.db.794.desc=高级片上系统(或称§6ASoC§r)是§2倒数第二个§r组件的小型化。这些解锁了生产§2纳米电路§r和§6量子电路§r的最有效配方。%n%n后者的电路必须在§aZPM电路组装机§r中进行。
 
 # db 795
 #nomifactory.quest.db.795.title=Naquadah Boules
 nomifactory.quest.db.795.title=硅岩掺杂的单晶硅
 #nomifactory.quest.db.795.desc=The §6Naquadah-Doped Boule§r produces even more wafers per boule. It also is relatively cheap, due to the abundance of Naquadah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
-nomifactory.quest.db.795.desc=The §6Naquadah-Doped Boule§r produces even more wafers per boule. It also is relatively cheap, due to the abundance of Naquadah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
+nomifactory.quest.db.795.desc=§6硅岩掺杂的单晶硅§r每个生产的晶片甚至更多。它也相对便宜，因为从§e五阶微型采掘机§r获得大量的硅岩。%n%n这种单晶硅也允许生产§6高级片上系统§r晶片，用于制造电路的最终形式，非常便宜。然而，由于能量的要求，你可能还不能利用§6高级片上系统§r的优势。
 
 # db 796 (MISSING)
 #nomifactory.quest.db.796.title=System-on-Chip
@@ -3906,31 +3906,31 @@ nomifactory.quest.db.842.desc=§2There are 3 materials you will need from proces
 #nomifactory.quest.db.843.title=§2Trinium Coils
 nomifactory.quest.db.843.title=§2三元金属线圈
 #nomifactory.quest.db.843.desc=§2Trinium Coils§r are the eighth coil material available, increasing your EBF's operating temperature to 9001K so it can process more advanced materials.%n
-nomifactory.quest.db.843.desc=§2Trinium Coils§r are the eighth coil material available, increasing your EBF's operating temperature to 9001K so it can process more advanced materials.%n
+nomifactory.quest.db.843.desc=§2三元金属线圈§r是现有的第八种线圈材料，将你的电力高炉的工作温度提高到9001K，因此它可以处理更先进的材料。
 
 # db 844
 #nomifactory.quest.db.844.title=§2Enriched Naquadah
 nomifactory.quest.db.844.title=§2富集硅岩
 #nomifactory.quest.db.844.desc=§2A heavy Naquadah isotope with more nuclear capability.%n%n§r§6Enriched Naquadah§r is meant to be used in as-of-yet-unimplemented CEu-native reactors. It's used in small amounts for §3Trinium Coil blocks§r, or in Nomi reactors, though Naquadria is better for that purpose.%n%nAt least it's the easiest to obtain, and you can get it by mixing, the full Naquadah chain, or by passing Purified Naquadah Dust through an Electromagnetic Separator.
-nomifactory.quest.db.844.desc=§2A heavy Naquadah isotope with more nuclear capability.%n%n§r§6Enriched Naquadah§r is meant to be used in as-of-yet-unimplemented CEu-native reactors. It's used in small amounts for §3Trinium Coil blocks§r, or in Nomi reactors, though Naquadria is better for that purpose.%n%nAt least it's the easiest to obtain, and you can get it by mixing, the full Naquadah chain, or by passing Purified Naquadah Dust through an Electromagnetic Separator.
+nomifactory.quest.db.844.desc=§2一种具有更多核能力的重硅岩同位素。%n%n§6富集硅岩§r旨在用于尚未实施的社区版：非官方版-native反应器中。它被用于少量的§3三元金属线圈方块§r，或用于Nomi反应器，尽管超能硅岩更适合这一目的。%n%n至少它是最容易获得的，你可以通过混合，完整的硅岩链，或通过将洁净的硅岩粉通过电磁选矿机来获得它。
 
 # db 845
 #nomifactory.quest.db.845.title=§2Naquadria
 nomifactory.quest.db.845.title=§2超能硅岩
 #nomifactory.quest.db.845.desc=§2A lighter and unstable Naquadah isotope.%n%n§r§6Naquadria§o§r is used in the construction of §6UV components§r, the §3Fusion Reactor Mk2§r, and in fusing §6Neutronium§r. Each piece of Naquadria also makes §d4 times§r more power than §6Enriched Naquadah§r in §3Naquadah Reactors§r.
-nomifactory.quest.db.845.desc=§2A lighter and unstable Naquadah isotope.%n%n§r§6Naquadria§o§r is used in the construction of §6UV components§r, the §3Fusion Reactor Mk2§r, and in fusing §6Neutronium§r. Each piece of Naquadria also makes §d4 times§r more power than §6Enriched Naquadah§r in §3Naquadah Reactors§r.
+nomifactory.quest.db.845.desc=§2一种较轻且不稳定的硅岩同位素。%n%n§6超能硅岩§r被用于制造§6UV组件§r、§3核聚变反应堆Mk2§r，以及融化§6中子素§r。每一块超能硅岩的能量也是§3硅岩反应堆§r中§6富集硅岩§r的§d4倍§r。
 
 # db 846
 #nomifactory.quest.db.846.title=§2Trinium
 nomifactory.quest.db.846.title=§2三元金属
 #nomifactory.quest.db.846.desc=§2A strong heavy element obtained from the Naquadah chain.%n%n§r§6Trinium§r can come from §6Kaemanite Ore§r, but you will probably want to bolster its production with §6Naquadah Dust§r processing. It comes out at the second stage, so if you don't mind storing the intermediates and have Fluorine under control, you can hold off doing the full chain if you don't need to yet. You get §d1 Trinium per 6 Naquadah processed§r.%n%nThis will be required in large quantities for §6Trinium Coils§r, §6Superconducting Coil Blocks§r, §6Naquadah Alloy§r, among other things. You will need 14 stacks at least for a §3Fusion Reactor Mk1§r, so stock up on it.
-nomifactory.quest.db.846.desc=§2A strong heavy element obtained from the Naquadah chain.%n%n§r§6Trinium§r can come from §6Kaemanite Ore§r, but you will probably want to bolster its production with §6Naquadah Dust§r processing. It comes out at the second stage, so if you don't mind storing the intermediates and have Fluorine under control, you can hold off doing the full chain if you don't need to yet. You get §d1 Trinium per 6 Naquadah processed§r.%n%nThis will be required in large quantities for §6Trinium Coils§r, §6Superconducting Coil Blocks§r, §6Naquadah Alloy§r, among other things. You will need 14 stacks at least for a §3Fusion Reactor Mk1§r, so stock up on it.
+nomifactory.quest.db.846.desc=§2从硅岩链获得的一种强重元素。%n%n§6三元金属§r可以来自§6凯特明矿石§r，但你可能想用§6硅岩粉§r加工来提高其产量。它在第二阶段就出来了，所以如果你不介意储存中间产物并控制好氟，如果你还不需要，你可以暂不做全链。你可以每§d处理6个硅岩得到1个三元金属§r。%n%n这将需要大量用于 §6三元金属线圈§r、§6超导线圈方块§r、§6 硅岩合金§r以及其他事项。你将需要至少14组来建造一个§3核聚变反应堆Mk1§r，所以要囤积它。
 
 # db 847
 #nomifactory.quest.db.847.title=§2Naquadah Alloy
 nomifactory.quest.db.847.title=§2硅岩合金
 #nomifactory.quest.db.847.desc=§2Naquadah Alloy is different in CEu, it requires Naquadah, Osmiridium and Trinium.
-nomifactory.quest.db.847.desc=§2Naquadah Alloy is different in CEu, it requires Naquadah, Osmiridium and Trinium.
+nomifactory.quest.db.847.desc=§2硅岩合金在社区版：非官方版中不同，它需要硅岩、铱锇和三元金属。
 
 # db 848
 #nomifactory.quest.db.848.title=§2IV Assembling Machine
@@ -4278,7 +4278,7 @@ nomifactory.quest.db.904.desc=§2使用铀-238或更有效的铀-235来浓缩菌
 #nomifactory.quest.db.905.title=§2Large Circuit Assembler
 nomifactory.quest.db.905.title=§2大型电路组装机
 #nomifactory.quest.db.905.desc=§2Multiblock version of the Circuit Assembler. Can accept Parallel Control Hatches, and allows tiering it up more easily.
-nomifactory.quest.db.905.desc=§2Multiblock version of the Circuit Assembler. Can accept Parallel Control Hatches, and allows tiering it up more easily.
+nomifactory.quest.db.905.desc=§2电路组装机的多方块结构版本。可以接受并行控制仓，并允许更容易地将其分级。
 
 # db 906
 #nomifactory.quest.db.906.title=ZPM or Large Circuit Assembler
