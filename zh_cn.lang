@@ -766,9 +766,9 @@ nomifactory.quest.db.120.title=64k物品存储
 #nomifactory.quest.db.120.desc=The ultimate item storage component in §bApplied Energistics§r.%n%nUsed for storing really big amounts of things, like in a §664k ME Storage Cell§r.
 nomifactory.quest.db.120.desc=在§b应用能源2§r中的最终物品存储组件。%n%n用于存储真正大量的东西，如在§664k-ME存储元件§r内。
 
-# db 121
+# db 121 (MISSING)
 #nomifactory.quest.db.121.title=IV Compressor
-nomifactory.quest.db.121.title=IV压缩机
+nomifactory.quest.db.121.title=IV Compressor
 #nomifactory.quest.db.121.desc=This compressor is needed for making §6Signalum Heavy Plating§r.
 nomifactory.quest.db.121.desc=This compressor is needed for making §6Signalum Heavy Plating§r.
 
@@ -1024,9 +1024,9 @@ nomifactory.quest.db.168.title=柴油
 #nomifactory.quest.db.168.desc=§9Diesel§r is a mixture of §9Light Fuel§r and §9Heavy Fuel§r.%n%nThe primary use is for making §9Nitro Diesel§r, which you will want to stockpile in large quantities for the later production of §6Draconium§r §2(unless you use Gasoline instead).%n%nThe performance of Combustion Generators is also improved, but you probably want to refine Diesel anyway.%n%n§2It's more power efficient to use singleblock Distilleries over a Distillation Tower for Oil, due to the overclocking mechanics being different. For Diesel, the correct ratio is 3 Distilleries for Light Oil and 2 Distilleries for Heavy Oil.
 nomifactory.quest.db.168.desc=§9柴油§r是§9轻燃料§r和§9重燃料§r的混合物。%n%n主要用途是制造§9高十六烷值柴油§r，你会想大量囤积，以便以后生产§6龙素§2(除非你用汽油代替)。%n%n燃气轮机的性能也得到了改善，但无论如何，你可能想提炼柴油。%n%n§2由于超频机制的不同，使用蒸馏室比使用蒸馏塔处理石油更省电。对于柴油来说，正确的比例是3个轻油蒸馏室，2个重油蒸馏室。
 
-# db 169
+# db 169 (MISSING)
 #nomifactory.quest.db.169.title=Palladium
-nomifactory.quest.db.169.title=钯
+nomifactory.quest.db.169.title=Palladium
 #nomifactory.quest.db.169.desc=§6Palladium§r is found in §6Palladium Ore§r, which is found alongside §6Platinum Ore§r. If you haven't found a vein yet, you should buy some.%n%nPalladium is smelted in the §3Electric Blast Furnace§r. It takes a while but each ingot goes pretty far for what you'll need it for.
 nomifactory.quest.db.169.desc=§6Palladium§r is found in §6Palladium Ore§r, which is found alongside §6Platinum Ore§r. If you haven't found a vein yet, you should buy some.%n%nPalladium is smelted in the §3Electric Blast Furnace§r. It takes a while but each ingot goes pretty far for what you'll need it for.
 
@@ -1150,9 +1150,9 @@ nomifactory.quest.db.190.title=纳米CPU
 #nomifactory.quest.db.190.desc=§6Nano CPUs§r are advanced §6Circuit Wafers§r made from infusing a §6CPU Wafer§r with §6Carbon Fibers§r and §9Energized Glowstone§r in a §3Chemical Reactor§r.%n%nThen, cut the resulting wafer into dies using a §3Cutting Machine§r.
 nomifactory.quest.db.190.desc=§6纳米CPU§r是先进的§6电路晶圆§r，由§6CPU晶圆§r与§6碳纤维§r和§9充能液态荧石§r在§3化学反应釜§r中注入而成。%n%n然后，使用§3板材切割机§r将所得晶圆切割成芯片。
 
-# db 191
+# db 191 (MISSING)
 #nomifactory.quest.db.191.title=The Fourth And Final Tier Two Circuits
-nomifactory.quest.db.191.title=第四种也是最后一种二阶电路
+nomifactory.quest.db.191.title=The Fourth And Final Tier Two Circuits
 #nomifactory.quest.db.191.desc=Using your new §6Epoxy Circuit Boards§r and some familiar components, you can now make the final form of Tier Two Circuit: the §6Microcircuit§r.%n%nYou craft four of these at once, and they're pretty cheap. Consider that you used to have to make §6Primitive Processors§r for this tier, and realize how far you've come.%n%nAs with the final form of any tier of circuits, be sure to set up automation to stockpile these. You won't get to the §6System-on-Chip§r variant recipe for a while yet.
 nomifactory.quest.db.191.desc=Using your new §6Epoxy Circuit Boards§r and some familiar components, you can now make the final form of Tier Two Circuit: the §6Microcircuit§r.%n%nYou craft four of these at once, and they're pretty cheap. Consider that you used to have to make §6Primitive Processors§r for this tier, and realize how far you've come.%n%nAs with the final form of any tier of circuits, be sure to set up automation to stockpile these. You won't get to the §6System-on-Chip§r variant recipe for a while yet.
 
@@ -1170,9 +1170,9 @@ nomifactory.quest.db.194.desc=一种更先进的§6单晶硅§r类型，通过�
 
 # db 195
 #nomifactory.quest.db.195.title=§2Fusion Reactor MK3
-nomifactory.quest.db.195.title=§2裂变反应堆MK3
+nomifactory.quest.db.195.title=§2核聚变反应堆MK3
 #nomifactory.quest.db.195.desc=FUSION!%n%nThis baby can do any fusion recipe, notably giving you access to §6Neutronium§r.%n%nThe multiblock layout is the same as the Mark 1 and Mark 2, with the same hatch and casing substitutions permitted.%n%nObviously though, this one uses §6Fusion Machine Casing Mk §2III§r and only works with §aUV Energy Input Hatches§r.%n%nThe §3Mark 3 Fusion Reactor§r has an energy buffer of §e640M EU§r.
-nomifactory.quest.db.195.desc=FUSION!%n%nThis baby can do any fusion recipe, notably giving you access to §6Neutronium§r.%n%nThe multiblock layout is the same as the Mark 1 and Mark 2, with the same hatch and casing substitutions permitted.%n%nObviously though, this one uses §6Fusion Machine Casing Mk §2III§r and only works with §aUV Energy Input Hatches§r.%n%nThe §3Mark 3 Fusion Reactor§r has an energy buffer of §e640M EU§r.
+nomifactory.quest.db.195.desc=融合！%n%n这个宝贝可以做任何融合配方，特别是让你获得§6中子素§r。%n%n多方块结构布局与MK1和MK2相同，允许同样的仓和外壳替换。%n%n很明显，这个使用了§6聚变机械方块MK§2III§r，并且只运行于§aUV能源仓§r。%n%n§3核聚变反应堆Mk3§r有一个§e640,000,000EU§r的能量缓冲区。
 
 # db 196
 #nomifactory.quest.db.196.title=§2Tritanium Ingot
@@ -1184,7 +1184,7 @@ nomifactory.quest.db.196.desc=§2看起来不完全是铕的样子了。§r%n%n�
 #nomifactory.quest.db.197.title=Tungstensteel
 nomifactory.quest.db.197.title=钨钢
 #nomifactory.quest.db.197.desc=§6Tungstensteel§r is an alloy of §6Tungsten§r and §6Steel§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
-nomifactory.quest.db.197.desc=§6Tungstensteel§r is an alloy of §6Tungsten§r and §6Steel§r.%n%nThis alloy is cooked in an §3Electric Blast Furnace§r and cooled in a §3Vacuum Freezer§r.%n
+nomifactory.quest.db.197.desc=§6钨钢§r是一种由§6钨§r和§6钢§r组成的合金。%n%n这种合金在§3电力高炉§r中熔炼，并在§3真空冷冻机§r中冷却。
 
 # db 198
 #nomifactory.quest.db.198.title=§2IV Machine Hulls
@@ -1226,7 +1226,7 @@ nomifactory.quest.db.204.desc=为自己制作一套太空服是走向太空冒�
 #nomifactory.quest.db.205.title=Suit Workstation
 nomifactory.quest.db.205.title=太空服调节台
 #nomifactory.quest.db.205.desc=The Suit Workstation is needed to install §6Low Pressure Tanks§r (or a larger tank if you like) onto your Space Suit Chest-Piece.%n%nOnce installed, you can stand on a §aGas Charging Pad§r to fill up the tanks with §9Oxygen§r. Of course, you'll need to fill the Gas Charging Pad with Oxygen first.
-nomifactory.quest.db.205.desc=The Suit Workstation is needed to install §6Low Pressure Tanks§r (or a larger tank if you like) onto your Space Suit Chest-Piece.%n%nOnce installed, you can stand on a §aGas Charging Pad§r to fill up the tanks with §9Oxygen§r. Of course, you'll need to fill the Gas Charging Pad with Oxygen first.
+nomifactory.quest.db.205.desc=太空服调节台是用来安装§6低压槽§r(或一个更大的槽，如果你喜欢的话)到你的太空服胸前。%n%n一旦安装好，你可以站在一个§a气体装填台§r上，给槽加满§9氧§r。当然，你需要先在气体装填台中注入氧气。
 
 # db 206
 #nomifactory.quest.db.206.title=Advanced Component
@@ -1430,7 +1430,7 @@ nomifactory.quest.db.239.desc=§6混沌碎片是§b龙之进化§r的最终游�
 #nomifactory.quest.db.240.title=Tier Nine Micro Miner
 nomifactory.quest.db.240.title=九阶微型采掘机
 #nomifactory.quest.db.240.desc=The Ninth Micro Miner.%n%nCombines §bStellar Creation Data§r into the §dUniverse Creation Data§r, which is a crucial component for the Tier Ten Micro Miner mission.%n%nThe alternate mission brings a decent quantity of §6Neutronium§r, but you have to bootstrap it with some Neutronium from the §3Fusion Reactor Mark 3§r anyway. It might be easier to just make all your Neutronium in the reactor, but it's up to you.
-nomifactory.quest.db.240.desc=第九个微型采掘机。%n%n将§b恒星创造数据§r合并为§d宇宙创造数据§r，这是第十级微型采掘机任务的一个重要组成部分。%n%n替代任务带来了数量可观的§6中子素§r，但无论如何你必须用§3核裂变反应堆Mk3§r的一些中子来引导它。在反应堆中制造所有的中子可能会更容易，但这取决于你。
+nomifactory.quest.db.240.desc=第九个微型采掘机。%n%n将§b恒星创造数据§r合并为§d宇宙创造数据§r，这是第十级微型采掘机任务的一个重要组成部分。%n%n替代任务带来了数量可观的§6中子素§r，但无论如何你必须用§3核聚变反应堆Mk3§r的一些中子来引导它。在反应堆中制造所有的中子可能会更容易，但这取决于你。
 
 # db 241
 #nomifactory.quest.db.241.title=§2Crystal Matrix Heavy Plating
@@ -1447,8 +1447,6 @@ nomifactory.quest.db.242.desc=最先进的基板，为前沿生物工程技术�
 # db 243 (MISSING)
 #nomifactory.quest.db.243.title=Superconducting Coil Block
 nomifactory.quest.db.243.title=Superconducting Coil Block
-#nomifactory.quest.db.243.desc=
-nomifactory.quest.db.243.desc=
 
 # db 244
 #nomifactory.quest.db.244.title=Draconic Reactor Core
@@ -1658,7 +1656,7 @@ nomifactory.quest.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n
 #nomifactory.quest.db.280.title=Mote of Omnium
 nomifactory.quest.db.280.title=万象尘埃
 #nomifactory.quest.db.280.desc=Man, that's a LOT of quests linked to this one.%n%n§dOmnium§r, as the name suggests, is an incredible material composed of all elements and alloys you've encountered so far.%n%nFun fact: you'll need to make 487 motes. You've got all this automated, right?
-nomifactory.quest.db.280.desc=Man, that's a LOT of quests linked to this one.%n%n§dOmnium§r, as the name suggests, is an incredible material composed of all elements and alloys you've encountered so far.%n%nFun fact: you'll need to make 487 motes. You've got all this automated, right?
+nomifactory.quest.db.280.desc=伙计，与这个任务有关的任务可真不少。%n%n顾名思义，§d万象§r是一种不可思议的材料，由迄今为止你所遇到的所有元素和合金组成。%n%n有趣的事实: 你将需要制作487个万象尘埃。你已经有了所有这些自动化，对吗？
 
 # db 282
 #nomifactory.quest.db.282.title=Energy Acceptor
@@ -1688,7 +1686,7 @@ nomifactory.quest.db.286.desc=§3装配线§r是一个大型的多方块结构�
 #nomifactory.quest.db.287.title=§2Fusion Reactor MK1
 nomifactory.quest.db.287.title=§2核聚变反应堆MK1
 #nomifactory.quest.db.287.desc=Time to get fusing!%n%nThe §3Fusion Reactor§r is a multiblock that uses enormous amounts of energy to fuse fluids into new elements. This one is less flexible than the previous GregTech multiblocks, as you can only put hatches where the preview shows. §6Sneak-right click§r the controller to enable the in-world preview.%n%nThe §bJEI§r preview shows §e§eall valid hatch locations§r, but you don't actually need that many fluid hatches. You can replace any of the hatch positions in the structure with §2Fusion Glass or Fusion Machine Casings§r as long as you have at least §atwo Fluid Input Hatches§r and §aone Fluid Output Hatch§r. It's possible to use input/output hatches in every valid location, if you prefer.%n%nBecause of this, the quest only asks for §248 Fusion Machine Casings, 31 Fusion Glass§r. If you want to use the minimum number of fluid hatches, you'll need to craft an additional §231 Fusion Machine Casings§r.%n%nEach §aEnergy Input Hatch§r increases the reactor's power buffer. §aAll 16 Energy Input Hatches§r are required to be able to process all Mark 1 recipes and give a power buffer of §e160M EU§r.%n%nIn addition to the recipe power drain, Fusion Reactors have a §eheat§r mechanic related to the recipe's §e"Eu to Start"§r. This amount of power is drained from the reactor's buffer before starting the recipe to heat up the reactor to the necessary temperature, and is independent of the recipe's EU/t cost. As such, this determines the minimum tier of reactor you need for a recipe.%n%nIf the reactor stops processing, it will §erapidly lose heat§r, even if you pause it with a soft hammer. On the other hand, if the reactor is already at the required temperature for a recipe, §eno additional power§r is required to heat up the reactor! This is true even if you switch between different recipes. This mechanic incentivizes continuous use of the reactor.%n%nIf you switch to a recipe that requires more heat, §eonly the difference§r in heat values is consumed as EU to reach the target heat (up to a maximum heat equal to the reactor's current buffer).%n%nFusion Reactors §2now overclock§r, but they gate the next tier of materials, so you will eventually want to make more than one.
-nomifactory.quest.db.287.desc=是时候开始融合了！%n%n§3核聚变反应堆§r是一个多方块结构，使用巨大的能量将流体融合成新的元素。这个没有以前的格雷科技多方块结构那么灵活，因为你只能把仓放在预览显示的地方。§6潜行右击§r控制器以启用世界预览。%n%n预览中显示了所有有效仓的位置，但实际上你不需要那么多流体仓。只要你至少有§a两个输入仓§r和§a一个输出仓§r，你就可以用§2聚变反应堆玻璃或聚变机械方块§r替换结构中的任何仓的位置。如果你愿意，也可以在每个有效位置使用输入/输出仓。%n%n正因为如此，追求只要求§248个聚变机械方块，31个聚变反应堆玻璃§r。如果你想使用最低数量的流体仓，你需要额外制作§231个聚变机械方块§r。%n%n每个能源仓都会增加反应堆的能量缓冲。§a所有的16个能源仓§r都需要才能够处理所有的Mk1配方，并提供§e16,777,216EU§r的能量缓冲。%n%n除了配方的能量消耗外，核聚变反应堆还有一个与配方的§eEU启动§r有关的§e热量§r机制。在启动配方之前，这个数量的能量会从反应堆的缓冲区耗尽，以便将反应堆加热到必要的温度，并且与配方的EU/t成本无关。因此，这决定了你在一个配方中所需要的最低级别的反应堆。%n%n如果反应堆停止处理，它将迅速失去热量，即使你用软锤暂停它。另一方面，如果反应堆已经处于配方所需的温度，则§e不需要额外的能量§r来加热反应堆！即使你在不同的配方之间切换，也是如此。这种机制激励了反应堆的持续使用。%n%n如果你切换到一个需要更多热量的配方，只有热量值的§e差异§r被消耗为EU，以达到目标热量(最大热量等于反应堆当前的缓冲区)。%n%n核聚变反应堆§2现在超频§r了，但它们为下一级别的材料把关，所以你最终会想要制造多个。
+nomifactory.quest.db.287.desc=是时候开始融合了！%n%n§3核聚变反应堆§r是一个多方块结构，使用巨大的能量将流体融合成新的元素。这个没有以前的格雷科技多方块结构那么灵活，因为你只能把仓放在预览显示的地方。§6潜行右击§r控制器以启用世界预览。%n%n预览中显示了所有有效仓的位置，但实际上你不需要那么多流体仓。只要你至少有§a两个输入仓§r和§a一个输出仓§r，你就可以用§2聚变反应堆玻璃或聚变机械方块§r替换结构中的任何仓的位置。如果你愿意，也可以在每个有效位置使用输入/输出仓。%n%n正因为如此，追求只要求§248个聚变机械方块，31个聚变反应堆玻璃§r。如果你想使用最低数量的流体仓，你需要额外制作§231个聚变机械方块§r。%n%n每个能源仓都会增加反应堆的能量缓冲。§a所有的16个能源仓§r都需要才能够处理所有的Mk1配方，并提供§e16,777,216EU§r的能量缓冲。%n%n除了配方的能量消耗外，核聚变反应堆还有一个与配方的§eEU启动§r有关的§e热量§r机制。在启动配方之前，这个数量的能量会从反应堆的缓冲区耗尽，以便将反应堆加热到必要的温度，并且与配方的EU/t成本无关。因此，这决定了你在一个配方中所需要的最低级别的反应堆。%n%n如果反应堆停止处理，它将迅速失去热量，即使你用软锤暂停它。另一方面，如果反应堆已经处于配方所需的温度，则§e不需要额外的能量§r来加热反应堆！即使你在不同的配方之间切换，也是如此。这种机制激励了反应堆的持续使用。%n%n如果你切换到一个需要更多热量的配方，只有热量值的§e差异§r被消耗为EU，以达到目标热量(最大热量等于反应堆当前的缓冲区)。%n%n核聚变反应堆§2现在可超频§r了，但它们为下一级别的材料把关，所以你最终会想要制造多个。
 
 # db 288
 #nomifactory.quest.db.288.title=§2Draconium Ingots
@@ -1718,13 +1716,13 @@ nomifactory.quest.db.292.desc=通过一些现在的标准组件，你可以将�
 #nomifactory.quest.db.293.title=Chaotic Cores
 nomifactory.quest.db.293.title=混沌核心
 #nomifactory.quest.db.293.desc=The culmination of so much effort.%n%n§6Chaotic Cores§r are the ultimate tier of §bDraconic Evolution§r core, used for the most powerful and advanced items.
-nomifactory.quest.db.293.desc=The culmination of so much effort.%n%n§6Chaotic Cores§r are the ultimate tier of §bDraconic Evolution§r core, used for the most powerful and advanced items.
+nomifactory.quest.db.293.desc=这么多努力的结果。%n%n§6混沌核心§r是终极级别的§b龙之进化§r核心，用于最强大和高级的物品。
 
 # db 294
 #nomifactory.quest.db.294.title=Empowered Restonia Gear
 nomifactory.quest.db.294.title=充能红石水晶齿轮
 #nomifactory.quest.db.294.desc=A gear forged from §6Empowered Restonia Crystal§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.294.desc=A gear forged from §6Empowered Restonia Crystal§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.294.desc=由§6充能红石水晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 295
 #nomifactory.quest.db.295.title=Basic Fusion Injectors
@@ -1880,19 +1878,19 @@ nomifactory.quest.db.319.desc=你需要大量的§6油菜§r(用于§b油菜压�
 #nomifactory.quest.db.320.title=Empowered Void Gear
 nomifactory.quest.db.320.title=充能煤晶齿轮
 #nomifactory.quest.db.320.desc=A gear forged from §6Empowered Void Crystal§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.320.desc=A gear forged from §6Empowered Void Crystal§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.320.desc=由§6充能虚空水晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 321
 #nomifactory.quest.db.321.title=Empowered Palis Gear
 nomifactory.quest.db.321.title=充能青金石水晶齿轮
 #nomifactory.quest.db.321.desc=A gear forged from §6Empowered Palis Crystal§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.321.desc=A gear forged from §6Empowered Palis Crystal§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.321.desc=由§6充能青金石水晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 322
 #nomifactory.quest.db.322.title=Empowered Emeradic Gear
 nomifactory.quest.db.322.title=充能绿宝石水晶齿轮
 #nomifactory.quest.db.322.desc=A gear forged from §6Empowered Emeradic Crystal§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.322.desc=A gear forged from §6Empowered Emeradic Crystal§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.322.desc=由§6充能绿宝石水晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 323
 #nomifactory.quest.db.323.title=Naquadah Ingots
@@ -2054,49 +2052,49 @@ nomifactory.quest.db.353.desc=如果你有这样的想法，§a悬挂式滑翔�
 #nomifactory.quest.db.354.title=Empowered Enori Gear
 nomifactory.quest.db.354.title=充能铁晶齿轮
 #nomifactory.quest.db.354.desc=A gear forged from §6Empowered Enori Crystal§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.354.desc=A gear forged from §6Empowered Enori Crystal§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.354.desc=由§6充能铁晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 355
 #nomifactory.quest.db.355.title=Eternal Catalyst
 nomifactory.quest.db.355.title=永恒催化剂
 #nomifactory.quest.db.355.desc=A catalyst forged from §dOmnium§r, §6Empowered Gears§r, various enhanced §6Nether Stars§r, and a core made of §6The Ultimate Material§r.
-nomifactory.quest.db.355.desc=A catalyst forged from §dOmnium§r, §6Empowered Gears§r, various enhanced §6Nether Stars§r, and a core made of §6The Ultimate Material§r.
+nomifactory.quest.db.355.desc=催化剂是由§d万象§r、§6充能齿轮§r、各种增强的§6下界之星§r和一个由§6终极材料§r制成的核心锻造而成。
 
 # db 356
 #nomifactory.quest.db.356.title=Infinity Catalyst
 nomifactory.quest.db.356.title=无尽催化剂
 #nomifactory.quest.db.356.desc=Are you ready to go infinite?%n%nReinforcing §6Heart of a Universe§r with §6Chaotic Cores§r, many §6Piles of Neutrons§r, and a bunch of §6Eternal Catalysts§r produces an §cInfinity Catalyst§r.%n%nThis material is the core of most creative-tier crafting recipes.
-nomifactory.quest.db.356.desc=Are you ready to go infinite?%n%nReinforcing §6Heart of a Universe§r with §6Chaotic Cores§r, many §6Piles of Neutrons§r, and a bunch of §6Eternal Catalysts§r produces an §cInfinity Catalyst§r.%n%nThis material is the core of most creative-tier crafting recipes.
+nomifactory.quest.db.356.desc=你准备好走向无尽了吗？%n%n用§6混沌核心§r、许多§6中子素尘埃§r和一堆§6永恒催化剂§r来强化§6宇宙之心§r，会产生一个§c无尽催化剂§r。%n%n这种材料是大多数创造级别制作配方的核心。
 
 # db 357
 #nomifactory.quest.db.357.title=Infinity Ingot
 nomifactory.quest.db.357.title=无尽锭
 #nomifactory.quest.db.357.desc=This ingot is the most advanced basic material.%n%nWith creative fluids and all the automation you hopefully set up for your first §c§cInfinity Catalyst§r, these ingots should be easy.%n%nWell, not easy. But... Reasonable.%n%nFrom here, you are going to be crafting a multitude of Creative-Tier items from various mods. In addition to being useful for their regular functionality, they are needed for the final goal: the §dCreative Vending Upgrade§r.%n%n§bJEI§r is your friend: beyond noting a few more items, I will not be holding your hand anymore. I've taught you everything you need to know to beat the pack.%n%nYou can do it!
-nomifactory.quest.db.357.desc=This ingot is the most advanced basic material.%n%nWith creative fluids and all the automation you hopefully set up for your first §c§cInfinity Catalyst§r, these ingots should be easy.%n%nWell, not easy. But... Reasonable.%n%nFrom here, you are going to be crafting a multitude of Creative-Tier items from various mods. In addition to being useful for their regular functionality, they are needed for the final goal: the §dCreative Vending Upgrade§r.%n%n§bJEI§r is your friend: beyond noting a few more items, I will not be holding your hand anymore. I've taught you everything you need to know to beat the pack.%n%nYou can do it!
+nomifactory.quest.db.357.desc=这种锭是最先进的基础材料。%n%n有了创造流体和你希望为你的第一个§c无尽催化剂§r设置的所有自动化，这些锭应该很容易。%n%n好吧，不容易。但是...合理的。%n%n从这里开始，你将从各种模组中制作出大量的创造级别物品。除了对其常规功能有用外，它们还为最终目标所需要: §d创造量子箱§r。%n%n§bJEI§r是你的朋友: 除了注意到几个物品外，我不会再牵着你的手了。我已经教给你通关整合包所需的一切知识。%n%n你可以做到的！
 
 # db 358
 #nomifactory.quest.db.358.title=Infinity Helmet
 nomifactory.quest.db.358.title=无尽头盔
 #nomifactory.quest.db.358.desc=A helmet to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
-nomifactory.quest.db.358.desc=A helmet to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
+nomifactory.quest.db.358.desc=一个超越极限的头盔，用星星的心和宇宙的原始怒火锻造而成。
 
 # db 359
 #nomifactory.quest.db.359.title=Infinity Chestplate
 nomifactory.quest.db.359.title=无尽胸甲
 #nomifactory.quest.db.359.desc=A chestplate to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
-nomifactory.quest.db.359.desc=A chestplate to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
+nomifactory.quest.db.359.desc=一个超越极限的胸甲，用星星的心和宇宙的原始怒火锻造而成。
 
 # db 360
 #nomifactory.quest.db.360.title=Infinity Leggings
 nomifactory.quest.db.360.title=无尽护腿
 #nomifactory.quest.db.360.desc=Leggings to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
-nomifactory.quest.db.360.desc=Leggings to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
+nomifactory.quest.db.360.desc=一条超越极限的护腿，用星星的心和宇宙的原始怒火锻造而成。
 
 # db 361
 #nomifactory.quest.db.361.title=Infinity Boots
 nomifactory.quest.db.361.title=无尽靴子
 #nomifactory.quest.db.361.desc=Boots to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
-nomifactory.quest.db.361.desc=Boots to surpass the ultimate, forged with the hearts of stars and the raw fury of the universe.
+nomifactory.quest.db.361.desc=一双超越极限的靴子，用星星的心和宇宙的原始怒火锻造而成。
 
 # db 362
 #nomifactory.quest.db.362.title=Ultimate Helmet
@@ -2132,13 +2130,13 @@ nomifactory.quest.db.366.desc=你赢了。%n%n恭喜你。%n%n我希望你在§5
 #nomifactory.quest.db.367.title=§2Creative Tank
 nomifactory.quest.db.367.title=§2创造量子缸
 #nomifactory.quest.db.367.desc=§oNow this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.§r%n%nThe §d§dCreative Tank§r is a major milestone. Great work!%n%nThis tank is your first proper creative item, which can be set to a fluid and then provides an infinite quantity of that fluid. §2Use the Creative Tank Provider to supply you with Creative Tanks.%n%nThe GT Creative Tank has been enhanced. You can turn it on and off, configure exactly how much fluid you want it to push and how often, and change which direction the fluid is pushed out. You can even configure the fluid you want directly from JEI!§r%n%nFrom there you can set up tanks with infinite quantities of every fluid you can think of. §3Fluid Solidifiers§r §2or the much more powerful Large Solidification Arrays§r can be used to make infinite of every element you can melt and solidify.%n%nThis is quite a game-changer as far as infrastructure goes. You'll find that many machines won't need to be used for their original purpose anymore. Some major base redesign is in order. Have you considered moving to space?%n%nAll that said, §ethe pack will still be challenging to complete§r. Infinite resources and power is nice, but it's not everything. There are plenty of materials you can't melt, and creative items will push your factory automation engineering skills to their limits.%n%nOnward to the final challenge: the §dCreative Vending Upgrade§r!%n%n
-nomifactory.quest.db.367.desc=§oNow this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.§r%n%nThe §d§dCreative Tank§r is a major milestone. Great work!%n%nThis tank is your first proper creative item, which can be set to a fluid and then provides an infinite quantity of that fluid. §2Use the Creative Tank Provider to supply you with Creative Tanks.%n%nThe GT Creative Tank has been enhanced. You can turn it on and off, configure exactly how much fluid you want it to push and how often, and change which direction the fluid is pushed out. You can even configure the fluid you want directly from JEI!§r%n%nFrom there you can set up tanks with infinite quantities of every fluid you can think of. §3Fluid Solidifiers§r §2or the much more powerful Large Solidification Arrays§r can be used to make infinite of every element you can melt and solidify.%n%nThis is quite a game-changer as far as infrastructure goes. You'll find that many machines won't need to be used for their original purpose anymore. Some major base redesign is in order. Have you considered moving to space?%n%nAll that said, §ethe pack will still be challenging to complete§r. Infinite resources and power is nice, but it's not everything. There are plenty of materials you can't melt, and creative items will push your factory automation engineering skills to their limits.%n%nOnward to the final challenge: the §dCreative Vending Upgrade§r!%n%n
+nomifactory.quest.db.367.desc=§o现在这还不是终点。这甚至还不是结束的开始。但是，这也许是起点的终点。§r%n%n§d创造量子缸§r是一个重要的里程碑。干得好！%n%n这个缸是你的第一个适当的创造物品，它可以被设置为一种流体，然后提供无限量的该流体。§2使用创造储罐提供器为您提供创造量子缸。%n%n格雷科技创造量子缸已经得到加强。你可以打开和关闭它，准确地配置你想要它输出多少流体和多长时间，并改变流体被输出的方向。你甚至可以直接从JEI中配置你想要的流体！§r%n%n在那里，你可以用无限量的你能想到的每一种流体来设置创造量子缸。§3流体固化机§2或更强大的大型固化阵列§r可以用来制造无限的你可以熔化和固化的每一种元素。%n%n就基础设施而言，这是一个相当大的游戏规则改变。你会发现，许多机器不再需要用于原来的用途了。一些重大的基地重新设计是有必要的。你是否考虑过搬到太空去？%n%n综上所述，§e完成这个整合包仍将是一个挑战§r。无限的资源和能量是好的，但它不是一切。有很多材料是你无法融化的，而创造物品将把你的工厂自动化工程技能推向极限。%n%n迎接最后的挑战: §d创造量子箱§r！
 
 # db 368
 #nomifactory.quest.db.368.title=Grappling Hook
 nomifactory.quest.db.368.title=抓钩
 #nomifactory.quest.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
-nomifactory.quest.db.368.desc=A §aGrappling Hook§r is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
+nomifactory.quest.db.368.desc=§a抓钩§r在城市环境中非常有用。%n%n有很多方法可以升级和改进你的抓钩，所以要玩一玩。%n%n打开你的物品栏，寻找饰品按钮，点击它以显示额外的饰品槽位，并将抓钩放在那里。%n%n默认键是§6C§r，然而由于相当多的模组占用了这个热键，你需要访问控制菜单来解决按钮冲突。
 
 # db 370
 #nomifactory.quest.db.370.title=Charcoal
@@ -2202,9 +2200,9 @@ nomifactory.quest.db.391.desc=拼接...也是！%n%n是的，你可以制作§6�
 
 # db 392
 #nomifactory.quest.db.392.title=UHV Circuit...s?
-nomifactory.quest.db.392.title=UHV电路...?
+nomifactory.quest.db.392.title=UHV电路...？
 #nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
-nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
+nomifactory.quest.db.392.desc=祝贺你！你已经达到了电路进展的终点。%n%n唯一的UHV电路是§6湿件处理器主机§r，它用于在一些终局中制作高等级的微型采掘机。
 
 # db 393
 #nomifactory.quest.db.393.title=Claim Your Chunks and Invite Teammates!
@@ -2228,7 +2226,7 @@ nomifactory.quest.db.395.desc=非常通量。%n%n大多数§6微型采掘机§r�
 #nomifactory.quest.db.397.title=Creative RF Source
 nomifactory.quest.db.397.title=创造RF能源
 #nomifactory.quest.db.397.desc=A single-block solution to all your power needs.%n%nThis baby pushes out 2.14 GRF/t per side.
-nomifactory.quest.db.397.desc=A single-block solution to all your power needs.%n%nThis baby pushes out 2.14 GRF/t per side.
+nomifactory.quest.db.397.desc=一个单方块解决方案，满足你所有的电力需求。%n%n这个宝贝每侧都输出2.14GRF/t。
 
 # db 398
 #nomifactory.quest.db.398.title=Multi Smelter
@@ -2240,7 +2238,7 @@ nomifactory.quest.db.398.desc=§3工业熔炉§r是一个绝对的熔炼装置�
 #nomifactory.quest.db.399.title=§2Plasma Turbine
 nomifactory.quest.db.399.title=§2等离子体涡轮
 #nomifactory.quest.db.399.desc=§3Large Plasma Turbines§r are a powerful late game method of generating power. One Large Plasma Turbine produces §2a base of 16384 EU/t when using an IV Rotor Holder§r.
-nomifactory.quest.db.399.desc=§3Large Plasma Turbines§r are a powerful late game method of generating power. One Large Plasma Turbine produces §2a base of 16384 EU/t when using an IV Rotor Holder§r.
+nomifactory.quest.db.399.desc=§3大型等离子体涡轮§r是一种强大的游戏后期发电方法。一台大型等离子体涡轮§2当使用IV转子支架时将产生基础16384EU/t的能量§r。
 
 # db 400
 #nomifactory.quest.db.400.title=§2I Don't Like Space
@@ -2494,9 +2492,9 @@ nomifactory.quest.db.519.title=一类硅岩反应堆
 #nomifactory.quest.db.519.desc=The §3Naquadah Reactor Mk1§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
 nomifactory.quest.db.519.desc=§3一类硅岩反应堆§r是一个结构，用于从6富集硅岩§r或6超能硅岩§r到6铅§r的衰变过程中产生大量的EU能量。%n%n§6潜行右击§r控制器，以启用世界预览。
 
-# db 520
+# db 520 (MISSING)
 #nomifactory.quest.db.520.title=The Second Tier Four Circuits
-nomifactory.quest.db.520.title=第二种四阶电路
+nomifactory.quest.db.520.title=The Second Tier Four Circuits
 #nomifactory.quest.db.520.desc=Four §6Microprocessors§r combined with §6Titanium Plates§r and a few other standard components will make a §6MicroSupercomputer§r.
 nomifactory.quest.db.520.desc=Four §6Microprocessors§r combined with §6Titanium Plates§r and a few other standard components will make a §6MicroSupercomputer§r.
 
@@ -2506,9 +2504,9 @@ nomifactory.quest.db.521.title=谐振升级套件
 #nomifactory.quest.db.521.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a1000%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a1250 buckets§r.%n%nMachines operate at §a600%% of base speed§r.
 nomifactory.quest.db.521.desc=为机器和能源提供更多的增强槽位。%n%n能源炉在§a基础功率和燃料效率的1000%%§r运行。%n%n储罐可容纳§a1250桶§r。%n%n机器§a以基础速度的6000%%§r运行。
 
-# db 522
+# db 522 (MISSING)
 #nomifactory.quest.db.522.title=LuV Compressor
-nomifactory.quest.db.522.title=LuV压缩机
+nomifactory.quest.db.522.title=LuV Compressor
 #nomifactory.quest.db.522.desc=This compressor is needed for making §6Iridium Heavy Plating§r and §6Enderium Heavy Plating§r.
 nomifactory.quest.db.522.desc=This compressor is needed for making §6Iridium Heavy Plating§r and §6Enderium Heavy Plating§r.
 
@@ -2722,7 +2720,7 @@ nomifactory.quest.db.559.desc=§a辅助传动线圈§r是一种可以在所有�
 #nomifactory.quest.db.564.title=Neutronium Solar Panel
 nomifactory.quest.db.564.title=中子太阳能板
 #nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n%nThese are quite expensive and two of them are required for each Tier Ten Micro Miner.%n%n§6Neutronium Solar Panels§r generate an enormous amount of RF power in sunlight, so once you get your tank it's also a good choice for compact power generation.%n%nProtip: it's always daytime in space.
-nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n%nThese are quite expensive and two of them are required for each Tier Ten Micro Miner.%n%n§6Neutronium Solar Panels§r generate an enormous amount of RF power in sunlight, so once you get your tank it's also a good choice for compact power generation.%n%nProtip: it's always daytime in space.
+nomifactory.quest.db.564.desc=你认为这些太阳能板的重量是多少？%n%n这些东西相当昂贵，每个十级微型采掘机都需要两个。%n%n§6中子太阳能板§r在阳光下产生巨大的RF能量，因此一旦你拿到了你的创造量子缸，它也是紧凑发电的好选择。%n%n小提示: 在太空中永远是白天。
 
 # db 580
 #nomifactory.quest.db.580.title=§2Blast Furnaces Galore
@@ -2818,7 +2816,7 @@ nomifactory.quest.db.603.title=镍铬合金锭
 #nomifactory.quest.db.604.title=Heart Of A Universe
 nomifactory.quest.db.604.title=宇宙之心
 #nomifactory.quest.db.604.desc=No hypothetical aliens were harmed in the harvesting of this item.%n%nProbably.
-nomifactory.quest.db.604.desc=No hypothetical aliens were harmed in the harvesting of this item.%n%nProbably.
+nomifactory.quest.db.604.desc=在收获这一物品的过程中，没有任何假想的外星人受到伤害。%n%n可能吧。
 
 # db 605
 #nomifactory.quest.db.605.title=Tier Ten Micro Miner
@@ -2830,7 +2828,7 @@ nomifactory.quest.db.605.desc=你已经成为死亡，宇宙的毁灭者。%n%n�
 #nomifactory.quest.db.606.title=§2Neutronium Heavy Plating
 nomifactory.quest.db.606.title=§2中子素重板
 #nomifactory.quest.db.606.desc=Kind of redundant, really.%n%nThis plating is used exclusively for the Tier Ten Micro Miner. You need some serious protection from forces when harvesting a whole microverse.
-nomifactory.quest.db.606.desc=Kind of redundant, really.%n%nThis plating is used exclusively for the Tier Ten Micro Miner. You need some serious protection from forces when harvesting a whole microverse.
+nomifactory.quest.db.606.desc=有点多余，真的。%n%n这种板专门用于十级微型采掘机。在收集整个微型宇宙时，你需要一些强力保护，以免受影响。
 
 # db 607
 #nomifactory.quest.db.607.title=Neutronium Ingot
@@ -2856,9 +2854,9 @@ nomifactory.quest.db.610.title=高强合金
 #nomifactory.quest.db.610.desc=§6Ferroboron§r is an alloy of §6Steel§r and §6Boron§r.%n%nAlloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
 nomifactory.quest.db.610.desc=§6硼铁§r是§6钢§r和§6硼§r组成的合金。%n%n将一些§6锂§r合金化到§6硼铁§r中会产生§6高强合金§r，这是§b核电工艺§r方块中的常见成分。
 
-# db 611
+# db 611 (MISSING)
 #nomifactory.quest.db.611.title=ZPM Compressor
-nomifactory.quest.db.611.title=ZPM压缩机
+nomifactory.quest.db.611.title=ZPM Compressor
 #nomifactory.quest.db.611.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
 nomifactory.quest.db.611.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
 
@@ -3234,7 +3232,7 @@ nomifactory.quest.db.691.desc=对所有的扳手感到困惑了吗？%n%n§a新�
 #nomifactory.quest.db.692.title=Infinity War
 nomifactory.quest.db.692.title=无限战争
 #nomifactory.quest.db.692.desc=Give me a little juice, FRIDAY!
-nomifactory.quest.db.692.desc=给我一点果汁，星期五！
+nomifactory.quest.db.692.desc=给我一点果汁，得力助手！
 
 # db 693
 #nomifactory.quest.db.693.title=Captain... Marvel? IDK
@@ -3258,7 +3256,7 @@ nomifactory.quest.db.695.desc=§3二类硅岩反应堆§r是一个升级的反�
 #nomifactory.quest.db.726.title=§2Ore Processing for Byproducts
 nomifactory.quest.db.726.title=§2矿物处理副产物
 #nomifactory.quest.db.726.desc=When you first started the pack, we told you that ore doubling can wait, and that's true... But you will need to start doing some rudimentary ore processing for §ebyproducts§r.%n%nByproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no "Gallium Ore" or "Arsenic Ore". You get §6Gallium§r and §6Arsenic §ras a byproduct from processing other ores.%n%nOres have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the §b§b§6Ore Byproduct Page§6§r of an ore in §bJEI§r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. %n%nThe relevant machines are as follows:%n %n- §3Macerator§r: turns ores into §6Crushed Ores§r, Crushed Ores into §6Impure Dusts§r, and §6Purified Crushed Ores§r into §6Pure Dusts§r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores.%n%n- §3Ore Washer§r: cleans Crushed Ores with §9Water§r, making Purified Crushed Ores§r, and a guaranteed 3 tiny piles of byproduct. Using §9Distilled Water§r makes them go faster. §2You can also perform a simple wash with this similar to Cauldron washing, which is extremely fast, but grants no byproducts.§r%n%n- §3Chemical Bath§r: §2uses Sodium Persulfate or Mercury to purify certain ores, granting a chance to yield a full pile of a byproduct.%n%n§r- §3§3Centrifuge§r: separates Pure or Impure dusts into the final material, producing a guaranteed §21 (nerfed from 3) tiny pile of byproduct§r.%n%n- §3Electrolyzer§r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process. §2Be warned that certain dusts may be better to directly smelt instead of electrolyze!§r%n%n- §3Thermal Centrifuge§r: not to be confused with the regular Centrifuge. §2Less slow and power-hungry now, but still so. However, it yields 3 additional tiny piles of byproduct, and macerating the Centrifuged Ore can grant a special third byproduct.%n%n§2- Sifter: filters high-quality Gems from Purified Crushed gem Ores for an overall higher yield.%n%n- Electromagnetic Separator: filters magnetic metals from certain ores, increasing their yields.§r%n%nYour first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge.%n
-nomifactory.quest.db.726.desc=When you first started the pack, we told you that ore doubling can wait, and that's true... But you will need to start doing some rudimentary ore processing for §ebyproducts§r.%n%nByproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no "Gallium Ore" or "Arsenic Ore". You get §6Gallium§r and §6Arsenic §ras a byproduct from processing other ores.%n%nOres have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the §b§b§6Ore Byproduct Page§6§r of an ore in §bJEI§r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. %n%nThe relevant machines are as follows:%n %n- §3Macerator§r: turns ores into §6Crushed Ores§r, Crushed Ores into §6Impure Dusts§r, and §6Purified Crushed Ores§r into §6Pure Dusts§r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores.%n%n- §3Ore Washer§r: cleans Crushed Ores with §9Water§r, making Purified Crushed Ores§r, and a guaranteed 3 tiny piles of byproduct. Using §9Distilled Water§r makes them go faster. §2You can also perform a simple wash with this similar to Cauldron washing, which is extremely fast, but grants no byproducts.§r%n%n- §3Chemical Bath§r: §2uses Sodium Persulfate or Mercury to purify certain ores, granting a chance to yield a full pile of a byproduct.%n%n§r- §3§3Centrifuge§r: separates Pure or Impure dusts into the final material, producing a guaranteed §21 (nerfed from 3) tiny pile of byproduct§r.%n%n- §3Electrolyzer§r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process. §2Be warned that certain dusts may be better to directly smelt instead of electrolyze!§r%n%n- §3Thermal Centrifuge§r: not to be confused with the regular Centrifuge. §2Less slow and power-hungry now, but still so. However, it yields 3 additional tiny piles of byproduct, and macerating the Centrifuged Ore can grant a special third byproduct.%n%n§2- Sifter: filters high-quality Gems from Purified Crushed gem Ores for an overall higher yield.%n%n- Electromagnetic Separator: filters magnetic metals from certain ores, increasing their yields.§r%n%nYour first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge.%n
+nomifactory.quest.db.726.desc=当你第一次启动整合包时，我们告诉你，矿物翻倍可以等待，这是真的...但你需要开始为§e木炭副产品§r做一些初级的矿物处理。%n%n副产物是只有在某些机器中处理矿石才能获得的额外材料。例如，不存在“镓矿石”或“砷矿石”。你从其他矿石的处理中得到了§6镓§r和§6砷§r的副产物。%n%n矿石有各种处理手段，最终你会使用机器管道线以特定方式处理矿石，以优化你获得的副产物。你可以在§bJEI§r中查看矿石的§6矿物副产列表§r，通过在矿石上按“U”键并导航到副产列表标签来访问，以查看获得所需副产物的必要路线。%n%n相关机器如下:%n %n- §3研磨机§r: 将矿石变成§6粉碎的矿石§r，将粉碎的矿石变成§6洁净的粉碎矿石§r，将§6洁净的粉碎矿石§r变成§6洁净矿粉§r。更高等级的研磨机有副产物槽位，并获得从矿石和两种类型的粉碎矿石中获得小堆副产物的机会。%n%n- §3洗矿厂§r: 用§9水§r清洗粉碎的矿石，制造洁净的粉碎矿石，并保证有3小堆的副产物。使用§9蒸馏水§r会使它们的速度更快。§2你还可以用这个进行类似于炼药锅的简单清洗，速度极快，但不会产生任何副产物。§r%n%n- §3化学浸洗器§r: §2使用过硫酸钠或汞来提纯某些矿石，有机会获得一堆完整的副产物。%n%n§r- §3离心机§r: 将纯的或不纯的粉分离成最终材料，产生一个保证§21(从3削弱)的小堆副产物§r。%n%n- §3电解机§r: 使用能量将化合物分裂成单个元素，有时在此过程中获得有用的副产物。§2要注意的是，某些粉可能最好直接冶炼，而不是电解！§r%n%n- §3热力离心机§r: 不要与普通的离心机相混淆。§2现在不那么慢了，也不那么耗电了，但还是如此。然而，它产生了3个额外的小堆副产物，而研磨离心的矿石可以获得一个特殊的第三种副产物。%n%n§2- 筛选器: 从洁净的粉碎的宝石矿石中过滤出高质量的宝石，以获得更高的整体产量。%n%n- 电磁选矿机: 从某些矿石中过滤磁性金属，增加其产量。§r%n%n你在矿石处理副产物方面的第一次尝试将是电解机和离心机。
 
 # db 727
 #nomifactory.quest.db.727.title=Resonant Clathrate
@@ -3336,7 +3334,7 @@ nomifactory.quest.db.747.desc=一个专门用于§a齿轮工作模具§r的§3�
 #nomifactory.quest.db.748.title=§2Fusion Reactor MK2
 nomifactory.quest.db.748.title=§2核聚变反应堆MK2
 #nomifactory.quest.db.748.desc=Upgrade time! %n...or building a new one, which is probably better.%n%nYet again this quest asks for the minimal number of casings. Make an extra 28 if you don't want more than §a2 Fluid Inputs§r§r and §a1 Fluid Output§r.%n%nIf you insist on upgrading instead of making a new one, don't dismantle the current one before you're sure you've got everything you need to upgrade it, or you might end up having to rebuild the §3Mark 1 Fusion Reactor§r again.%n%nThe §3Mark 2 Fusion Reactor§r has an energy buffer of §e320M EU§r.
-nomifactory.quest.db.748.desc=Upgrade time! %n...or building a new one, which is probably better.%n%nYet again this quest asks for the minimal number of casings. Make an extra 28 if you don't want more than §a2 Fluid Inputs§r§r and §a1 Fluid Output§r.%n%nIf you insist on upgrading instead of making a new one, don't dismantle the current one before you're sure you've got everything you need to upgrade it, or you might end up having to rebuild the §3Mark 1 Fusion Reactor§r again.%n%nThe §3Mark 2 Fusion Reactor§r has an energy buffer of §e320M EU§r.
+nomifactory.quest.db.748.desc=升级时间到了！%n...或者建造一个新的，这可能更好。%n%n然而，这次任务再次要求提供最少数量的机械方块。如果你不需要超过§a2个输入仓§r和§a1个输出仓§r，则额外制作28个。%n%n如果你坚持要升级而不是做一个新的，在你确定你已经得到了升级所需的一切之前，不要拆除当前的那个，否则你可能最终不得不再次重建§3核聚变反应堆Mk1§r。%n%n§3核聚变反应堆Mk2§r的能量缓冲区为§e320,000,000EU§r。
 
 # db 749
 #nomifactory.quest.db.749.title=§2Enderium Ingot
@@ -3426,55 +3424,55 @@ nomifactory.quest.db.762.desc=一个很好的，但略带门槛的传送回你�
 #nomifactory.quest.db.763.title=LV Circuits
 nomifactory.quest.db.763.title=LV电路
 #nomifactory.quest.db.763.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§7§2Electronic Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2§2Integrated Circuits§r are the middle layer between §2Electronic Circuits and Microprocessors.§r%n%nAnd finally, §2Microprocessors§r, which take the lowest effort.
-nomifactory.quest.db.763.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§7§2Electronic Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2§2Integrated Circuits§r are the middle layer between §2Electronic Circuits and Microprocessors.§r%n%nAnd finally, §2Microprocessors§r, which take the lowest effort.
+nomifactory.quest.db.763.desc=沿着这条线的电路是LV的，并且可以在配方中替换。%n%n就生产所需的成本和努力而言，§2电子电路§r是最糟糕的，但你必须从某些方面入手。%n%n§2集成电路是介于电子电路和微型处理器之间的中间层。§r%n%n最后是§2微型处理器§r，它所花费的精力最少。
 
 # db 764
 #nomifactory.quest.db.764.title=What is This?
 nomifactory.quest.db.764.title=这是什么呢？
 #nomifactory.quest.db.764.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
-nomifactory.quest.db.764.desc=增加了当前进展标签，以便你可以跟踪整合包的重要部分。%n%n电路是整个全能工厂进展的基线，所以要继续攀登！
+nomifactory.quest.db.764.desc=增加了当前进展标签，以便你可以跟踪整合包的重要部分。%n%n电路是整个全能工厂进展的基线，所以继续攀登吧！
 
 # db 765
 #nomifactory.quest.db.765.title=MV Circuits
 nomifactory.quest.db.765.title=MV电路
 #nomifactory.quest.db.765.desc=Circuits along this line are MV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
-nomifactory.quest.db.765.desc=Circuits along this line are MV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.765.desc=沿着这条线的电路是MV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。
 
 # db 766
 #nomifactory.quest.db.766.title=HV Circuits
 nomifactory.quest.db.766.title=HV电路
 #nomifactory.quest.db.766.desc=Circuits along this line are HV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
-nomifactory.quest.db.766.desc=Circuits along this line are HV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.766.desc=沿着这条线的电路是HV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。
 
 # db 767
 #nomifactory.quest.db.767.title=EV Circuits
 nomifactory.quest.db.767.title=EV电路
 #nomifactory.quest.db.767.desc=Circuits along this line are EV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
-nomifactory.quest.db.767.desc=Circuits along this line are EV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.767.desc=沿着这条线的电路是EV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。
 
 # db 768
 #nomifactory.quest.db.768.title=IV Circuits
 nomifactory.quest.db.768.title=IV电路
 #nomifactory.quest.db.768.desc=Circuits along this line are IV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
-nomifactory.quest.db.768.desc=Circuits along this line are IV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.768.desc=沿着这条线的电路是IV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。
 
 # db 769
 #nomifactory.quest.db.769.title=LuV Circuits
 nomifactory.quest.db.769.title=LuV电路
 #nomifactory.quest.db.769.desc=Circuits along this line are LuV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.%n%nMake sure to set up the wetware board production as soon as possible! These take a very long time to make.%n%nIt's LuV, not LUV.%n
-nomifactory.quest.db.769.desc=Circuits along this line are LuV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.%n%nMake sure to set up the wetware board production as soon as possible! These take a very long time to make.%n%nIt's LuV, not LUV.%n
+nomifactory.quest.db.769.desc=沿着这条线的电路是LuV的，并且可以在配方中替换。%n%n模式保持不变: 最右边的电路数量较大，总体上更容易生产。%n%n一定要尽快建立起湿件电路板的生产！这些需要很长的时间来制作。%n%n这是LuV，不是LUV。
 
 # db 770
 #nomifactory.quest.db.770.title=ZPM Circuits
 nomifactory.quest.db.770.title=ZPM电路
 #nomifactory.quest.db.770.desc=Circuits along this line are ZPM, and can all be substituted in recipes.
-nomifactory.quest.db.770.desc=Circuits along this line are ZPM, and can all be substituted in recipes.
+nomifactory.quest.db.770.desc=沿着这条线的电路是ZPM的，并且可以在配方中替换。
 
 # db 771
 #nomifactory.quest.db.771.title=UV Circuits
 nomifactory.quest.db.771.title=UV电路
 #nomifactory.quest.db.771.desc=Circuits along this line are UV, and can both be substituted in recipes.
-nomifactory.quest.db.771.desc=Circuits along this line are UV, and can both be substituted in recipes.
+nomifactory.quest.db.771.desc=沿着这条线的电路是UV的，并且可以在配方中替换。
 
 # db 772
 #nomifactory.quest.db.772.title=Diesel or Bio-Diesel
@@ -3502,15 +3500,15 @@ nomifactory.quest.db.775.desc=§6觉醒核心§r是§b龙之进化§r核心的�
 
 # db 776
 #nomifactory.quest.db.776.title=Empowered Diamantine Gear
-nomifactory.quest.db.776.title=充能钻石齿轮
+nomifactory.quest.db.776.title=充能钻石水晶齿轮
 #nomifactory.quest.db.776.desc=A gear forged from §6Empowered Diamantine Crystal§6§r.%n%nMade from fluid solidification.
-nomifactory.quest.db.776.desc=A gear forged from §6Empowered Diamantine Crystal§6§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.776.desc=由§6充能钻石水晶§r锻造的齿轮。%n%n由流体固化而成。
 
 # db 777
 #nomifactory.quest.db.777.title=§2Power Storage on a Massive Level
 nomifactory.quest.db.777.title=§2大规模电力存储
 #nomifactory.quest.db.777.desc=Now that you have §6Awakened Cores§r, you can make the §eEnergy Storage Core§r from §bDraconic Evolution§r. It's a great way to store all the energy required to craft power-hungry late game items.%n%nThe §eEnergy Storage Core§r is a multiblock structure that can be upgraded to store increasingly immense amounts of RF energy. See the §bDraconic Evolution§r manual for more information on the material requirements for each tier.%n%n§2You cannot use regular Draconium Blocks to build this structure. You must treat it with Enriched Naquadah to make Activated Draconium before it can be used in the Energy Storage Core.%n%n§6Energy Pylons§r are required to input and output energy from the core. Each pylon allows movement in a single direction, so you need at least two.%n%nOnce you have the materials together for your desired tier, § the structure can build itself: simply access the GUI of the §6Energy Core§r, set the tier, and click Assemble. Items will be automatically used from your inventory. Once the structure is built, you can access the core's GUI again through §6Energy Core Stabilizers§r to activate it.%n%nIt is recommended to postpone Tier 8 until after you reach the §dCreative Portable Tank§r, as it requires large amounts of §2Activated §6Awakened Draconium§r.%n%n
-nomifactory.quest.db.777.desc=Now that you have §6Awakened Cores§r, you can make the §eEnergy Storage Core§r from §bDraconic Evolution§r. It's a great way to store all the energy required to craft power-hungry late game items.%n%nThe §eEnergy Storage Core§r is a multiblock structure that can be upgraded to store increasingly immense amounts of RF energy. See the §bDraconic Evolution§r manual for more information on the material requirements for each tier.%n%n§2You cannot use regular Draconium Blocks to build this structure. You must treat it with Enriched Naquadah to make Activated Draconium before it can be used in the Energy Storage Core.%n%n§6Energy Pylons§r are required to input and output energy from the core. Each pylon allows movement in a single direction, so you need at least two.%n%nOnce you have the materials together for your desired tier, § the structure can build itself: simply access the GUI of the §6Energy Core§r, set the tier, and click Assemble. Items will be automatically used from your inventory. Once the structure is built, you can access the core's GUI again through §6Energy Core Stabilizers§r to activate it.%n%nIt is recommended to postpone Tier 8 until after you reach the §dCreative Portable Tank§r, as it requires large amounts of §2Activated §6Awakened Draconium§r.%n%n
+nomifactory.quest.db.777.desc=现在你已经有了§6觉醒核心§r，你可以从§b龙之进化§r制作§e能量核心§r了。这是一个很好的方法，可以储存制作耗电的游戏后期物品所需的所有能量。%n%n§e能量核心§r是一个多方块结构，可以升级以存储越来越多的巨大的RF能量。有关各级别材料要求的更多信息，请查看§b龙之进化§r手册。%n%n§2你不能用普通的龙素方块来建造这个结构。你必须用富集硅岩处理它，使其成为激活龙素，然后才能用于能量核心。%n%n§6能量塔§r被需要从核心输入和输出能量。每个塔结构只允许在一个方向上移动，所以你至少需要两个。%n%n一旦你把你所需要级别的材料放在一起，结构就可以自己建造了: 只需进入§6能量核心§r的GUI，设置级别，然后点击激活。物品将自动从你的物品栏中使用。一旦结构建成，你可以通过§6能量核心稳定器§r再次进入核心的GUI来激活它。%n%n建议将第八级推迟到你达成§d创造量子缸§r之后，因为它需要大量的§2激活§6觉醒龙素§r。
 
 # db 778
 #nomifactory.quest.db.778.title=§2Infinite Cobblestone
@@ -3654,7 +3652,7 @@ nomifactory.quest.db.800.desc=§3热解炉§r可以制造比§9苯酚§r更有�
 #nomifactory.quest.db.801.title=§2Fusion Coils
 nomifactory.quest.db.801.title=§2核聚变线圈
 #nomifactory.quest.db.801.desc=§6Fusion Coils§r are §2no longer EBF coil materials, but they are used in the next Fusion Reactors.
-nomifactory.quest.db.801.desc=§6Fusion Coils§r are §2no longer EBF coil materials, but they are used in the next Fusion Reactors.
+nomifactory.quest.db.801.desc=§6核聚变线圈§r是§2不再是电力高炉的线圈材料，但它们被用于下一个聚变反应堆。
 
 # db 802
 #nomifactory.quest.db.802.title=Lost Cities and Registering Homes
@@ -3696,7 +3694,7 @@ nomifactory.quest.db.807.desc=§5全能工厂§r有一个官方Discord服务器�
 #nomifactory.quest.db.808.title=§2Simulation Supercomputer
 nomifactory.quest.db.808.title=§2超级模拟计算机
 #nomifactory.quest.db.808.desc=The §3Simulation Supercomputer§r is a multiblock structure that performs §bDeep Mob Learning§r simulations like the §3Simulation Chamber§r, but is capable of overclocking these simulations to incredible speeds.%n%nOne of these structures can perform the equivalent work of hundreds of individual Simulation Chambers more efficiently. This will make it far easier to generate pristine matter you'll need for things like §6Dragon Lair Data§r. You'll probably need several §3Loot Fabricators§r to keep up with it.%n%nThe data model you place in the input bus will §2have a fixed 30%% chance of producing Pristine matter regardless of its tier. §eOverclocking does not alter the chances of pristines§r: those come at fixed rates per iteration.%n%nAs a §dCreative Tier§r structure, it is rather expensive to make. However, it is an investment that will easily pay for itself as you progress through the endgame. You should strongly consider making one of these with your second §dHeart of a Universe§r.%n
-nomifactory.quest.db.808.desc=The §3Simulation Supercomputer§r is a multiblock structure that performs §bDeep Mob Learning§r simulations like the §3Simulation Chamber§r, but is capable of overclocking these simulations to incredible speeds.%n%nOne of these structures can perform the equivalent work of hundreds of individual Simulation Chambers more efficiently. This will make it far easier to generate pristine matter you'll need for things like §6Dragon Lair Data§r. You'll probably need several §3Loot Fabricators§r to keep up with it.%n%nThe data model you place in the input bus will §2have a fixed 30%% chance of producing Pristine matter regardless of its tier. §eOverclocking does not alter the chances of pristines§r: those come at fixed rates per iteration.%n%nAs a §dCreative Tier§r structure, it is rather expensive to make. However, it is an investment that will easily pay for itself as you progress through the endgame. You should strongly consider making one of these with your second §dHeart of a Universe§r.%n
+nomifactory.quest.db.808.desc=§3超级模拟计算机§r是一个多方块结构，像§3模拟室§r一样进行§b深度怪物学习§r模拟，但能够将这些模拟超频到不可思议的速度。%n%n其中一个结构可以更有效地执行相当于数百个单独模拟室的工作。这将使你更容易产生你所需要的原始物质，如§6飞龙巢穴数据§r。你可能需要几个§3战利品制造器§r来跟上它。%n%n你放在输入总线中的数据模型将有固定的30%%的概率产生原始物质，不管它的等级如何。§e超频并不改变原始物质的概率§r: 这些都是在每个迭代中的固定概率计算的。%n%n作为一个§d创造级别§r结构，它的制作成本相当高。然而，这是一项投资，随着你在终局中的进展，它将很容易得到回报。你应该强烈考虑用你的第二个§d宇宙之心§r制作一个。
 
 # db 809
 #nomifactory.quest.db.809.title=Sulfur
@@ -3900,7 +3898,7 @@ nomifactory.quest.db.841.desc=§2使用干细胞和更先进的材料来制造�
 #nomifactory.quest.db.842.title=§2Naquadah Processing
 nomifactory.quest.db.842.title=§2硅岩处理
 #nomifactory.quest.db.842.desc=§2There are 3 materials you will need from processing Naquadah: Enriched Naquadah (Nq+), Naquadria (Nq*), and Trinium (Ke). And there are 3 different ways to process Naquadah, each resulting in different materials.§r%n%nFirst is by §dprocessing ores§r from the §6Tier Five Micro Miner§r. §6Naquadah Ore§r yields §6Enriched Naquadah§r (through the §3Magnetic Separator§r) and §6Kaemanite Ore§r yields §6Trinium§r.%n%nSecond is by combining §6Naquadah Dust§r with certain heavy elements and EnderIO crystal grains. This can provide §6Enriched Naquadah§r and §6Naquadria§r.%n%nFinally, you can do the full CEu processing of §6Naquadah Dust§r with §9Fluoroantimonic Acid§r, the strongest acid known to man. This is a decently involved process, but not only does it yield all 3 Nq materials, it also grants byproducts of §6Titanium, Sulfur, Indium, Phosphorus, Barium, and Gallium§r.
-nomifactory.quest.db.842.desc=§2There are 3 materials you will need from processing Naquadah: Enriched Naquadah (Nq+), Naquadria (Nq*), and Trinium (Ke). And there are 3 different ways to process Naquadah, each resulting in different materials.§r%n%nFirst is by §dprocessing ores§r from the §6Tier Five Micro Miner§r. §6Naquadah Ore§r yields §6Enriched Naquadah§r (through the §3Magnetic Separator§r) and §6Kaemanite Ore§r yields §6Trinium§r.%n%nSecond is by combining §6Naquadah Dust§r with certain heavy elements and EnderIO crystal grains. This can provide §6Enriched Naquadah§r and §6Naquadria§r.%n%nFinally, you can do the full CEu processing of §6Naquadah Dust§r with §9Fluoroantimonic Acid§r, the strongest acid known to man. This is a decently involved process, but not only does it yield all 3 Nq materials, it also grants byproducts of §6Titanium, Sulfur, Indium, Phosphorus, Barium, and Gallium§r.
+nomifactory.quest.db.842.desc=§2在处理硅岩时，你将需要3种材料: 富集硅岩(Nq+)、超能硅岩(Nq*)和凯金(Ke)。而处理硅岩有3种不同的方法，每种方法产生的材料都不同。§r%n%n第一种是通过从§6五级微型采掘机§r中§d处理矿石§r。§6硅岩矿石§r产出§6富集硅岩§r(通过§3电磁选矿机§r)，§6凯特明矿石§r产出§6凯金§r。%n%n第二种是通过将§6硅岩粉§r与某些重元素和末影接口水晶粉结合。这可以提供§6富集硅岩§r和§6超能硅岩§r。%n%n最后，你可以用人类已知的最强的酸§氟锑酸§r对§6硅岩粉§r进行全面的社区版：非官方版处理。这是一个相当复杂的过程，但它不仅能产生所有3种硅岩材料，还能提供副产物§6钛、硫、铟、磷、钡和镓§r。
 
 # db 843
 #nomifactory.quest.db.843.title=§2Trinium Coils
@@ -4152,7 +4150,7 @@ nomifactory.quest.db.883.desc=§2这个元素在万象中是必要的。
 #nomifactory.quest.db.884.title=§2Darmstadtium
 nomifactory.quest.db.884.title=§2鐽
 #nomifactory.quest.db.884.desc=§2Do you remember Darmstadtium tools in CE? Well you can make their material now!%n%nIt is formed by fusing Arsenic and Ruthenium, and is the main material for UV machines.
-nomifactory.quest.db.884.desc=§2Do you remember Darmstadtium tools in CE? Well you can make their material now!%n%nIt is formed by fusing Arsenic and Ruthenium, and is the main material for UV machines.
+nomifactory.quest.db.884.desc=§2你还记得社区版中的鐽工具吗？那么你现在可以做它们的材料了！%n%n它是由砷和钌融合形成的，是UV机器的主要材料。
 
 # db 885
 #nomifactory.quest.db.885.title=§2Debug Scanner
@@ -4226,9 +4224,9 @@ nomifactory.quest.db.896.title=§2HV能源仓
 #nomifactory.quest.db.896.desc=§2With Silver, LPICs, NaK, and an HV Assembler, you can finally make HV Energy and Dynamo hatches.%n%nYou should get the gist of making these now, so there will not be further quests on Energy and Dynamo hatches.
 nomifactory.quest.db.896.desc=§2有了银、低功率集成电路、钠钾合金和HV组装机，你终于可以制作HV能源仓和动力仓了。%n%n你现在应该明白制作这些东西的要领了，所以不会再有关于能源仓和动力仓的任务了。
 
-# db 897
+# db 897 (MISSING)
 #nomifactory.quest.db.897.title=§2HV Chemical Bath
-nomifactory.quest.db.897.title=§2HV化学浸洗器
+nomifactory.quest.db.897.title=§2HV Chemical Bath
 #nomifactory.quest.db.897.desc=§2Required for staining Glass Lenses with Chemical Dyes.
 nomifactory.quest.db.897.desc=§2Required for staining Glass Lenses with Chemical Dyes.
 
@@ -4310,9 +4308,9 @@ nomifactory.quest.db.910.title=LV电池箱
 #nomifactory.quest.db.910.desc=The §6Battery Buffer§r is a machine which can hold §6Batteries§r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp.%n%nYou can also charge §6Electric tools§r in them.%n%n§cRF batteries such as Flux Capacitors cannot be drained by Battery Buffers!
 nomifactory.quest.db.910.desc=§6电池箱§r是一种可以容纳§6电池§r以储存能量的机器。每个电池可接受高达2A的电流，并输出高达1A的电流。%n%n你也可以在其中为§6电动工具§r充能。%n%n§cRF电池，如通量电容，不能在电池箱放电！
 
-# db 911
+# db 911 (MISSING)
 #nomifactory.quest.db.911.title=Hard Mode
-nomifactory.quest.db.911.title=困难模式
+nomifactory.quest.db.911.title=Hard Mode
 #nomifactory.quest.db.911.desc=The §2CEu§r§r version of Nomi is already slightly harder than the original, due to various progression changes CEu makes.%n%nBut if you want a §charder§r, or perhaps a more "§5true§r" §dGregTech§r experience, check out the §cExpert§r mode. This pack mode is based on the §bSelf-Torture Edition fork§r of the original pack.%n%nHighlights include:%n%n- No §bDML§r for easy infinite resources%n- §6Omnicoins§r can't be spent%n- The §7Steam Age§r%n- No §3Creative Tank§r; instead...%n- §6Stabilized Micro Miners§r for late-game infinite resources%n- Harder recipes for assorted things like §6Iridium§r, §3Numismatic Dynamos§r, and more%n%nTo enable §cExpert§r mode, change the pack mode (Options -> Pack Mode) to Expert, then run §e/bq_admin default load ExpertQuests§r. The same command should be used for updating the quest book on Expert mode.%nTo go back, change the pack mode to §aNormal§r and run §e/bq_admin default load§r.%n%nTo tune your challenge even further, check out the various recipe configs in the GregTech config file.
 nomifactory.quest.db.911.desc=The §2CEu§r§r version of Nomi is already slightly harder than the original, due to various progression changes CEu makes.%n%nBut if you want a §charder§r, or perhaps a more "§5true§r" §dGregTech§r experience, check out the §cExpert§r mode. This pack mode is based on the §bSelf-Torture Edition fork§r of the original pack.%n%nHighlights include:%n%n- No §bDML§r for easy infinite resources%n- §6Omnicoins§r can't be spent%n- The §7Steam Age§r%n- No §3Creative Tank§r; instead...%n- §6Stabilized Micro Miners§r for late-game infinite resources%n- Harder recipes for assorted things like §6Iridium§r, §3Numismatic Dynamos§r, and more%n%nTo enable §cExpert§r mode, change the pack mode (Options -> Pack Mode) to Expert, then run §e/bq_admin default load ExpertQuests§r. The same command should be used for updating the quest book on Expert mode.%nTo go back, change the pack mode to §aNormal§r and run §e/bq_admin default load§r.%n%nTo tune your challenge even further, check out the various recipe configs in the GregTech config file.
 
