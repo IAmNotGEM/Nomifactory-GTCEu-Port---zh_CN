@@ -440,7 +440,7 @@ nomifactory.quest.db.64.desc=§b应用能源2§r使用§6存储元件§r作为�
 #nomifactory.quest.db.65.title=§2Tier Three Micro Miner
 nomifactory.quest.db.65.title=§2三阶微型采掘机
 #nomifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§6* Tetrahedrite Ore%n* Cassiterite Ore%n* Tungstate Ore%n* Scheelite Ore%n* Redstone Ore%n* Quartz Ore%n* Vanadium Magnetite Ore%n§2* Ilmenite Ore§6%n* Tin Ore%n* Sapphire Ore§r%n§6* Almandine Ore§r%n%nWhen equipped with Gemstone Sensor:%n§6§2* Perfect Emeralds%n* Perfect Diamonds%n* Perfect Rubies%n* Perfect Topaz%n§6* Silver Ore%n* Gold Ore
-nomifactory.quest.db.65.desc=第三级微型采掘机。%n%n这个你可以获得:%n§6* 黝铜矿矿石%n* 锡石矿石%n* 钨酸锂矿石%n* 白钨矿矿石%n* 红石矿石%n* 赛特斯石英矿石%n* 钒磁铁矿矿石%n§2* 钛铁矿矿石§6%n* 锡矿石%n* 锂云母矿石§r%n§6* 铁铝榴石矿石§r%n%n当配备了宝石传感器时:%n§2* 完美绿宝石%n* 完美钻石%n* 完美红宝石%n* 完美黄玉%n§6* 银矿石%n* 金矿石%n* 蓝宝石矿石
+nomifactory.quest.db.65.desc=第三级微型采掘机。%n%n这个你可以获得:%n§6* 黝铜矿矿石%n* 锡石矿石%n* 钨酸锂矿石%n* 白钨矿矿石%n* 红石矿石%n* 赛特斯石英矿石%n* 钒磁铁矿矿石%n§2* 钛铁矿矿石§6%n* 锡矿石%n* 锂云母矿石§r%n§6* 铁铝榴石矿石§r%n%n当配备了宝石探测器时:%n§2* 完美绿宝石%n* 完美钻石%n* 完美红宝石%n* 完美黄玉%n§6* 银矿石%n* 金矿石%n* 蓝宝石矿石
 
 # db 66
 #nomifactory.quest.db.66.title=From Dusts To Wires
@@ -854,7 +854,7 @@ nomifactory.quest.db.136.desc=Another electronic component.%n%nMaking it inside 
 #nomifactory.quest.db.138.title=§2LuV Machine Hulls
 nomifactory.quest.db.138.title=§2LuV机械方块
 #nomifactory.quest.db.138.desc=With §6§2Rhodium Plated Lumium-Palladium§r,§6 Vanadium-Gallium§r, §2and Polyphenylene Sulfide§r, you can now make hulls for Ludicrous Voltage (LuV) §bGregTech§r machines.
-nomifactory.quest.db.138.desc=With §6§2Rhodium Plated Lumium-Palladium§r,§6 Vanadium-Gallium§r, §2and Polyphenylene Sulfide§r, you can now make hulls for Ludicrous Voltage (LuV) §bGregTech§r machines.
+nomifactory.quest.db.138.desc=有了§6镀铑钯金§r、§6钒镓§r、§2和聚苯硫醚§r，你现在可以为巨差压(LuV)§b格雷科技§r机器制作机械方块。
 
 # db 139
 #nomifactory.quest.db.139.title=Rare Earth
@@ -944,7 +944,7 @@ nomifactory.quest.db.154.desc=有了三阶电路，就该做一个§3蒸馏塔§
 #nomifactory.quest.db.155.title=§2The Fourth and Final Tier Five Circuits
 nomifactory.quest.db.155.title=§2第四种也是最后一种五阶电路
 #nomifactory.quest.db.155.desc=With your §6Crystal CPUs§r and the §3LuV Assembling Machine§r crafted, you can make the final type of Tier Five Circuit: the §6Crystal Circuit§r.%n%n§2This is the first Circuit which strictly requires Advanced SMD components. All of them will from now on.§r%n%nAs the best form of Tier Five circuit, these should be automated and stockpiled. The variant recipe requiring §6Crystal System-on-Chip§r won't be available until you can make a §3ZPM Assembling Machine§r.
-nomifactory.quest.db.155.desc=With your §6Crystal CPUs§r and the §3LuV Assembling Machine§r crafted, you can make the final type of Tier Five Circuit: the §6Crystal Circuit§r.%n%n§2This is the first Circuit which strictly requires Advanced SMD components. All of them will from now on.§r%n%nAs the best form of Tier Five circuit, these should be automated and stockpiled. The variant recipe requiring §6Crystal System-on-Chip§r won't be available until you can make a §3ZPM Assembling Machine§r.
+nomifactory.quest.db.155.desc=有了你的§6晶体CPU§r和§3LuV电路组装机§r的制作，你可以制作最后一种五阶电路: §6晶体电路§r。%n%n§2这是第一个严格要求高级SMD元件的电路。从现在开始，所有的都是。§r%n%n作为第五阶电路的最佳形式，这些电路应该是自动化的，并储存起来。需要§6晶体片上系统§r的变体配方在你能制造出§3ZPM电路组装机§r时才会出现。
 
 # db 156
 #nomifactory.quest.db.156.title=Kanthal Ingots
@@ -1112,7 +1112,7 @@ nomifactory.quest.db.182.desc=一种无色的流体，有刺激性的、类似�
 #nomifactory.quest.db.183.title=§2Fiber Reinforced Epoxy Substrate
 nomifactory.quest.db.183.title=§2纤维强化环氧树脂基板
 #nomifactory.quest.db.183.desc=A §6Fiber-Reinforced Epoxy Resin Sheet§r is made in a §3Chemical Bath§r, not a §3Chemical Reactor§r. The board itself is made in a Chemical Reactor though.%n%nOther than that, it's very similar to the other substrates you've made so far. This board type unlocks §2Quantum Circuits, which span tiers four through seven.
-nomifactory.quest.db.183.desc=A §6Fiber-Reinforced Epoxy Resin Sheet§r is made in a §3Chemical Bath§r, not a §3Chemical Reactor§r. The board itself is made in a Chemical Reactor though.%n%nOther than that, it's very similar to the other substrates you've made so far. This board type unlocks §2Quantum Circuits, which span tiers four through seven.
+nomifactory.quest.db.183.desc=§6纤维强化环氧树脂基板§r是在§3化学浸洗器§r而不是§3化学反应釜§r中制造的。不过电路板本身是在化学反应釜中制造的。%n%n除此以外，它与你到目前为止所做的其他基板非常相似。这种电路板类型可以解锁§2量子电路，它横跨第四阶至第七阶§r。
 
 # db 184
 #nomifactory.quest.db.184.title=§2Navigating Petrochem
@@ -1298,7 +1298,7 @@ nomifactory.quest.db.216.desc=这是你的第一个§3微型宇宙投影仪§r�
 #nomifactory.quest.db.217.title=§2First Foray Into The Microverse
 nomifactory.quest.db.217.title=§2初次尝试进入微型宇宙
 #nomifactory.quest.db.217.desc=This is your first Micro Miner ever.%nYes, not the last: these things aren't reusable.%n%nThis one can get you:%n§6* Cassiterite Ore%n* Dense Iron Ore%n* Uraninite Ore%n* Redstone Ore%n* Nickel Ore%n§2* Bauxite Ore%n§6* Galena Ore%n* Moon Turf%n* Dilithium%n* Salt Ore§r%n§2* Molybdenum Ore§r%n%nWhen equipped with a Gemstone Sensor (which may currently not be available to you yet):%n§2* Perfect Diamond%n§6* Apatite Ore%n* Tricalcium Phosphate Ore%n* Quartzite Ore§r%n%nCan also be used to bring §bStellar Creation Data§r, but less efficiently than the Tier Two.%n%n
-nomifactory.quest.db.217.desc=这是你有史以来第一个微型采掘机。%n是的，不是最后一个: 这些东西是不能重复使用的。%n%n这个你可以获得:%n§6* 锡石矿石%n* 富集铁矿石%n* 晶质铀矿矿石%n* 红石矿石%n* 镍矿石%n§2* 钛铁矿矿石%n§6* 方铅矿矿石%n* 月面土%n* 双锂%n* 盐矿石§r%n§2* 钼矿石§r%n%n当配备了宝石传感器时(目前可能还没有提供给你):%n§2* 完美钻石%n§6* 磷灰石矿石%n* 磷酸三钙矿石%n* 石英岩矿石§r%n%n也可用于带来§b恒星创造数据§r，但效率不如第二级。
+nomifactory.quest.db.217.desc=这是你有史以来第一个微型采掘机。%n是的，不是最后一个: 这些东西是不能重复使用的。%n%n这个你可以获得:%n§6* 锡石矿石%n* 富集铁矿石%n* 晶质铀矿矿石%n* 红石矿石%n* 镍矿石%n§2* 钛铁矿矿石%n§6* 方铅矿矿石%n* 月面土%n* 双锂%n* 盐矿石§r%n§2* 钼矿石§r%n%n当配备了宝石探测器时(目前可能还没有提供给你):%n§2* 完美钻石%n§6* 磷灰石矿石%n* 磷酸三钙矿石%n* 石英岩矿石§r%n%n也可用于带来§b恒星创造数据§r，但效率不如第二级。
 
 # db 219
 #nomifactory.quest.db.219.title=Travel Anchors
@@ -1442,7 +1442,7 @@ nomifactory.quest.db.241.desc=Heavy plating used exclusively for the Tier Eight 
 #nomifactory.quest.db.242.title=§2Wetware Substrate
 nomifactory.quest.db.242.title=§2湿件基板
 #nomifactory.quest.db.242.desc=The most advanced substrate available, prepared for bleeding-edge bioengineering technology.%n%n§6Wetware Circuit Boards§r are the basis of §6Wetware§r circuits, the final theme that spans tiers six through nine.
-nomifactory.quest.db.242.desc=The most advanced substrate available, prepared for bleeding-edge bioengineering technology.%n%n§6Wetware Circuit Boards§r are the basis of §6Wetware§r circuits, the final theme that spans tiers six through nine.
+nomifactory.quest.db.242.desc=最先进的基板，为前沿生物工程技术准备的。%n%n§6湿件电路板§r是§6湿件§r电路的基础，是横跨第六阶到第九阶的最后一个主题。
 
 # db 243 (MISSING)
 #nomifactory.quest.db.243.title=Superconducting Coil Block
@@ -1490,7 +1490,7 @@ nomifactory.quest.db.250.desc=§6双锂水晶§r被用来为跃迁核心提供�
 #nomifactory.quest.db.251.title=§2Tier Four Micro Miner
 nomifactory.quest.db.251.title=§2四阶微型采掘机
 #nomifactory.quest.db.251.desc=The Fourth Micro Miner.%n%nAll of the Tier Four missions require §68 Quantum Flux§r and a stack of §6Petrotheum Dust§r.%n%nThis miner is the first convenient source of §6Osmium§r and §6Iridium§r, via a mission requiring §6Wither Realm Data§r.%n%nA §6Composition Sensor§r instead directs the miner to obtain §6Dense Oilsands Ore§r, equivalent to §264§r stacks of §6Oilsands Ore§r.%n%nWhen equipped with a §6Gemstone Sensor§r:%n§6* Dense Redstone Ore%n* Dense Emerald Ore%n* Dense Diamond Ore%n* Dense Lapis Ore%n* Dense Coal Ore§r
-nomifactory.quest.db.251.desc=The Fourth Micro Miner.%n%nAll of the Tier Four missions require §68 Quantum Flux§r and a stack of §6Petrotheum Dust§r.%n%nThis miner is the first convenient source of §6Osmium§r and §6Iridium§r, via a mission requiring §6Wither Realm Data§r.%n%nA §6Composition Sensor§r instead directs the miner to obtain §6Dense Oilsands Ore§r, equivalent to §264§r stacks of §6Oilsands Ore§r.%n%nWhen equipped with a §6Gemstone Sensor§r:%n§6* Dense Redstone Ore%n* Dense Emerald Ore%n* Dense Diamond Ore%n* Dense Lapis Ore%n* Dense Coal Ore§r
+nomifactory.quest.db.251.desc=第四个微型微型采掘机。%n%n所有的四级采掘任务都需要§68个量子通量§r和一组§6地岩粉§r。%n%n这个采掘机是第一个方便的§6锇§r和§6铱§r来源，通过一个需要§6凋零领域数据§r的采掘任务。%n%n一个§6成分传感器§r可以引导采掘机获得§6富集油砂矿石§r，相当于§264组§r的§6油砂矿石§r。%n%n当配备了一个§6宝石探测器§r时:%n§6* 富集红石矿石%n* 富集绿宝石矿石%n* 富集钻石矿石%n* 富集青金石矿石%n* 富集的煤矿石§r
 
 # db 252
 #nomifactory.quest.db.252.title=§2Tier Five Micro Miner
@@ -1502,7 +1502,7 @@ nomifactory.quest.db.252.desc=The Fifth Micro Miner.%n%nThe only source of §6Na
 #nomifactory.quest.db.253.title=Iridium
 nomifactory.quest.db.253.title=铱
 #nomifactory.quest.db.253.desc=§6Iridium§r is an advanced material used for Micro Miner plating, §6§rand for alloying with §6Osmium§r into §6Osmiridium§r.%n%n§6Iridium Ore§r is available renewably from the Tier Four and Tier Six micro miners.
-nomifactory.quest.db.253.desc=§6Iridium§r is an advanced material used for Micro Miner plating, §6§rand for alloying with §6Osmium§r into §6Osmiridium§r.%n%n§6Iridium Ore§r is available renewably from the Tier Four and Tier Six micro miners.
+nomifactory.quest.db.253.desc=§6铱是一种先进的材料，用于微型采掘机甲板，并与§6锇§r合金为§6锇铱§r。%n%n§6铱矿§r可以从第四级和第六级的微型采掘机那里获得再生。
 
 # db 254
 #nomifactory.quest.db.254.title=§2Tier Six Micro Miner
@@ -1562,19 +1562,19 @@ nomifactory.quest.db.262.desc=一种用于§a终极拓展工作台§r和其他�
 #nomifactory.quest.db.263.title=Indium
 nomifactory.quest.db.263.title=铟
 #nomifactory.quest.db.263.desc=§6Indium§r is a rare material requiring specialized bulk ore processing to acquire. It is useful for making §6Indium Gallium Phosphide§r (InGaP).%n%nYou will need to purify (with a §3Washer§r or §3Chemical Bath§r) §6Galena§r and §6Sphalerite§r to get §6Crushed Purified§r dusts. These need to be placed together in a §3Chemical Reactor§r along with §9Sulfuric Acid§r, which will result in §9Indium Concentrate§r.%n%nThis in turn needs to be reacted with §6Aluminium§r in another Chemical Reactor, to create §2Small Piles of Indium Dust, Aluminium Sulfite and §9Lead-Zinc Solution§r. The latter two can be centrifuged into various useful materials, and the Indium piles can be combined into full dusts.%n%n§2Indium can also be obtained from the Naquadah processing chain in LuV.%n
-nomifactory.quest.db.263.desc=§6Indium§r is a rare material requiring specialized bulk ore processing to acquire. It is useful for making §6Indium Gallium Phosphide§r (InGaP).%n%nYou will need to purify (with a §3Washer§r or §3Chemical Bath§r) §6Galena§r and §6Sphalerite§r to get §6Crushed Purified§r dusts. These need to be placed together in a §3Chemical Reactor§r along with §9Sulfuric Acid§r, which will result in §9Indium Concentrate§r.%n%nThis in turn needs to be reacted with §6Aluminium§r in another Chemical Reactor, to create §2Small Piles of Indium Dust, Aluminium Sulfite and §9Lead-Zinc Solution§r. The latter two can be centrifuged into various useful materials, and the Indium piles can be combined into full dusts.%n%n§2Indium can also be obtained from the Naquadah processing chain in LuV.%n
+nomifactory.quest.db.263.desc=§6铟§r是一种稀有材料，需要专门的散装矿石处理来获取。它对制造§6磷化镓粉§r(InGaP)很有用。%n%n你将需要洁净(用§3洗矿厂§r或§3化学浸洗器§r)§6方铅矿§r和§6闪锌矿§r，以获得§6粉碎洁净的§r粉。这些需要和§9硫酸§r一起放在§3化学反应釜§r中，这将产生§9铟富集溶液§r。%n%n这又需要在另一个化学反应釜中与§6铝§r反应，以产生§2小堆铟粉、亚硫酸铝和§9铅锌溶液§r。后两者可以被离心成各种有用的材料，而小堆铟可以被组合成完整的粉。%n%n§2铟也可以从LuV的硅岩处理链中获得。
 
 # db 264
 #nomifactory.quest.db.264.title=§2The Third And Final Tier Four Circuits
 nomifactory.quest.db.264.title=§2第四种也是最后一种四阶电路
 #nomifactory.quest.db.264.desc=With your new §6§6§ §6Epoxy Circuit Boards§r, §6QBit CPUs§r, and some standard components, you can make the final type of Tier Four Circuit: the §6Quantum Circuit§r.%n%nAs the best form of Tier Four circuit, these should be automated and stockpiled. The variant recipe requiring §6Advanced System-on-Chip§r won't be available until ZPM.
-nomifactory.quest.db.264.desc=With your new §6§6§ §6Epoxy Circuit Boards§r, §6QBit CPUs§r, and some standard components, you can make the final type of Tier Four Circuit: the §6Quantum Circuit§r.%n%nAs the best form of Tier Four circuit, these should be automated and stockpiled. The variant recipe requiring §6Advanced System-on-Chip§r won't be available until ZPM.
+nomifactory.quest.db.264.desc=用你的全新§6环氧树脂电路板§r、§6QBit处理器§r和一些标准元件，你可以制作最后类型的四阶电路: §6量子电路§r。%n%n作为第四阶电路的最佳形式，这些电路应该是自动化的，并储存起来。需要§6高级片上系统§r的变体配方在ZPM之前不会出现。
 
 # db 265
 #nomifactory.quest.db.265.title=QBit Processing Unit
 nomifactory.quest.db.265.title=QBit处理器
 #nomifactory.quest.db.265.desc=§6QBit CPUs§r are an advanced Circuit Wafer crucial for §6Quantum Circuits§r.%n%nThere are two methods of creating them:%n%nThe simpler recipe uses two §6Quantum Eyes§r and two ingots worth of molten §9Gallium Arsenide§r to enhance a §6NanoCPU Wafer§r. This recipe is slow and requires substantially more §9Radon§r per craft.%n%nThe other route instead uses §6Indium Gallium Phosphide§r and a tiny amount of Radon. This skips the slow-crafting Quantum Eyes, using far less Radon in the process, but requires the infrastructure in place for obtaining §6Indium§r.%n%nThe second route is overall better, and you will need Indium processing to complete the pack so might as well do it.
-nomifactory.quest.db.265.desc=§6QBit CPUs§r are an advanced Circuit Wafer crucial for §6Quantum Circuits§r.%n%nThere are two methods of creating them:%n%nThe simpler recipe uses two §6Quantum Eyes§r and two ingots worth of molten §9Gallium Arsenide§r to enhance a §6NanoCPU Wafer§r. This recipe is slow and requires substantially more §9Radon§r per craft.%n%nThe other route instead uses §6Indium Gallium Phosphide§r and a tiny amount of Radon. This skips the slow-crafting Quantum Eyes, using far less Radon in the process, but requires the infrastructure in place for obtaining §6Indium§r.%n%nThe second route is overall better, and you will need Indium processing to complete the pack so might as well do it.
+nomifactory.quest.db.265.desc=§6QBit处理器s§r是一种先进的电路晶圆，对§6量子电路§r至关重要。%n%n有两种方法可以制作它们:%n%n较简单的配方是使用两个§6量子之眼§r和两个熔化的§9砷化镓§r锭来增强一个§6纳米CPU晶片§r。这个配方很慢，每次制作需要大量的§9氡§r。%n%n另一条路线则使用§6磷化镓粉§r和少量的氡。这跳过了制作量子之眼的缓慢过程，在制作过程中使用了少得多的氡，但需要获得§6铟§r的基础设施。%n%n第二条路线总体上更好，而且你需要铟的处理来完成整合包，所以不妨这样做。
 
 # db 266
 #nomifactory.quest.db.266.title=§2GT Item Pipes
@@ -1592,13 +1592,13 @@ nomifactory.quest.db.267.desc=将需要大量的§9氡§r。%n%n目前，你需�
 #nomifactory.quest.db.268.title=The Third Tier Five Circuit
 nomifactory.quest.db.268.title=第三种五阶电路
 #nomifactory.quest.db.268.desc=Nothing new here, just use more standard circuit stuff and you can upgrade several §6Quantum Circuits§r into a §6Quantum Processor§r.
-nomifactory.quest.db.268.desc=Nothing new here, just use more standard circuit stuff and you can upgrade several §6Quantum Circuits§r into a §6Quantum Processor§r.
+nomifactory.quest.db.268.desc=这里没有什么新颖的，只是使用更多的标准电路的东西，你可以把几个§6量子电路§r升级为一个§6量子处理器§r。
 
 # db 269
 #nomifactory.quest.db.269.title=§2The Second Tier Six Circuits
 nomifactory.quest.db.269.title=§2第二种六阶电路
 #nomifactory.quest.db.269.desc=§2Nothing special about this tier either.
-nomifactory.quest.db.269.desc=§2Nothing special about this tier either.
+nomifactory.quest.db.269.desc=§2这个级别的没有什么特别之处。
 
 # db 270
 #nomifactory.quest.db.270.title=§2LV Macerator
@@ -1652,7 +1652,7 @@ nomifactory.quest.db.278.desc=你可以将各种各样的物品与§6空白数�
 #nomifactory.quest.db.279.title=Breaking Some Eggs
 nomifactory.quest.db.279.title=打碎龙蛋
 #nomifactory.quest.db.279.desc="§6Dragon Eggs§r?" You might ask. Yep.%n%nThe final circuit theme, Wetware, will require a lot of them.%n%nTier Six Micro Miners can get some eggs (enough for this quest, as it happens), but Tier Seven miners are a better long-term solution for building up your supply, as they also give §6Dragon Hearts§r.%n%nLater, you'll also get substantial quantities from Tier Eight Micro Miners, while you are accumulating §6Chaos Shards§r.%n%n
-nomifactory.quest.db.279.desc="§6Dragon Eggs§r?" You might ask. Yep.%n%nThe final circuit theme, Wetware, will require a lot of them.%n%nTier Six Micro Miners can get some eggs (enough for this quest, as it happens), but Tier Seven miners are a better long-term solution for building up your supply, as they also give §6Dragon Hearts§r.%n%nLater, you'll also get substantial quantities from Tier Eight Micro Miners, while you are accumulating §6Chaos Shards§r.%n%n
+nomifactory.quest.db.279.desc=“§6龙蛋§r？”你可能会问。是的。%n%n最后的电路主题，湿件，将需要很多这样的东西。%n%n六级微型采掘机可以得到一些龙蛋(恰好足够用于这个任务)，但七级采掘机是一个更好的长期解决方案，可以建立你的供应，因为他们也可以得到§6龙之心§r。%n%n后来，你还会从八级微型采掘机那里得到大量的东西，同时你也在积累§6混沌碎片§r。
 
 # db 280
 #nomifactory.quest.db.280.title=Mote of Omnium
@@ -1670,19 +1670,19 @@ nomifactory.quest.db.282.desc=福鲁伊克斯最初是通过世界配方内的�
 #nomifactory.quest.db.283.title=§2LuV Circuit Assembling Machine
 nomifactory.quest.db.283.title=§2LuV电路组装机
 #nomifactory.quest.db.283.desc=With your §6§2Rhodium Plated Lumium-Palladium§r-based machine hulls, Assembling Machine built, and §6Quantum Processor Mainframes§r squared away, you can finally get on the path to making a Ludicrous Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Crystal Circuits§r, as well as handling crafting recipes up to 32768 EU/t. It can also optionally overclock recipes that consume up to 8192 EU/t for improved speed at the cost of relatively more power.
-nomifactory.quest.db.283.desc=With your §6§2Rhodium Plated Lumium-Palladium§r-based machine hulls, Assembling Machine built, and §6Quantum Processor Mainframes§r squared away, you can finally get on the path to making a Ludicrous Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Crystal Circuits§r, as well as handling crafting recipes up to 32768 EU/t. It can also optionally overclock recipes that consume up to 8192 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.283.desc=有了你的以§2镀铑钯金§r为基础的机械方块、组装机和§6量子电脑主机§r，你终于可以制造剧差压§3电路组装机§r了。%n%n这个级别的组装机可以解锁§6晶体电路§r，以及处理高达32768EU/t的制作配方。它还可以选择性地对耗能高达8192EU/t的配方进行超频，以相对更多的电力为代价提高速度。
 
 # db 285
 #nomifactory.quest.db.285.title=Vanadium Gallium
 nomifactory.quest.db.285.title=钒镓合金
 #nomifactory.quest.db.285.desc=§6Vanadium-Gallium§r is an alloy made in the §3Electric Blast Furnace§r. It is a Ludicrous Voltage (LuV) cable material needed for certain recipes.%n%n§6
-nomifactory.quest.db.285.desc=§6Vanadium-Gallium§r is an alloy made in the §3Electric Blast Furnace§r. It is a Ludicrous Voltage (LuV) cable material needed for certain recipes.%n%n§6
+nomifactory.quest.db.285.desc=§6钒镓§r是一种在§3电力高炉§r中制造的合金。它是某些配方所需的巨差压(LuV)导线材料。
 
 # db 286
 #nomifactory.quest.db.286.title=§2Assembly Line
 nomifactory.quest.db.286.title=§2装配线
 #nomifactory.quest.db.286.desc=The §3Assembly Line§r is a large multiblock structure that crafts complex materials, similar to an §3Assembling Machine§r. These will be crucial going forward for making a variety of components and machinery.%n%nMake sure your power generation and circuit production are up to the challenge. §2None of the Assembly Line recipes require programmed circuits anymore.§r%n%nNotice that all numbers of required items are §emultiples of 11.§r This is to make an Assembly Line that's 11 units long, allowing for 10 inputs and one output. This is a large enough Assembly Line to make a §aFusion Reactor Controller Mk1§r, but you'll need to expand to more inputs for later projects.%n%n§2You will also need a Maintenance Hatch.%n%n§aFluid Input Hatches§r can replace any of the §6Steel Casings§r along the bottom outside except for the Casings touching the §aOutput Bus§r. For the most part, ULV ones work fine, but a few recipes will need an LV one.%n%nThe §aEnergy Input Hatches§r along the top can be replaced by Steel Casings: you only need the one Energy Input Hatch (although you can add more if you want).%n%nThe §aInput Buses§r along the bottom §emust be ULV tier§r, nothing else. Make sure to spin them all so the hole is on the bottom.
-nomifactory.quest.db.286.desc=The §3Assembly Line§r is a large multiblock structure that crafts complex materials, similar to an §3Assembling Machine§r. These will be crucial going forward for making a variety of components and machinery.%n%nMake sure your power generation and circuit production are up to the challenge. §2None of the Assembly Line recipes require programmed circuits anymore.§r%n%nNotice that all numbers of required items are §emultiples of 11.§r This is to make an Assembly Line that's 11 units long, allowing for 10 inputs and one output. This is a large enough Assembly Line to make a §aFusion Reactor Controller Mk1§r, but you'll need to expand to more inputs for later projects.%n%n§2You will also need a Maintenance Hatch.%n%n§aFluid Input Hatches§r can replace any of the §6Steel Casings§r along the bottom outside except for the Casings touching the §aOutput Bus§r. For the most part, ULV ones work fine, but a few recipes will need an LV one.%n%nThe §aEnergy Input Hatches§r along the top can be replaced by Steel Casings: you only need the one Energy Input Hatch (although you can add more if you want).%n%nThe §aInput Buses§r along the bottom §emust be ULV tier§r, nothing else. Make sure to spin them all so the hole is on the bottom.
+nomifactory.quest.db.286.desc=§3装配线§r是一个大型的多方块结构，可以制作复杂的材料，类似于§3组装机§r。这些将是未来制造各种组件和机器的关键。%n%n确保你的发电和电路生产能够应对挑战。§2装配线的配方都不再需要编程电路。§r%n%n请注意，所有需要的物品的数量都是11的倍数。§r这是要做一条11个单位长的装配线，允许10个输入和一个输出。这是一个足够大的装配线，可以制作一个§a核聚变反应堆控制电脑Mk1§r，但你需要在以后的工程中扩展到更多的输入。%n%n§2你还将需要一个维护仓。%n%n§a输入仓§r可以取代任何一个沿底部外侧的§6钢机械方块§r，除了接触到§a输出总线§r的钢机械方块。在大多数情况下，ULV的效果很好，但有几个配方需要LV的。%n%n沿着顶部的§a能源仓§r可以用钢机械方块代替: 你只需要一个能源仓(尽管如果你想的话，你可以增加更多)。%n%n沿着底部的§a输入总线§r必须是ULV级别§r，没有其他的了。确保将它们都旋转起来，使输出口都在底部。
 
 # db 287
 #nomifactory.quest.db.287.title=§2Fusion Reactor MK1
@@ -1700,13 +1700,13 @@ nomifactory.quest.db.288.desc=You'll need at least §6Naquadah Coil Blocks§r in
 #nomifactory.quest.db.289.title=§2Engraved Crystal Chip
 nomifactory.quest.db.289.title=§2刻蚀水晶芯片
 #nomifactory.quest.db.289.desc=By baking a §2Raw Crystal Chip §rand §6Emerald Plates§r with §9Helium§r in an §3Electric Blast Furnace§r, you can create an §6Engraved Crystal Chip§r.%n%nThis is a material needed for §6Crystal Circuits§r.
-nomifactory.quest.db.289.desc=By baking a §2Raw Crystal Chip §rand §6Emerald Plates§r with §9Helium§r in an §3Electric Blast Furnace§r, you can create an §6Engraved Crystal Chip§r.%n%nThis is a material needed for §6Crystal Circuits§r.
+nomifactory.quest.db.289.desc=通过在§3电力高炉§r中用§9氦§r熔炼§2晶体芯片原料§r和§6绿宝石板§r，你可以制造一个§6刻蚀水晶芯片§r。%n%n这是§6晶体电路§r所需的材料。
 
 # db 291
 #nomifactory.quest.db.291.title=§2Crystal Processing Unit
 nomifactory.quest.db.291.title=§2晶体处理器
 #nomifactory.quest.db.291.desc=§6Crystal CPUs§r are the cores of §6Crystal Circuits§r.%n%nYou'll need an §2LuV Precision Laser Engraver§r to craft this.
-nomifactory.quest.db.291.desc=§6Crystal CPUs§r are the cores of §6Crystal Circuits§r.%n%nYou'll need an §2LuV Precision Laser Engraver§r to craft this.
+nomifactory.quest.db.291.desc=§6晶体处理器§r是§6晶体电路§r的核心。%n%n你需要一个§2LuV精密激光蚀刻机§r来制作这个。
 
 # db 292
 #nomifactory.quest.db.292.title=§2The Third Tier Six Circuits
@@ -1838,31 +1838,31 @@ nomifactory.quest.db.312.desc=§6高速钢-G§r是由§6钨钢§r、§6铬§r、
 #nomifactory.quest.db.313.title=HSS-G Coil Block
 nomifactory.quest.db.313.title=高速钢-G线圈方块
 #nomifactory.quest.db.313.desc=§6HSS-G§r is the fifth coil material available, increasing your EBF's operating temperature to 5400K so it can process more advanced materials, such as §6Naquadah§r.
-nomifactory.quest.db.313.desc=§6HSS-G§r is the fifth coil material available, increasing your EBF's operating temperature to 5400K so it can process more advanced materials, such as §6Naquadah§r.
+nomifactory.quest.db.313.desc=§6高速钢-G§r是第五种可用的线圈材料，将您的电力高炉的工作温度提高到5400K，因此它可以加工更先进的材料，如§6硅岩§r。
 
 # db 314
 #nomifactory.quest.db.314.title=§2Iridium Heavy Plating
 nomifactory.quest.db.314.title=§2铱重板
 #nomifactory.quest.db.314.desc=Heavy plating made from §6Iridium§r for Tier Five and Tier Eight Micro Miners.
-nomifactory.quest.db.314.desc=Heavy plating made from §6Iridium§r for Tier Five and Tier Eight Micro Miners.
+nomifactory.quest.db.314.desc=由§6铱§r制成的重板，用于五级和八级微型采掘机。
 
 # db 315
 #nomifactory.quest.db.315.title=§2Signalum Heavy Plating
 nomifactory.quest.db.315.title=§2信素重板
 #nomifactory.quest.db.315.desc=A heavy plating material required for the next two tiers of Micro Miners.
-nomifactory.quest.db.315.desc=A heavy plating material required for the next two tiers of Micro Miners.
+nomifactory.quest.db.315.desc=接下来两级的微型采掘机所需的重型材料。
 
 # db 316
 #nomifactory.quest.db.316.title=§2Enderium Heavy Plating
 nomifactory.quest.db.316.title=§2末影重板
 #nomifactory.quest.db.316.desc=Heavy plating made from §6Enderium§r used for the Tier Six Micro Miner.
-nomifactory.quest.db.316.desc=Heavy plating made from §6Enderium§r used for the Tier Six Micro Miner.
+nomifactory.quest.db.316.desc=由§6末影§r制成的重板，用于六级微型采掘机。
 
 # db 317
 #nomifactory.quest.db.317.title=Quantum Fluxed Eternium Heavy Plating
 nomifactory.quest.db.317.title=量子充能永恒重板
 #nomifactory.quest.db.317.desc=A complex plating material used exclusively for the Tier Nine Micro Miner.
-nomifactory.quest.db.317.desc=A complex plating material used exclusively for the Tier Nine Micro Miner.
+nomifactory.quest.db.317.desc=一种专门用于九级微型采掘机的复杂重型材料。
 
 # db 318
 #nomifactory.quest.db.318.title=§2Epoxy Production
@@ -1916,7 +1916,7 @@ nomifactory.quest.db.325.desc=With a §3Fusion Reactor§r, you can make Europium
 #nomifactory.quest.db.327.title=§2Stem Cells
 nomifactory.quest.db.327.title=§2干细胞
 #nomifactory.quest.db.327.desc=Just ignore the protesters outside your base.%n%nEach craft in an §3LuV Chemical Reactor§r takes five minutes, so it's probably a good idea to have more than one machine running this recipe. At least you get §2128 from a single craft.%n
-nomifactory.quest.db.327.desc=Just ignore the protesters outside your base.%n%nEach craft in an §3LuV Chemical Reactor§r takes five minutes, so it's probably a good idea to have more than one machine running this recipe. At least you get §2128 from a single craft.%n
+nomifactory.quest.db.327.desc=不要理会你们基地外的抗议者。%n%n在一个§3LuV化学反应釜§r中的每次运作都需要5分钟，所以让多台机器运行这个配方可能是个好主意。至少你可以从§2单次制作中获得128个§r。
 
 # db 328
 #nomifactory.quest.db.328.title=Boron
@@ -2516,19 +2516,19 @@ nomifactory.quest.db.522.desc=This compressor is needed for making §6Iridium He
 #nomifactory.quest.db.523.title=§2The Second Tier Five Circuits
 nomifactory.quest.db.523.title=§2第二种五阶电路
 #nomifactory.quest.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Lumium Wire§r and §2Fine Tungstensteel Wire.
-nomifactory.quest.db.523.desc=Upgrading to the §6Nano Supercomputer§r requires some standard circuit components, but also some §6Lumium Wire§r and §2Fine Tungstensteel Wire.
+nomifactory.quest.db.523.desc=升级到§6纳米超级计算机§r需要一些标准的电路元件，但也需要一些§6流明导线§r和§2细钨钢导线§r。
 
 # db 524
 #nomifactory.quest.db.524.title=§2The First Tier Six Circuits
 nomifactory.quest.db.524.title=§2第一种六阶电路
 #nomifactory.quest.db.524.desc=The first and most expensive Tier Six Circuit, needed for crafting the §3IV Assembling Machine§r.%n%nRequires a bunch of standard circuit components.
-nomifactory.quest.db.524.desc=The first and most expensive Tier Six Circuit, needed for crafting the §3IV Assembling Machine§r.%n%nRequires a bunch of standard circuit components.
+nomifactory.quest.db.524.desc=第一种也是最昂贵的六阶电路，需要用来制作§3IV电路组装机§r。%n%n需要一堆标准的电路元件。
 
 # db 525
 #nomifactory.quest.db.525.title=§2The Second Tier Four Circuits
 nomifactory.quest.db.525.title=§2第二种四阶电路
 #nomifactory.quest.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanocircuits§r to make a §6Nanoprocessor§r.
-nomifactory.quest.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanocircuits§r to make a §6Nanoprocessor§r.
+nomifactory.quest.db.525.desc=这里没有你没见过的东西: 只要把一些标准的电路元件和§6纳米电路§r结合起来，就可以制成一个§6纳米处理器§r。
 
 # db 526
 #nomifactory.quest.db.526.title=§2EV Circuit Assembling Machine
@@ -2552,7 +2552,7 @@ nomifactory.quest.db.528.desc=什么？！%n§6蒸汽能源炉§r正在不断发
 #nomifactory.quest.db.529.title=§2IV Circuit Assembling Machine
 nomifactory.quest.db.529.title=§2IV电路组装机
 #nomifactory.quest.db.529.desc=With your §6Tungstensteel§r-based machine hulls and §6Nanoprocessor Mainframes§r squared away, you can finally get on the path to making an Insane Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Quantum Circuits§r, as well as handling crafting recipes up to 8192 EU/t. It can also optionally overclock recipes that consume up to 2048 EU/t for improved speed at the cost of relatively more power.
-nomifactory.quest.db.529.desc=With your §6Tungstensteel§r-based machine hulls and §6Nanoprocessor Mainframes§r squared away, you can finally get on the path to making an Insane Voltage §3Circuit Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Quantum Circuits§r, as well as handling crafting recipes up to 8192 EU/t. It can also optionally overclock recipes that consume up to 2048 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.529.desc=有了以§6钨钢§r为基础的机械方块和§6纳米电脑主机§r，你终于可以开始制造强导压§3电路组装机§r了。%n%n这个级别的电路组装机可以解锁§6量子电路§r，以及处理高达8192EU/t的制作配方。它还可以选择性地对耗能高达2048EU/t的配方进行超频，以相对更多的电力为代价提高速度。
 
 # db 530
 #nomifactory.quest.db.530.title=§2Your First Circuit
@@ -2564,7 +2564,7 @@ nomifactory.quest.db.530.desc=所有元件准备完毕，现在是时候制作�
 #nomifactory.quest.db.531.title=§2The First Tier Seven Circuits
 nomifactory.quest.db.531.title=§2第一种七阶电路
 #nomifactory.quest.db.531.desc=Now you can craft the §6Quantum Processor Mainframe§r, the first Tier Seven circuit.%n%nThese are required for crafting the Ludicrous Voltage (LuV) §3Assembling Machine§r.
-nomifactory.quest.db.531.desc=Now you can craft the §6Quantum Processor Mainframe§r, the first Tier Seven circuit.%n%nThese are required for crafting the Ludicrous Voltage (LuV) §3Assembling Machine§r.
+nomifactory.quest.db.531.desc=现在你可以制作§6量子电脑主机§r，第一种七阶电路。%n%n这些是制作剧差压(LuV)§3电路组装机§r所需要的。
 
 # db 532
 #nomifactory.quest.db.532.title=§2HV Circuit Assembling Machine
@@ -2600,7 +2600,7 @@ nomifactory.quest.db.536.desc=§6ZPM Machine Hulls§r are made with §2Naquadah 
 #nomifactory.quest.db.537.title=§2Sterilized Growth Medium
 nomifactory.quest.db.537.title=§2无菌培养基
 #nomifactory.quest.db.537.desc=§9Sterilized Growth Medium§r is needed for §6Wetware Circuits§r.%n%nYou'll need to mix §6Mincemeat§r, §2Calcium, Salt, Agar, and Mutagen§r with water in a mixer to make §9Raw Growth Medium§r, then use a §3Fluid Heater§r to sterilize it. §2This is a significantly more involved process than before.§r%n%nMincemeat comes from pulverizing any kind of animal meat. A §aPowered Spawner§r might be useful for this endeavor. §2Agar is produced from Mincemeat through multiple steps.
-nomifactory.quest.db.537.desc=§9Sterilized Growth Medium§r is needed for §6Wetware Circuits§r.%n%nYou'll need to mix §6Mincemeat§r, §2Calcium, Salt, Agar, and Mutagen§r with water in a mixer to make §9Raw Growth Medium§r, then use a §3Fluid Heater§r to sterilize it. §2This is a significantly more involved process than before.§r%n%nMincemeat comes from pulverizing any kind of animal meat. A §aPowered Spawner§r might be useful for this endeavor. §2Agar is produced from Mincemeat through multiple steps.
+nomifactory.quest.db.537.desc=§6湿件电路§r需要§9无菌培养基§r。%n%n你需要将§6肉末§r、§2钙、盐、琼脂和诱变剂§r与水混合，制成§9粗培养基§r，然后用§3流体加热器§r对其进行消毒。§2这是个比以前明显更复杂的过程。§r%n%n肉末来自于对任何种类的动物肉的碾碎。一个§a电动刷怪笼§r可能对这一尝试很有用。§2琼脂是通过多个步骤从肉末中生产出来的。
 
 # db 539
 #nomifactory.quest.db.539.title=Phosphorus
@@ -3306,7 +3306,7 @@ nomifactory.quest.db.742.desc=§e去使用JEI！！！§r%n%n§bJEI§r代表§bJ
 #nomifactory.quest.db.743.title=§2Multi-Layer Fiber-Reinforced Epoxy Substrate
 nomifactory.quest.db.743.title=§2多层纤维强化环氧树脂基板
 #nomifactory.quest.db.743.desc=That's a lot of foil. §2These use Platinum Foil instead of Electrum now.§r%n%nThese boards are required for §6Crystal Circuits§r, as well as the future basis of §6Wetware Lifesupport Circuit Boards§r. These will get you from tier five to tier eight.
-nomifactory.quest.db.743.desc=That's a lot of foil. §2These use Platinum Foil instead of Electrum now.§r%n%nThese boards are required for §6Crystal Circuits§r, as well as the future basis of §6Wetware Lifesupport Circuit Boards§r. These will get you from tier five to tier eight.
+nomifactory.quest.db.743.desc=那是很多的箔。§2这些东西现在使用铂箔而不是琥珀金。§r%n%n这些电路板是§6晶体电路§r所需要的，也是§6湿件电路板§r的未来基础。这些将使你从第五阶横跨到第八阶。
 
 # db 744
 #nomifactory.quest.db.744.title=Signalum
@@ -3546,7 +3546,7 @@ nomifactory.quest.db.782.desc=§2大型涡轮机在社区版：非官方版中�
 #nomifactory.quest.db.783.title=ME Cables
 nomifactory.quest.db.783.title=ME线缆
 #nomifactory.quest.db.783.desc=These are the basic cables used by §3Applied Energistics§r to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.%n%nThese cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept §3Applied Energistics§r§6§r §6Facades§r, so they can be hidden very easily.%n%nLater you can make a variant of the cable that can share blockspace with §3Ender IO§r conduits.
-nomifactory.quest.db.783.desc=这些是§3应用能源2§r用于传输网络连接的基本线缆。由于频道限制被禁用，这些线缆将是你传输网络连接的主要方法，而不是致密线缆。%n%n这些线缆不与其他模组的导管或导线共享方块空间，所以它们在建造时可能有些不方便，但它们接受§3应用能源2§r§的§6伪装板§r，所以它们可以非常容易地被隐藏起来。%n%n以后你可以做一个线缆的变种，可以与§3末影接口§r导管共享方块空间。
+nomifactory.quest.db.783.desc=这些是§3应用能源2§r用于传输网络连接的基本线缆。由于频道限制被禁用，这些线缆将是你传输网络连接的主要方法，而不是致密线缆。%n%n这些线缆不与其他模组的导管或导线共享方块空间，所以它们在建造时可能有些不方便，但它们接受§3应用能源2§r§的§6伪装板§r，所以它们可以非常容易地被隐藏起来。%n%n以后你可以做一个线缆的变体，可以与§3末影接口§r导管共享方块空间。
 
 # db 784
 #nomifactory.quest.db.784.title=§2New Cable Coverings
@@ -3588,7 +3588,7 @@ nomifactory.quest.db.789.desc=§6机器控制覆盖板§r是一个管理§b格�
 #nomifactory.quest.db.790.title=Processing Array
 nomifactory.quest.db.790.title=处理阵列
 #nomifactory.quest.db.790.desc=The §6Processing Array§r is a §bGregTech§r multiblock that allows for processing multiple recipes in parallel in a single stucture and is extremely useful for saving space.%n%nUp to 16 of the same recipe can be processed in parallel by placing the machines for the recipe in exactly one §aMachine Access Interface§r in the multiblock structure, as well as the ingredients and non-consumable items (like §6Integrated Circuits§r) for the recipe you want to process in one or more input buses. While a recipe is running, the Machine Access Interface is §elocked§r and machines cannot be added or removed.%n%nNote that each machine will still draw the full voltage required for the recipe, which may be more than a single §aEnergy Input Hatch§r can provide. This is why the §6Processing Array§r has an astounding Hatch limit, and can support up to §e4 Energy Inputs§r on the structure. This allows you to get the needed 16 Amps of power to the machine from a single tier-appropriate §3CEF§r.%n%nProcessing Arrays distribute their buffered power at the appropriate voltage, so there's no danger of your machines exploding if you, for example, operate 16 HV machines off one amp of IV power.%n%nBecause the required number of Inputs, Outputs, and Casings is highly variable, this quest only asks you to craft the §6Processing Array Controller§r and the §aMachine Access Interface§r. Make sure your buses and hatches are large enough to hold the ingredients and outputs for the number of parallel crafts you're attempting, and that you're providing enough power for all those machines!%n%nAn advanced feature of the Processing Array is §eDistinct Bus Mode§r. This makes the Processing Array only consider a single item input bus at a time when determining whether it can run a recipe. This is useful when recipes for a particular machine require different catalyst items, like §6Integrated Circuits§r on different configurations or §6Extruder Shapes§r.%n%nDistinct Bus Mode may be enabled or disabled via the Processing Array controller by clicking in the designated area.%n%n
-nomifactory.quest.db.790.desc=The §6Processing Array§r is a §bGregTech§r multiblock that allows for processing multiple recipes in parallel in a single stucture and is extremely useful for saving space.%n%nUp to 16 of the same recipe can be processed in parallel by placing the machines for the recipe in exactly one §aMachine Access Interface§r in the multiblock structure, as well as the ingredients and non-consumable items (like §6Integrated Circuits§r) for the recipe you want to process in one or more input buses. While a recipe is running, the Machine Access Interface is §elocked§r and machines cannot be added or removed.%n%nNote that each machine will still draw the full voltage required for the recipe, which may be more than a single §aEnergy Input Hatch§r can provide. This is why the §6Processing Array§r has an astounding Hatch limit, and can support up to §e4 Energy Inputs§r on the structure. This allows you to get the needed 16 Amps of power to the machine from a single tier-appropriate §3CEF§r.%n%nProcessing Arrays distribute their buffered power at the appropriate voltage, so there's no danger of your machines exploding if you, for example, operate 16 HV machines off one amp of IV power.%n%nBecause the required number of Inputs, Outputs, and Casings is highly variable, this quest only asks you to craft the §6Processing Array Controller§r and the §aMachine Access Interface§r. Make sure your buses and hatches are large enough to hold the ingredients and outputs for the number of parallel crafts you're attempting, and that you're providing enough power for all those machines!%n%nAn advanced feature of the Processing Array is §eDistinct Bus Mode§r. This makes the Processing Array only consider a single item input bus at a time when determining whether it can run a recipe. This is useful when recipes for a particular machine require different catalyst items, like §6Integrated Circuits§r on different configurations or §6Extruder Shapes§r.%n%nDistinct Bus Mode may be enabled or disabled via the Processing Array controller by clicking in the designated area.%n%n
+nomifactory.quest.db.790.desc=§6处理阵列§r是一个§b格雷科技§r多方块结构，允许在一个结构中并行处理多个配方，对节省空间非常有用。%n%n通过在多方块结构中准确地将配方的机器放在一个§a机器访问接口§r中，以及将你要处理的配方的成分和非消耗品(如§6集成电路§r)放在一个或多个输入总线中，可以并行处理多达16个相同的配方。当配方运行时，机器访问界面被锁定，机器不能被添加或删除。%n%n请注意，每台机器仍然会消耗配方所需的全部电压，这可能超过了单个§a能源仓§r所能提供的。这就是为什么§6处理阵列§r有一个惊人的仓极限，可以在结构上支持多达§e4个能源仓§r。这允许您从适当级别的§3能量转换器§r获得机器所需的16A能量。%n%n处理阵列在适当的电压下分配它们的缓冲能量，因此，如果你用1A的IV能量运作16个HV机器，就不会有机器爆炸的危险。%n%n由于所需的输入、输出和外壳的数量变化很大，这个任务只要求你制作§6处理阵列控制器§r和§a机器访问接口§r。确保你的总线和仓足够大，以容纳你所尝试的并行制作数量的原料和产出，并且你为所有这些机器提供足够的动力！%n%n处理阵列的一个高级功能是§e总线隔离模式§r。这使得处理阵列在确定它是否能运行一个配方时，一次只考虑一个物品的输入总线。当某一机器的配方需要不同的催化物品时，这是非常有用的，比如不同配置的§6集成电路§r或§6压模器模板§r。%n%n总线隔离模式可以通过处理阵列控制器在指定区域点击来启用或禁用。
 
 # db 791
 #nomifactory.quest.db.791.title=Dynamite
@@ -3610,7 +3610,7 @@ nomifactory.quest.db.793.desc=Hidden placeholder OR quest
 
 # db 794
 #nomifactory.quest.db.794.title=Advanced System-on-Chip
-nomifactory.quest.db.794.title=先进片上系统
+nomifactory.quest.db.794.title=高级片上系统
 #nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
 nomifactory.quest.db.794.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) is the §2penultimate§r component miniaturization. These unlock the most efficient recipe for producing §2Nanocircuits and §6Quantum Circuits§r.%n%nThe latter circuits must be made in a §aZPM Assembling Machine§r.
 
@@ -3666,7 +3666,7 @@ nomifactory.quest.db.802.desc=无论你(或你的服务器管理员)是否选择
 #nomifactory.quest.db.803.title=Assembly Line Automation
 nomifactory.quest.db.803.title=装配线自动化
 #nomifactory.quest.db.803.desc=The §a§r§3Assembly Line§r is a particularly unusual multiblock from an automation standpoint. Up until now, it has been possible to dump ingredients into a single input bus. Clearly, this won't work for the Assembly line, since it has a whole bunch of ULV inputs buses that hold one item stack each.%n%nYou might be tempted to dump everything into a chest and route items around to specific buses with §aItem Conduits§r. You'll probably find this to be slow, prone to jamming, and inflexible when you want to run different recipes.%n%nIf you've unlocked §3§3The Empowerer§r§r, you might have considered §aPhantomfaces§r. These would certainly be an improvement over item conduits, but there's an even better solution.%n%nEnter §aItem Laser Relays§r§r: these handy tools from §bActually Additions§r allow you to create a virtual inventory out of multiple real ones; that is, you can use them to make other automation think that all of the input buses are the same inventory.%n%n§eOne important thing to note is that lasers appear to be "placed" on a particular block but they will interact with all adjacent (non-laser) blocks.§r Take this into account when placing them.%n%nTo start, place a laser on each of the input buses. Then, place the §a§aItem Interface§r adjacent to the laser on the first input bus. This will serve as the access point to the virtual inventory where you can connect things like an §3Unpackager§r or §aME Interface§r.%n%nTake your §aLaser Wrench§r and right click the first laser relay, then the second laser relay, to link them together. Repeat this with the second and third relays, third and fourth relays, etc. until they have all been linked together. Now you have a laser network virtualizing all of the input buses!%n%n§cWarning: be careful not to place a second laser on a laser network adjacent to the network's Item Interface. This will immediately crash your game because it creates a cycle in the network. You will have to either restore from backup or edit the level.dat directly to remove the block to play again.§r%n%nIf you need to do recipes with an §6§6Integrated Circuit§r, you can leave it in an input bus and skip placing a laser there. Remember to always use §eBlocking Mode§r when connecting the laser network to on-demand crafting. As long as you do, you can have §edifferent circuits in the Assembly Line without recipe conflicts§r. If you don't use Blocking Mode, you are likely to accidentally craft something else and jam your Assembly Line.
-nomifactory.quest.db.803.desc=The §a§r§3Assembly Line§r is a particularly unusual multiblock from an automation standpoint. Up until now, it has been possible to dump ingredients into a single input bus. Clearly, this won't work for the Assembly line, since it has a whole bunch of ULV inputs buses that hold one item stack each.%n%nYou might be tempted to dump everything into a chest and route items around to specific buses with §aItem Conduits§r. You'll probably find this to be slow, prone to jamming, and inflexible when you want to run different recipes.%n%nIf you've unlocked §3§3The Empowerer§r§r, you might have considered §aPhantomfaces§r. These would certainly be an improvement over item conduits, but there's an even better solution.%n%nEnter §aItem Laser Relays§r§r: these handy tools from §bActually Additions§r allow you to create a virtual inventory out of multiple real ones; that is, you can use them to make other automation think that all of the input buses are the same inventory.%n%n§eOne important thing to note is that lasers appear to be "placed" on a particular block but they will interact with all adjacent (non-laser) blocks.§r Take this into account when placing them.%n%nTo start, place a laser on each of the input buses. Then, place the §a§aItem Interface§r adjacent to the laser on the first input bus. This will serve as the access point to the virtual inventory where you can connect things like an §3Unpackager§r or §aME Interface§r.%n%nTake your §aLaser Wrench§r and right click the first laser relay, then the second laser relay, to link them together. Repeat this with the second and third relays, third and fourth relays, etc. until they have all been linked together. Now you have a laser network virtualizing all of the input buses!%n%n§cWarning: be careful not to place a second laser on a laser network adjacent to the network's Item Interface. This will immediately crash your game because it creates a cycle in the network. You will have to either restore from backup or edit the level.dat directly to remove the block to play again.§r%n%nIf you need to do recipes with an §6§6Integrated Circuit§r, you can leave it in an input bus and skip placing a laser there. Remember to always use §eBlocking Mode§r when connecting the laser network to on-demand crafting. As long as you do, you can have §edifferent circuits in the Assembly Line without recipe conflicts§r. If you don't use Blocking Mode, you are likely to accidentally craft something else and jam your Assembly Line.
+nomifactory.quest.db.803.desc=从自动化的角度来看，§3装配线§r是一个特别不寻常的多方块结构。到目前为止，已经可以将原料分批输入到一个单一的输入总线上。显然，这对装配线来说是行不通的，因为它有一大堆ULV输入总线，每个总线都有一个物品槽位。%n%n你可能会想把所有东西都倒进箱子里，然后用§a物品导管§r把物品送到特定的总线上。你可能会发现这很慢，容易卡住，而且当你想运行不同的配方时不灵活。%n%n如果你已经解锁了§3充能台§r§r，你可能已经考虑过§a幻灵接口§r。这些当然是对物品导管的改进，但还有一个更好的解决方案。%n%n加入§a物品激光中继器§r: 这些来自§b实用拓展§r的方便工具允许你从多个真实库存中创建一个虚拟库存；也就是说，你可以用它们来使其他自动化认为所有的输入总线都是相同的库存。%n%n§e需要注意的一件事是，激光似乎被“放置”在一个特定的方块上，但它们会与所有相邻的(非激光)方块相互作用。§r放置时要考虑到这一点。%n%n首先，在每个输入总线上放置一个物品激光中继器。然后，将§a物品传输接口§r放在第一条输入总线上的中继器旁边。这将作为虚拟库存的接入点，在那里你可以连接一些东西，如§3解包机§r或§aME接口§r。%n%n拿着你的§a中继器扳手§r，右击第一个激光中继器，然后是第二个激光中继器，把它们连接起来。在第二个和第三个中继器、第三个和第四个中继器上重复这一步骤，等等。直到它们都被连接在一起。现在，你有了一个虚拟了所有输入总线的激光网络！%n%n§c警告: 注意不要将第二个激光中继器放在激光网络上，与该网络的物品传输接口相邻。这将立即使你的游戏崩溃，因为它在网络中创造了一个循环。你必须从备份中恢复，或者直接编辑level.dat，以删除该方块，重新游玩。§r%n%n如果你需要用一个§6集成电路§r做配方，你可以把它留在输入总线上，跳过在那里放置一个中继器。记住在将激光网络连接到按需制作时，一定要使用§e阻挡模式§r。只要你这样做，你就可以§e在装配线上有不同的电路，而不会出现配方冲突§r。如果你不使用阻挡模式，你很可能会意外地制作其他东西，并干扰你的装配线。
 
 # db 804
 #nomifactory.quest.db.804.title=Genesis
@@ -3874,15 +3874,15 @@ nomifactory.quest.db.837.desc=§2片上系统可以用HV能量和荧石掺杂的
 
 # db 838
 #nomifactory.quest.db.838.title=§2Crystal Growing
-nomifactory.quest.db.838.title=§2晶体生长
+nomifactory.quest.db.838.title=§2晶体培养
 #nomifactory.quest.db.838.desc=§2Your first few Raw Crystal Chips must be grown in an Autoclave from liquid Enderium, or more efficiently with Europium, and Exquisite Emeralds or Exquisite Olivine.%n%nAfter the first few, you can smash them into pieces using a Forge Hammer, and duplicate them with Bacterial Sludge, Mutagen, or more Europium or Enderium.%n%nBacterial Sludge can later be obtained in the byproducts of getting Stem Cells.
-nomifactory.quest.db.838.desc=§2Your first few Raw Crystal Chips must be grown in an Autoclave from liquid Enderium, or more efficiently with Europium, and Exquisite Emeralds or Exquisite Olivine.%n%nAfter the first few, you can smash them into pieces using a Forge Hammer, and duplicate them with Bacterial Sludge, Mutagen, or more Europium or Enderium.%n%nBacterial Sludge can later be obtained in the byproducts of getting Stem Cells.
+nomifactory.quest.db.838.desc=§2你的前几个晶体芯片原料必须在高压釜中从液态的末影中培育出来，或者用铕和精致的绿宝石或精致的橄榄石更有效。%n%n在最初的几个之后，你可以用锻造锤将它们砸成碎片，并用菌泥、诱变剂或更多的铕或末影复制它们。%n%n菌泥后来可以在获得干细胞的副产物中得到。
 
 # db 839
 #nomifactory.quest.db.839.title=§2Advanced Processing Array
-nomifactory.quest.db.839.title=§2高级处理阵列
+nomifactory.quest.db.839.title=§2进阶处理阵列
 #nomifactory.quest.db.839.desc=§2The Advanced Processing Array can handle up to 64 parallel recipes at once.%n%nYou may need some 4A or 16A Energy Hatches to keep up with its power draw.
-nomifactory.quest.db.839.desc=§2The Advanced Processing Array can handle up to 64 parallel recipes at once.%n%nYou may need some 4A or 16A Energy Hatches to keep up with its power draw.
+nomifactory.quest.db.839.desc=§2进阶处理阵列可以同时处理多达64个并行配方。%n%n你可能需要一些4A或16A的能源仓来跟上它的耗电量。
 
 # db 840
 #nomifactory.quest.db.840.title=High Speed Steel Type E
@@ -3894,7 +3894,7 @@ nomifactory.quest.db.840.desc=通过在你的高速钢-G中加入一些钴、锰
 #nomifactory.quest.db.841.title=§2Neuro Processing Unit
 nomifactory.quest.db.841.title=§2神经处理单元
 #nomifactory.quest.db.841.desc=§2Use the Stem Cells and more advanced materials to build a Neuro Processing Unit. This is used in the first Wetware Circuit.
-nomifactory.quest.db.841.desc=§2Use the Stem Cells and more advanced materials to build a Neuro Processing Unit. This is used in the first Wetware Circuit.
+nomifactory.quest.db.841.desc=§2使用干细胞和更先进的材料来制造一个神经处理单元。这是在第一个湿件电路中使用的。
 
 # db 842
 #nomifactory.quest.db.842.title=§2Naquadah Processing
@@ -3960,7 +3960,7 @@ nomifactory.quest.db.851.desc=你可以从核电工艺进展中获得镅，但�
 #nomifactory.quest.db.852.title=§2Ruridit
 nomifactory.quest.db.852.title=§2钌铱合金
 #nomifactory.quest.db.852.desc=§2Ruridit is a Ruthenium-Iridium alloy used in LuV machine components.
-nomifactory.quest.db.852.desc=§2Ruridit is a Ruthenium-Iridium alloy used in LuV machine components.
+nomifactory.quest.db.852.desc=§2钌铱合金是一种用于LuV机器部件的合金。
 
 # db 853
 #nomifactory.quest.db.853.title=§2Tritanium Coils
@@ -3982,7 +3982,7 @@ nomifactory.quest.db.855.desc=§2For making Wetware Circuits more easily. You ne
 
 # db 856
 #nomifactory.quest.db.856.title=§2Advanced Alloys
-nomifactory.quest.db.856.title=§2先进合金
+nomifactory.quest.db.856.title=§2先进的合金
 #nomifactory.quest.db.856.desc=§2Used in building the Alloy Blast Smelter. %n%n§r§6Tantalum§r is obtained from §6Tantalite Ore§r, or in small quantities from centrifuging §eLava§r.%n%n§6Molybdenum§r is obtained from §6Molybdenum, Molybdenite, Powellite, and Wulfenite ores§r. They spawn together in the §eNether§r rarely, or some of them come from §3Tier One§r and §3Five Micro Miners§r.%n%n§2Remember, you need an appropriately tiered Mixer (HV for HSLA Steel, and EV for the others).
 nomifactory.quest.db.856.desc=§2用于制作合金冶炼炉。%n%n§6钽§r是从§6钽铁矿§r中获得的，或从离心§e熔岩§r中获得少量的钽。%n%n§6钼§r从§6钼、辉钼矿、钼钙矿和钼铅矿矿石§r获得。它们很少在§e地狱§r中一起生成，或者其中一些来自§3一级§r和§3五级微型采掘机§r。%n%n§2请记住，你需要一个适当分级的搅拌机(HV用于HSLA钢，EV用于其他)。
 
@@ -4128,7 +4128,7 @@ nomifactory.quest.db.879.desc=§2可配置为输出任何数量的格雷科技�
 #nomifactory.quest.db.880.title=§2Polyphenylene Sulfide
 nomifactory.quest.db.880.title=§2聚苯硫醚
 #nomifactory.quest.db.880.desc=§2Thin Polyphenylene Sulfide Sheets are required for wrapping LuV+ cables.
-nomifactory.quest.db.880.desc=§2Thin Polyphenylene Sulfide Sheets are required for wrapping LuV+ cables.
+nomifactory.quest.db.880.desc=§2包裹LuV+导线需要薄聚苯硫醚片。
 
 # db 881 (MISSING)
 #nomifactory.quest.db.881.title="Enderium Ingot" or "Europium Ingot"
@@ -4172,11 +4172,11 @@ nomifactory.quest.db.887.title=§2汽油
 #nomifactory.quest.db.887.desc=§2Gasoline is a powerful combustion fuel, generating 1600 EU per mB of fluid. It can also be substituted for Nitro Diesel in Draconium production.%n%nGasoline is made of:%n- 16 parts Naphtha%n- 2 parts Refinery Gas%n- 1 part Toluene%n- 1 part Methanol%n- 1 part Acetone%n%nTo get the most out of this, run it in an Extreme Combustion Engine with Liquid Oxygen.
 nomifactory.quest.db.887.desc=§2汽油是一种强大的燃烧燃料，每mB流体产生1600EU。它也可以代替高十六烷值柴油用于龙素生产。%n%n汽油是由以下制成:%n- 16份石脑油%n- 2份炼油气%n- 1份甲烷%n- 1份甲醇%n- 1份丙酮%n%n为了最大限度地发挥它的作用，在有液氧的高级大型柴油引擎中运行它。
 
-# db 888 (MISSING)
+# db 888
 #nomifactory.quest.db.888.title=Platinum Group Processing
-nomifactory.quest.db.888.title=Platinum Group Processing
+nomifactory.quest.db.888.title=铂系处理
 #nomifactory.quest.db.888.desc=No Description
-nomifactory.quest.db.888.desc=No Description
+nomifactory.quest.db.888.desc=没有描述
 
 # db 889
 #nomifactory.quest.db.889.title=§2GT Power Management
@@ -4266,13 +4266,13 @@ nomifactory.quest.db.902.desc=§2线圈配方在社区版：非官方版中比�
 #nomifactory.quest.db.903.title=§2Bacterial Sludge
 nomifactory.quest.db.903.title=§2菌泥
 #nomifactory.quest.db.903.desc=§2Bacterial Sludge will be used in the Crystal and Wetware processes.%n%nPlant matter in Plant Ball can be broken down to Bio Chaff, and broken down to Bacteria. Then, combine it with your Biomass to get Bacterial Sludge.%n%nYou will also get a bit back from growing Stem Cells later.
-nomifactory.quest.db.903.desc=§2Bacterial Sludge will be used in the Crystal and Wetware processes.%n%nPlant matter in Plant Ball can be broken down to Bio Chaff, and broken down to Bacteria. Then, combine it with your Biomass to get Bacterial Sludge.%n%nYou will also get a bit back from growing Stem Cells later.
+nomifactory.quest.db.903.desc=§2菌泥将被用于晶体和湿件处理。%n%n植物球中的植物物质可以被分解为生物糠，并被分解为细菌。然后，将其与你的生物质结合，得到菌泥。%n%n你以后也会从培养干细胞中得到一点回报。
 
 # db 904
 #nomifactory.quest.db.904.title=§2Mutagen
 nomifactory.quest.db.904.title=§2诱变剂
 #nomifactory.quest.db.904.desc=§2Use Uranium-238 or more efficiently, Uranium-235 to enrich Bacterial Sludge, and distill it to Mutagen. Later, you can use Naquadria to double your Enriched Bacterial Sludge yield.%n%nMutagen is used in Growth Medium production.
-nomifactory.quest.db.904.desc=§2Use Uranium-238 or more efficiently, Uranium-235 to enrich Bacterial Sludge, and distill it to Mutagen. Later, you can use Naquadria to double your Enriched Bacterial Sludge yield.%n%nMutagen is used in Growth Medium production.
+nomifactory.quest.db.904.desc=§2使用铀-238或更有效的铀-235来浓缩菌泥，并将其蒸馏成诱变剂。后来，你可以使用硅岩来加倍你浓缩菌泥的产量。%n%n诱变剂被用于培养基的生产。
 
 # db 905
 #nomifactory.quest.db.905.title=§2Large Circuit Assembler
@@ -4302,7 +4302,7 @@ nomifactory.quest.db.908.desc=粘土粉和砖粉的混合物产生大量的§6�
 #nomifactory.quest.db.909.title=§2Rhodium Plated Lumium-Palladium
 nomifactory.quest.db.909.title=§2镀铑钯金
 #nomifactory.quest.db.909.desc=§2Rhodium Plated Lumium-Palladium is a mixture of Rhodium, Lumium and Palladium. It forms the basis of LuV Machine Hulls.
-nomifactory.quest.db.909.desc=§2Rhodium Plated Lumium-Palladium is a mixture of Rhodium, Lumium and Palladium. It forms the basis of LuV Machine Hulls.
+nomifactory.quest.db.909.desc=§2镀铑钯金是铑、流明和钯的混合物。它构成了LuV机械方块的基础。
 
 # db 910
 #nomifactory.quest.db.910.title=LV Battery Buffer
